@@ -1,0 +1,4 @@
+LEXICON Adjective
+ nuorra:nuori a ;
+ bastil:terävä a ;
+ 

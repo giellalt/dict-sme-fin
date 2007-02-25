@@ -1,0 +1,4 @@
+LEXICON Noun
+ muorra:puu n ;
+ biila:auto n ;
+ 

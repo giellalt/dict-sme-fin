@@ -1,0 +1,6 @@
+LEXICON Conjunction
+
+ja  cc ;
+ja/dahje:ja/tai cc ;
+ele:eli cc ;
+vai cc ;

@@ -1,0 +1,13 @@
+LEXICON Subjunction
+ahte:että	cs ;
+aht:et	cs ;
+danin:koska	cs ;
+dego:kuten	cs ;
+go:kuin	cs ;
+jus:jos	cs ;
+muhte:mutta	cs ;
+nugo:kuten	cs ;
+vai	cs ;
+vaikke:vaikka	cs ;
+vaikko:vaikka	cs ;
+ovdal% go:ennen% kuin cs ;

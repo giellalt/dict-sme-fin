@@ -1,0 +1,182 @@
+Multichar_Symbols
+
+ +A +ABBR +ACR +Abe +Abl +Acc +Actio +Actor +Adp +Adv +All +Attr
+ +CC +CLB +CS +Card +Clt +Cmpnd +Cmpnd+ +Com +Comp +ConNeg +Cond 
+ +Dem 
+ +Der/Dimin +Der/Pass +Der/adda +Der/ahtti +Der/alla +Der/amoš +Der/asti 
+ +Der/d +Der/eaddji +Der/eamoš +Der/eapmi +Der/easti +Der/geahtes 
+ +Der/gielat +Der/goahti +Der/h +Der/halla +Der/heapmi +Der/huhtti 
+ +Der/huvva +Der/j +Der/jagáš +Der/l +Der/las +Der/laš +Der/lágan 
+ +Der/lágaš +Der/lágán +Der/lágáš +Der/meahttun +Der/muš +Der/n +Der/st 
+ +Der/stuvva +Der/supmi +Der/t +Der/upmi +Der/vuohta 
+ +Der1 +Der2 +Der2+Der/Pass +Der3 
+ +Du +Du1 +Du2 +Du3 
+ +Ela +Ess 
+ +Foc/ba +Foc/bat +Foc/be +Foc/ge +Foc/gen +Foc/ges +Foc/gis 
+ +Foc/hal +Foc/han +Foc/naj +Foc/naj+Qst +Foc/son 
+ +Gen +Ger +Guess 
+ +IV +Ill +Imprt +ImprtII +Ind +Indef +Ine +Inf +Inf3 +Ins +Interj +Interr 
+ +LEFT +Loc 
+ +N +Neg +Nom +Num +Ord +PUNCT +Par +Pass +Pcle +Pers +Pl 
+ +Pl1 +Pl2 +Pl3 +PlGenCmp +Po +Pot +Pr +PrfPrc +Pron +Prop +Prs +PrsPrc +Prt
+ +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3 +PxSg1 +PxSg2 +PxSg3 
+ +Qst +Qst+Foc/son +RIGHT +Recipr +Refl +Rel 
+ +Sg +Sg1 +Sg2 +Sg3 +SgCmp +SgGenCmp +SgNomCmp +ShCmp +Sup +Superl 
+ +TV +Tra +V +VAbess +VGen 
+ 
+LEXICON Root
+
+ Noun ;				  
+ Adjective ;	      
+ Verb ;			       
+ Negativeverb ;		      
+ Adverb ;			       	
+ Particle ;		      
+ Subjunction ;		      
+ Conjunction ;		      
+ Adposition ;		      
+ Interjection ;		      
+ Pronoun ;			      
+ Numeral ;
+! Acronym ;			      
+! Abbreviation ;		      
+! Punctuation ;		      
+
+LEXICON n
+ +N  na ;
+ 
+LEXICON a
+ +A+Attr:+A+Sg+Nom # ;
+ +A      na ;
+ 
+LEXICON na 
+ +Sg+Nom			 px ;
+ +Sg+Acc			 px ;
+ +Sg+Gen			 px ;
+ +Sg+Ill			 px ;
+ +Sg+Loc:+Sg+Ine     px ;
+ +Sg+Loc:+Sg+Ela     px ; 
+ +Sg+Com			 px ;
+ +Ess:+Sg+Tra		 px ;
+ +Sg+Nom			 px ;
+ +Sg+Acc			 px ;
+ +Sg+Gen			 px ;
+ +Sg+Ill			 px ;
+ +Sg+Loc:Sg+Ine px ;
+ +Sg+Loc:Sg+Ela px ; 
+ +Sg+Com			 px ;
+
+LEXICON px
+	     K ;
+ +PxSg1  K ;
+ +PxDu1:+PxPl1  K ;
+ +PxPl1  K ;
+ +PxSg2  K ;
+ +PxDu2:+PxPl2  K ;
+ +PxPl2  K ;
+ +PxSg3  K ;
+ +PxDu3:+PxPl3  K ;
+ +PxPl3  K ;
+
+LEXICON K
+       # ;
+! +Clt: # ;
+! +Foc: # ;
+! +Qst: # ;
+
+LEXICON v
+ +V+Inf                    #  ;
+ +V+Actio:+V+Inf3	       #  ;
+ +V+Actio+Loc:+V+Inf3+Ine  #  ;
+ +V+Actio+Loc:+V+Inf3+Ade  #  ;
+ +V+Actio+Ess:+V+Inf3+Tra  #  ;
+ +V+PrfPrc	     #  ;
+ +V+PrsPrc	     #  ;
+ +V                mod ;
+
+LEXICON Negativeverb
+ ii+V+Neg:ij+V+Neg+Prs mod ;
+ ii+V+Neg:ij+V+Neg+Prt mod ; 
+                 
+LEXICON mod                 
+ +Ind+Prs      pn ;
+ +Ind+Prt      pn ;
+ +Imprt        pn ;
+ +Cond+Prs     pn ;
+ +Pot+Prs      pn ;
+
+
+ 
+LEXICON pn
+ +Sg1  K ;
+ +Sg2  K ;
+ +Sg3  K ;
+ +Sg3  K ;
+ +Du1:+Pl1  K ;
+ +Du2:+Pl2  K ;
+ +Du3:+Pl3  K ;
+ +Pl1  K ;
+ +Pl2  K ;
+ +Pl3  K ;
+ +Pl3  K ;
+
+LEXICON pers1
+ +Pron+Pers+Sg1 # ;
+ +Pron+Pers+Du1:+Pron+Pers+Pl1 # ;
+ +Pron+Pers+Pl1 # ;
+
+LEXICON pers2
+ +Pron+Pers+Sg2 # ;
+ +Pron+Pers+Du2:+Pron+Pers+Pl2 # ;
+ +Pron+Pers+Pl2 # ;
+
+LEXICON pers3
+ +Pron+Pers+Sg3 # ;
+ +Pron+Pers+Du3:+Pron+Pers+Pl3 # ;
+ +Pron+Pers+Pl3 # ;
+
+
+LEXICON adv
+ +Adv # ;
+ 
+LEXICON cs 
+ +CS # ;
+ 
+LEXICON cc
+ +CC # ;
+ 
+LEXICON adp
+ +Adp # ;
+ 
+LEXICON postp
+ +Po # ;
+ 
+LEXICON prep
+ +Pr # ;
+ 
+LEXICON pcle
+ +Pcle # ; 
+ 
+LEXICON interj
+ +Interj # ;
+ 
+LEXICON num
+ +Num+Sg+Nom # ;
+ +Num+Sg+Gen # ;
+ +Num+Sg+Acc # ;
+ +Num+Sg+Ill # ;
+ +Num+Sg+Loc # ;
+ +Num+Sg+Loc # ;
+ +Num+Sg+Com # ;
+ +Num+Ess	 # ;
+ +Num+Pl+Nom # ;
+ +Num+Pl+Gen # ;
+ +Num+Pl+Acc # ;
+ +Num+Pl+Ill # ;
+ +Num+Pl+Loc # ;
+ +Num+Pl+Loc # ;
+ +Num+Pl+Com # ;
+
+
+ 
+ 

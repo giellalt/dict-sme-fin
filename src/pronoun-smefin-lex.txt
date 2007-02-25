@@ -1,0 +1,6 @@
+LEXICON Pronoun
+
+mun:minä pers1 ;
+don:sinä pers2 ;
+son:hän pers3 ;
+

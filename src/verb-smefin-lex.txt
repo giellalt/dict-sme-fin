@@ -1,0 +1,5 @@
+LEXICON Verb
+ leat:olla v ;
+ bassat:pestä v ;
+ dupliseret:kaksinkertaistaa v ;
+ 

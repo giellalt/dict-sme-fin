@@ -1,0 +1,18 @@
+LEXICON Interjection
+
+a-a:ehei interj ;
+aameen interj ;
+amen:aameen interj ;
+geah:kato interj ;
+he-hei interj ;
+hehe interj ;
+heheee interj ;
+hehehe interj ;
+hei interj ;
+oh interj ;
+oho interj ;
+ohoi interj ;
+puh interj ;
+uh interj ;
+uhm interj ;
+voi interj ;

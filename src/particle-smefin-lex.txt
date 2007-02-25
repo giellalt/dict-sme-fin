@@ -1,0 +1,3 @@
+LEXICON Particle
+ ai pcle ;
+ gal:kai   pcle ;

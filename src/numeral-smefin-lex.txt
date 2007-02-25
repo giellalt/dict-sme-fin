@@ -1,0 +1,13 @@
+LEXICON Numeral
+okta:yksi		 num ;
+guokte:kaksi	 num ;
+golbma:kolme	 num ;
+njeallje:neljä num ;
+vihtta:viisi			 num ;
+guhtta:kuusi			 num ;
+čieža:seitsemän	 num ;
+gávcci:kahdeksan	 num ;
+ovcci:yhdeksän		 num ;
+logi:kymmenen        num ;
+
+                          
