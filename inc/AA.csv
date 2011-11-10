@@ -139,7 +139,8 @@ buohcat_V_sairastaa
 buohcceviessu_N_sairaala
 buohcci_N_potilas
 buohkat_Indef_kaikki (ihmisistä)
-buoidi_N_lihava; (subst.) kiinteä rasva, läski
+buoidi_A_lihava
+buoidi_N_kiinteä rasva, läski
 buolaš_A_pakkanen
 buollit_V_palaa
 buorre_A_hyvä
@@ -575,7 +576,7 @@ kilo_N_kilo
 kilobealle_N_puoli kiloa
 kursa_N_kurssi
 lađas_N_nivel
-lahka_Adv_lähellä
+lahka_Po_lähellä
 lahkonit_V_lähestyä
 lasi_N_lisää
 lasihit_V_lisätä
@@ -641,7 +642,7 @@ makkár_Interr_millainen
 manin_Adv_miksi
 mannan_A_viime (ajan ilmauksissa) OBS A ikke i fst
 mannat_V_mennä
-maŋimus_Adv_viimeinen OBS A+Superl 
+maŋimus_A+Superl_viimeinen OBS A+Superl 
 maŋis_Po_perässä (takanapäin), -stä
 maŋŋá_Po_jälkeen
 maŋŋá_Adv_myöhemmin OBS ikke i fst
