@@ -96,7 +96,7 @@ beanna_N_kynä
 beannot_Num_puolitoista
 beaŋka_N_penkki
 bearaš_N_perhe
-bearjadat_A_perjantai
+bearjadat_N_perjantai
 beassat_V_päästä
 beassi_N_tuohi
 beavdi_N_pöytä
@@ -105,13 +105,13 @@ bensiidna_N_bensiini
 beroštit_V_välittää
 bidjat_V_laittaa, panna
 biđget_V_rikkoa, hajottaa
-biđus_N_poronkäristys HMM
+biđus_N_poronkäristys OBS riktig tr?
 biebmu_N_ruoka
 biellu_N_(soiva) kello
 biergu_N_liha
 bihttá_N_pala, palanen
 Biret–Iŋgá_Prop_naisen nimi
-birra_N_ympäri(-llä,-ltä); jstak asiasta, jtak koskien
+birra_Po_ympäri(-llä,-ltä); jstak asiasta, jtak koskien
 bivttas_N_vaate
 bivval_A_lauha
 boađus_N_tulos
@@ -143,8 +143,8 @@ buoidi_N_lihava; (subst.) kiinteä rasva, läski
 buolaš_A_pakkanen
 buollit_V_palaa
 buorre_A_hyvä
-buot_V_kaikki; (superlatiivin yhteydessä) kaikkein
-buozus_A_sairaana
+buot_Adv_kaikki; (superlatiivin yhteydessä) kaikkein
+buozus_A_sairaana OBS ikke i fst
 bures_Adv_hyvin
 bures boahtin_MWE_tervetuloa
 busir_N_pusero
@@ -162,7 +162,7 @@ cuoppu_N_sammakko
 čaibmat_V_nauraa
 čakča_N_syksy
 čakčamánnu_N_syyskuu
-čakčat_V_syksyllä; syksyisin
+čakčat_Adv_syksyllä; syksyisin
 čalbmi_N_silmä
 čatnat_V_sitoa
 čábbát_Adv_kauniisti
@@ -235,12 +235,12 @@ dálkkas_N_lääke
 dállu_N_talo
 dálostallat_V_asua, pitää taloa
 dáŋket_V_tankata
-dáppe_N_täällä
+dáppe_Adv_täällä
 dárbbašit_V_tarvita
 dárkilit_Adv_tarkasti
 dát_Dem_tämä
 dávda_N_tauti
-dávjá_A_usein
+dávjá_Adv_usein
 dávvir_N_tavara
 Dáža_prop_Norja
 dáža_N_norjalainen (ihminen)
@@ -316,11 +316,11 @@ ealli_N_eläin
 eallit_V_elää
 eallu_N_(poro)elo, tokka
 eambbo_Adv_enemmän
-eamit_V_vaimo
+eamit_N_vaimo
 eana_N_maa (ei valtio)
 eanu_N_eno
 eará_Indef_muu
-easkká_A_äskeinen (vain attrib.)
+easkká_Adv_äskeinen (vain attrib.) OBS ikke i fst
 ehtemas_N_juolukka
 erenomáš_A_erityinen
 eret_Adv_pois
@@ -331,7 +331,7 @@ fanas_N_vene
 fargga_Adv_kohta, pian; nopeasti
 fas_Adv_taas; puolestaan
 fasti_A_huono (ilma); iljettävä, hyvin ruma
-fálaldat_V_tarjous
+fálaldat_N_tarjous
 fális_N_valas
 fállat_V_tarjota
 fápmu_N_voima
@@ -363,7 +363,7 @@ garvit_V_kiertää
 gaskavahkku_N_keskiviikko
 gaskii_Po_väliin
 gaskkas_Po_välissä, välistä
-gassat_V_paksu (ei litteistä esineistä)
+gassat_A_paksu (ei litteistä esineistä)
 gavjjat_(pl.)_N_pöly
 gáddi_N_ranta
 gáddit_V_luulla
@@ -381,16 +381,17 @@ gánda_N_poika
 gárdi_N_aitaus, erit. poroaita
 gártat_V_joutua
 gárvvis_A_valmis
-gárži_N_kapea
+gárži_A_kapea
 gáskkestit_V_puraista
 gávccát_A_kahdeksas
 gávcci_Num_kahdeksan
 gávdnat_V_löytää
 gávdnot_V_löytyä
 gávnnit_(pl.)_N_vuodevaatteet
-gávpegas_N_kauppias
+gávpegas_N_kauppias OBS ikke i fst
+gávpejas_N_kauppias
 gávpi_N_kauppa
-gávpot_V_kaupunki
+gávpot_N_kaupunki
 gávppašit_V_käydä kauppaa; käydä ostoksilla
 gázzi_N_seurue; perhekunta; porukka
 geađgi_N_kivi
@@ -440,8 +441,8 @@ gobmi_N_kummitus
 gohppa_N_kuppi
 gohttá_N_leivos, viineri
 goikkis_A_kuiva
-goit_Adv_kuitenkin; ainakin
-goittotge_Adv_kuitenkin; ainakin
+goit_Pcle_kuitenkin; ainakin
+goittotge_Pcle_kuitenkin; ainakin
 gokčat_V_peittää; sulkea (ikkuna, ovi tms.)
 gokko_Adv_missä kohden, missä (täsmälleen)
 golbma_Num_kolme
@@ -520,7 +521,7 @@ ihttin_Adv_huomenna
 ikte_Adv_eilen
 illu_N_ilo
 irgi_N_poikaystävä; sulhanen
-isit_V_aviomies
+isit_N_aviomies
 iskat_V_koettaa (kädellä tms.)
 issoras_A_hirveä, kamala, pelottava
 ivdnái_A_jkun värinen
@@ -551,7 +552,7 @@ joatkit_V_jatkaa
 joavdat_V_päästä perille, ehättää
 johtil_A_nopea
 johtu_N_kulkeminen, liike
-johtui_N_liikkeelle HMM Adv?
+johtui_N_liikkeelle OBS Adv? ikke i fst
 jokŋa_N_puolukka
 jos_CS_jos
 juhkat_V_juoda
@@ -610,21 +611,21 @@ lihtti_N_astia
 liigi_N_liika(a)
 liikebiktasat_(pl.)_N_alusvaatteet
 liiki_N_iho
-liikká_N_(jostain, siitä) huolimatta, siltikin, kuitenkin
+liikká_Adv_(jostain, siitä) huolimatta, siltikin, kuitenkin
 liikot_V_pitää jstak
 liiva_N_liivi
-linis_N_pehmeä
+linis_A_pehmeä
 listu_N_luettelo, lista
 livvadit_V_maata (sorkkaeläimistä yms.)
 loddi_N_lintu
-logát_V_kymmenes
-logi_N_kymmenen
+logát_A_kymmenes
+logi_Num_kymmenen
 lohkat_V_sanoa; lukea; laskea; pitää jnak
 loktet_V_nostaa
 lonuhit_V_vaihtaa (jotain johonkin toiseen)
-lossat_V_raskas, painava
+lossat_A_raskas, painava
 luddet_V_halkaista
-luhtte_N_luona, luota
+luhtte_Po_luona, luota
 luoddut_V_halkoa
 luohkká_N_mäki
 luoikat_V_lainata
@@ -632,30 +633,31 @@ luoitit_V_laskea (alas); laskeutua; päästää (irti)
 luomi_N_hilla, lakka
 luoppal_N_järvi joen varrella
 luossa_N_lohi
-lusa_N_luokse
-maid_N_myös; mitä
-maiddái_N_myös
-maidege_N_[ei] mitään
-makkár_N_millainen
-manin_N_miksi
-mannan_N_viime (ajan ilmauksissa)
+lusa_Po_luokse
+maid_Adv_myös
+maiddái_Adv_myös
+maidege_Indef_[ei] mitään
+makkár_Interr_millainen
+manin_Adv_miksi
+mannan_A_viime (ajan ilmauksissa) OBS A ikke i fst
 mannat_V_mennä
-maŋimus_ # =_N_viimeinen
-maŋis_N_perässä (takanapäin), -stä
-maŋŋá_N_jälkeen; myöhemmin
-maŋŋái_N_perään
+maŋimus_Adv_viimeinen OBS A+Superl 
+maŋis_Po_perässä (takanapäin), -stä
+maŋŋá_Po_jälkeen
+maŋŋá_Adv_myöhemmin OBS ikke i fst
+maŋŋái_Po_perään
 maŋŋebárga_N_tiistai
-maŋŋel_N_jälkeen
-masá_N_melkein, miltei
+maŋŋel_Po_jälkeen
+masá_Adv_melkein, miltei
 mašiidna_N_kone
-Máhtte_N_miehen nimi (Matti)
+Máhtte_Prop_miehen nimi (Matti)
 máhttit_V_osata
 máilbmi_N_maailma
 máksit_V_maksaa
 mánnu_N_kuu; kuukausi
-máŋga_N_monta
-máŋggalágan_N_monelainen
-máŋgii_N_monesti
+máŋga_Num_monta
+máŋggalágan_A_monelainen
+máŋgii_Adv_monesti
 márfi_N_makkara
 margariidna_N_margariini
 mátki_N_matka
@@ -664,63 +666,63 @@ mearka_N_merkki
 mearkut_V_merkitä (merkillä)
 mearra_N_meri
 mearridit_V_määrätä; päättää (tehdä jtak)
-measta_N_melkein
-meattá_N_ohi
-menddo_N_liian
+measta_Adv_melkein
+meattá_Adv_ohi
+menddo_Adv_liian
 miehtat_V_myöntyä
-miehtá_N_pitkin
+miehtá_Po_pitkin
 mieiganstuollu_N_nojatuoli
-mielde_N_mukana, mukaan
+mielde_Po_mukana, mukaan
 miella_N_mieli; tuuli, mieliala
 mielli_N_(jyrkkä) rantatörmä, jokitörmä
 miessemánnu_N_toukokuu
 miessi_N_vasa
-mii_N_mikä
-mii_N_me (ei kahdesta)
-mo_N_miten, kuinka
-moadde_N_muutama
-moai_N_me (kaksi)
+mii_Interr_mikä
+mii_Pers_me (ei kahdesta)
+mo_Adv_miten, kuinka
+moadde_Num_muutama
+moai_Pers_me (kaksi)
 moarsi_N_tyttöystävä; morsian
 moddját_V_hymyillä
 mohkki_N_mutka
 mohtor_N_moottori
 mojohallat_V_hymyillä
 morihit_V_havahtua
-muđui_N_muuten
-muhto_N_mutta
-muhtumin_N_joskus, toisinaan
-muhtun_N_joku
+muđui_Adv_muuten
+muhto_CC_mutta
+muhtumin_Adv_joskus, toisinaan
+muhtun_Indef_joku
 muitalit_V_kertoa
 muitit_V_muistaa
-mun_N_minä
+mun_Pers_minä
 muohtu_N_poski; (monikossa myös:) kasvot
 muorji_N_marja
 muorra_N_puu
 muoŧŧá_N_täti (äidin nuorempi sisar)
-naba_N_entä, entäpä
+naba_Adv_entä, entäpä
 nagadit_V_kyetä, jaksaa
 namma_N_nimi
-nanus_N_luja, kestävä
+nanus_A_luja, kestävä
 nágget_V_inttää, väittää vastaan
 náhkki_N_nahka
-návet_V_navetta
+návet_N_navetta
 nealgut_V_nähdä nälkää, tulla (hyvin) nälkäiseksi
 niehku_N_uni
 nieida_N_tyttö
-nisojáffut_V_vehnäjauhot_(pl.)
+nisojáffut_N_vehnäjauhot_(pl.)
 nisoláibi_N_pulla
 nissut_V_niistää
 nisu_N_nainen
 njammat_V_imeä
 njáhkat_V_hiipiä
 njálbmi_N_suu
-njálggis_N_makeinen
-njálggis_N_hyvänmakuinen
+njálggis_A_makeinen
+njálggis_A_hyvänmakuinen
 njárga_N_niemi
 njávgut_V_naukua
 njávkkadit_V_silittää, silitellä (kädellä)
-njealját_V_neljäs
-njeallje_N_neljä
+njealját_A_neljäs
+njeallje_Num_neljä
 njiedjat_V_laskeutua (rinnettä tms.)
 njoahcudit_V_hidastaa
 njoallut_V_nuolla
@@ -731,22 +733,22 @@ njuiket_V_hypätä
 njuikut_V_hyppiä
 njukčamánnu_N_maaliskuu
 njunni_N_nenä; nenäke (maankohoumassa)
-njuoskkas_N_märkä
+njuoskkas_A_märkä
 njuovčča_N_kieli (‘tongue’)
 njuovvat_V_teurastaa
 nohkastit_V_nukahtaa (äkkiä); nukkua (hetki)
 nohkat_V_kulua; loppua
 nohkkat_V_nukahtaa; (harv.) nukkua
-nu_N_niin
-nubbi_N_toinen
-nugo_N_niin kuin, kuten
+nu_Adv_niin
+nubbi_A_toinen
+nugo_CS_niin kuin, kuten
 nummir_N_numero
 nuolastit_V_riisua (äkkiä, nopeasti tms.)
 nuollat_V_riisua
-nuorra_N_nuori
+nuorra_A_nuori
 nuorvvu_N_nuha
 nuovvebáddi_N_hamppuköysi, -naru
-o_N_oi
+o_Interj_oi OBS ikke i fst
 oabbá_N_sisar
 oađđinlatnja_N_makuuhuone
 oađđit_V_nukkua
@@ -757,62 +759,62 @@ oahpahit_V_opettaa
 oahpis_N_tuttu
 oahppat_V_oppia
 oaidnit_V_nähdä
-oainnat_V_näet (partikkeli)
+oainnat_Adv_näet (partikkeli)
 oaivi_N_pää (’head’)
-oalle_N_varsin, sangen
-oanehaš_N_lyhyt
+oalle_Adv_varsin, sangen
+oanehaš_A_lyhyt
 oapman_N_uuni
 oarpmealle_N_naisserkku
 oastit_V_ostaa
 oažžut_V_saada
 obbalággá_N_umpisuoli
-odne_N_tänään
-ođas_N_uusi
+odne_Adv_tänään
+ođas_A_uusi
 ođđajagimánnu_N_tammikuu
 ohcat_V_etsiä
-Ohcejohka_N_Utsjoki
+Ohcejohka_Prop_Utsjoki
 oidnot_V_näkyä
-ojá_N_vai niin
-okta_N_yksi
-oktii_N_kerran
-oktiibuot_V_yhteensä
-okto_N_yksin
-olgeš_N_oikea (vs. vasen)
-ollege_N_[ei] ollenkaan, lainkaan
+ojá_Interj_vai niin
+okta_Num_yksi
+oktii_Adv_kerran
+oktiibuot_Adv_yhteensä
+okto_Adv_yksin
+olgeš_A_oikea (vs. vasen)
+ollege_Adv_[ei] ollenkaan, lainkaan
 ollesolmmoš_N_aikuinen
-ollis_N_koko(nainen); aikuinen
-ollu_ (+ mNom)_N_paljon
+ollis_A_koko(nainen); aikuinen
+ollu_A_ (+ mNom)_paljon
 olmmoš_N_ihminen
-olus_N_[ei] juurikaan, paljonkaan
-oppa_N_koko (= ‘entire’)
-oránša_N_oranssi
+olus_Indef_[ei] juurikaan, paljonkaan
+oppa_A_koko (= ‘entire’)
+oránša_A_oranssi
 ore_N_ori
 orrunlatnja_N_olohuone
 orrut_V_asua; olla (aloillaan tms.); vaikuttaa joltakin
-ortnet_V_järjestys
+ortnet_N_järjestys
 orustit_V_pysyhtyä
-otne_N_tänään
-ovccát_V_yhdeksäs
-ovcci_N_yhdeksän
-ovdal_N_ennen
-ovdalgo_N_ennen kuin
-ovddas_N_edessä, -stä
-ovddeš_N_entinen
-ovddit_V_edellinen
-ovdii_N_eteen
-rabas_N_avoin
+otne_Adv_tänään
+ovccát_A_yhdeksäs
+ovcci_Num_yhdeksän
+ovdal_Adv_ennen
+ovdalgo_CS_ennen kuin
+ovddas_Po_edessä, edestä
+ovddeš_A_entinen
+ovddit_A+Comp_edellinen
+ovdii_Po_eteen
+rabas_A_avoin
 rahpat_V_avata
-rastá_N_poikki
-rašši_N_arka, (vähän) kipeä
+rastá_Po_poikki
+rašši_A_arka, (vähän) kipeä
 ravda_N_reuna
-rádjai_N_johonkin saakka
-ráfálaš_N_rauhallinen
+rádjai_Po_johonkin saakka
+ráfálaš_A_rauhallinen
 ráfot_V_rauhoittua
 ráhkadit_V_valmistaa, tehdä (jokin esine, ruokaa, tms.)
-ráhkis_N_rakas
+ráhkis_A_rakas
 ráhppa_N_rappu, porras
 ráigi_N_reikä
-ránis_N_harmaa
+ránis_A_harmaa
 ránnjá_N_naapuri
 rássi_N_ruoho, heinä; kukka
 rátnu_N_raanu
@@ -822,34 +824,34 @@ reive_N_kirje
 riegádanbeaivi_N_syntymäpäivä
 riegádit_V_syntyä
 riehpu_N_raukka, parka
-riekta_N_oikein
-rihča_N_kitkerä
+riekta_Adv_oikein
+rihča_A_kitkerä
 riika_N_valtio
-rikkis_N_rikas
+rikkis_A_rikas
 riŋget_V_soittaa (puhelimella)
 rišša_N_tulitikku; rikki
 roggi_N_kuoppa; uoma, jokilaakso
 rohtu_N_lehto; ryteikkö
-ropmi_N_ruma
+ropmi_A_ruma
 rotnu_N_maho vaadin
 ruhta_N_raha
 ruohttat_V_juosta (nelijalkaisista)
-ruoksat_V_punainen
+ruoksat_A_punainen
 ruoksát_V_näkyä, olla punaisena, “punottaa”
 ruoksi_N_tuumi, vedin (utareissa)
-ruoktot_V_kotiin; takaisin
+ruoktot_Adv_kotiin; takaisin
 ruoktu_N_koti
-ruoná_N_vihreä
+ruoná_A_vihreä
 ruovdi_N_rauta
 ruovgat_V_roukua (poron ääntelystä)
-ruovttoluotta_N_takaisin
-ruškat_V_ruskea
+ruovttoluotta_Adv_takaisin
+ruškat_A_ruskea
 ruški_N_ruska
 ruvssodit_V_punastua, tulla punaiseksi
-sabet_V_suksi
+sabet_N_suksi
 sadji_N_paikka, sija
 salla_N_syli
-sarrit_V_mustikka
+sarrit_N_mustikka
 savnnjašit_V_pudistella, ravistella
 sáhka_N_juttu, puhe, puheenaihe, kerrottava
 sáhttit_V_voida (olla mahdollista), saattaa
@@ -857,31 +859,31 @@ sáidi_N_sei
 sákta_N_mehu
 sámil_N_sammal
 sápmelaš_N_saamelainen
-Sápmi_N_Lappi
+Sápmi_Prop_Lappi
 sápmi_N_saame(lainen), saame-
 sávdni_N_sauna
 sávza_N_lammas
-seaggi_N_ohut (ei litteistä esineistä)
+seaggi_A_ohut (ei litteistä esineistä)
 seahkka_N_säkki, pussi
 sealgádit_V_antaa selkään, rökittää
-seamma_N_sama
-seammalágan_N_samanlainen
-seammás_N_samassa, saman tien
+seamma_Indef_sama
+seammalágan_A_samanlainen
+seammás_Adv_samassa, saman tien
 seaŋga_N_sänky
-seavdnjat_V_pimeä
+seavdnjat_A_pimeä
 seavvit_V_vilkuttaa
 sieđga_N_paju
 siessá_N_täti (isän sisar)
 sihtat_V_pyytää
-sii_N_he (ei kahdesta)
+sii_Pers_he (ei kahdesta)
 siida_N_siita, porokylä
 silba_N_hopea
 silki_N_silkki
-Sirbmá_N_Sirma (paikannimi)
-Sire_N_naisen nimi (Siiri)
-sisa_N_sisään, sisälle
-siskkobealde_N_sisäpuolella
-siste_N_sisällä, -ltä
+Sirbmá_Prop_Sirma (paikannimi)
+Sire_Prop_naisen nimi (Siiri)
+sisa_Po_sisään, sisälle
+siskkobealde_Po_sisäpuolella
+siste_Po_sisällä, sisältä
 skadjá_N_venevaja
 skábmamánnu_N_marraskuu
 skáhpi_N_pihlaja
@@ -892,22 +894,22 @@ skibir_N_kaveri
 skierri_N_vaivaiskoivu
 skurbat_V_kopeloida
 skuvla_N_koulu
-smávis_N_hyvin pieni, pikkuinen
+smávis_A_hyvin pieni, pikkuinen
 smiehttat_V_miettiä
 snuolga_N_räkä
 soahki_N_koivu
-soai_N_he (kaksi)
+soai_Pers_he (kaksi)
 soffá_N_sohva
 sohka_N_suku
 sohkar_N_sokeri
 sokta_N_vaahto
 solon_N_hammastikku
-somá_N_mukava, hauska
+somá_A_mukava, hauska
 sotnabeaivi_N_sunnuntai
-son_N_hän
+son_Pers_hän
 spiidni_N_sika
 stálla_N_talli
-stereot_V_stereot
+stereot_N_stereot
 stoahkat_V_leikkiä
 stoarbma_N_myrsky
 stohpu_N_talo, mökki
@@ -915,28 +917,28 @@ studeanta_N_opiskelija
 stuhkka_N_palanen, kappale
 stuŋgehit_V_rynnätä kimppuun
 stuollu_N_tuoli
-stuoris_N_suuri
+stuoris_A_suuri
 stuorrut_V_suureta, kasvaa isommaksi
 suhkat_V_soutaa
 suhtadit_V_kiukutella
 suhttat_V_suuttua
-suohkat_V_sakea, tiheä
-suohtas_N_mukava, hauska
+suohkat_A_sakea, tiheä
+suohtas_A_mukava, hauska
 suoidnemánnu_N_heinäkuu
-suoli_N_salaa
+suoli_Adv_salaa
 suolu_N_saari
 suonjar_N_säde
-Suopma_N_Suomi
+Suopma_Prop_Suomi
 suoskat_V_pureskella
 suovasbiergu_N_savuliha
-surbmit_(pl.)_N_suurimot
-suvrris_N_hapan
+surbmit_N_(pl.)_suurimot
+suvrris_A_hapan
 šaddat_V_kasvaa; tulla joksikin; joutua
 šaldi_N_silta
-šat_V_enää
-šearrat_V_kirkas
+šat_Adv_enää
+šearrat_A_kirkas
 šearrát_V_loistaa, paistaa kirkkaasti
-šiega_N_kiltti, hyvätapainen
+šiega_A_kiltti, hyvätapainen
 šiehttat_V_sopia; mahtua
 šillju_N_piha
 šleađgut_V_välkkyä
@@ -950,62 +952,63 @@ telefovdna_N_puhelin
 televišuvdna_N_televisio
 tente_N_tentti
 turista_N_turisti
-uhcci_N_pieni
+uhcci_A_pieni
 ujostallat_V_ujostella
 uksa_N_ovi
 universitehta_N_yliopisto
-unni_N_pieni
-ustit_V_ystävä
+unni_A_pieni
+ustit_N_ystävä
 vahkku_N_viikko
-vaikko_N_vaikka
-varas_N_tuore
+vaikko_CS_vaikka
+varas_A_tuore
 varra_N_veri
-váháš_N_vähän
-váhnemat_(pl.)_N_vanhemmat
-váiban_A_väsynyt (oik. partis. perf. verbistä váibat)
+váháš_Indef_vähän
+váhnen_N_vanhemmat OBS tr?
+váiban_A_väsynyt (oik. partis. perf. verbistä váibat) OBS A ikke i fst
 váibat_V_väsyä
-váile_N_vaille (kellonaikaa ilmaistaessa)
+váile_Adv_vaille (kellonaikaa ilmaistaessa)
 váivi_A_ikävä, vaivalloinen
 váldit_V_ottaa
 válljet_V_valita
-váralaš_N_vaarallinen
+váralaš_A_vaarallinen
 várra_N_kai, varmaankin
 várri_N_vaara, vuori, tunturi
-várta_N_vartti, neljännestunti
+várta_N_vartti, neljännestunti OBS ikke i fst
+kvárta_N_vartti, neljännestunti
 vástidit_V_vastata
-váttis_N_vaikea
+váttis_A_vaikea
 vázzilit_V_lähteä kävelemään
 vázzit_V_kävellä; käydä (koulua tms.)
 veadjit_V_jaksaa; voida (hyvin, huonosti, tms.)
 veahčir_N_vasara
 veahkehit_V_auttaa
 veahkki_N_apu
-veajuheapme_N_voimaton
+veajuheapme_A_voimaton
 veallát_V_maata
-vejolaš_N_mahdollinen
-vel_N_vielä
-velá_N_vielä
-verrát_V_veräjä
-viđát_V_viides
-viehka_N_melko, aika
+vejolaš_A_mahdollinen
+vel_Adv_vielä
+velá_Adv_vielä
+verrát_N_veräjä
+viđát_A_viides
+viehka_Adv_melko, aika
 viehkat_V_juosta (kaksijalkaisista)
-vielgat_V_valkoinen
+vielgat_A_valkoinen
 viellja_N_veli
 vielppis_N_koiranpentu
 vierru_N_tapa
 viessu_N_talo
 viežžat_V_hakea
-vihtta_N_viisi
-viimmat_V_viimein
+vihtta_Num_viisi
+viimmat_Adv_viimein
 vilbealle_N_miesserkku
-visot_V_kaikki
-vissa_N_kai, varmaankin
+visot_A_kaikki
+vissa_Adv_kai, varmaankin
 visti_N_asunto
-viššal_N_ahkera, viitseliäs
+viššal_A_ahkera, viitseliäs
 viššat_V_viitsiä
-Vulleš_N_(suvun nimi)
-vulobealde_N_alapuolella
-vulos_N_alas
+Vulleš_Prop_(suvun nimi)
+vulobealde_Po_alapuolella
+vulos_Adv_alas
 vulos guvlui_MWE_alaspäin
 vuoddját_V_lähteä ajamaan
 vuodja_N_voi; (ei-kiinteä) rasva
@@ -1014,26 +1017,26 @@ vuoigŋat_V_hengittää
 vuoiŋŋastit_V_levätä
 vuojehit_V_ajaa (takaa, edellään)
 vuokta_N_hius
-vuolde_N_alla, alta
+vuolde_Po_alla, alta
 vuolgga_N_lähtö
 vuolgit_V_lähteä, mennä
-vuolimus_N_alimmainen, alin
+vuolimus_A+Superl_alimmainen, alin
 vuolla_N_olut
-vuollái_N_alle
-vuollegaš_N_matala (ei vedestä)
+vuollái_Po_alle
+vuollegaš_A_matala (ei vedestä)
 vuolšut_V_tulehtua
 vuoni_N_anoppi
 vuordit_V_odottaa
 vuorru_N_vuoro
-vuos_N_vielä; ensin
+vuos_Adv_vielä; ensin
 vuossárga_N_maanantai
 vuossu_N_palje, palkeet
-vuostá_N_vastaan
+vuostá_Po_vastaan
 vuostá_N_juusto
 vuosttas_A_ensimmäinen 
 vuosttaš_A_ensimmäinen
 vuoššat_V_keittää
-vuot_V_taas
+vuot_Adv_taas
 vuovdi_N_metsä
 vuovdi_N_myyjä
 vuovdit_V_myydä
