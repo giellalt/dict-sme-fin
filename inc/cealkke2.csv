@@ -1,4 +1,4 @@
-Norgga bealdi_Mwe_Norjan puolella_c2
+Norgga bealdi_Mwe_Norjan puolella_c2 ikke fst
 ahkit_A_ikävä_c2
 albma_A_kunnon, oikea_c2
 alit_A_sininen_c2
@@ -19,7 +19,7 @@ bađuš_N_pyrstö_c2
 beassat_V_päästä_c2
 beavdi_N_pöytä_c2
 beaški_A_paukkuva_c2
-besset_V_pesiä_c2
+beassat_V_pesiä_c2
 beštor_N_västäräkki_c2
 biergu_N_liha_c2
 binná_N_vähän_c2
@@ -38,7 +38,7 @@ buktit_V_tuoda_c2
 buolaš_N_pakkanen_c2
 buot_Adv_kaikki_c2
 buot_Indef_kaikki_c2
-buozus_A_sairas, sairaana_c2
+buozus_A_sairas, sairaana_c2 ikke fst
 bures boahtin_Mwe_terve tuloa_c2
 busir_N_pusero_c2
 bussá_N_kissa_c2
@@ -54,12 +54,12 @@ cieládit_V_haukahtaa_c2
 cuoppu_N_sammakko_c2
 dadjat_V_sanoa_c2
 dahe_CC_taikka_c2
-daihe_CC_taikka_c2
-daikke_CC_taikka_c2
+daihe_CC_taikka_c2 ikke fst
+daikke_CC_taikka_c2 ikke fst
 dakko gokko_Mwe_siitä mistä, siinä missä_c2
-dallege_Adv_silloinkin_c2
-dallehan_Adv_silloinhan_c2
-dallenai_Adv_silloinkin_c2
+dallege_Mwe_silloinkin_c2
+dallehan_Mwe_silloinhan_c2
+dallenai_Mwe_silloinkin_c2
 dalán_Adv_nyt heti, heti_c2
 dan botta go_Mwe_sillä aikaa kun_c2
 dan sivas_Mwe_siitä syystä_c2
@@ -94,7 +94,7 @@ duohta_Adv_totta, tosi_c2
 duolvvas_A_likainen_c2
 duostat_V_uskaltaa_c2
 duottar_N_tunturi_c2
-duođaige_Adv_todellakaan, tosiaankaan_c2
+duođaige_Mwe_todellakaan, tosiaankaan_c2
 dutkat_V_tutkia_c2
 duvle_Adv_äskettäin, taannoin_c2
 dušše_Adv_vain, ainoastaan_c2
@@ -122,7 +122,7 @@ eanet_Adv_enemmän_c2
 eanu_N_eno_c2
 eará_Indef_muu, eri_c2
 eará_Indef_muuta_c2
-earáge_Indef_muutakin_c2
+earáge_Mwe_muutakin_c2
 ein_Adv_yhä_c2
 elefánta_N_elefantti_c2
 erenoamážit_Adv_erityistä_c2
@@ -132,7 +132,7 @@ feber_N_kuume_c2
 figgat_V_yrittää, pyrkiä_c2
 fillet_V_juksata, huijata_c2
 fiskat_A_keltainen_c2
-fuolas_Adv_huolissaan_c2
+fuolas_Adv_huolissaan_c2 ikke fst
 fuolki_N_sukulainen_c2
 fuolla_N_huoli_c2
 fáippastit_V_huitaista_c2
@@ -171,7 +171,7 @@ goittotge_Pcle_kuitenkaan_c2
 gokko_Adv_mistä, mistä kohtaa_c2
 gollat_V_kulua_c2
 goppás_N_koppakuoriainen_c2
-gosage_Adv_mihinkään_c2
+gosage_Adv_mihinkään_c2 ikke fst
 got_Adv_miten, kuinka_c2
 govvabláđđi_N_kuvalehti_c2
 guhkki_A_pitkä_c2
@@ -231,7 +231,7 @@ kontu_N_tili_c2
 leaska_N_leski_c2
 ledjon_N_leijona_c2
 leikestit_V_kaataa nopeasti_c2
-lianta_N_kynä_c2
+liánta_N_kynä_c2
 libardit_V_lepattaa, liehua_c2
 lieggariika_N_lämminmaa_c2
 liepma_N_liemi_c2
@@ -239,7 +239,7 @@ lihkadit_V_liikkua_c2
 lihkkat_V_herätä_c2
 loaidu_N_lattia, kodassa tulisijan kahden puolen_c2
 loaktit_V_kuluttaa_c2
-lohkamortnet_N_lukujärjestys_c2
+lohkanortnet_N_lukujärjestys_c2
 lohkat_V_sanoa, lukea_c2
 lonohallat_V_vaihdella_c2
 lonuhit_V_vaihtaa_c2
@@ -249,14 +249,14 @@ lužas_N_ripuli_c2
 láhtterátnu_N_lattiamatto_c2
 láhttet_V_käyttäytyä_c2
 láibut_V_leipoa_c2
-lásmat_A_vikkelä_c2
+lášmat_A_vikkelä_c2
 lássa_N_lasi, ikkuna_c2
 lávvardat_N_lauantai_c2
 makkár_Interr_millainen, minkälainen_c2
 manin_Adv_miksi_c2
 maŋimuš_A_viimeinen_c2
 maŋábealde_Po_takana_c2
-maŋábealdi_Po_takana_c2
+maŋábealdi_Po_takana_c2 ikke fst
 maŋŋit_Adv_myöhään_c2
 measta_Adv_melkein, lähes_c2
 mielde_Adv_mukana, mukaan_c2
@@ -279,7 +279,7 @@ njeazzát_V_irvistellä_c2
 njiellat_V_niellä_c2
 njoammil_N_jänis_c2
 njuiket_V_hypätä_c2
-njukčá_N_joutsen_c2
+njukča_N_joutsen_c2
 njunni_N_nenä_c2
 njuolgga_Adv_suoraan_c2
 njálla_N_naali, napakettu_c2
@@ -289,7 +289,7 @@ nohkkanáigi_N_nukkumaanmenoaika_c2
 nohkkat_V_nukkua_c2
 nuorravuohta_N_nuoruus_c2
 nuorvvu_N_nuha_c2
-nuppebeliid_Adv_toisinpäin_c2
+nuppe beliid_Mwe_toisinpäin_c2
 náhkkesoffá_N_nahkasohva_c2
 návdi_N_peto_c2
 náđđát_V_jurottaa, lymytä_c2
@@ -312,7 +312,7 @@ orrunlatnja_N_olohuone_c2
 orustit_V_pysähtyä, seisahtaa_c2
 ovdajuolgi_N_etujalka_c2
 ovttain báikkiin_Mwe_samoissa paikoissa_c2
-ovttatmános_Adv_yhtäkyytiä_c2
+ovttatmanos_Adv_yhtäkyytiä_c2
 ođas_A_uusi_c2
 priváhta_A_yksityinen_c2
 reabbá_N_rapu_c2
@@ -348,11 +348,10 @@ siida_N_siida_c2
 sirdit_V_siirtää, siirtyä_c2
 siste_Adv_sisällä_c2
 siste_Po_sisällä_c2
-sisti_Adv_sisällä_c2
-sisti_Po_sisällä_c2
+sisti_Adv_sisällä_c2 ikke fst
+sisti_Po_sisällä_c2 ikke fst
 skeaikit_V_nauraa_c2
 skeaŋka_N_lahja_c2
-skibir_N_kaveri_c2
 skibir_N_kaveri, toveri_c2
 skorpiovdna_N_skorpioni_c2
 skuolfi_N_pöllö_c2
@@ -362,11 +361,11 @@ skážas_N_sudenkorento_c2
 smarfi_N_kihara_c2
 smiehttat_V_miettiä, ajatella_c2
 snelket_V_puraista_c2
-snuggamuš_N_kaluttava_c2
+snuggamuš_N_kaluttava_c2 ikke fst
 snárttal_N_haapana_c2
 sohka_N_suku_c2
 somá_A_hauska, kiva, mukava_c2
-sotnabeaive_N_sunnuntai_c2
+sotnabeaivi_N_sunnuntai_c2
 speajal_N_peili_c2
 spálfu_N_pääskynen_c2
 steažžalakkis_N_sisilisko_c2
@@ -388,7 +387,7 @@ sárggis_N_raita_c2
 sávdni_N_sauna_c2
 sávri_A_kestävä_c2
 televišuvdna_N_televisio_c2
-tiger_N_tiikeri_c2
+tiger_N_tiikeri_c2 ikke fst
 uksabiellu_N_ovikello_c2
 unni_A_pieni_c2
 ustit_N_ystävä_c2
@@ -396,7 +395,7 @@ uvdnagáddi_N_uunin vieri_c2
 varra_N_veri_c2
 varračájánas_N_verinäyte_c2
 veadjit_V_jaksaa_c2
-veajuheapmi_A_voimaton, huonovointinen_c2
+veajuheapme_A_voimaton, huonovointinen_c2
 veháš_Adv_vähän_c2
 vejolaš_A_mahdollista_c2
 viehkat_V_juosta_c2
@@ -417,10 +416,10 @@ vuoktačuohppi_N_parturi, kampaaja_c2
 vuolde_Po_alla_c2
 vuolgi_A_lähtevä_c2
 vuolgit_V_lähteä_c2
-vuolildusbivttas_N_alusvaate_c2
+vuolildusbivttas_N_alusvaate_c2 ikke fst
 vuolledássi_N_ala-aste_c2
-vuorddemat_Mwe_odotahan, odotapas_c2
-vuorddesmat_Mwe_odotapas_c2
+vuorddemat_Mwe_odotahan, odotapas_c2 ikke fst
+vuorddesmat_Mwe_odotapas_c2 ikke fst
 vuordit_V_odottaa_c2
 vuorru_N_vuoro_c2
 vuos_Adv_ensin_c2

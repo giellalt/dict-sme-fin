@@ -3,13 +3,13 @@ Ruoŧŧa_Prop_Ruotsi_c1
 ain_Adv_yhä_c1
 ainge_Adv_yhäkin_c1
 alde_Po_päällä_c1
-aldi_Po_päällä_c1
+aldi_Po_päällä_c1 ikke fst
 allat_A_korkea_c1
 badjel_Po_yli_c1
 badjel_Pr_yli_c1
 bahálaš_N_pahus_c1
 bealde_Po_puolella_c1
-bealdi_Po_puolella_c1
+bealdi_Po_puolella_c1 ikke fst
 beana_N_koira_c1
 beare_Adv_vain_c1
 boahtal_N_pullo_c1
@@ -22,7 +22,7 @@ buorre_A_hyvä_c1
 busse_N_pussia, pussin_c1
 buđet_N_peruna_c1
 báhkka_N_paketin, pakettia_c1
-báiddi_N_paitaa, paidan_c1
+báidi_N_paitaa_c1
 coggat_V_työntää, tunkee_c1
 dahje_CC_taikka_c1
 dahkat_V_tehdä_c1
@@ -63,7 +63,7 @@ giitu_N_kiitos_c1
 goarta_N_korti_c1
 goas_Adv_milloin, koska_c1
 gos_Adv_missä_c1
-gosabat_Adv_mihinkä, minnekä_c1
+gosabat_Mwe_mihinkä, minnekä_c1
 guovttos_N_kaksikko_c1
 gurut_A_vasen_c1
 gusto_Adv_näköjään, näemmä_c1
@@ -75,7 +75,7 @@ hálbi_A_halpa_c1
 ieš_Refl_itse_c1
 ii_V_ei_c1
 jearrat_V_kysyä_c1
-juogo_Adv_joko_c1
+juogo_CS_joko_c1
 kilo_N_kilo_c1
 kássa_N_kassa_c1
 lagaš_A_läheinen_c1
@@ -89,7 +89,7 @@ listu_N_lista_c1
 logi_Num_kymmenen, kymmentä_c1
 loktet_V_nostaa_c1
 luhtte_Po_luona_c1
-luhtti_Po_luona_c1
+luhtti_Po_luona_c1 ikke fst
 lusa_Po_luokse_c1
 láigu_N_vuokra_c1
 lávet_V_olla tapana_c1
@@ -131,7 +131,7 @@ oktii_Adv_kerran_c1
 oktiibuot_Adv_yhteensä_c1
 olgeš_A_oikea (suunnasta)_c1
 olggobealde_Po_ulkopuolella_c1
-olggobealdi_Po_ulkopuolella_c1
+olggobealdi_Po_ulkopuolella_c1 ikke fst
 ollu giitu_Mwe_paljon kiitoksia_c1
 ollugo_Mwe_paljonko_c1
 orrut_V_asua, tuntua, olla_c1
@@ -161,7 +161,7 @@ vaikko_CC_vaikka_c1
 varas_A_tuore, tuoretta_c1
 vel_Adv_vielä_c1
 velgo_Adv_vieläkö_c1
-viener_N_viineri_c1
+viener_N_viineri_c1 ikke fst
 viessu_N_asunto_c1
 viežžat_V_hakea, hakemaan_c1
 vihtta_Num_viisi_c1
@@ -181,5 +181,5 @@ vázzit_V_kävellä_c1
 šaddanbeaivi_N_syntymäpäivä_c1
 čakča_N_syys, syksy_c1
 šat_Adv_enää_c1
-šukkuláda_N_suklaa_c1
+šukkuláda_N_suklaa_c1 ikke fst
 čáppat_A_kaunis_c1

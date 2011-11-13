@@ -1,5 +1,5 @@
 Deatnu_Prop_Teno_c3
-Márjjábeaivi_Prop_Marianpäivä_c3
+márjjábeaivi_Prop_Marianpäivä_c3
 Ovnnesjávri_Prop_Ounasjärvi_c3
 Sirpmá_Prop_Sirma_c3
 Vuovdaguoika_Prop_Outakoski_c3
@@ -44,7 +44,7 @@ dakkáraš_Dem_sellainen_c3
 daŋas_N_varpu_c3
 deahkkái_A_lihaksikas_c3
 deaivat_V_sattua, osua_c3
-devkesruškes_A_tummanruskea_c3
+devkesruškes_A_tummanruskea_c3 ikke fst
 dievva_Adv_täynnä_c3
 doahput_V_napsia, napsia kiinni_c3
 doamihit_V_kiirehtiä_c3
@@ -61,7 +61,7 @@ dálludit_V_talostella, asua_c3
 dán jagi_Mwe_tänä vuonna_c3
 dánsestit_V_tanssahtaa_c3
 dánset_V_tanssia_c3
-dánáigge_A_nykyään, nykyaikana_c3
+dánáigge_A_nykyään, nykyaikana_c3 ikke fst
 evttohit_V_ehdottaa_c3
 fálaldat_N_tarjous_c3
 fápmu_N_voima_c3
@@ -90,8 +90,8 @@ guhkesjuolggat_A_pitkäjalkainen_c3
 guhkkodat_N_pituus_c3
 guobir_N_haara poronkorvamerkistä_c3
 guoldu_N_viima_c3
-guovssahas_N_revontuli_c3
-guvrradit_V_mennä kumaraan_c3
+guovssahasat_N_revontuli_c3
+guvrradit_V_mennä kumaraan_c3 ikke fst
 gáffal_N_haarukka_c3
 gálvu_N_tavara_c3
 gánddaš_N_pieni poika, poikanen_c3
@@ -112,9 +112,9 @@ johtilit_Adv_nopeasti_c3
 jorbbas_A_pyöreä_c3
 jugástat_N_juotava, juoma_c3
 klubba_N_klubi_c3
-kreditkoarta_N_luottokortti_c3
+kredihttakoarta_N_luottokortti_c3
 lahkonit_V_lähestyä_c3
-laiggasbuđet_N_lohkoperuna_c3
+laiggasbuđet_N_lohkoperuna_c3 ikke fst
 lebbet_V_levittää_c3
 liekkas_A_lämpö_c3
 liikot_V_pitää, tykätä_c3
@@ -145,12 +145,12 @@ nealgejahki_N_nälkävuosi_c3
 nieiddaš_N_tyttönen_c3
 niibi_N_veitsi_c3
 njammat_V_imeä_c3
-njealjejuvlageassi_N_neliveto_c3
+njealjejuvlageassi_N_neliveto_c3 ikke fst
 njoarostit_V_heittää suopungilla, lassota_c3
 njuolggo-_Cmp_suora(t)_c3
 njuovvat_V_nylkeä_c3
 njárbat_V_nestemäinen (valuvasta), ohut (hiuksista)_c3
-nuge_Adv_niinkään_c3
+nuge_Mwe_niinkään_c3
 nuppe jagi_Mwe_seuraavana (toisena) vuonna_c3
 nurke-_Cmp_nurkka-_c3
 náitalit_V_mennä naimisiin_c3
@@ -176,7 +176,7 @@ pusse_N_pussi_c3
 ravgat_V_kaatua_c3
 restoráŋŋa_N_ravintola_c3
 riegádanmearka_N_syntymämerkki_c3
-rihppa_N_rippi_c3
+rihppa_N_rippi_c3 ikke fst
 riđđu_N_viima, tuuli_c3
 rohttestallat_V_vedellä_c3
 rohttet_V_vetaista, vetää_c3
@@ -197,7 +197,7 @@ rávdnji_N_virta_c3
 savu_N_suvanto_c3
 seaggi_A_hoikka, ohut (pyöreästä), kapea_c3
 seailut_V_säilyä_c3
-serveahtta_N_servetti_c3
+servieahtta_N_servetti_c3
 sihkkut_V_pyyhkiä_c3
 siidu_N_sivu_c3
 skuvlaskibir_N_koulukaveri_c3
@@ -214,7 +214,7 @@ suhtadit_V_kiukutella_c3
 suohkat_N_tiheä, paksu_c3
 suohtastallat_V_pitää hauskaa_c3
 tallearka_N_lautanen_c3
-tropihkálaš_A_trooppinen_c3
+tropihkalaš_A_trooppinen_c3
 turista_N_turisti_c3
 tákta_N_tahti_c3
 ujostallat_V_ujostella_c3
@@ -246,7 +246,7 @@ válsa_N_valssi_c3
 čeavlái_A_ylpeä_c3
 čierastallat_V_lasketella_c3
 šiggut_V_torua, vaientaa, häätää_c3
-čižžái_A_rintava, isotissinen_c3
+čižžái_A_rintava, isotissinen_c3 ikke fst
 čoarvi_N_sarvi_c3
 čohkiidit_V_kokoontua_c3
 šuokŋa_N_sävel_c3
