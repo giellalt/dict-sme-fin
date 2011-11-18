@@ -583,7 +583,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">bassi</l>
+         <l pos="n" type="actor">bassi</l>
       </lg>
       <mg>
          <tg>
@@ -9811,7 +9811,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">lohkki</l>
+         <l pos="n" type="actor">lohkki</l>
       </lg>
       <mg>
          <tg>
@@ -13799,7 +13799,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">rišša</l>
+         <l pos="n" type="g3">rišša</l>
       </lg>
       <mg>
          <tg>
@@ -17888,7 +17888,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">vuovdi</l>
+         <l pos="n" type="actor">vuovdi</l>
       </lg>
       <mg>
          <tg>
