@@ -1,0 +1,7958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="v">addit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">antaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">älä</t>
+            <te>kieltoverbin yks2p imperatiivi</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">almmuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ilmoittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">arvit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">sataa vettä</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">astat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ehtiä</t>
+            <t pos="v">joutaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">atnit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">käyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">attestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">antaa vähän</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">badjánit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kohota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bahčit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lypsää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ballat</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">pelätä jtak</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bargat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">työskennellä</t>
+            <t pos="v">tehdä</t>
+            <te>työtä tms.</te>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">pyrkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">barggahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">teettää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">basadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">peseytyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bassaladdat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pestä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bassat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pestä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bassit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">paistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">batnit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kehrätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bealkit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haukkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bearráigeahččat</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">katsoa perässä</tf>
+            <t pos="v">tarkistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">besset</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pesiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">beassat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">päästä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">beastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pelastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">beroštit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">välittää</t>
+            <tf pos="phrase">välittää jstkin</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">berret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pitää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bidjat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laittaa</t>
+            <t pos="v">panna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bieggat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puhaltaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bieguhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiusata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">biehttalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kieltää</t>
+            <t pos="v">pettää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">biggohit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tuulettaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bigálastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">pitää poroerotuksia</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bilidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pilata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">billahuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pilaantua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">billašuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pilaantua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">billistit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pilata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">birget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pärjätä</t>
+            <tf pos="phrase">tulla toimeen</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bissut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jäädä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bistit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kestää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bisánit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pysähtyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bivaldit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lämmetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bivastuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hikoilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bivdit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pyytää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bivvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tareta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">biđget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rikkoa</t>
+            <t pos="v">hajottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">biškut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kirkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">boagustit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nauraa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">boahtit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tulla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">boaldit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">polttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">boatkkuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hiekottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">boatkuluvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kipeytyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bohčit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lypsää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">boradit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aterioida</t>
+            <t pos="v">syödä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">borahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">syöttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bordit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kasata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">borgat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pyryttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">borgguhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">polttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">borrat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">syödä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">borvet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pöyhiä</t>
+            <t pos="v">penkoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bossut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puhaltaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">botnit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kehriä</t>
+            <t pos="v">kehrätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">botnjat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vääntää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bovdet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kutsua</t>
+            <t pos="v">pyytää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bovret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">porata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buktit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tuoda</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bumpet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pumpata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buohcat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sairastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buollit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">palaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buoridit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">parantaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buorránaddat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hyväillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buorránit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">parantua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buorástahttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tervehtiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buođđut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">padota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buressivdnidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">siunata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">báhcit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jäädä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">báhkket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pakata</t>
+            <t pos="v">paketoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">báhtarit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">paeta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">báhčit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ampua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">báidnit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">värjätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">báitit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiiltää</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">paistaa</t>
+            <te>auringosta</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bálkestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">heittää</t>
+            <t pos="v">viskata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bállet</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">saada rauha</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bárgut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">parkua</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">huutaa</t>
+            <te>lokeista tms.</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bártidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">olla epäonnekas</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bávkalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">paukauttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bávkit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">paukkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bávččagit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sattua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bávččastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sattua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">caggat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">estää</t>
+            <t pos="v">kiristää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">cahkkehallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sytytellää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">cahkkehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sytyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ceaggát</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">olla pystyssä</tf>
+            <t pos="v">törröttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">cealkit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lausua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">cegget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pystyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ciellat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haukkua</t>
+            <te>koirasta</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">cieládit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haukahtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">coakcut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pitää</t>
+            <tf pos="phrase">olla lipsumatta</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">coggat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sujauttaa</t>
+            <tf pos="phrase">panna jhkin</tf>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">pukea</t>
+            <te>vaate</te>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">tunkea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">cuovkanit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">murskaantua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">cábadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">silputa</t>
+            <tf pos="phrase">leikata pieniksi paloiksi</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dadjat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sanoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dahkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tehdä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">darvánit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">jäädä kiinni</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">deaddit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">painaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">deaivat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tavata</t>
+            <t pos="v">kohdata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">osua</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">sattua</t>
+            <tf pos="phrase">tapahtua sattumalta</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">deaivvadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tavata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dearvvahallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tervehtiä</t>
+            <te>toisiaan</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dearvvahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tervehtiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dearvvašmuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tervehtiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dearvvašnuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tervehtiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">deavdit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">täyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dekoreret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">koristella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">diehtit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tietää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dievvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">täyttyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dieđihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tiedottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dihttot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ilmetä</t>
+            <t pos="v">näyttäytyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">diktit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sallia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dikšut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hoitaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dinet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ansaita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">divuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">korjauttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">divvut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">korjata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">diŋgot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tilata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">diđoštit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tiedustaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doadjit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">katkea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doahput</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tarttua</t>
+            <tf pos="phrase">ottaa kiinni</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doaibmat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">toimia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doaimmahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">toimittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doaivut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">toivoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pitää</t>
+            <te>kiinni tms.</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doalvut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tuoda</t>
+            <t pos="v">viedä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doamihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiirehtiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doapmalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiirehtiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doapmat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiirehtiä</t>
+            <t pos="v">kiiruhtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doarggistit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">täristä</t>
+            <t pos="v">väristä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doarjut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tukea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doarrut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tapella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doaškut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">taputtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dohkkehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hyväksyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dohkket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kelvata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dohppestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">napata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dohppet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tarttua</t>
+            <te>kerran</te>
+            <tf pos="phrase">ottaa kiinni</tf>
+            <te>yksi</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huuhtoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dolastaddat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tulistella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dolastallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tulistella</t>
+            <tf pos="phrase">pitää nuotiota</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dolastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">polttaa nuotiota</tf>
+            <tf pos="phrase">sytyttää nuotio</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dolkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kyllästyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dollet</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">tarttua kiinni</tf>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">suunnata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dovdat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tuntea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">duddjot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ommella</t>
+            <tf pos="phrase">tehdä käsitöitä</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">duhtat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tyytyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dulkot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tulkata</t>
+            <t pos="v">kääntää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dulvadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">padota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">duogŋat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">paikata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">duoldat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiehua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">duolddahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">keittää</t>
+            <t pos="v">kiehuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">duostat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uskaltautua</t>
+            <t pos="v">uskaltaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">duskidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tuskailla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dustet</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">ottaa vastaan</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dutkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tutkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dádjut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">värkätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dáhpáhuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tapahtua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dáhttut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tahtoa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">pyytää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dáidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">taitaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dálludit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">talostella</t>
+            <t pos="v">asua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dálostallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">asua</t>
+            <tf pos="phrase">pitää taloa</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dánsestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tanssahtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dánset</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tanssia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dánsut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tanssia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dápmat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kesyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dárbbahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tarvita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dárbbašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tarvita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dárkilit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tarkasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dáŋket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tankata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">eaidat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">etääntyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ealihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">elättää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">eallit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">elää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ealáskahttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">elvyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">earránit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">erota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">eattehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">suuttua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">evttohit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ehdottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fallehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hyökätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">falástallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">urheilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">faláštallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">urheilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ferdnet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jauhoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fertet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">täytyä</t>
+            <tf pos="phrase">olla pakko</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fidnet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">saada</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">figgat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">yrittää</t>
+            <t pos="v">pyrkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fillet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juksata</t>
+            <t pos="v">huijata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">firrestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hämmentää hieman</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">firtet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">seljetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fiskkodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kellastua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fitnat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">käydä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fuobmát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huomata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fáippastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huitaista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fállat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tarjota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fárret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">muuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fáruhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">varoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gahččat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">putoa</t>
+            <t pos="v">pudota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gaikkehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nykäistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gaikut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiskoa</t>
+            <t pos="v">repiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gaivát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tuijottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">galbmot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">paleltua</t>
+            <t pos="v">kylmetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">galgat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">täytyä</t>
+            <t pos="v">pitää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">galledit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vierailla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gallestallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vierailla</t>
+            <tf pos="phrase">käydä kylässä</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">galljut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pyöristyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gallánit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">täyttyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">galmmihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kylmettää</t>
+            <t pos="v">pakastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">garahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuoria</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">garvilit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">välttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">garvit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiertää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geahkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vihjata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geahčadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">katsella</t>
+            <te>ympärilleen tms.</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geahčastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vilkaista</t>
+            <tf pos="phrase">katsoa vähän</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geahččalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kokeilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geahččat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">katsoa</t>
+            <t pos="v">katsella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiillottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geardduhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kerrata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geargat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ehtiä</t>
+            <te>ajoissa</te>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <tf pos="phrase">saada valmiiksi</tf>
+            <t pos="v">keretä</t>
+            <te>työstä tms.</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geassit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vetää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geasuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">houkutella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geasástit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valjastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geavahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">käyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geiget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ojentaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">giddet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sulkea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gielistit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valehdella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gierdat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kestää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gieđahallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">käsitellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">giitit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">giksat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kypsyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gillet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jaksaa</t>
+            <t pos="v">viitsiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gillát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kärsiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gilvalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kilpailla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gilvit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kylvätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gilvvohallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kilpailla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">girdilit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">lähteä lentoon</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">girdit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lentää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">girkostallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">käydä jumalanpalveluksessa</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">givssidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiusata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">goaivut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaivaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">goallut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">palella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">goardit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">paistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">goargŋut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nousta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">goaridit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kurjistaa</t>
+            <t pos="v">haitata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">goarrut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ommella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">goddit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tappaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gohcit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valvoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gohčodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kutsua</t>
+            <t pos="v">nimittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gohččut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">käskeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">goikadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuivattaa</t>
+            <t pos="v">paistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">goikat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuivua</t>
+            <t pos="v">kuivata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gokčat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">peittää</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">sulkea</t>
+            <te/>
+            <tf pos="phrase">ovi tms.)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">golgadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kulkuttaa</t>
+            <te>ajoverkkokalastus</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">golgat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valua</t>
+            <t pos="v">vuotaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">golket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tyyntyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gollat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kulua</t>
+            <te/>
+            <t pos="v">rahasta</t>
+            <t pos="v">yms.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gopmánit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">kaatua kumoon</tf>
+            <t pos="v">ylösalaisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gossat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">yskiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">govvet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valokuvata</t>
+            <tf pos="phrase">ottaa kuvia</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gođđat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kutoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gođđit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kutoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gulahallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">keskustella</t>
+            <t pos="v">ymmärtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guldalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuunnella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gullat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuulla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gullot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuulua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guoddit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kantaa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">synnyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guorahaddat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tutkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guorahallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tutkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guorranit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tyhjentyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guovlalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vilkaista</t>
+            <t pos="v">kurkistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guovlat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kurkata</t>
+            <t pos="v">kurkistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guovllastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">katsella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guođohit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">paimentaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guođđit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jättää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gurput</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kantaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gurret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tyhjentää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guvrradit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">mennä kumaraan</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gáddit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">luulla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gádjut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pelastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gáfestallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">pitää kahvitaukoa</tf>
+            <tf pos="phrase">juoda kahvia</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gáhkket</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">leipoa kakkua</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gáibidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaatia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gálašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kahlailla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gánnáhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kannattaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gárrat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sitoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gártat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">koitua</t>
+            <t pos="v">joutua</t>
+            <t pos="v">päätyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gárvodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pukeutua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gáržudit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rajoittaa</t>
+            <t pos="v">supistaa</t>
+            <t pos="v">kaventaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gáskit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">purea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gáskkestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puraista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gásttašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gávdnat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">löytää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gávdnot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">löytyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gávppahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaupitella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gávppašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">käydä kauppaa</tf>
+            <tf pos="phrase">käydä ostoksilla</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">haksit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">haksot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">heahtáduddat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hätäillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">heaitit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lakata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">heavahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">heavvanit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hukkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">heaŋgát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">riippua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">heivehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sovittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">heivet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sopia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hervet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">koristaa</t>
+            <t pos="v">koristella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">heŋget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">riippua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hilbošit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">olla kuriton</tf>
+            <tf pos="phrase">olla villi</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">himihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rykäistä</t>
+            <t pos="v">rykiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hoavrristit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hourata</t>
+            <t pos="v">hourailla</t>
+            <t pos="v">maasata</t>
+            <t pos="v">jankuta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hohkahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">houkutella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hoigat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">työntää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">huhttát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kyyröttää</t>
+            <t pos="v">kököttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">huikit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huutaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">huikkádit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huudahtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hukset</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rakentaa</t>
+            <te/>
+            <t pos="v">rakennus)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">humadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jutella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hupmat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puhua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">huraidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hyräillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">huškut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lyödä</t>
+            <t pos="v">iskeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">háhkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hankkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">háleštit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jutella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">háliidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haluta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hállat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puhua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hárdit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiusata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hárjehallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">harjoitella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hárjánit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tottua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hástalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hávdádit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haudata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">háŋket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hankkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">idjadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">yöpyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ihtit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ilmestyä</t>
+            <t pos="v">tulla</t>
+            <t pos="v">näkyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ei</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ijastallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">yöpyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">illudahttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ilahduttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">illudit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ilahtua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">imaštallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ihmetellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ipmirdit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ymmärtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">iskat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">koettaa</t>
+            <t pos="v">tutkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">iskkadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kokeilla</t>
+            <t pos="v">koetella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ivdnet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">värittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">iđit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aamu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jaskkodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hiljetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jearahallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kysellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jearahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kysellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jearralit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kysellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jearrat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kysyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jeđđet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lohduttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jienádit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">äännähtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jietnadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">äännellä</t>
+            <t pos="v">ääntää</t>
+            <t pos="v">äännähtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">joatkit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jatkaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">joavdat</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">päästä perille</tf>
+            <t pos="v">ehättää</t>
+            <t pos="v">saapua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">johtalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kulkea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">johtit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">matkustaa</t>
+            <t pos="v">lähteä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">johttát</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">lähteä liikkeelle</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">joksat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">saavuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">joradit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pyöriskellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jorgalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kääntää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jorggihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kääntyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jorrat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hyrrätä</t>
+            <t pos="v">pyöriä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jođašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kulkea</t>
+            <t pos="v">kuljeskella</t>
+            <t pos="v">liikkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">juhkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juoda</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">juohkit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jakaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">juoigat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">joikata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">juoiggastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">joiata hieman</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jurddahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ajatella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jurddašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ajatella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jáddadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sammuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jáhkkit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uskoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jápmit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuolla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jávkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kadota</t>
+            <t pos="v">hävitä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jávkkehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kadota</t>
+            <te/>
+            <tf pos="phrase">yllättäen tms.)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jávkkihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">livahtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lahkanit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lähestyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lahkonit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lähestyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lasihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lisätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leabbut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">levitellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leahkastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aukaista</t>
+            <t pos="v">avata</t>
+            <te>ovi tms.</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leaikkastallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">laskea leikkiä</tf>
+            <t pos="v">pilailla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leaikut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">olla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leavvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">levitä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lebbet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">levittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leikestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">kaataa nopeasti</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leiket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">libardit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lepattaa</t>
+            <t pos="v">liehua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">liegganit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lämmetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">liekkadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lämmittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ligget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lämmittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lihkadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">liikkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lihkkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">herätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">liikot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pitää</t>
+            <t pos="v">tykätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">liktet</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">silittää vaateita</tf>
+            <t pos="v">silottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">livvadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">maata</t>
+            <te>sorkkaeläimistä yms.</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">loahpahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lopeta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">loaktit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuluttaa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">viihtyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">logadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lukea</t>
+            <t pos="v">lueskella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lohkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lukea</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">laskea</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">sanoa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <tf pos="phrase">pitää jnak</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lohpidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">luvata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lohpádallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kihlautua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">loktet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nostaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lonet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lainata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lonohallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaihdella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lonuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaihtaa</t>
+            <te>jotain johonkin toiseen</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lubmet</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">poimia lakkaa</tf>
+            <tf pos="phrase">poimia hillaa</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luddet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">halkaista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luistet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">luistella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luoddut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">halkoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luohttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">luottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luoikat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lainata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luoikkahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lainata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luoitit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laskea</t>
+            <te>alas</te>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">laskeutua</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">päästää</t>
+            <te>irti</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lágidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">järjestää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">láhppit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">menettää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">láhppot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eksyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">láhttet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">käyttäytyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">láibut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">leipoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">láigohit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vuokrata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">láittastuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tylsistyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lávet</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">olla tapana</tf>
+            <t pos="v">ruukata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lávggodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kylvetellä</t>
+            <t pos="v">kylpeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lávgut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kylvettää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lávket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">astua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lávlestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">laulaa hieman</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lávlut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laulaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">manahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">menettää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mannat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lähteä</t>
+            <t pos="v">mennä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">maŋŋonit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">myöhästyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mearkkašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tarkoittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mearkut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">merkitä</t>
+            <te>merkillä</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mearridit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">määrätä</t>
+            <t pos="v">päättää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">merket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">merkitä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">messostallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juhlia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">miehtat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">myöntyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">moddját</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hymyillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mojohallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hymyillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">molssodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaihtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">molsut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaihtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">moraštit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">murehtia</t>
+            <t pos="v">surra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">morihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">havahtua</t>
+            <t pos="v">herätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">muitalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kertoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">muitit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">muistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">muohttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">sataa lunta</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">murjet</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">poimia marjoja</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">murret</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hankkia polttopuita</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">máhccat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">palata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">máhccut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">taitella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">máhttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">osata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">máistit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">maistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">máksit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">maksaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">málestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">keittää ruokaa</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">málet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">maalata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">márfut</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">tehdä makkaraa</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mátkkoštit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">matkustaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nagadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kyetä</t>
+            <t pos="v">jaksaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nagodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">selvitä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nahkehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">namahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nimittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">namuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nimittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nannet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vahvistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nealgut</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">nähdä nälkää</tf>
+            <t pos="v">tulla</t>
+            <te>hyvin</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">niegadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uneksia</t>
+            <tf pos="phrase">nähdä unta</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">niesttehuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">jäädää ilman ruokaa</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nissut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">niistää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njammat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">imeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njeazzát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">irvistellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njiedjat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laskeutua</t>
+            <te>rinnettä tms.</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njiellat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">niellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njoahcudit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hidastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njoallut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nuolla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njoammudit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tartuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njoarostit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">heittää suopungilla</tf>
+            <t pos="v">lassota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njoarrat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaataa</t>
+            <te>nestettä</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njolodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nuoleskella</t>
+            <t pos="v">hyväillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njorrestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njorret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njuiket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hypätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njuikut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hyppiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njuoskat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kastua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njuovadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">teurastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njuovvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">teurastaa</t>
+            <t pos="v">nylkeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njurggodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">viheltää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njuvdit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">voidella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njáhkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hiipiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njárbat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nestemäinen</t>
+            <te>valuvasta</te>
+            <t pos="v">ohut</t>
+            <te>hiuksista</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njávgit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">naukua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njávgut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">naukua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njávkkadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">silittää</t>
+            <t pos="v">silitellä</t>
+            <te>kädellä</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">noavkkuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">imuroida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nohkastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nukahtaa</t>
+            <te>äkkiä</te>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">nukkua</t>
+            <te>hetki</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nohkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kulua</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">loppua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nohkkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nukahtaa</t>
+            <t pos="v">nukkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nohkkot</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">jäädä kokonaan ilman jotakin</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nuoladit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">riisua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nuolahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">riisua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nuolastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">riisua</t>
+            <te/>
+            <tf pos="phrase">nopeasti tms.)</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nuollat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">riisua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nágget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">inttää</t>
+            <tf pos="phrase">väittää vastaan</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">náitalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">mennä naimisiin</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">náitit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">naittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">návddašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nauttia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">náđđát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jurottaa</t>
+            <t pos="v">lymytä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oaggut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">onkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oahpahallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">opetella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oahpahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">opettaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oahppat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">oppia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oahpásmuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tutustuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oaidnalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tavata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oaidnit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nähdä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oainnestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">nähdä hetken</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oaivvildit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tarkoittaa</t>
+            <t pos="v">meinata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oakkastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">alkaa onkia</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oalgguhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">motivoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oasseváldit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">osanottajat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oassálastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">osallistua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ostaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oađđit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nukkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oažžut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">saada</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ohcalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">etsiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ohcat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">etsiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oidnot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">näkyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ollet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ehtiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ollit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ehtiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ordnet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">järjestää</t>
+            <t pos="v">laatia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">orrut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">asua</t>
+            <t pos="v">tuntua</t>
+            <t pos="v">olla</t>
+            <te>aloillaan tms.</te>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <tf pos="phrase">vaikuttaa joltakin</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">orustit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pysähtyä</t>
+            <t pos="v">seisahtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">plánet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">suunnitella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">páhkket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pakata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rahpat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">avata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rahčat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">raataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rasttidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ylittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rasttildit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ylittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ravgat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaatua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rehkenastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laskea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ribahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">päästää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">riegádit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">syntyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">riehčut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kirkua</t>
+            <t pos="v">ulista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">riessat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hapsuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">riessut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hapsuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rievdadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">muuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rigeret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">meluta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rihpat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">riistää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">riidalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">riidellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">riidet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ratsastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">riŋget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soittaa</t>
+            <te>puhelimella</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">roggat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaivata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rohkadallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rukoilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rohttestallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vedellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rohttet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vetaista</t>
+            <t pos="v">vetää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ruhtadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rahoittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rullet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rullata</t>
+            <t pos="v">kääriä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">runiidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vihrentyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ruohtastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juosta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ruohttat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juosta</t>
+            <te>nelijalkaisista</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ruoksát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">näkyä</t>
+            <tf pos="phrase">olla punaisena</tf>
+            <t pos="v">“punottaa”</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ruovgat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">roukua</t>
+            <te>poron ääntelystä</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ruoškit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rytistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ruvssodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">punastua</t>
+            <tf pos="phrase">tulla punaiseksi</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rádjat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">varastoida</t>
+            <tf pos="phrase">korjata pois</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ráfot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rauhoittua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ráfut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rauhoittua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ráhkadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tehdä</t>
+            <t pos="v">valmistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ráhkistit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rakastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ráhkkanit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valmentaa</t>
+            <t pos="v">valmistautua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ráigánit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">reikiintyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rámohallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kehuskella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ránodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">koittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rávkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">herättää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rávvestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">neuvoa hieman</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rávvet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">neuvoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sallut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">syleillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">savdnjilit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ravistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">savnnjašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pudistella</t>
+            <t pos="v">ravistella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">seailut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">säilyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sealgádit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">antaa selkään</tf>
+            <t pos="v">rökittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">searvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">osallistua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">seastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">säästää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">seavvit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vilkuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sevnnjodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pimetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">siedjut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">märkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sihkestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pyyhkäistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sihkkelastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pyöräillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sihkkut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pyyhkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sihtat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pyytää</t>
+            <t pos="v">haluta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sirdit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">siirtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skeaikit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nauraa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skeŋket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">antaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skurbat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kopeloida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skájihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kajahtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skállat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kalista</t>
+            <t pos="v">kilistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">smiehttat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">miettiä</t>
+            <t pos="v">ajatella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">smáhket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">maistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">snelket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puraista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">soaitit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">saattaa</t>
+            <t pos="v">voida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sojahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">taivuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sorjalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">laittaa riippumaan</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sorját</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">riippua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">speallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spiehkastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">poiketa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stoahkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">leikkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stunžet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sotkea</t>
+            <t pos="v">läiskyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stuoridit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">suurentaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stuorrut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">suureta</t>
+            <tf pos="phrase">kasvaa isommaksi</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stuŋgehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">rynnätä kimppuun</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">suddat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sulattaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sugadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soutaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">suhkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soutaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">suhtadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiukutella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">suhttat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">suuttua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">suohpput</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">heitellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">suohtastallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">pitää hauskaa</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">suoládit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">varastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">suoskat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pureskella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">suovastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">savuttaa</t>
+            <t pos="v">savustaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sáddet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lähettää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ságastallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jutella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sáhttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">voida</t>
+            <te>olla mahdollista</te>
+            <t pos="v">saattaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sáltet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">suolata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sámástit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">puhua saamea</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sárdnidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">saarnata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sárdnut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puhua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sárgut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">piirtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sávvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">toivoa</t>
+            <t pos="v">toivottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tevdnet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">piirtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ujostallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ujostella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vadjat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">leikata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vajáldahttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">unohtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vajálduhttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">unohtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">valástallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">urheilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">valáštallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">urheilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">veadjit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jaksaa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">voida</t>
+            <te/>
+            <t pos="v">huonosti</t>
+            <t pos="v">tms.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">veahkehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">auttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">veallát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">maata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">velledit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">mennä nukkumaan</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">verrošit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">fuskata</t>
+            <t pos="v">keljuilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">viegahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juoksuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">viehkalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">lähteä juoksemaan</tf>
+            <t pos="v">juoksaista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">viehkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juosta</t>
+            <te>kaksijalkaisista</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">viežžalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">hakea nopeasti</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">viežžat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hakea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vizardit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">visertää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vižardit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">visertää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">viššat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haukkua</t>
+            <te/>
+            <tf pos="phrase">erit. poroja)</tf>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">uskaltaa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">viitsiä</t>
+            <t pos="v">jaksaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuoddját</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">lähteä ajamaan</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuodjat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuodjit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ajaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuoidat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">voidella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuoigŋat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hengittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuoitit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">voittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuoiŋŋastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">levätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuojašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ajella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuojehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ajaa</t>
+            <te/>
+            <t pos="v">edellään)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuolgit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lähteä</t>
+            <t pos="v">mennä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuolšut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tulehtua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuorddašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">odotella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuorddestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">odottaa vähän</tf>
+            <t pos="v">odottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuordit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">odottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuosehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">näyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuovdit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">myydä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuođgŋit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaania</t>
+            <t pos="v">väijyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuoššat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">keittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">váccašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kävellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">váibadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">väsyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">váibat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">väsyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">váillahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaivata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">váilut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puuttua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">válddahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuvata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">váldit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">válljet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">várjalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">varjella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">váruhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">varoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vástidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vastata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vázzilit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">lähteä kävelemään</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vázzit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kävellä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">käydä</t>
+            <te>koulua tms.</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vázzát</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">ryhtyä kävelemään</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">áddet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ymmärtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ádjánit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juuttua</t>
+            <t pos="v">viipyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">áicat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huomata</t>
+            <t pos="v">nähdä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">áigut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aikoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">áitit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uhata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">álggahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aloittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">álgit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">alkaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">állanit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kallistua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">árvalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">arvella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">árvidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">arvata</t>
+            <t pos="v">ymmärtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">árvvoštallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">arivoida</t>
+            <t pos="v">arvostella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ássat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">asua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ávvudit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">viettää juhlaa</tf>
+            <t pos="v">juhlia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">áŧestit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ahdistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">šaddat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kasvaa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <tf pos="phrase">tulla joksikin</tf>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">joutua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čaibmat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nauraa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čalmmástuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kyllästyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">časkit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lyödä</t>
+            <t pos="v">iskeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čatnat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sitoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čađahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">toteuttaa</t>
+            <tf pos="phrase">saada läpi</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">šealgut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">loistaa</t>
+            <t pos="v">kimmeltää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">šearrát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">loistaa</t>
+            <tf pos="phrase">paistaa kirkkaasti</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čiehkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">piilottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čiehkádit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">piiloutua</t>
+            <t pos="v">kätkeytyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čiehkástallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">piileskellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">šiehttat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sopia</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">mahtua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čiekčat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">potkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čierastallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lasketella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čierastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laskea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čierostuddat</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">tehdä itkua</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čierrut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">itkeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čieskat</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">särkeä ydinluita</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">šiggut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">torua</t>
+            <t pos="v">vaientaa</t>
+            <t pos="v">häätää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čilget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">selittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čiŋadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">koristautua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čiŋahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">koristella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čiŋkut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">konkata</t>
+            <t pos="v">kinkata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">šlahttit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">sataa räntää</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">šleađgut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">välkkyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">šlundut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">masentua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čoagganit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kokoontua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čoaggit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kerätä</t>
+            <t pos="v">poimia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čoaskut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kylmetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čohkiidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kokoontua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čohkkedit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">istahtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čohkkát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">istua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čohkohallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">istahdella</t>
+            <t pos="v">istuskella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čohkánit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">istuutua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čollet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">suolistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čorgestallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">siivota</t>
+            <t pos="v">järjestää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čorget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">siivota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čugget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pistää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čujuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">osoittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuodjat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuoggut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pistellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuohcat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kohdistua</t>
+            <tf pos="phrase">ottaa voimille</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuohkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">latkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">šuohkkit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huokailla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuohppat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">leikata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuoigalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hiihdähtää</t>
+            <tf pos="phrase">lähteä hiihtämään</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuoigat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hiihtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuoiggadit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hiihdellä</t>
+            <t pos="v">hiihtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuoiggahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hiihdättää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuojahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soittaa</t>
+            <t pos="v">soita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuojihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kilahtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuollat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">iskeä</t>
+            <t pos="v">hakata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuorpmastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">sataa rakeita</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuorvut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huutaa</t>
+            <t pos="v">huuhdella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuovvut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">seurata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuoččastit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">nousta seisomaan</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuoččat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">seisaalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuožžilit</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">nousta seisomaan</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuožžut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">seistä</t>
+            <t pos="v">seisoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čurvet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huutaa</t>
+            <te>kerran</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuvggodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valjeta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuvodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">seurailla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">šuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kohista</t>
+            <t pos="v">suhista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuččodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">seisoskella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čáhkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mahtua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čájehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">näyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čájáhallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">näyttää</t>
+            <t pos="v">näytellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čákŋalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">astua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čákŋat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kömpiä</t>
+            <te/>
+            <t pos="v">sisään)</t>
+            <tf pos="phrase">mennä sisään</tf>
+            <te>esim. pienestä oviaukosta</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čállit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kirjoittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čárvet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puristaa</t>
+            <te>kerran</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čárvut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puristaa</t>
+            <t pos="v">puristella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čárvvodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puristella</t>
+         </tg>
+      </mg>
+   </e>
+</r>
