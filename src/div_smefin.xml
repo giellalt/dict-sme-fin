@@ -97,7 +97,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>amma nu_Mwe_eikö niin, jooko</xxx>
    <e>
       <lg>
          <l pos="pcle">ammal</l>
@@ -119,7 +118,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>atnit váivin_Mwe_pitää ikävänä</xxx>
    <e>
       <lg>
          <l pos="mwe">attášitgo</l>
@@ -130,7 +128,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>badjel rájáid_Mwe_yli rajojen</xxx>
    <e>
       <lg>
          <l pos="po">badjel</l>
@@ -419,7 +416,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>bures boahtin_Mwe_tervetuloa</xxx>
    <e>
       <lg>
          <l pos="adv">bures</l>
@@ -501,7 +497,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>dakko gokko_Mwe_siitä mistä, siinä missä</xxx>
    <e>
       <lg>
          <l pos="dem">dakkár</l>
@@ -574,10 +569,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>dan botta go_Mwe_sillä aikaa kun</xxx>
-   <xxx>dan sivas_Mwe_siitä syystä</xxx>
-   <xxx>dan vuoro_Mwe_sillä kertaa, sillä erää</xxx>
-   <xxx>danin go_Mwe_siksi että, siksi koska</xxx>
    <e>
       <lg>
          <l pos="adv">danin</l>
@@ -719,7 +710,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>dieinna lágiin_Mwe_sillä tavalla</xxx>
    <e>
       <lg>
          <l pos="adv">diekko</l>
@@ -948,7 +938,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>duollet dálle_Mwe_silloin tällöin</xxx>
    <e>
       <lg>
          <l pos="dem">duot</l>
@@ -992,7 +981,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>duođe eambbo_Mwe_sen enempää</xxx>
    <e>
       <lg>
          <l pos="adv">duvle</l>
@@ -1096,7 +1084,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>dán jagi_Mwe_tänä vuonna</xxx>
    <e>
       <lg>
          <l pos="adv">dáppe</l>
@@ -1239,7 +1226,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>earet eará_Mwe_muun muassa</xxx>
    <e>
       <lg>
          <l pos="indef">eará</l>
@@ -1484,7 +1470,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>galli áigge_Mwe_(mihin) monenko aikaan</xxx>
    <e>
       <lg>
          <l pos="adv">gallás</l>
@@ -1913,7 +1898,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>guhkkin eret_Mwe_kaukana siitä</xxx>
    <e>
       <lg>
          <l pos="adv">guhkkin</l>
@@ -2031,7 +2015,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>guovtte beale_Mwe_kahta puolta</xxx>
    <e>
       <lg>
          <l pos="adv">guovttá</l>
@@ -2161,7 +2144,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>ieš alddes_Mwe_itse asiassa</xxx>
    <e>
       <lg>
          <l pos="refl">ieš</l>
@@ -2182,7 +2164,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>iežas čierastan_Mwe_itsensä laskeneen</xxx>
    <e>
       <lg>
          <l pos="refl">iežas</l>
@@ -2390,8 +2371,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>juohke báikkis_Mwe_joka paikassa</xxx>
-   <xxx>juohke okta_Mwe_jokainen, jokaikinen</xxx>
    <e>
       <lg>
          <l pos="indef">juohke</l>
@@ -2506,11 +2485,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>leage buorre_Mwe_ole hyvä</xxx>
-   <xxx>leat fuolas_Mwe_olla huolissaan</xxx>
-   <xxx>leat ilus_Mwe_olla iloinen</xxx>
-   <xxx>leat oidnosis_Mwe_olla näkyvissä</xxx>
-   <xxx>lihkku lehkos_Mwe_onneksi olkoon</xxx>
    <e>
       <lg>
          <l pos="(pl.)">liikebiktasat</l>
@@ -2710,7 +2684,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>man láhkái_Mwe_millä lailla, tavalla</xxx>
    <e>
       <lg>
          <l pos="adv">manin</l>
@@ -2928,7 +2901,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>mii eará_Mwe_mitä muuta, mikä muu</xxx>
    <e>
       <lg>
          <l pos="interr">mii</l>
@@ -3207,7 +3179,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>nu gohčoduvvon_Mwe_niin sanottu</xxx>
    <e>
       <lg>
          <l pos="adv">nu</l>
@@ -3240,8 +3211,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>nuppe beliid_Mwe_toisinpäin</xxx>
-   <xxx>nuppe jagi_Mwe_seuraavana (toisena) vuonna</xxx>
    <e>
       <lg>
          <l pos="cmp">nurke-</l>
@@ -3399,7 +3368,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>olbmo láhkái_Mwe_kunnolla, ihmisiksi</xxx>
    <e>
       <lg>
          <l pos="po">olggobealde</l>
@@ -3451,7 +3419,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>olles fártta_Mwe_täyttä vauhtia</xxx>
    <e>
       <lg>
          <l pos="adv">ollislaččat</l>
@@ -3462,7 +3429,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>ollu giitu_Mwe_paljon kiitoksia</xxx>
    <e>
       <lg>
          <l pos="adv">ollu</l>
@@ -3506,7 +3472,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>oppalaš govva_Mwe_kokonaiskuva</xxx>
    <e>
       <lg>
          <l pos="adv">otne</l>
@@ -3517,7 +3482,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>otná beaivve_Mwe_tämän päivän, tänä päivänä</xxx>
    <e>
       <lg>
          <l pos="num">ovcci</l>
@@ -3591,7 +3555,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>ovddežiid ektui_Mwe_entisiin verrattuna</xxx>
    <e>
       <lg>
          <l pos="a+comp">ovddit</l>
@@ -3612,9 +3575,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>ovtta eahket_Mwe_eräänä iltana</xxx>
-   <xxx>ovtta láhkai_Mwe_eräällä tavalla</xxx>
-   <xxx>ovttain báikkiin_Mwe_samoissa paikoissa</xxx>
    <e>
       <lg>
          <l pos="adv">ovttas</l>
@@ -3937,7 +3897,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>stuorra boazodoallu_Mwe_suurporonhoito</xxx>
    <e>
       <lg>
          <l pos="adv">sulaid</l>
@@ -4214,7 +4173,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>vulos guvlui_Mwe_alaspäin</xxx>
    <e>
       <lg>
          <l pos="adv">vulos</l>
@@ -4289,7 +4247,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>vuos dál_Mwe_ensin nyt</xxx>
    <e>
       <lg>
          <l pos="adv">vuos</l>
@@ -4406,7 +4363,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>váldit oasi_Mwe_ottaa osaa</xxx>
    <e>
       <lg>
          <l pos="adv">várra</l>
@@ -4449,7 +4405,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>áibbas bures_Mwe_aivan hyvin</xxx>
    <e>
       <lg>
          <l pos="adv">áibbas</l>
@@ -4471,7 +4426,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>áigá dassái_Mwe_aikoja sitten</xxx>
    <e>
       <lg>
          <l pos="adv">áigá</l>
@@ -4578,7 +4532,6 @@
          </tg>
       </mg>
    </e>
-   <xxx>čađa áiggiid_Mwe_kautta aikojen, läpi aikojen, halki aikojen</xxx>
    <e>
       <lg>
          <l pos="po">čađa</l>
@@ -4667,6 +4620,468 @@
       <mg>
          <tg>
             <t pos="adv">kirjallisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">amma nu</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">eikö niin</tf>
+            <t pos="mwe">jooko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">atnit váivin</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">pitää ikävänä</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">badjel rájáid</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">yli rajojen</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">bures boahtin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="mwe">tervetuloa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">dakko gokko</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">siitä mistä</tf>
+            <tf pos="phrase">siinä missä</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">dan botta go</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">sillä aikaa kun</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">dan sivas</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">siitä syystä</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">dan vuoro</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">sillä kertaa</tf>
+            <tf pos="phrase">sillä erää</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">danin go</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">siksi että</tf>
+            <tf pos="phrase">siksi koska</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">dieinna lágiin</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">sillä tavalla</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">duollet dálle</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">silloin tällöin</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">duođe eambbo</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">sen enempää</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">earet eará</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">muun muassa</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">galli áigge</l>
+      </lg>
+      <mg>
+         <tg>
+            <te>mihin</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">guhkkin eret</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">kaukana siitä</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">guovtte beale</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">kahta puolta</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">ieš alddes</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">itse asiassa</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">iežas čierastan</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">itsensä laskeneen</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">juohke báikkis</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">joka paikassa</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">juohke okta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="mwe">jokainen</t>
+            <t pos="mwe">jokaikinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">leage buorre</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">ole hyvä</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">leat fuolas</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">olla huolissaan</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">leat ilus</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">olla iloinen</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">leat oidnosis</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">olla näkyvissä</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">lihkku lehkos</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">onneksi olkoon</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">man láhkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">millä lailla</tf>
+            <t pos="mwe">tavalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">mii eará</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">mitä muuta</tf>
+            <tf pos="phrase">mikä muu</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">nu gohčoduvvon</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">niin sanottu</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">nuppe beliid</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="mwe">toisinpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">nuppe jagi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="mwe">seuraavana</t>
+            <te>toisena</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">olbmo láhkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="mwe">kunnolla</t>
+            <t pos="mwe">ihmisiksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">olles fártta</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">täyttä vauhtia</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">ollu giitu</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">paljon kiitoksia</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">oppalaš govva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="mwe">kokonaiskuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">otná beaivve</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">tämän päivän</tf>
+            <tf pos="phrase">tänä päivänä</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">ovddežiid ektui</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">entisiin verrattuna</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">ovtta eahket</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">eräänä iltana</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">ovtta láhkai</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">eräällä tavalla</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">ovttain báikkiin</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">samoissa paikoissa</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">vulos guvlui</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="mwe">alaspäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">vuos dál</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">ensin nyt</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">váldit oasi</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">ottaa osaa</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">áibbas bures</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">aivan hyvin</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">áigá dassái</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">aikoja sitten</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">čađa áiggiid</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="phrase">kautta aikojen</tf>
+            <tf pos="phrase">läpi aikojen</tf>
+            <tf pos="phrase">halki aikojen</tf>
          </tg>
       </mg>
    </e>
