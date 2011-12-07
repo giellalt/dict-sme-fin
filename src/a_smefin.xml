@@ -90,7 +90,7 @@
       <mg>
          <tg>
             <t pos="a">ohut</t>
-            <te>litteistä esineistä</te>
+            <t pos="a">litteistä esineistä</t>
          </tg>
       </mg>
    </e>
@@ -101,7 +101,7 @@
       <mg>
          <tg>
             <t pos="a">paksu</t>
-            <te>litteistä esineistä</te>
+            <t pos="a">litteistä esineistä</t>
          </tg>
       </mg>
    </e>
@@ -291,7 +291,7 @@
             <t pos="a">seuraava</t>
             <t pos="a">tuleva</t>
             <t pos="a">ensi</t>
-            <te>ajan ilmauksissa</te>
+            <t pos="a">ajan ilmauksissa</t>
          </tg>
       </mg>
    </e>
@@ -546,9 +546,9 @@
       </lg>
       <mg>
          <tg>
-            <tf pos="phrase">hiljaa virtaava</tf>
-            <te/>
-            <t pos="a">joesta)</t>
+            <t pos="a">hiljaa virtaava</t>
+            <t pos="a">vedestä</t>
+            <t pos="a">joesta</t>
          </tg>
       </mg>
    </e>
@@ -795,13 +795,13 @@
       <mg>
          <tg>
             <t pos="a">huono</t>
-            <te>ilma</te>
+            <t pos="a">ilma</t>
          </tg>
       </mg>
       <mg>
          <tg>
             <t pos="a">iljettävä</t>
-            <tf pos="phrase">hyvin ruma</tf>
+            <t pos="a">hyvin ruma</t>
          </tg>
       </mg>
    </e>
@@ -944,7 +944,7 @@
       <mg>
          <tg>
             <t pos="a">paksu</t>
-            <te>ei litteistä esineistä</te>
+            <t pos="a">ei litteistä esineistä</t>
          </tg>
       </mg>
    </e>
@@ -1292,7 +1292,7 @@
       <mg>
          <tg>
             <t pos="a">hirveä</t>
-            <te>n</te>
+            <t pos="a">hirveän</t>
          </tg>
       </mg>
    </e>
@@ -1702,7 +1702,7 @@
       <mg>
          <tg>
             <t pos="a">viime</t>
-            <te>ajan ilmauksissa</te>
+            <t pos="a">ajan ilmauksissa</t>
          </tg>
       </mg>
    </e>
@@ -1957,7 +1957,7 @@
       <mg>
          <tg>
             <t pos="a">oikea</t>
-            <te>suunnasta</te>
+            <t pos="a">suunnasta</t>
          </tg>
       </mg>
    </e>
@@ -1968,7 +1968,7 @@
       <mg>
          <tg>
             <t pos="a">koko</t>
-            <te>nainen</te>
+            <t pos="a">nainen</t>
          </tg>
       </mg>
       <mg>
@@ -1993,7 +1993,7 @@
       </lg>
       <mg>
          <tg>
-            <te>+ mNom</te>
+            <t pos="a">paljon</t>
          </tg>
       </mg>
    </e>
@@ -2004,7 +2004,6 @@
       <mg>
          <tg>
             <t pos="a">koko</t>
-            <te>= ‘entire’</te>
          </tg>
       </mg>
    </e>
@@ -2106,7 +2105,7 @@
       <mg>
          <tg>
             <t pos="a">arka</t>
-            <te>vähän</te>
+            <t pos="a" comment="check_me">vähän kipeä</t>
          </tg>
       </mg>
    </e>
@@ -2299,7 +2298,7 @@
       <mg>
          <tg>
             <t pos="a">ohut</t>
-            <te>ei litteistä esineistä</te>
+            <t pos="a">ei litteistä esineistä</t>
          </tg>
       </mg>
    </e>
@@ -2701,7 +2700,7 @@
       <mg>
          <tg>
             <t pos="a">matala</t>
-            <te>ei vedestä</te>
+            <t pos="a">ei vedestä</t>
          </tg>
       </mg>
    </e>
@@ -3062,9 +3061,9 @@
       <mg>
          <tg>
             <t pos="a">terävä</t>
-            <te/>
+            <t pos="a">päästä</t>
             <t pos="a">kärjestä</t>
-            <tf pos="phrase">ei reunasta)</tf>
+            <t pos="a">ei reunasta</t>
          </tg>
       </mg>
    </e>
