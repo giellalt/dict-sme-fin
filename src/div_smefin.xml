@@ -1535,11 +1535,11 @@
    </e>
    <e>
       <lg>
-         <l pos="(pl.)">gavjjat</l>
+         <l pos="n" num="pl">gavjjat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="(pl.)">N</t>
+            <t pos="n">pöly</t>
          </tg>
       </mg>
    </e>
@@ -2060,11 +2060,11 @@
    </e>
    <e>
       <lg>
-         <l pos="(pl.)">gávnnit</l>
+         <l pos="n" num="pl">gávnnit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="(pl.)">N</t>
+            <t pos="n">vuodevaatteet</t>
          </tg>
       </mg>
    </e>
@@ -2447,11 +2447,11 @@
    </e>
    <e>
       <lg>
-         <l pos="(pl.)">jáffut</l>
+         <l pos="n" num="pl">jáffut</l>
       </lg>
       <mg>
          <tg>
-            <t pos="(pl.)">N</t>
+            <t pos="n"> jauhot</t>
          </tg>
       </mg>
    </e>
@@ -2487,11 +2487,11 @@
    </e>
    <e>
       <lg>
-         <l pos="(pl.)">liikebiktasat</l>
+         <l pos="n" num="pl">liikebiktasat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="(pl.)">N</t>
+            <t pos="n">alusvaatteet</t>
          </tg>
       </mg>
    </e>
@@ -2602,11 +2602,11 @@
    </e>
    <e>
       <lg>
-         <l pos="(pl.)">lássaliinnit</l>
+         <l pos="n" num="pl">lássaliinnit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="(pl.)">N</t>
+            <t pos="n">verhot</t>
          </tg>
       </mg>
    </e>
@@ -2717,11 +2717,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a+superl">maŋimus</l>
+         <l pos="a" degree="superl">maŋimus</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a+superl">viimeinen</t>
+            <t pos="a" degree="superl">viimeinen</t>
          </tg>
       </mg>
    </e>
@@ -2732,8 +2732,7 @@
       <mg>
          <tg>
             <t pos="po">perässä</t>
-            <te>takanapäin</te>
-            <t pos="po">-stä</t>
+            <t pos="po">perästä</t>
          </tg>
       </mg>
    </e>
@@ -3557,11 +3556,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a+comp">ovddit</l>
+         <l pos="a" degree="comp">ovddit</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a+comp">edellinen</t>
+            <t pos="a" degree="comp">edellinen</t>
          </tg>
       </mg>
    </e>
@@ -4197,12 +4196,12 @@
    </e>
    <e>
       <lg>
-         <l pos="a+superl">vuolimus</l>
+         <l pos="a" degree="superl">vuolimus</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a+superl">alimmainen</t>
-            <t pos="a+superl">alin</t>
+            <t pos="a" degree="superl">alimmainen</t>
+            <t pos="a" degree="superl">alin</t>
          </tg>
       </mg>
    </e>
