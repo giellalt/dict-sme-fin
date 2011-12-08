@@ -1,0 +1,13 @@
+
+lemma_PoS_re # t (te), t, t (te); t (te), t, t; re # t, t (te)
+
+also første nivå (e): lemma_PoS_REST separator er _
+REST kan være en eller flere mg
+
+andere nivå (mg): mg1; mg2; mg3 separator er ;
+
+tredje nivå (tg): re # REST separator er #
+
+fierde nivå (REST av tg): t1, t2, t3 separator er ,
+
+femten nivå (t): t (te) separator er ()
