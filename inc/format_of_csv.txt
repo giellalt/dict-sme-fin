@@ -1,5 +1,19 @@
 
+Eksempelm på enkel entry:
+lemma_PoS_t
+
+Eksempel på kompleks entry:
 lemma_PoS_re # t (te), t, t (te); t (te), t, t; re # t, t (te)
+
+Andre eksempel:
+
+lemma_PoS_t
+lemma_PoS_t ; t
+lemma_PoS_t ; re # t, t
+lemma_PoS_re # t
+
+
+Cip:
 
 also første nivå (e): lemma_PoS_REST separator er _
 REST kan være en eller flere mg
