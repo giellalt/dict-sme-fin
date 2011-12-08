@@ -37,10 +37,12 @@
   <xsl:variable name="debug" select="true()"/>
 
   <!-- input file, extention of the output file -->
-  <xsl:param name="inFile" select="'mwe_smefin.csv'"/>
+  <xsl:param name="inFile" select="'smefin.csv'"/>
   <xsl:param name="of" select="'xml'"/>
-  <xsl:param name="outDir" select="'out'"/>
+  <xsl:param name="outDir" select="'r_out'"/>
   
+  <xsl:variable name="rgx" select="'^([^_]+)_([^_]+)_([^_]+)(.*)$'"/>
+
   
   <xsl:template match="/" name="main">
     
@@ -62,13 +64,13 @@
 	  <r>
 	    <xsl:for-each select="$file_lines">
 	      <xsl:variable name="normLine" select="normalize-space(.)"/>
-	      <xsl:analyze-string select="$normLine" regex="^([^{$us}+)[\s|\t]*{$us}[\s|\t]*([^{$us}]+)[\s|\t]*{$us}[\s|\t]*([^{$us}]+)(.*)$" flags="s">
+	      <xsl:analyze-string select="$normLine" regex="{$rgx}" flags="s">
 		<xsl:matching-substring>
 		  
-		  <xsl:variable name="lemma" select="regex-group(1)"/>
+		  <xsl:variable name="lemma" select="normalize-space(regex-group(1))"/>
 		  <xsl:variable name="pos" select="lower-case(normalize-space(regex-group(2)))"/>
 		  <xsl:variable name="target" select="tokenize(regex-group(3), $scl)"/>
-		  <xsl:variable name="rest" select="regex-group(4)"/>
+		  <xsl:variable name="rest" select="normalize-space(regex-group(4))"/>
 		  
 		  <xsl:if test="$debug">
 		    <xsl:message terminate="no">
@@ -76,81 +78,80 @@
 		      <xsl:value-of select="'............'"/>
 		    </xsl:message>
 		  </xsl:if>
-
+		  
+		  <!--xsl:if test="$rest = ''">
+		    <ok>
+		      <xsl:value-of select="."/>
+		    </ok>
+		  </xsl:if-->
+		  <!--xsl:if test="not($rest = '')">
+		    <ko>
+		      <xsl:value-of select="."/>
+		    </ko>
+		  </xsl:if-->
 
 		  <e>
 		    <lg>
-		      <l>
-			<xsl:attribute name="pos">
-			  <xsl:value-of select="lower-case(normalize-space($pos))"/>
-			</xsl:attribute>
-			<xsl:value-of select="normalize-space($lemma)"/>
+		      <l pos="{$pos}">
+			<xsl:value-of select="$lemma"/>
 		      </l>
 		    </lg>
 		    <xsl:for-each select="$target">
+		      <xsl:variable name="current_tg" select="normalize-space(.)"/>
+		      <xsl:variable name="current_re">
+			<xsl:if test="contains($current_tg, '#')">
+			  <xsl:value-of select="normalize-space(substring-before($current_tg, '#'))"/>
+			</xsl:if>
+			<xsl:if test="not(contains($current_tg, '#'))">
+			  <xsl:value-of select="''"/>
+			</xsl:if>
+		      </xsl:variable>
+		      <xsl:variable name="current_rest">
+			<xsl:if test="contains($current_tg, '#')">
+			  <xsl:value-of select="normalize-space(substring-after($current_tg, '#'))"/>
+			</xsl:if>
+			<xsl:if test="not(contains($current_tg, '#'))">
+			  <xsl:value-of select="$current_tg"/>
+			</xsl:if>
+		      </xsl:variable>
 		      <mg>
 			<tg>
-			  <xsl:for-each select="tokenize(., $cm)">
-
-			    <xsl:variable name="translation" select="normalize-space(.)"/>
-			    <xsl:if test="not(contains($translation, $rbl))">
-			      <xsl:if test="count(tokenize($translation, ' ')) &gt; 1">
-				<tf>
-				  <xsl:attribute name="pos">
-				    <xsl:value-of select="'phrase'"/>
-				  </xsl:attribute>
-				  <xsl:value-of select="$translation"/>
-				</tf>
-			      </xsl:if>
-			      <xsl:if test="count(tokenize($translation, ' ')) = 1">
+			  <xsl:if test="not($current_re = '')">
+			    <re>
+			      <xsl:value-of select="$current_re"/>
+			    </re>
+			  </xsl:if>
+			  <xsl:for-each select="tokenize($current_rest, $cm)">
+			    <xsl:variable name="current_t" select="normalize-space(.)"/>
+			    <xsl:if test="not($current_t = '')">
+			      <xsl:variable name="t_info" select="normalize-space(substring-before(substring-after($current_t, $rbl), $rbr))"/>
+			      <xsl:if test="not($t_info = '')">
 				<t>
-				  <xsl:attribute name="pos">
-				    <xsl:value-of select="lower-case(normalize-space($pos))"/>
+				  <xsl:attribute name="info">
+				    <xsl:value-of select="$t_info"/>
 				  </xsl:attribute>
-				  <xsl:value-of select="$translation"/>
+				  <xsl:value-of select="normalize-space(substring-before($current_t, $rbl))"/>
 				</t>
 			      </xsl:if>
-			    </xsl:if>
-			    
-			    <xsl:if test="contains($translation, $rbl)">
-			      <xsl:variable name="pure_translation" select="normalize-space(substring-before($translation, $rbl))"/>
-			      <xsl:if test="count(tokenize($pure_translation, ' ')) &gt; 1">
-				<tf>
-				  <xsl:attribute name="pos">
-				    <xsl:value-of select="'phrase'"/>
-				  </xsl:attribute>
-				  <xsl:value-of select="$pure_translation"/>
-				</tf>
-			      </xsl:if>
-			      <xsl:if test="count(tokenize($pure_translation, ' ')) = 1">
+			      <xsl:if test="$t_info = ''">
 				<t>
-				  <xsl:attribute name="pos">
-				    <xsl:value-of select="lower-case(normalize-space($pos))"/>
-				  </xsl:attribute>
-				  <xsl:value-of select="$pure_translation"/>
+				  <xsl:value-of select="$current_t"/>
 				</t>
 			      </xsl:if>
-			      <te>
-				<xsl:value-of select="normalize-space(substring-before(substring-after($translation, $rbl), $rbr))"/>	     
-			      </te>
 			    </xsl:if>
 			  </xsl:for-each>
 			</tg>
 		      </mg>
 		    </xsl:for-each>
-		    <!-- 			  <features> -->
-		    <!-- 			    <xsl:attribute name="count"> -->
-		    <!-- 			      <xsl:value-of select="$count"/> -->
-		    <!-- 			    </xsl:attribute> -->
-		    <!-- 			    <xsl:value-of select="$features"/> -->
-		    <!-- 			  </features> -->
-		    <!-- 			  <rest val="{$rest}"/> -->
+		    <xsl:if test="not($debug)">
+		      <rest val="{$rest}"/>
+		    </xsl:if>
 		  </e>
 		</xsl:matching-substring>
 		<xsl:non-matching-substring>
 		  <xsl:if test="$debug">
 		    <xsl:message terminate="no">
-		      <xsl:value-of select="concat('non-matching-line', ., $nl)"/>
+		      <xsl:value-of select="concat('non-matching-line ', ., $nl)"/>
 		      <xsl:value-of select="'............'"/>
 		    </xsl:message>
 		  </xsl:if>
