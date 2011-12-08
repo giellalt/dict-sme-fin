@@ -34,7 +34,7 @@
   <xsl:variable name="rbr" select="')'"/>
   <xsl:variable name="qm" select="'&#34;'"/>
   <xsl:variable name="cm" select="','"/>
-  <xsl:variable name="debug" select="'true_gogo'"/>
+  <xsl:variable name="debug" select="true()"/>
 
   <!-- input file, extention of the output file -->
   <xsl:param name="inFile" select="'mwe_smefin.csv'"/>
@@ -47,7 +47,7 @@
     <xsl:choose>
       <xsl:when test="unparsed-text-available($inFile)">
 
-	<xsl:if test="$debug = 'true_gogo'">
+	<xsl:if test="$debug">
 	  <xsl:message terminate="no">
 	    <xsl:value-of select="concat('-----------------------------------------', $nl)"/>
 	    <xsl:value-of select="concat('processing file ', $inFile, $nl)"/>
@@ -62,16 +62,15 @@
 	  <r>
 	    <xsl:for-each select="$file_lines">
 	      <xsl:variable name="normLine" select="normalize-space(.)"/>
-<!-- 	      <xsl:analyze-string select="$normLine" regex="^([^\s|$us]+)(\s|\t)*$us(\s|\t)*([^\s|$us]+)(\s|\t)*$us(\s|\t)*([^\s|$us]+)(.*)$" flags="s"> -->
-	      <xsl:analyze-string select="$normLine" regex="^([^\s|\t|{$us}]+)[\s|\t]*{$us}[\s|\t]*([^\s|\t|{$us}]+)[\s|\t]*{$us}[\s|\t]*([^{$us}]+)(.*)$" flags="s">
+	      <xsl:analyze-string select="$normLine" regex="^([^{$us}+)[\s|\t]*{$us}[\s|\t]*([^{$us}]+)[\s|\t]*{$us}[\s|\t]*([^{$us}]+)(.*)$" flags="s">
 		<xsl:matching-substring>
-
+		  
 		  <xsl:variable name="lemma" select="regex-group(1)"/>
-		  <xsl:variable name="pos" select="regex-group(2)"/>
+		  <xsl:variable name="pos" select="lower-case(normalize-space(regex-group(2)))"/>
 		  <xsl:variable name="target" select="tokenize(regex-group(3), $scl)"/>
 		  <xsl:variable name="rest" select="regex-group(4)"/>
 		  
-		  <xsl:if test="$debug = 'true_gogo'">
+		  <xsl:if test="$debug">
 		    <xsl:message terminate="no">
 		      <xsl:value-of select="concat('lemma: ', $lemma, $nl)"/>
 		      <xsl:value-of select="'............'"/>
@@ -149,7 +148,7 @@
 		  </e>
 		</xsl:matching-substring>
 		<xsl:non-matching-substring>
-		  <xsl:if test="$debug = 'true_gogo'">
+		  <xsl:if test="$debug">
 		    <xsl:message terminate="no">
 		      <xsl:value-of select="concat('non-matching-line', ., $nl)"/>
 		      <xsl:value-of select="'............'"/>
