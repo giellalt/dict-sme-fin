@@ -7,14 +7,14 @@ ahte_CC_että
 ahte_CS_että
 ain_Adv_vielä, yhä
 ainge_Adv_yhäkin
-aitto_Pcle_nyt, -pa, -pä, -han, -hän
+aitto_Pcle_-pa, -pä, -han, -hän
 ala_Po_päälle
 albbas_N_ilves
 albma_A_oikea, aito, kunnon
 albmi_N_taivas
 alde_Po_päällä, päältä
 aldi_Po_päällä, päältä
-ale_V_älä (kieltoverbin yks2p imperatiivi)
+ale_V_älä
 alit_A_sininen
 allaskuvla_N_korkeakoulu
 allat_A_korkea
@@ -83,7 +83,7 @@ ballu_N_pelko
 balva_N_pilvi
 balvái_A_pilvinen
 banána_N_banaani
-bargat_V_työskennellä, tehdä (työtä tms.); pyrkiä
+bargat_V_työskennellä, tehdä; pyrkiä
 barggahit_V_teettää
 bargi_N_työntekijä, työläinen
 bargobierggas_N_työkalu
@@ -256,7 +256,7 @@ boagán_N_vyö
 boahtal_N_pullo
 boahtimuš_N_tuleminen, saapuminen
 boahtit_V_tulla
-boahtte_A_seuraava, tuleva, ensi (ajan ilmauksissa), 
+boahtte_A_seuraava, tuleva; ajan ilmauksissa # ensi 
 boaittobealli_N_syrjäseutu
 boaldenmuorra_N_polttopuu
 boaldit_V_polttaa
@@ -349,7 +349,7 @@ buorre_A_hyvä
 buorránaddat_V_hyväillä
 buorránit_V_parantua
 buorástahttit_V_tervehtiä
-buot_Adv_kaikki; kaikkein (superlatiivin yhteydessä)
+buot_Adv_kaikki; superlatiivin yhteydessä # kaikkein
 buot_Indef_kaikki
 buozas_A_sairas
 buozus_A_sairas, sairaana
@@ -407,7 +407,7 @@ bárbmoloddi_N_muuttolintu
 bárbmu_N_etelä, parvi
 bárdni_N_poika, nuori mies
 báresahki_N_paras ikä
-bárgut_V_parkua; huutaa (lokeista tms.)
+bárgut_V_parkua; lokeista tms. # huutaa
 bárra_N_pari, pariskunta
 bárru_N_aalto
 bártidit_V_olla epäonnekas
@@ -473,7 +473,7 @@ danne_Adv_siksi
 darfegoahti_N_kota
 darjjesámegiella_N_turjansaame
 darvánit_V_jäädä kiinni
-dassá_Adv_ajan ilmauksissa # ... sitten, siitä asti 
+dassá_Adv_ajan ilmauksissa # siitä asti 
 dasto_Adv_sen jälkeen, sitten
 dat_Pers_se; puhek. # hän
 datte_Adv_silti, siitä huolimatta
@@ -496,7 +496,7 @@ deajat_N_tee
 deappu_N_levä
 dearbmi_N_törmä
 dearvan_Adv_terveenä
-dearvvahallat_V_tervehtiä (toisiaan)
+dearvvahallat_V_tervehtiä toisiaan
 dearvvahit_V_tervehtiä
 dearvvas_A_terve, terveellinen
 dearvvaš_A_terve, terveellinen
@@ -523,7 +523,7 @@ dieinnaXlágiin_Mwe_sillä tavalla
 diekko_Adv_siinä
 dienas_N_ansio
 dieppe_Adv_siellä missä sinä olet
-diet_Dem_se (joka on sinulla)
+diet_Dem_lähellä puhuttavaase
 dievas_A_täysi
 dievdogahpir_N_miestenhattu
 dievdogákti_N_miehenkauhti, miehenkasukka
@@ -539,7 +539,7 @@ dihtor_N_tietokone
 dihtorfitnodat_N_tietokoneyritys, tietokonefirma
 dihtorspeallu_N_tietokonepeli, tietsikkapeli
 dihttot_V_ilmetä, näyttäytyä
-dii_Pers_te (ei kahdesta)
+dii_Pers_te
 diibmobealli_N_puolitunti
 diibmoplána_N_aikataulu, lukujärjestys
 diibmu_N_tunti; kello
@@ -565,7 +565,7 @@ diđoštit_V_tiedustaa
 doaba_N_käsite
 doadjit_V_katkea
 doahput_V_tarttua, ottaa kiinni
-doai_Pers_te (kaksi)
+doai_Pers_te kaksi
 doaibma_N_toimi
 doaibmat_V_toimia
 doaimmahat_N_toimisto
@@ -574,7 +574,7 @@ doaimmahit_V_toimittaa
 doaivu_N_usko, toivo
 doaivut_V_toivoa
 doaivva_N_toivo
-doallat_V_pitää (kiinni tms.)
+doallat_V_pitää kiinni
 doalvut_V_tuoda, viedä
 doamihit_V_kiirehtiä
 doapmalit_V_kiirehtiä
@@ -595,7 +595,7 @@ dohkket_V_kelvata
 dohkká_N_nukke
 dohko_Adv_sinne
 dohppestit_V_napata
-dohppet_V_tarttua (kerran), ottaa kiinni (yksi)
+dohppet_V_napata, siepata, tarttua johonkin, ottaa kiinni
 doidit_V_huuhtoa
 dolastaddat_V_tulistella
 dolastallat_V_tulistella, pitää nuotiota
@@ -614,7 +614,7 @@ doppe_Adv_siellä, tuolla
 dorka_N_turkkipaita
 dorski_N_turska
 dorte_N_rukki
-dot_Dem_tuo (tuolla etäällä)
+dot_Dem_etäällä oleva # tuo
 dovdat_V_tuntea
 dovddus_A_tunnettu, tuttu
 dovdu_N_tunne
@@ -658,7 +658,7 @@ duorastat_N_torstai
 duorgu_N_siima
 duorššas_A_litteänaamainen, lättänaamainen
 duostat_V_uskaltautua, uskaltaa
-duot_Dem_tuo (tuolla)
+duot_Dem_tuo
 duottar_N_tunturi
 duottarstohpu_N_tunturimökki
 duottarčielgi_N_tunturinselkä
@@ -787,7 +787,7 @@ eará_Indef_muu, eri, muuta
 earáge_Mwe_muutakin
 earán_N_asia, tarve
 easkka_Adv_vasta, äsken, juuri
-easkká_Adv_äskeinen (vain attrib.)
+easkká_Adv_vain attr. # äskeinen
 eatnandoallu_N_maatalous, maanviljely
 eatnanmuorji_N_mansikka
 eatnat_Adv_aika paljon
@@ -812,7 +812,7 @@ eŋgelasgiella_N_englanti, englannin kieli
 fabrihkka_N_tehdas
 fabrihkkabargi_N_tehdastyöläinen
 fabrihkkarátnu_N_tehdasmatto
-fal_Adv_vain  (ei ’only’)
+fal_Adv_vain
 fallehit_V_hyökätä
 falli_A_nopea
 falástallat_V_urheilla
@@ -822,7 +822,7 @@ fanasgoahti_N_venevaja
 farga_Adv_kohta, pian; nopeasti
 fargga_Adv_kohta, pian; nopeasti
 fas_Adv_taas; puolestaan
-fasti_A_huono (ilma); iljettävä, hyvin ruma
+fasti_A_iljettävä, hyvin ruma; ilmasta # huono
 fearga_N_lautta; väri
 feaskkir_N_eteinen
 feasta_N_juhla, bileet
@@ -892,7 +892,7 @@ gaibagahpir_N_lippalakki
 gaikkehit_V_nykäistä
 gaikut_V_kiskoa, repiä
 gaivát_V_tuijottaa
-gal_Adv_kyllä (vahvistava myönt. partikkeli)
+gal_Adv_vahvistava myönt. partikkeli # kyllä
 galba_N_kilpi, leuka
 galbarihcci_N_kilpikonna
 galbmaguolli_N_pakastekala
@@ -903,7 +903,7 @@ galhan_Adv_kyllähän
 galle_Num_montako
 galledit_V_vierailla
 gallestallat_V_vierailla, käydä kylässä
-galliXáigge_Mwe_(mihin) monenko aikaan
+galliXáigge_Mwe_monenko aikaan
 gallji_A_väljä
 galljut_V_pyöristyä
 gallánit_V_täyttyä
@@ -935,9 +935,8 @@ gaskkas_N_kataja
 gaskkas_Po_välissä, välistä
 gaskkohagaid_Adv_välillä
 gasku_Adv_keskellä
-gassat_A_paksu (ei litteistä esineistä)
+gassat_A_ei litteistä esineistä # paksu
 gavja_N_pöly
-gavjjat_N_(pl)
 gazza_N_kynsi
 gažaldat_N_kysymys
 geaffi_A_köyhä
@@ -947,10 +946,10 @@ geahnoheapme_A_heikko
 geahpas_A_kevyt
 geahppadit_Adv_kevyesti
 geahppamielki_N_kevytmaito
-geahčadit_V_katsella (ympärilleen tms.)
-geahčai_Po_luo, luokse (kotiin)
+geahčadit_V_katsella ympärilleen
+geahčai_Po_luo, luokse, kotiin
 geahčastit_V_vilkaista, katsoa vähän
-geahčen_Po_luona (kotona), luota (kotoa)
+geahčen_Po_luona, kotona; luota, kotoa
 geahči_N_kärki, pää
 geahččalit_V_kokeilla
 geahččat_V_katsoa, katsella
@@ -962,7 +961,7 @@ geallir_N_kellari
 geardduhit_V_kerrata
 geardeviessu_N_kerrostalo
 geardi_N_kerta
-geargat_V_ehtiä (ajoissa); saada valmiiksi, keretä (työstä tms.)
+geargat_V_ehtiä ajoissa; saada valmiiksi, keretä
 gearggus_A_selkeä
 gearpmaš_N_käärme
 gearret_N_käräjä
@@ -980,7 +979,7 @@ geasuhit_V_houkutella
 geasástit_V_valjastaa
 geavahit_V_käyttää
 geavŋŋis_N_suuri koski, köngäs
-geažes_Po_kuluttua (ajasta)
+geažes_Po_ajasta # kuluttua
 geađgi_N_kivi
 geažil_Po_vuoksi
 geiget_V_ojentaa
@@ -1013,7 +1012,7 @@ gierdat_V_kestää
 gierdavaš_A_kärsivällinen
 gieskat_Adv_hiljattain, vähän aikaa sitten
 gietkka_N_komsio, kätkyt
-gievdni_N_ämpäri; (kahvi)pannu
+gievdni_N_ämpäri; kahvipannu
 gievkkan_N_keittiö
 gievra_A_vahva, voimakas
 gieđahallat_V_käsitellä
@@ -1060,7 +1059,7 @@ girkobáiki_N_kirkkopaikka
 girkosiida_N_kirkonkylä
 girkostallat_V_käydä jumalanpalveluksessa
 girku_N_kirkko
-gitta_Adv_kiinni; jhkin saakka; aina (johonkin asti)
+gitta_Adv_kiinni; jhkin saakka; aina johonkin asti
 gitárra_N_kitara
 givssidit_V_kiusata
 giđđa_N_kevät
@@ -1122,16 +1121,16 @@ goiku_N_jano
 goit_Pcle_kuitenkin; ainakin
 goitge_Adv_kuitenkin
 goittotge_Pcle_kuitenkin; ainakin
-gokko_Adv_missä kohden, missä (täsmälleen); mistä, mistä kohtaa
-gokčat_V_peittää; sulkea (ikkuna, ovi tms.)
+gokko_Adv_missä kohden, missä täsmälleen; mistä, mistä kohtaa
+gokčat_V_peittää; ikkunasta, ovesta # sulkea
 golbma_Num_kolme
 golgadeaddji_N_kulkuttaja
-golgadit_V_kulkuttaa (ajoverkkokalastus)
+golgadit_V_kulkuttaa ajoverkkokalastus
 golgat_V_valua, vuotaa
 golggotmánnu_N_lokakuu
 golgodávda_N_kulkutauti
 golket_V_tyyntyä
-gollat_V_kulua (ajasta, rahasta, yms.)
+gollat_V_ajasta, rahasta # kulua
 gollečeahppi_N_kultaseppä
 golli_N_kulta
 golmmeš_N_kolmonen
@@ -1323,7 +1322,6 @@ gávcci_Num_kahdeksan
 gávccát_A_kahdeksas
 gávdnat_V_löytää
 gávdnot_V_löytyä
-gávnnit_N_(pl)
 gávnnit_N_vuodevaatteet, sänkyvaatteet
 gávpebargi_N_myyjä, virkailija
 gávpegálvu_N_kauppatavara
@@ -1377,7 +1375,7 @@ hildu_N_hylly
 hillján_A_hiljainen
 himihit_V_rykäistä, rykiä
 hirbmadit_Adv_kovasti, kovin
-hirbmat_A_hirveä(n)
+hirbmat_A_hirveä
 hirbmat_Adv_hirveä, hirmuinen
 hirsa_N_hirsi
 historjjálaš_A_historiallinen
@@ -1393,14 +1391,14 @@ hoavrristit_V_hourata, hourailla, maasata, jankuta
 hohkahit_V_houkutella
 hoigat_V_työntää
 holbi_N_hulpa, hulpio
-holga_N_vave, poikkipuu (verkkojen kuivaamiseen tms.)
+holga_N_vave, poikkipuu verkkojen kuivaamiseen
 hotealla_N_hotelli
 huhttát_V_kyyröttää, kököttää
 hui_Adv_erittäin, hyvin
 huikinjoavku_N_huutosakki
 huikit_V_huutaa
 huikkádit_V_huudahtaa
-hukset_V_rakentaa (talo, rakennus)
+hukset_V_rakennuksista # rakentaa
 humadit_V_jutella
 hupmat_V_puhua
 huraidit_V_hyräillä
@@ -1440,7 +1438,7 @@ iešXalddes_Mwe_itse asiassa
 ieš_Refl_itse
 iešalddes_Adv_itse asiassa
 iežasXčierastan_Mwe_itsensä laskeneen
-iežas_Refl_(hänen) oma
+iežas_Refl_hänen oma
 iešguđet_Indef_itsekukin
 iešguđetlágan_A_monenlainen, erilainen
 iešvuohta_N_ominaisuus
@@ -1564,7 +1562,7 @@ juogo_CS_joko
 juogus_N_jaos
 juohkeXbáikkis_Mwe_joka paikassa
 juohkeXokta_Mwe_jokainen, jokaikinen
-juohke_Indef_joka (‘every’)
+juohke_Indef_joka, jokainen
 juohkelágan_A_kaikenlaiset
 juohkit_V_jakaa
 juoidá_Indef_jotakin
@@ -1595,13 +1593,12 @@ jur_Adv_juuri
 jurdda_N_ajatus, idea
 jurddahit_V_ajatella
 jurddašit_V_ajatella
-justa_Adv_tarkalleen (tasan), juuri
+justa_Adv_tarkalleen, juuri
 juste_Adv_juuri
 juvla_N_pyörä, rengas
 juŋgel_N_viidakko
 já_Interj_jaa, vai niin
 jáddadit_V_sammuttaa
-jáffut_N_(pl)
 jáffut_N_jauhot
 jáfu_N_jauho
 jáhkka_N_takki
@@ -1612,7 +1609,7 @@ jápmin_N_kuolema
 jápmit_V_kuolla
 jápmu_N_kuolema
 jávkat_V_kadota, hävitä
-jávkkehit_V_kadota (nopeasti, yllättäen tms.)
+jávkkehit_V_kadota yllättäen
 jávkkihit_V_livahtaa
 jávregáddi_N_järvenranta
 jávri_N_järvi
@@ -1683,7 +1680,7 @@ lavdnji_N_turve
 lađas_N_nivel
 leabbut_V_levitellä
 leageXbuorre_Mwe_ole hyvä
-leahkastit_V_aukaista, avata (ovi tms.)
+leahkastit_V_ovesta tms. # aukaista, avata
 leahki_N_laakso
 leaibi_N_leppä
 leaikkastallat_V_laskea leikkiä, pilailla
@@ -1726,10 +1723,10 @@ lihtti_N_astia, vati
 liiba_N_mahdollisuus, mahis
 liidnegákti_N_kauhti, takki
 liidni_N_liina, kaulaliina
-liigi_N_liika(a)
-liikebiktasat_N_(pl)
+liigi_N_liika
+liikebiktasat_N_alusvaatteet
 liiki_N_iho
-liikká_Adv_(jostain, siitä) huolimatta, siltikin, kuitenkin
+liikká_Adv_jostain huolimatta, siltikin, kuitenkin
 liikot_V_pitää, tykätä
 liiva_N_liivi
 liktet_V_silittää vaateita, silottaa
@@ -1738,7 +1735,7 @@ linis_A_pehmeä
 linjála_N_viivoitin
 linnjábiila_N_linja-auto
 listu_N_luettelo, lista
-livvadit_V_maata (sorkkaeläimistä yms.)
+livvadit_V_sorkkaeläimistä yms. # maata
 liánta_N_lyijykynä, lyijäri
 loahkka_N_lukko
 loahpahit_V_lopeta
@@ -1771,7 +1768,7 @@ lokta_N_vintti
 loktet_V_nostaa
 lonet_V_lainata
 lonohallat_V_vaihdella
-lonuhit_V_vaihtaa (jotain johonkin toiseen)
+lonuhit_V_vaihtaa jotain johonkin toiseen
 lossat_A_raskas, painava
 lottegazza_N_linnunvarvas
 lubma_N_tasku
@@ -1800,7 +1797,7 @@ luohttit_V_luottaa
 luohttámušalmmái_N_luottamusmies
 luoikat_V_lainata
 luoikkahit_V_lainata
-luoitit_V_laskea (alas); laskeutua; päästää (irti)
+luoitit_V_laskea alas; laskeutua; päästää irti
 luokta_N_lahti
 luomemeastu_N_lakkahillo
 luomi_N_lakka, hilla
@@ -1850,7 +1847,6 @@ láseliidni_N_verho, verhot
 láseráigi_N_ikkuna
 lássa_N_lasi; ikkuna
 lássaliidni_N_verho, verhot
-lássaliinnit_N_(pl)
 lássalávdi_N_ikkunapieli
 látna_N_kasa, läjä
 láttat_N_lakka, hilla
@@ -1881,7 +1877,7 @@ láđđi_N_verka
 mahkáš_Adv_mukamas
 maid_Adv_myös
 maiddái_Adv_myös, myöskin
-maidege_Indef_[ei] mitään
+maidege_Indef_neg. #  mitään
 majonesa_N_majoneesi
 makkár_Interr_millainen, minkälainen
 makkáraš_Interr_millainen, minkälainen
@@ -1889,7 +1885,7 @@ makkárge_Adv_minkäänlainen, ei minkäänlainen
 manXláhkái_Mwe_millä lailla, tavalla
 manahit_V_menettää
 manin_Adv_miksi
-mannan_A_viime (ajan ilmauksissa)
+mannan_A_ajan ilmauksissa # viime
 mannat_V_lähteä, mennä
 manne_Adv_miksi
 manni_N_muna
@@ -1901,7 +1897,7 @@ matematihkka_N_matematiikka
 mašiidna_N_kone
 maŋimus_A_viimeinen
 maŋimuš_A_viimeinen
-maŋis_Po_perässä (takanapäin), -stä
+maŋis_Po_perässä, perästä
 maŋábealde_Po_takana
 maŋábealdi_Po_takana
 maŋŋebárga_N_tiistai
@@ -1920,7 +1916,7 @@ mearaguolli_N_merikala
 mearka_N_merkki
 mearkabiire_N_merkkipiiri
 mearkkašit_V_tarkoittaa
-mearkut_V_merkitä (merkillä)
+mearkut_V_merkitä merkillä
 mearra_N_meri
 mearrabivdu_N_kalastus, kalastaminen
 mearraguolli_N_merikala
@@ -1953,7 +1949,7 @@ mihcamárat_N_juhannus
 mihkkige_Indef_mikään
 miiXeará_Mwe_mitä muuta, mikä muu
 mii_Interr_mikä
-mii_Pers_me (ei kahdesta)
+mii_Pers_me
 mii_Rel_mikä
 miila_N_10 km
 millu_N_mylly
@@ -1962,7 +1958,7 @@ ministtar_N_ministeri
 minuhtta_N_minuutti
 mo_Adv_miten, kuinka
 moadde_Num_muutama
-moai_Pers_me (kaksi)
+moai_Pers_me kaksi
 moallaolmmái_N_maalivahti
 moanat_Indef_useat
 moarsi_N_tyttöystävä; morsian
@@ -2086,7 +2082,7 @@ nanus_A_luja, kestävä
 nappo_Adv_siis
 nealgejahki_N_nälkävuosi
 nealgi_N_nälkä
-nealgut_V_nähdä nälkää, tulla (hyvin) nälkäiseksi
+nealgut_V_nähdä nälkää, tulla hyvin nälkäiseksi
 neavri_A_huono, piru
 neavttár_N_näyttelijä
 nie_Adv_niin, siten
@@ -2119,7 +2115,7 @@ njealját_A_neljäs
 njeallje_Num_neljä
 njeazzát_V_irvistellä
 njelješ_N_nelonen
-njiedjat_V_laskeutua (rinnettä tms.)
+njiedjat_V_laskeutua rinnettä tms.
 njiellat_V_niellä
 njoahci_A_hidas
 njoahcudit_V_hidastaa
@@ -2128,7 +2124,7 @@ njoammil_N_jänis
 njoammudit_V_tartuttaa
 njoammudávda_N_tarttuva tauti
 njoarostit_V_heittää suopungilla, lassota
-njoarrat_V_kaataa (nestettä)
+njoarrat_V_nesteestä # kaataa
 njolodit_V_nuoleskella, hyväillä
 njorrestit_V_kaataa
 njorret_V_kaataa
@@ -2137,11 +2133,11 @@ njuiket_V_hypätä
 njuikut_V_hyppiä
 njukča_N_joutsen
 njukčamánnu_N_maaliskuu
-njunni_N_nenä; nenäke (maankohoumassa)
+njunni_N_nenä; maankohoumassa # nenäke
 njuolgat_A_suora
 njuolgga_Adv_suoraan
 njuolggadus_N_sääntö, säädos
-njuolggo-_Cmp_suora(t)
+njuolggo-_Cmp_suora, suorat
 njuolla_N_nuoli
 njuorju_N_hylje
 njuoskat_V_kastua
@@ -2164,14 +2160,14 @@ njálggus_N_karkki, makeiset
 njálla_N_naali, napakettu
 njálmmálaš_A_suullinen
 njálmmálaččat_Adv_suullisesti
-njárbat_V_nestemäinen (valuvasta), ohut (hiuksista)
+njárbat_V_valuvasta # nestemäinen, hiuksista # ohut
 njárga_N_niemi
 njávgit_V_naukua
 njávgut_V_naukua
-njávkkadit_V_silittää, silitellä (kädellä)
+njávkkadit_V_silittää, silitellä kädellä
 noavkkuhit_V_imuroida
 noađđi_N_taakka
-nohkastit_V_nukahtaa (äkkiä); nukkua (hetki)
+nohkastit_V_nukahtaa äkkiä; nukkua hetki
 nohkat_V_kulua; loppua
 nohkkanlatnja_N_makuuhuone
 nohkkanáigi_N_nukkumaanmenoaika
@@ -2185,7 +2181,7 @@ nugo_CS_niin kuin, kuten
 nummir_N_numero
 nuoladit_V_riisua
 nuolahit_V_riisua
-nuolastit_V_riisua (äkkiä, nopeasti tms.)
+nuolastit_V_riisua äkkiä
 nuollat_V_riisua
 nuoraidklubba_N_nuorisokerho
 nuoraidskuvla_N_yläaste
@@ -2198,9 +2194,9 @@ nuortalaš_N_koltansaamelainen
 nuortalašgiella_N_koltansaamenkieli, koltankieli
 nuorvu_N_nuha
 nuorvvu_N_nuha
-nuovvebáddi_N_hamppuköysi, -naru
+nuovvebáddi_N_hamppuköysi, hamppunaru
 nuppeXbeliid_Mwe_toisinpäin
-nuppeXjagi_Mwe_seuraavana (toisena) vuonna
+nuppeXjagi_Mwe_seuraavana vuonna
 nurke-_Cmp_nurkka-
 nurki_N_kulma
 nuvttot_N_nutukas
@@ -2246,7 +2242,7 @@ oahpásmuvvat_V_tutustuminen
 oaidnaleapmái_Interj_näkemiin
 oaidnalit_V_tavata
 oaidnit_V_nähdä
-oainnat_Adv_näet (partikkeli)
+oainnat_Adv_partikkeli # näet
 oainnestit_V_nähdä hetken
 oaivebávččas_N_pääkipu, migreeni
 oaivi_N_pää
@@ -2297,7 +2293,7 @@ oktiibuot_Adv_yhteensä
 okto_Adv_yksin
 oktobargu_N_itsenäinen työ
 olbmoXláhkái_Mwe_kunnolla, ihmisiksi
-olgeš_A_oikea (suunnasta)
+olgeš_A_suunnasta # oikea
 olggobealde_Po_ulkopuolella
 olggobealdi_Po_ulkopuolella
 olggos_Adv_ulos
@@ -2309,11 +2305,11 @@ olgoseaidni_N_ulkoseinä
 olgouksa_N_ulko-ovi
 olgun_Adv_ulkona
 olju_N_öljy
-ollege_Adv_[ei] ollenkaan, lainkaan
+ollege_Adv_neg. # ollenkaan, lainkaan
 ollesXfártta_Mwe_täyttä vauhtia
 ollesolmmoš_N_aikuinen
 ollet_V_ehtiä
-ollis_A_koko(nainen); aikuinen
+ollis_A_koko, kokonainen; aikuinen
 ollislaš_A_täydellinen
 ollislaččat_Adv_kokonaan
 ollit_V_ehtiä
@@ -2322,10 +2318,10 @@ ollu_Adv_paljon
 ollugo_Mwe_paljonko
 olmmoš_N_ihminen, henkilö
 olmmái_N_ystävä, mies
-olus_Adv_juuri, paljon(kaan)
-olus_Indef_[ei] juurikaan, paljonkaan
+olus_Adv_juuri, paljon; paljonkaan
+olus_Indef_juurikaan, paljonkaan
 omman_N_uuni, hella
-oppa_A_koko (= ‘entire’)
+oppa_A_kokonainen
 oppalašXgovva_Mwe_kokonaiskuva
 ordnet_V_järjestää, laatia
 ore_N_ori
@@ -2333,7 +2329,7 @@ orgel_N_urku
 orohat_N_paliskunta
 orrunlatnja_N_olohuone, tupa
 orrunsadji_N_asuinpaikka
-orrut_V_asua, tuntua, olla (aloillaan tms.); vaikuttaa joltakin
+orrut_V_asua, tuntua, olla aloillaan tms.; vaikuttaa joltakin
 ortnet_N_järjestys, kunto
 orustit_V_pysähtyä, seisahtaa
 oránša_A_oranssi
@@ -2410,7 +2406,7 @@ rasttildit_V_ylittää
 rastá_Po_poikki
 ravda_N_reuna
 ravgat_V_kaatua
-rašši_A_arka, (vähän) kipeä
+rašši_A_arka, vähän kipeä
 reabbá_N_rapu
 readdju_N_takki
 reahka_N_reki
@@ -2467,7 +2463,7 @@ risttalašvuohta_N_ristinusko
 ristáhčči_N_kummisetä
 risváhnen_N_kummivanhin
 rivgu_N_ei-saamelainen nainen
-riŋget_V_soittaa (puhelimella)
+riŋget_V_soittaa puhelimella
 rišša_N_ryöppy, roiske
 rišša_N_tulitikku; rikki
 riššadoassa_N_tulitikkuaski
@@ -2485,7 +2481,7 @@ rohttestallat_V_vedellä
 rohttet_V_vetaista, vetää
 rohtu_N_lehto; ryteikkö
 ropmi_A_ruma
-rotnu_N_runo (eläimestä, tilapäisesti maho), maho vaadin
+rotnu_N_eläimestä # runo, tilapäisesti maho, maho vaadin
 rovvi_N_silta
 rudni_N_jääkolo
 ruhta_N_raha
@@ -2497,11 +2493,11 @@ rumaš_N_keho, ruumis
 rumašlahttu_N_elin, ruumiinosa
 runiidit_V_vihrentyä
 ruohtastit_V_juosta
-ruohttat_V_juosta (nelijalkaisista)
+ruohttat_V_nelijalkaisista # juosta
 ruoinnas_A_laiha
 ruoinnasvuohta_N_laihuus
 ruoksat_A_punainen
-ruoksi_N_tuumi, vedin (utareissa), utare
+ruoksi_N_tuumi, utareissa oleva vedin, utare
 ruoksát_V_näkyä, olla punaisena, “punottaa”
 ruoktot_Adv_kotiin; takaisin
 ruoktu_N_koti
@@ -2509,7 +2505,7 @@ ruoktut_Adv_kotiin
 ruoná_A_vihreä
 ruossaliidni_N_ristiliina
 ruovdi_N_rauta
-ruovgat_V_roukua (poron ääntelystä)
+ruovgat_V_poron ääntelystä # roukua
 ruovttoluotta_Adv_takaisin
 ruovttubargu_N_läksy, kotitehtävä
 ruovttudoallu_N_kotitalous
@@ -2597,7 +2593,7 @@ savdnjilit_V_ravistaa
 savnnjašit_V_pudistella, ravistella
 savu_N_suvanto
 savvon_N_suvanto
-seaggi_A_ohut (ei litteistä esineistä)
+seaggi_A_ei litteistä esineistä # ohut
 seahkka_N_säkki, pussi
 seaibi_N_häntä
 seaidni_N_seinä
@@ -2635,7 +2631,7 @@ sihkkelastit_V_pyöräillä
 sihkkungumme_N_pyyhekumi
 sihkkut_V_pyyhkiä
 sihtat_V_pyytää, haluta
-sii_Pers_he (ei kahdesta)
+sii_Pers_he
 siida_N_siita, porokylä
 siidaguoibmi_N_naapuri
 siidaveahkki_N_kotiapulainen
@@ -2726,7 +2722,7 @@ soadjá_N_hiha, siipi
 soagŋu_N_kosinta, kosiomatka
 soahki_N_koivu
 soahti_N_sota
-soai_Pers_he (kaksi)
+soai_Pers_he
 soaitit_V_saattaa, voida
 soffá_N_sohva
 sohka_N_suku
@@ -2823,7 +2819,6 @@ suovasbiergoláibi_N_savulihavoileipä
 suovasbiergu_N_savuliha
 suovastit_V_savuttaa, savustaa
 suovva_N_savu
-surbmit_N_(pl.)
 suvrris_A_hapan
 sábin_N_hiiri
 sáddet_V_lähettää
@@ -2834,7 +2829,7 @@ sáhka_N_juttu, puhe, puheenaihe, kerrottava
 sáhkavuorru_N_puheenvuoro
 sáhppat_A_violetti
 sáhpán_N_hiiri
-sáhttit_V_voida (olla mahdollista), saattaa
+sáhttit_V_voida olla mahdollista, saattaa
 sáhttu_N_kyyti
 sáibbo_N_saippua
 sáibma_N_kalaverkko
@@ -2954,7 +2949,7 @@ varas_A_tuore
 varra_N_veri
 varračájánas_N_verinäyte
 vašálaš_A_vihamielinen
-veadjit_V_jaksaa; voida (hyvin, huonosti, tms.)
+veadjit_V_jaksaa; voida hyvin, voida huonosti
 veahkehit_V_auttaa
 veahkil_A_avulla
 veahkkeruhta_N_apuraha
@@ -2983,7 +2978,7 @@ verrát_N_veräjä
 viegahit_V_juoksuttaa
 viehka_Adv_melko, aika
 viehkalit_V_lähteä juoksemaan, juoksaista
-viehkat_V_juosta (kaksijalkaisista)
+viehkat_V_kaksijalkaisista # juosta
 viehkki_N_juoksija
 vielgat_A_valkoinen
 viellja_N_veli
@@ -3024,7 +3019,7 @@ vižardit_V_visertää
 viđeš_N_viitonen
 viđát_A_viides
 viššal_A_ahkera, viitseliäs
-viššat_V_haukkua (käskettäessä, erit. poroja); uskaltaa; viitsiä, jaksaa
+viššat_V_käskettäessä, erit. poroja # haukkua; uskaltaa; viitsiä, jaksaa
 vovdna_N_vaunu
 vulobealde_Po_alapuolella
 vulosXguvlui_Mwe_alaspäin
@@ -3054,7 +3049,7 @@ vuoivvasnjuvddus_N_maksapasteija
 vuoiŋŋastit_V_levätä
 vuojadanálddis_N_uima-allas
 vuojašit_V_ajella
-vuojehit_V_ajaa (takaa, edellään)
+vuojehit_V_ajaa takaa, ajaa edellään
 vuoján_N_ajoporo
 vuoksá_N_sonni, härkä
 vuokta_N_tukka, hius
@@ -3069,7 +3064,7 @@ vuolildusbivttas_N_alusvaate
 vuolimus_A_alimmainen, alin
 vuolla_N_olut
 vuolledássi_N_ala-aste
-vuollegaš_A_matala (ei vedestä)
+vuollegaš_A_ei vedestä # matala
 vuollin_Adv_alhaalla
 vuollái_Po_alle
 vuollásaš_A_alainen
@@ -3128,7 +3123,7 @@ váibat_V_väsyä
 váibbas_A_väsynyt
 váibmil_A_perso, ahne
 váibmu_N_sydän
-váile_Adv_vaille (kellonaikaa ilmaistaessa)
+váile_Adv_kellonaikaa ilmaistaessa # vaille
 váili_N_vaille
 váillahit_V_kaivata
 váilut_V_puuttua
@@ -3164,7 +3159,7 @@ vávvá_N_nukke
 vázzilit_V_lähteä kävelemään
 vázzingeaidnu_N_kävelytie
 vázzinravda_N_jalkakäytävä
-vázzit_V_kävellä; käydä (koulua tms.)
+vázzit_V_kävellä; käydä koulua tms.
 vázzát_V_ryhtyä kävelemään
 váđđu_N_juksa
 áddet_V_ymmärtää
@@ -3252,7 +3247,7 @@ váđđu_N_juksa
 áŧestit_V_ahdistaa
 áŋgir_A_ahkera
 áŋgirit_Adv_ankarasti
-ášši_N_asia (astevaihteluton!)
+ášši_N_asia
 šaddanbeaivi_N_syntymäpäivä
 šaddat_V_kasvaa; tulla joksikin; joutua
 šaddu_N_kasvi, hedelmä
@@ -3358,7 +3353,7 @@ váđđu_N_juksa
 čoavjebávččas_N_mahakipu, vatsakipu
 čoavjedávda_N_vatsatauti
 čoavji_N_vatsa, maha
-čogas_A_terävä (päästä, kärjestä, ei reunasta)
+čogas_A_päästä, kärjestä, ei reunasta # terävä
 čogu_N_kampa
 čohkiidit_V_kokoontua
 čohkkedit_V_istahtaa
@@ -3422,7 +3417,7 @@ váđđu_N_juksa
 čuožžut_V_seistä, seisoa
 čurti_N_pylly
 čuru_N_kärpänen
-čurvet_V_huutaa (kerran)
+čurvet_V_huutaa kerran
 čuvgesvuovttat_A_vaaleahiuksinen
 čuvggodit_V_valjeta
 čuvla_N_hame, leninki
@@ -3443,7 +3438,7 @@ váđđu_N_juksa
 čájáhus_N_esittely, näyttely
 čájálmas_N_näyttely
 čákŋalit_V_astua
-čákŋat_V_kömpiä (jostain läpi, sisään), mennä sisään (esim. pienestä oviaukosta)
+čákŋat_V_kömpiä jostain läpi sisään, mennä sisään pienestä aukosta
 čála_N_kirjoitus
 čálalaš_A_kirjallinen
 čálalaččat_Adv_kirjallisesti
@@ -3457,7 +3452,7 @@ váđđu_N_juksa
 čáppadálki_N_hieno ilma
 čáppat_A_kaunis
 čáppis_A_kaunis
-čárvet_V_puristaa (kerran)
+čárvet_V_puristaa kerran
 čárvut_V_puristaa, puristella
 čárvvodit_V_puristella
 čázet_N_nahkakenkä
