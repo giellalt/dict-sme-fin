@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="pron" type="refl">ieš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">itse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="refl">iežas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hänen oma</t>
+         </tg>
+      </mg>
+   </e>
+</r>

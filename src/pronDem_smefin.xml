@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="pron" type="dem">dakkár</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">sellainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">dakkáraš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">sellainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">diet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">lähellä puhuttavaase</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">dot</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>etäällä oleva</re>
+            <t pos="pron">tuo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">duokkáraš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">tuollainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">duot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">tuo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">dákkár</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">tällainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">dát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">tämä</t>
+         </tg>
+      </mg>
+   </e>
+</r>

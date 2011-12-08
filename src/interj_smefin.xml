@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="interj">giitu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">kiitos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="interj">juo</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">kyllä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="interj">jo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="interj">já</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">jaa</t>
+            <t pos="interj">vai niin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="interj">oaidnaleapmái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">näkemiin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="interj">ojá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">vai niin</t>
+         </tg>
+      </mg>
+   </e>
+</r>

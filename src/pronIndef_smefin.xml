@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="pron" type="indef">buohkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>ihmisistä</re>
+            <t pos="pron">kaikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">buot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">kaikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">eará</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">muu</t>
+            <t pos="pron">eri</t>
+            <t pos="pron">muuta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">goabbat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">kumpikin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">guktot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">molemmat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">iešguđet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">itsekukin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">iežá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">muut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">juoga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">jotakin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">juohke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">joka</t>
+            <t pos="pron">jokainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">juoidá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">jotakin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">maidege</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>neg.</re>
+            <t pos="pron">mitään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">mihkkige</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">mikään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">moanat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">useat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">muhtun</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">joku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">olus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">juurikaan</t>
+            <t pos="pron">paljonkaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">seamma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">sama</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">seammá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">samoin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">váháš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">vähän</t>
+         </tg>
+      </mg>
+   </e>
+</r>

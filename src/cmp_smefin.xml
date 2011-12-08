@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="cmp">njuolggo-</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cmp">suora</t>
+            <t pos="cmp">suorat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cmp">nurke-</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cmp">nurkka-</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cmp">smarfe-</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cmp">kiharainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cmp">vuoste-</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cmp">vasta-</t>
+         </tg>
+      </mg>
+   </e>
+</r>

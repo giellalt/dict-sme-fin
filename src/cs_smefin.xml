@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="cs">ahte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">että</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">amas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">outo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">go</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">kun</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="cs">kuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">jos</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">jos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">juogo</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">joko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">juos</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">jos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">nugo</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">niin kuin</t>
+            <t pos="cs">kuten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">ovdalgo</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">ennen kuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">vaikko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">vaikka</t>
+         </tg>
+      </mg>
+   </e>
+</r>

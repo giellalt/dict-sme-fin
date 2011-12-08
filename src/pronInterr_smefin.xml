@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="pron" type="interr">gii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">kuka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="interr">goabbá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">kumpi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="interr">makkár</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">millainen</t>
+            <t pos="pron">minkälainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="interr">makkáraš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">millainen</t>
+            <t pos="pron">minkälainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="interr">mii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">mikä</t>
+         </tg>
+      </mg>
+   </e>
+</r>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="pr">badjel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pr">yli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">birra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pr">ympäri</t>
+            <t pos="pr">ympärillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">maŋŋá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pr">jälkeen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">ovdal</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pr">ennen</t>
+            <t pos="pr">aikaisemmin</t>
+         </tg>
+      </mg>
+   </e>
+</r>

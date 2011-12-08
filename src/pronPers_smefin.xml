@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="pron" type="pers">dat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">se</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>puhek.</re>
+            <t pos="pron">hän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">dii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">te</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">doai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">te kaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">don</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">sinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">mii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">me</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">moai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">me kaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">mun</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">minä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">sii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">he</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">soai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">he</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">son</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hän</t>
+         </tg>
+      </mg>
+   </e>
+</r>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">kuka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">kuka</t>
+            <t pos="pron">joka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">mii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">mikä</t>
+         </tg>
+      </mg>
+   </e>
+</r>

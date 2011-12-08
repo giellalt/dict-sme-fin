@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="cc">ahte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">että</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dahe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">taikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dahje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">taikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">daihe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">taikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">daikke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">taikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">ja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">ja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">muhto</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">mutta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">vaikke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">vaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">vaikko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">vaikka</t>
+         </tg>
+      </mg>
+   </e>
+</r>

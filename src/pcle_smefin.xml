@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="pcle">aitto</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pcle">-pa</t>
+            <t pos="pcle">-pä</t>
+            <t pos="pcle">-han</t>
+            <t pos="pcle">-hän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pcle">ammal</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pcle">juo</t>
+            <t pos="pcle">kyllä kai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pcle">goit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pcle">kuitenkin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pcle">ainakin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pcle">goittotge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pcle">kuitenkin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pcle">ainakin</t>
+         </tg>
+      </mg>
+   </e>
+</r>

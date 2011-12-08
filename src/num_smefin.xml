@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sme">
+   <e>
+      <lg>
+         <l pos="num">beannot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">puolitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">galle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">montako</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">golbma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">guhtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">kuusi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">guokte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">kaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">gávcci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">kahdeksan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">logi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">kymmenen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">moadde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">muutama</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">máŋga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">moni</t>
+            <t pos="num">monta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">njeallje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">neljä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">okta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">yksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">ovcci</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">yhdeksän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">vihtta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">viisi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">čieža</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">seitsemän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">čuođi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">sata</t>
+         </tg>
+      </mg>
+   </e>
+</r>
