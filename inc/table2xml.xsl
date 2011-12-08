@@ -35,6 +35,8 @@
   <xsl:variable name="qm" select="'&#34;'"/>
   <xsl:variable name="cm" select="','"/>
   <xsl:variable name="debug" select="true()"/>
+  <xsl:variable name="slang" select="'sme'"/>
+  <xsl:variable name="tlang" select="'fin'"/>
 
   <!-- input file, extention of the output file -->
   <xsl:param name="inFile" select="'smefin.csv'"/>
@@ -61,7 +63,7 @@
 	<xsl:variable name="file" select="unparsed-text($inFile)"/>
 	<xsl:variable name="file_lines" select="distinct-values(tokenize($file, $nl))" as="xs:string+"/>
 	<xsl:variable name="dict" as="element()">
-	  <r>
+	  <r xml:lang="{$slang}">
 	    <xsl:for-each select="$file_lines">
 	      <xsl:variable name="normLine" select="normalize-space(.)"/>
 	      <xsl:analyze-string select="$normLine" regex="{$rgx}" flags="s">
@@ -115,6 +117,7 @@
 			</xsl:if>
 		      </xsl:variable>
 		      <mg>
+			<!--tg xml:lang="{$tlang}"-->
 			<tg>
 			  <xsl:if test="not($current_re = '')">
 			    <re>
@@ -126,7 +129,7 @@
 			    <xsl:if test="not($current_t = '')">
 			      <xsl:variable name="t_info" select="normalize-space(substring-before(substring-after($current_t, $rbl), $rbr))"/>
 			      <xsl:if test="not($t_info = '')">
-				<t>
+				<t pos="{$pos}">
 				  <xsl:attribute name="info">
 				    <xsl:value-of select="$t_info"/>
 				  </xsl:attribute>
@@ -134,7 +137,7 @@
 				</t>
 			      </xsl:if>
 			      <xsl:if test="$t_info = ''">
-				<t>
+				<t pos="{$pos}">
 				  <xsl:value-of select="$current_t"/>
 				</t>
 			      </xsl:if>
