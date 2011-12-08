@@ -7,7 +7,6 @@ lemma_PoS_re # t (te), t, t (te); t (te), t, t; re # t, t (te)
 
 Andre eksempel:
 
-lemma_PoS_t
 lemma_PoS_t ; t
 lemma_PoS_t ; re # t, t
 lemma_PoS_re # t
