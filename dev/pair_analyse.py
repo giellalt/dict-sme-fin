@@ -301,6 +301,7 @@ def main(left, right):
     _input = []
     for line in sys.stdin.readlines():
         _l = line.strip().decode('utf-8')
+        chunk = []
         if _l:
             _s = _l.split('\t')
             if len(_s) == 2:
@@ -309,7 +310,6 @@ def main(left, right):
                 _fmt = "* Funky input line %s" % _l
                 print >> sys.stdout, _fmt.encode('utf-8')
                 continue
-            chunk = []
             for _r in right.split('& '):
                 analysis = [
                     left,
@@ -317,7 +317,7 @@ def main(left, right):
                     left_analyser.prepare(left),
                     right_analyser.prepare(right),
                 ]
-                chunk.append(analysis)
+            chunk.append(analysis)
             _input.append(chunk)
 
     # Analyze
