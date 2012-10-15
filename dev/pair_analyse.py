@@ -297,16 +297,6 @@ def main(left, right):
                               'R',
                               tag_clean_right)
 
-    # NOTE: test
-    # test_list = [
-    #     ["addálas", left_analyser.prepare("addálas")],
-    #     ["omgbbq", left_analyser.prepare("zomgbbq")],
-    #     ["addálas", left_analyser.prepare("addálas")],
-    # ]
-    # left_analyser.run()
-    # print left_analyser.getResult('L-0', True, True)
-    # sys.exit()
-
     # Collect lemmas
     _input = []
     for line in sys.stdin.readlines():
@@ -314,67 +304,72 @@ def main(left, right):
         if _l:
             _s = _l.split('\t')
             if len(_s) == 2:
-                left, right = _l.split('\t')
+                left, right = _s
             else:
-                print >> sys.stderr, "* Funky line %s" % _l
-            analysis = [
-                left,
-                right,
-                left_analyser.prepare(left),
-                right_analyser.prepare(right),
-            ]
-            _input.append(analysis)
+                _fmt = "* Funky input line %s" % _l
+                print >> sys.stdout, _fmt.encode('utf-8')
+                continue
+            chunk = []
+            for _r in right.split('& '):
+                analysis = [
+                    left,
+                    right,
+                    left_analyser.prepare(left),
+                    right_analyser.prepare(right),
+                ]
+                chunk.append(analysis)
+            _input.append(chunk)
 
     # Analyze
     left_analyser.run()
     right_analyser.run()
 
+    parts = "%(left)s\t%(rights)s\t%(left_pos)\t%(right_pos)s"
+
     # Insert analyses
-    analyzed = []
-    for left, right, left_id, right_id in _input:
-        _err = ""
-        # False if nothing.
-        left_analysis = left_analyser.getResult(left_id,
-                                                clean=True,
-                                                matchOnly=True)
-        right_analysis = right_analyser.getResult(right_id,
-                                                  clean=True,
-                                                  matchOnly=True)
+    for chunk in _input:
 
-        left_has = left_analysis.get('out').get('analyses')
-        right_has = right_analysis.get('out').get('analyses')
+        left_lemma = ''
+        right_lemmas = []
+        left_pos = '?'
+        right_poses_all = []
 
-        if left_has:
-            left_tags = list(set([a.get('tag') for a in left_has]))
-        else:
-            left_tags = False
+        for left, right, left_id, right_id in chunk:
+            left_lemma = left
+            right_lemmas.append(right)
+            # False if nothing.
+            left_analysis = left_analyser.getResult(left_id,
+                                                    clean=True,
+                                                    matchOnly=True)
+            right_analysis = right_analyser.getResult(right_id,
+                                                      clean=True,
+                                                      matchOnly=True)
 
-        if right_has:
-            right_tags = list(set([a.get('tag') for a in right_has]))
-        else:
-            right_tags = False
+            left_has = left_analysis.get('out').get('analyses')
+            right_has = right_analysis.get('out').get('analyses')
 
-        _err = ""
-        if left_tags and right_tags:
-            _union = set(left_tags) & set(right_tags)
-            if len(_union) == 0:
-                _err = "? pos mismatch ([%s] | [%s]) - " % (', '.join(left_tags), ', '.join(right_tags))
-                left_pos = '?'
+            if left_has:
+                left_tags = list(set([a.get('tag') for a in left_has]))
+                left_pos = '|'.join(left_tags)
             else:
-                if len(_union) > 1:
-                    _err = "? multiple matches ([%s] | [%s]) - " % (', '.join(left_tags), ', '.join(right_tags))
-                left_pos = list(_union)[0]
-        elif not left_tags:
-            _err = "? no analysis on left - "
-            if not right_tags:
-                left_pos = ' ? '
-            else:
-                left_pos = right_tags[0]
-        elif not right_tags:
-            left_pos = left_tags[0]
-            _err = "? no analysis on right - "
+                left_tags = False
+                left_pos = '+?'
 
-        _fmt = u"%(_err)s%(left)s_%(left_pos)s_%(right)s" % locals()
+            if right_has:
+                right_tags = list(set([a.get('tag') for a in right_has]))
+                right_poses_all.append('& '.join(right_tags))
+            else:
+                right_tags = False
+                right_poses_all.append('+?')
+
+            _err = ""
+
+        if len(right_poses_all) > 0:
+            right_pos_ = ' '.join(list(set(right_poses_all)))
+        else:
+        	right_pos_ = '+?'
+
+        _fmt = left_lemma + '\t' + '& '.join(right_lemmas) + '\t' + left_pos + '\t' + right_pos_
         print >> sys.stdout, _fmt.encode('utf-8')
 
 
