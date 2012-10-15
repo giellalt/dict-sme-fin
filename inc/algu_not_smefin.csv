@@ -175,10 +175,10 @@ allii	hänelle
 allodat	korkeus
 állohallat	kallistella (esim. päätään)
 allosaš	korkuinen
-álloset	älkööt (pl.)
-álloska	älkööt (du.)
-állos	älköön
-állu	älkäämme (du.)
+alloset	älkööt (pl.)
+alloska	älkööt (du.)
+allos	älköön
+allu	älkäämme (du.)
 almmaiduvvat	ilmaantua
 almmáiduvvat	miehistyä
 almmáilaš	miehekäs
@@ -205,7 +205,7 @@ analogiija	analogia
 Anár	Inari
 anatomiija	anatomia
 ándagassii	anteeksi
-anekeahttái	anẹkeahtẹs: käyttämätön
+anekeahttá	anẹkeahtẹs: käyttämätön
 anemiija	anemia
 áŋggašit	kaivata (kovasti)
 áŋggaštit	kaivata (kovasti)
@@ -218,7 +218,7 @@ annes	annas
 ánodit	pyytää anteeksi toisiltaan (erit. syntejä)
 ánsikta	kasvot
 ánssášit	ansaita
-ánssáškeahttái	ánssáškeahtẹs: ansaitsematon
+ánssáškeahttá	ánssáškeahtẹs: ansaitsematon
 ánssolaš	ansiokas
 ánsu	ansio
 anteanna	antenni
@@ -459,7 +459,8 @@ bajásdoallat	ylläpitää
 bajásgeassit	kasvattaa
 bajásráhkadus	ylösrakennus
 bajit	ylempi
-bajus	bajuš: yläosa& (verkon) koho
+bajuš	yläosa& (verkon) koho
+badjosat	i høyden	XXX
 bákkolaš	pakollinen
 bákkuhit	pakottaa
 bakku	pyy
@@ -576,8 +577,8 @@ bážan	ampuma-ase
 bážašit	ammuskella (vähän)
 bažašit	lypseskellä
 bážas	(luodista) haavoittunut
-bážekeahttái	bážẹkeahtẹs: ampumaton
-bažekeahttái	bažẹkeahtẹs: lypsämätön
+bážekeahttá	bážẹkeahtẹs: ampumaton
+bažekeahttá	bažẹkeahtẹs: lypsämätön
 bážestit	ampua (vähän ja nopeasti)
 bázestit	jäädä (vähän) jälkeen
 bažestit	lypsää (vähän)
@@ -642,7 +643,7 @@ beargalat	paha henki& perkele (kirosana)
 bearragoddi	perhekunta
 bearrat	periä (maksu tms.)& sukeutua
 bearri	perinnöllinen sairaus
-beasakeahttái	beasakeahtẹs: ripillä käymätön
+beasakeahttá	beasakeahtẹs: ripillä käymätön
 beasihit	päästä (yhtäkkiä)
 beaskidahttit	kerityttää (esim. lampaita)& soveltua kerittäväksi
 beaskká-	keritty
@@ -1004,7 +1005,8 @@ buoiddat	paksukainen
 buoiddeheapme	rasvaton& vähärasvainen
 buoidudit	lihottaa
 buoidut	lihoa
-buokčagas	(lok.) sukelluksissa& (ill.) sukelluksiin
+buokčagassii	sukelluksiin
+buokčagasas	sukelluksissa
 buokčat	sukeltaa
 buolát	puola
 buolbmágaš	pulmankilainen
@@ -1036,7 +1038,7 @@ buoska	pieru& penska
 buoskár	puoskari
 buoskáruššat	puoskaroida
 buoššudit	paaduttaa
-buotdin	kaikki tyynni
+buotdin	kaikki tyynni	XXX
 buotnjomuš	kastike
 buotnjuladdat	kastella (jssak useita kertoja)
 buotnjulit	kastaa (nopeasti jssak)
@@ -1070,7 +1072,6 @@ buvttašit	tuoda (vähin erin)
 buvttestit	tuoda (nopeasti)
 buvvánaddat	kuristua (silloin tällöin)
 buvvedat	tylli
-börsa	pörssi
 čabadat	pakkanen (leudon ilman jälkeen)
 čába	kaunis
 čábbe	kaunokainen
@@ -1132,7 +1133,8 @@ cápmašit	pehmitellä (kenkäheiniä tms.) vähin erin
 čárvá	koura& ote
 čáskat	sammua (ei yhtäkkiä)& vaimeta
 časkin-	časkinbárru: iskuaalto
-čatnagas	čatnagasas (lok.): sidoksissa& čatnagassii (ill.): sidoksiin
+čatnagasas	sidoksissa
+čatnagassii	sidoksiin
 čatnasmeahttun	sitoutumaton
 čatnašuvvat	sitoutua& joutua sidotuksi& liittyä
 čátná	(taula)kääpä
@@ -1806,7 +1808,8 @@ duhastit	tuulastaa
 duhát	tuhat
 duhkaraddi	leikkijä
 duhkká	nukke
-duhkodat	(lok.) ulottuvilla& (ill.) ulottuville
+duhkodagas	ulottuvilla
+duhkodahkii	ulottuville
 duhkoraddat	leikkiä
 duhkoraddi	leikkijä
 duhkorahkes	leikkisä
@@ -1832,14 +1835,15 @@ dulppagit	tylpistyä
 dulppas	tylppä
 dulppil	tylppänä (väliaikaisesti)
 dulppul	tylppänä (väliaikaisesti)
-dulpu	tylppä
+dulpu	tylppä XXX  dulpi
 dulvi	tulva
 dumá	tuuma (mitta)
 dumpái	sammaltava
 dumpet	reputtaa (kokeessa)
 dumssagit	vanua
 dumsui	vanuttuva
-duŋgadas	(ill.) tönköksi
+duŋgadassii	tönköksi
+duŋgasii	tönköksi
 duŋgá	tunkio
 duobbeliidda	jonkin verran tuonnemmas
 duobbelii	tuonnemmas
@@ -1854,13 +1858,16 @@ duoggudit	takkuunnuttaa
 duoggut	takkuuntua
 duogurdit	leikkiä
 duogur	leikki
-duohččagas-	(lok.) säästössä& (ill.) säästöön
-duohččas	(lok.) säästössä& (ill.) säästöön
+duohččagasas	säästössä
+duohččagassii	säästöön
+duohččasii	säästöön
+duohččasis	säästössä
 duohččat	säästää
 duohčču	säästö
 duohko	tuonne
 duohpi	huopa (aines)& vanutus (tila)
-duohttá	todella
+duohttáge	todella
+duohttige	todella
 duoid-duohko	sinne tänne
 duojáldat	teelmä
 duokkas	takkuuntuva& rujo
@@ -2144,7 +2151,8 @@ gahtte	kiehkuraishylje
 gáhtu	katumus
 gaibadit	varustaa lipalla
 gaiba	lippa
-gáidagas	(lok.) loitolla& (ill.) loitos
+gáidagasas	loitolla
+gáidagassii	loitos
 gaigŋir	kyynärpää
 gaikánit	repeytyä
 gáimmeš	gáimmežat: kaimakset
@@ -2225,7 +2233,7 @@ gárssil	epätasaiseksi revitty (kankaasta)
 gártnit	sotamies (korteissa)
 gárvásii	valmiiksi
 gášan	kailottaja
-gas	gas cō: puskii (koiralle)
+gas cō: puskii (koiralle) XXX
 gasit	paksulti lunta
 gaškát	pötköttää (pitkänään)
 gaskkalduhttit	keskeyttää
@@ -2289,7 +2297,8 @@ geaidut	kääntää (silmät)
 geaiggagit	ojentua (suoraksi) alkaa sojottaa
 geainnohisvuohta	tiettömyys& neuvottomuus
 gealddáhat	virike
-geallagas	(lok.) kiillotettuna& (ill.) kiillotetuksi
+geallagasas	kiillotettuna
+geallagassii	kiillotetuksi
 gealli	kela (nuotanvedossa)
 geallit	kelata (nuottaa)
 gealva	kaulin
@@ -2562,7 +2571,8 @@ guita	sujut
 guittidit	kuitata
 gulahit	saada kuulemaan& kuuluttaa (erit. avioliittoon)
 gulahus	kuulutus
-gulámuddu	(lok.) kuuloetäisyydellä& (ill.) kuuloetäisyydelle
+gulámuddui	kuuloetäisyydelle
+gulámuttos	kuuloetäisyydellä
 gulaskuddat	tiedustella
 gulbmi	silmäkulma
 gulca	puukonnysä
@@ -2581,7 +2591,8 @@ guobaldat	poimutus& pussinmuotoinen osa naistenlakissa
 guoddalit	kannella
 guoddi	kantaja& vasoja
 guodja	(saraheinän) käpy
-guoggaras	(lok.) kyyryssä& (ill.) kyyryyn
+guoggarasas	kyyryssä
+guoggarassii	kyyryyn
 guoggaruššat	kyyrötellä
 guoggát	olla kyyryssä
 guoggi	kyyry olio
@@ -2597,7 +2608,7 @@ guohpput	homehtua
 guohttelus	kiila (peskissä kaula-aukon kahden puolen)
 guohttu	halukas laiduntamaan
 guoika	koski
-guoikʼgáhrit	koskikara
+guoikgáhrit	koskikara
 guoirat	laihtua (kovasti)& masentua (vastoinkäymisistä)
 guoksa	maiti
 guoktánit	saada synnytetyksi& päästä nalkista (parittelevista koirista)
@@ -2658,7 +2669,7 @@ guškkástat	(pikku)kuovi
 gušmmus	jäykkä& karski
 gussagoalsi	isokoskelo
 gussolas	jolle usein tarjotaan
-guvʼčalbmi	pienisilmäisin sallittu verkko (lohipadossa)
+guvʼčalbmi	pienisilmäisin sallittu verkko (lohipadossa) XXX
 guvhllas	kuhmuinen
 guvllár	puoskari
 guvrát	seistä tai istua selkä köyryssä
@@ -2676,7 +2687,8 @@ háhká	puna-ahven
 háhku	aie
 hahppit	pulputtaa
 háhtádus	kiusankappale
-háhtis	(ill.) ahtaalle& (lok.) ahtaalla
+háhttásii	ahtaalle
+háhttásis	ahtaalla
 hahttá	ilman
 háikkašit	hihkua (vähän kerrallaan)
 háissas	haiseva
@@ -2810,13 +2822,14 @@ hearvás	ihana& hearvásin dahkat: kirkastaa (rel.)
 hearvát	näyttää koristeelliselta
 hearvvahit	koristella
 heasttahas	hevosmies
-heavsmán	kapteeni
+heavsmánni	kapteeni
 heavuš	hevonen
 heavvalastit	höylätä
 heavval	höylä
 hebreálaš	heprealainen
 heđen	sikiö& hedelmä
 heggeš	sitkeähenkinen
+hegges	sitkeähenkinen
 hehttehus	este& haitta& häiriö
 hehttot	joutua& täytyä (impers.)
 heidnet	hioa (hiomakivellä)
@@ -2846,7 +2859,7 @@ hihttát	hiihtää
 hihtut	hidastua
 hiistalit	lyödä vetoa& lyödä vetoa (keskenään)
 hiistu	veto (vedonlyönti)
-hilbbut	hilbbot: villikko (eläimistä)
+hilbbot	villikko (eläimistä)
 hilcasaddat	huikennella (tytöstä)
 hilcudit	huikennella (tytöstä)
 hilcu	tytönhattara
@@ -2967,7 +2980,7 @@ ilmmiid álmmiid	turhan päiten
 imašlaš	ihmeellinen
 imaštit	ihmetellä (jtak)
 Ipmilaš	Ipmilažžan: rakas Jumala(ni)
-ipmiltis	jumalattoman
+ipmilhis	jumalattoman
 ipmirdahtti	ymmärrettävä
 irvi	saukon pesäkolo
 iskkadeaddji	tiedustelija
@@ -3018,7 +3031,7 @@ jámolaš	kuolevainen
 jánas	kutistunut (nahasta tai nahkaisista vaatteista)
 jaŋašit	pitää rutikuivana
 jaŋas	rutikuiva
-jánnoar	jánovár: tammikuu
+jánovár	tammikuu
 jápmán	kuollut
 jápmemeahttun	kuolematon
 jápmigoahtit	olla kuolemaisillaan
@@ -3244,7 +3257,7 @@ kurva	kori
 kusta	harja (puhdistamiseen)
 kuvlla	kuula
 kviteret	kuitti
-kyš	hus hus
+kyš kyš	hus hus
 lábástat	purjeneula
 labezahttit	lentää (maan pintaa myöten)
 labmát	lymytä (jssak)
@@ -3275,9 +3288,11 @@ láhpa	sarventyvi (josta sarvi kasvaa)& kavennus (neuleessa)
 lahpat	leikata (kuivattavaa tai savustettavaa lihaa pituussuuntaan)
 láhpehit	kadottaa (näkyvistään)
 lahpis	(ihmis)kirppu
-láhppagas	(lok.) kadoksissa& (ill.) kadoksiin
+láhppagasas	kadoksissa
+láhppagassii	kadoksiin
 lahppasit	hengästyä
-láhpus	(lok.) kadoksissa& (ill.) kadoksiin
+láhpposis	kadoksissa
+láhpposii	kadoksiin
 lahtta	(tukki)lautta
 lahttet	lautata (tukkeja)& tehdä lautta
 láhtu	lato
@@ -3385,12 +3400,13 @@ lievhnu	lauha sää
 lihkastahttit	liikauttaa
 lihkuheapme	onneton
 lihkuhisvuohta	onnettomuus
-lihpebadji	(lok.) jonkin matkan päässä (edellä tai perässä liikkuvasta)& (ill.) jonkin matkan päähän (edellä tai perässä liikkuvasta)
+lihpebajis	jonkin matkan päässä (edellä tai perässä liikkuvasta)
+lihpebadjái	jonkin matkan päähän (edellä tai perässä liikkuvasta)
 lihppet	heinittää (kenkä jalalle sopivaksi)
 lihtor	peto (muu kuin karhu)
 liibma	liima
 liidna	pitkäsiima
-liidnʼelláš	västäräkki
+liidnelláš	västäräkki
 liiggálaš	erikoinen& liiallinen
 liika	ruumis
 liikkastuvvat	kalveta (kuolemankalpeaksi)
@@ -3584,7 +3600,8 @@ mánnat	ilkkua& petkuttaa
 mannet	kerätä munia& munia
 manni	menijä& menevä
 manni	muna
-mannolat	(lok.) kulkeilla& (ill.) kulkeille
+mannolagas	kulkeilla
+mannolahkii	kulkeille
 mánnosaš	kuukauden vanha& -kuinen
 márahat	tyrsky& (suuren porotokan tai ihmisjoukon) kulkujälki
 máran	huutaja (lapsesta)
@@ -3615,6 +3632,7 @@ mealláduvvat	nääntyä (raskaasta työstä)
 mealli	mela& rasvaevä
 meallut	meloa
 mearamus	lähimpänä merta oleva
+mearamuš	lähimpänä merta oleva
 mearat	lähempänä merta oleva
 mearkadit	merkitä
 mearkkastat	merkintä
@@ -3871,7 +3889,8 @@ njággu	kenosarvi (porovaatimesta)& sutjakka olio (esine tai eläin)
 njahkahastit	nikotella
 njahkanas	nikotus
 njahkastit	nikotella
-njahpas	(lok.) koukkuun tarttuneena muusta kohdasta kuin suustaan (kalasta)& (ill.) ...tarttuneeksi...
+njahppasis	koukkuun tarttuneena muusta kohdasta kuin suustaan (kalasta)
+njahppasii	...tarttuneeksi...
 njahpastit	koukata (kala pelkällä koukulla ilman varsinaista viehettä)
 njahppit	nykiä (narusta tms.)
 njáikkas	jossa on ulkonemia
@@ -4266,9 +4285,9 @@ ovddimustá	aikaisintaan& ensimmäisenä& pikimmin
 ovstalii	idemmäs
 ovsttán	itätuuli
 ovsttas	itään (päin)
-ovttot	ovttot ládje: aina vain
+ovttot ládje	aina vain
 ozadit	etsiskellä
-páhkkašuvvat	paakkuuntua
+páhkkašuvvat	paakkuuntua XXX
 pálbmamuorra	palmupuu
 pálbma	palmunoksa
 pánta	pantti
@@ -4276,21 +4295,20 @@ pántet	pantata
 párragoddi	pariskunta
 pássa	passi
 pássár	harppi
-peaila	neljänneslitran mitta
-pe	p-kirjain
+peaila	neljänneslitran mitta	XXX
 persovnnalaččat	henkilökohtaisesti
 pláŋkosahá	lankkusaha
 plásttar	laastari
 plokka	aura
 plokket	aurata
 prámá	proomu
-preantár	kirjanpainaja
-preanttidit	painaa (kirjoja)
+preantár	kirjanpainaja	XXX
+preanttidit	painaa (kirjoja)	XXX
 prentedit	kirjoittaa painokirjaimia
 prentet	painaa (kirjoja)
 proavás	rovasti
-profeittá	profeetta
-provsta	rovasti
+profehta	profeetta
+provsta	rovasti		XXX
 pumpa	pumppu
 pumpet	pumpata
 rábát	rapakko
@@ -4493,7 +4511,6 @@ riehppi	(vaikeapääsyinen) laakso
 riehtet	vuotakenkä
 riehtis	rietas (kirosana)& piru
 riehtti	vuota
-rieivalit	(ei Sammallahdella)
 riejihit	rähähtää
 riektat	oiustua (ajoporosta)
 riektat	suorasyinen
@@ -4544,7 +4561,7 @@ rimssas	resuinen
 rinčát	olla jssak puolialastomana
 rinččas	puolialaston
 rinčut	mennä jnnek puolialastomana
-rindeozai	takinrintamus auki repsottaen
+rindeozaid	takinrintamus auki repsottaen
 riŋga	uuninrengas
 riŋggal	rinkeli
 rinzzas	pallovatsainen
@@ -4578,7 +4595,7 @@ roakkas	karhea& möreä (äänestä)
 roandit	harsia
 roaski	roska
 roaskut	roskaantua
-roašmi	roašmẹvihki ˈspitaaliˈ
+roašmẹvihki ˈspitaaliˈ XXX
 roassa	tuulenpuuska
 roassu	poropeukalo (joka rikkoo tavaransa)
 roastil	uskalias
@@ -4663,7 +4680,7 @@ runzet	mässäillä
 ruobbái	rupinen
 ruobbá	rupinen ihminen tai eläin
 ruobbi	rupi
-ruobbʼoaivi	rupipää
+ruobboaivi	rupipää
 ruođat	muikku
 ruodjadit	metelöidä
 ruodjat	metelöidä
@@ -4840,7 +4857,7 @@ sáŋgár	sankari& miekkonen
 sáŋgá	sankapuu (heinäsaurassa)& puuämpärin sanka
 sáppat	saapas
 sárahat	suonisäiekimppu
-sarat	(vain yhdyssanassa saratáldu)
+saratáldu	(vain yhdyssanassa saratáldu) XXX
 sarčut	hypellä (erit. varislinnuista)
 sárdi	kylkiluu (lihoineen)& kangaskaista (louteessa)& maksasuikale (keitettäväksi)
 sárdnái	puhelias& taitava saarnaamaan
@@ -4892,6 +4909,7 @@ seahkot	nutukas (jossa reunakappale ulottuu kengän nokkaan saakka)
 seahppái	jolla on iso etuselkä (eläimestä)
 seaila	sinetti& sinettivaha
 seainnabealle	seinän puoli
+seainnebealle	seinän puoli
 seaisat	seistä jököttää
 seaivut	laskeutua (lennosta)
 seakkalággá	lynkkysuoli
@@ -5449,7 +5467,8 @@ sobus	kaluttava liha (luussa)
 šođbbodit	tulla siro(mma)ksi
 šođbbut	siro ihminen tai esine
 soddi	heittonuoli& (jalkajousen) vasama
-sodjagas	sodjagasas: painuksissa& sodjagassii: painuksiin
+sodjagasas	painuksissa
+sodjagassii	painuksiin
 sodjalahttit	taivuttaa (äkkiä tai kerran)
 sodnjái	riippaoksainen& roikkuvavaatteinen& rimsuvaatteinen
 sodnjánit	lähteä löntystämään
@@ -5464,7 +5483,7 @@ soidadit	laimentaa
 soidnár	vitkuttelija
 sojaheapme	taipumaton
 sojaldahttit	taivuttaa (nopeasti tai kerran)
-šokča	jäniksenansa
+šokčá	jäniksenansa
 sokkehas	mielellään (kodan) loukossa oleileva
 soktaluvvat	vaahtoutua
 šolget	sulattaa (juoksevaksi)
@@ -5538,7 +5557,7 @@ spiehkkasit	poiketa
 spielastit	alkaa tuulla heikosti
 spiella	tuulenvire
 spierru	kalaparvi (esim. seiparvi)
-spierta	(SSS vain yhdyssanoissa)
+spiertačáhppat	kullsvart XXX
 spihčá	piiska
 spihkašuvvat	suolaantua (kuivaksi)
 spihket	suolata (kuivasuolaan)
@@ -5643,6 +5662,7 @@ storbmet	nostaa myrsky& hyökätä (jkn kimppuun)
 stovla	tuoli& (pl.) (kangaspuiden) reidet
 streaŋga	metallilanka
 streaŋggár	ankara (ihminen)
+sreaŋggár	ankara (ihminen)
 streŋget	kovistella (ankarasti)
 stroaŋggis	ankara
 strubistit	srubistit ’hörpätä’
@@ -6074,6 +6094,7 @@ veastalii	lännemmäs
 veasta	liivit
 veastal	lännempää (ohi)
 veasttamus	läntisin
+veasttamuš	läntisin
 veasttas	länteen
 veattáhat	vennepaikka
 veattat	liekaporo
@@ -6149,7 +6170,7 @@ vildu	villikko
 vilgesoairássi	tupasvilla
 vilgesskuolfi	tunturipöllö
 villat	sännätä
-villavággu	(lok.) vahingossa
+villavákkus	vahingossa
 vilpa	kepponen
 vilppádit	vilkaista
 vilppastit	vilkaista
@@ -6240,11 +6261,11 @@ vuorbádus	arvonta
 vuorbi	arpa& kohtalo
 vuorčámuorji	variksenmarja
 vuorččis	varis
-vuordagas	(lok.) odotettavissa
+vuordagasas	odotettavissa
 vuordálas	joka odottaa kovasti
 vuorda	(vahva) suolaliemi
 vuorddáhas-	jota on jouduttu kauan odottamaan
-vuorddáhus	jota on jouduttu kauan odottamaan
+vuorddáhus-	jota on jouduttu kauan odottamaan
 vuorddildit	odotella
 vuordevaš	kärsivällinen (odottamaan)& odottavalla kannalla oleva& toiveikas
 vuordilit	odottaa (vähän)
