@@ -313,11 +313,11 @@ def main(left, right):
             for _r in right.split('& '):
                 analysis = [
                     left,
-                    right,
+                    _r,
                     left_analyser.prepare(left),
-                    right_analyser.prepare(right),
+                    right_analyser.prepare(_r),
                 ]
-            chunk.append(analysis)
+                chunk.append(analysis)
             _input.append(chunk)
 
     # Analyze
@@ -365,7 +365,10 @@ def main(left, right):
             _err = ""
 
         if len(right_poses_all) > 0:
-            right_pos_ = ' '.join(list(set(right_poses_all)))
+            right_pos_ = list(set(right_poses_all))
+            if '+?' in right_pos_ and len(right_pos_) > 1:
+            	right_pos_ = [a for a in right_pos_ if a != '+?']
+            right_pos_ = '& '.join(right_pos_)
         else:
         	right_pos_ = '+?'
 
