@@ -10,7 +10,8 @@ beaskká-	keritty	A	A
 silát	silavaljaat	Npl	Npl
 ristejaččat	ristiäiset	Npl	Npl
 dearbastihkka	heiluri	N	N
-harcabáddi	hirttoköysi& harcamuorra	hirsipuu	N	N
+harcabáddi	hirttoköysi	N	N
+harcamuorra	hirsipuu	N	N
 hálbma	olki	N	N
 lovttačáhci	liotusvesi (karvojen irrottamiseksi taljasta)	N	N
 čiehččalogi	seitsemänkymmentä	Num	Num
@@ -28,7 +29,8 @@ riemut (pl.)	ˈjuhlatˈ& riepmo- ˈjuhla-ˈ	Npl	Npl
 goađelutolmmoš	kotimies (kodalla oleva)	N	N
 gávllubealli	vasen puoli (ajoporolla)	N	N
 urkádeahkki	hauislihas (porolla)	N	N
-gárremaččain	hiprakassa& gárremaččaide	hiprakkaan	Adv	Adv
+gárremaččain	hiprakassa	Adv	Adv
+gárremaččaide	hiprakkaan	Adv	Adv
 ráhkkásaččat	rakastavaiset	Npl	Npl
 gálojenežat	kälykset (veljesten tai serkusten vaimot keskenään)	Npl	Npl
 lávežat	ystävykset	Npl	Npl
@@ -39,7 +41,7 @@ eallisilba	elohopea	N	N
 riebansilba	katinkulta	N	N
 rimba	vatsanturpoama (karitsoilla)	N	N
 advearba	adverbi	N	N
-nuba	niinpä	+?	Pcle
+nuba	niinpä	Pcle	Pcle
 arába	arabi	N	N
 čába	kaunis	A	A
 cahca	(kapea) kannas& poikkipuu (reen kopassa tai tavara-ahkiossa)	N	N
@@ -65,7 +67,7 @@ buoidda	kärppä	N	N
 dáidda	taide	N	N
 váidda	valitus	N	N
 gieldda	kielto	N	N
-bindda	heittiö& pinne	N	A& N
+bindda	heittiö& pinne	N	N
 boardda	portaat	N	N
 sirdda	siirtymämatka (jutamamatkalla)	N	N
 gudda	hyöty	N	N
@@ -75,7 +77,7 @@ gavdda	riite	N	N
 skavdda	riite	N	N
 bivdda	pyyntö	N	N
 duvdda	tuki& rajoitin	N	N
-čuvdda	löyhkäävä (erit. porohirvaasta rykimäajan jälkeen)& löyhkä	A	A& N
+čuvdda	löyhkäävä (erit. porohirvaasta rykimäajan jälkeen)& löyhkä	A	A
 hávdda	haude	N	N
 fádda	raaka (mastossa)	N	N
 ládda	panos	N	N
@@ -86,7 +88,6 @@ skáida	kaide (kangaspuissa)& linkku	N	N
 muolda	multa	N	N
 ruovdečuolda	ruostesuoni (tahkossa)	N	N
 bálda	vieri	N	N
-oarda	orsi (kalankuivaustelineessä: näiden varassa lepäävät selkoimet)	N	N
 vuorda	(vahva) suolaliemi	N	N
 vuovda	(rinta- ja vatsa)ontelo	N	N
 buvda	kauppa	N	N
@@ -106,7 +107,7 @@ skárfa	merimetso	N	N
 fággálaga	sylipainissa keskenään	Adv	Adv
 guhkkálaga	kaukana toisistaan	Adv	Adv
 obbanaga	kokonaisena	Adv	Adv
-dáhtanaga	juuri tämä	+?	+?
+dáhtanaga	juuri tämä	Adv	Adv
 varasnaga	tuoreeltaan	Adv	Adv
 dalánaga	heti	Adv	Adv
 dálánaga	heti	Adv	Adv
@@ -242,7 +243,6 @@ várka	särky	N	N
 Duiska	Saksa	N	N
 dánska	tanskalainen	A	A
 boska	väinönputki	N	N
-stáluboska	stáloboska: karhunputki	N	N
 buoska	pieru& penska	N	N
 luoska	helmakoriste miehen lapintakissa	N	N
 máska	naamari	N	N
@@ -325,7 +325,6 @@ bisma	piispa	N	N
 ateisma	ateismi	N	N
 alkoholisma	alkoholismi	N	N
 algoritma	algoritmi	N	N
-balsáma	balsámabohppel: palsamipoppeli	N	N
 na	no	Pcle	Pcle& Interj
 heaidna	hiomakivi	N	N
 liidna	pitkäsiima	N	N
@@ -438,7 +437,6 @@ duosa	tuohon	Adv	Adv
 noarsa	mutu (kalalaji)	N	N
 girsa	pukki	N	N
 hirsa	hirsi	N	N
-hirsa	hirssat (pl.): hirssi	N	N
 stálubursa	tuhkelo	N	N
 eassa	ässä (korteissa)	N	N
 boassa	hiirenpesä	N	N
@@ -532,7 +530,7 @@ dialeakta	murre	N	N
 kneakta	sotamies (korteissa)	N	N
 sneakta	poikki (leikattuna)	Adv	Adv
 kreakta	suppilo	N	N
-kreakta	syöpä	N	A& N
+kreakta	syöpä	N	N
 arkiteakta	arkkitehti	N	N
 veakta	vaaka& leiviskä (2 kg:n paino)	N	N
 lakta	liitos	N	N
@@ -551,7 +549,7 @@ kontrákta	sopimus	N	N
 abstrákta	abstrakti	A	A
 vealta	valtti (korteissa)	N	N
 skoalta	(pää)kallo	N	N
-skoalta	kolttasaamelainen	N	A& N
+skoalta	kolttasaamelainen	N	N
 asfálta	asfaltti	N	N
 sakrameanta	sakramentti	N	N
 argumeanta	argumentti	N	N
@@ -638,7 +636,6 @@ civzza	karvas	A|N	A
 čáza	vety	N	N
 čiehča	seiska (pelikorteissa)	N	N
 máddelačča	vähän etelämpää (ohi)	Adv	Adv
-lullelačča	vähän etelämpää (R: idempää) ohi	Adv	Adv
 čuočča	loimi (kangaspuissa)	N	N
 dieđa	tiede	N	N
 mađđa	suuntapiirrin	N	N
@@ -672,7 +669,7 @@ smávvásiid	vähittäin (ostamisesta ja myymisestä)	Adv	Adv
 báikkuid	paikoin	Adv	Adv
 nuoluid	kapaloimattomana (lapsesta)	Adv	Adv
 hiđuid háđuid	hujan hajan	Adv	Adv
-čábbe	kaunokainen	N	A& N
+čábbe	kaunokainen	N	N
 stobe	purkki	N	N
 fihcce	hyi	Interj	Interj
 bihcebáhce	käpy	N	N
@@ -695,13 +692,13 @@ njavge	silokarvainen eläin	N	N
 duohttáge	todella	Adv	Adv
 heŋge	kieleke	N	N
 ovttot ládje	aina vain	Adv	Adv
-jogo ... dahje	joko ... tai	+?	+?
+jogo ... dahje	joko ... tai	CS	CS
 girje	kirjavan koiran nimitys	N	N
 diehke	tänne	Adv	Adv
 sihke	sekä	CC	CC
 eske	äsken	Adv	Adv
 gánske	ehkä	Adv	Pcle
-seainnabealle	seinän puoli	+?	+?
+seainnabealle	seinän puoli	Adv	N
 vivvabealle	vävy (tytärpuolen mies& siskon tai veljen tyttären mies& serkun tyttären mies& langon tyttären mies)	N	N
 eadnebealle	äitipuoli	N	N
 seainnebealle	seinän puoli	N	N
@@ -787,7 +784,7 @@ vearuheapme	veroton	A	A
 asttuheapme	kiireinen	A	A
 suttuheapme	synnitön	A	A
 doaivvuheapme	toivoton	A	A
-dorvvuheapme	turvaton& masentunut	A	A& N
+dorvvuheapme	turvaton& masentunut	A	A
 jođuheapme	luistamaton& huonosti luistava& kaupaksi käymätön& huonosti kaupaksi käyvä	A	A
 skuđuheapme	huono ampumaan	A	A
 bálgáheapme	poluton	A	A
@@ -817,7 +814,7 @@ holve	holvi	N	N
 dorve	torvi	N	N
 sáve	saavi	N	N
 huf	huh	Interj	Interj
-eai	eivät	+?	+?
+eai	eivät	V	V
 miijai	mikin	Pron	Pron
 njabbi	kenosarvi (takakenosarvinen porovaadin)	N	N
 ruobbi	rupi	N	N
@@ -827,14 +824,14 @@ skuibi	(tuohi)suppilo	N	N
 agibeailáibi	elinikäinen elanto	N	N
 bealbi	vesitatar	N	N
 válbi	(epämiellyttävä) sattumus	N	N
-rámbi	rampa	N	A& N
+rámbi	rampa	N	N
 vuorbi	arpa& kohtalo	N	N
 urbi	silmu	N	N
 árbi	perintö	N	N
 beađbi	lapaluu	N	N
 reahcci	(lyhyet) jalat harallaan seisova olio	N	N
 goahcci	neulanen	N	N
-cohcci	houkka	N	A& N
+cohcci	houkka	N	N
 ruhci	törky	N	N
 váigačáhci	vainajan suusta otettu sylki	N	N
 bassančáhci	pesuvesi	N	N
@@ -874,7 +871,6 @@ maŋŋebuoidi	peräsuoli	N	N
 láidi	(veneen) laita	N	N
 ráidi	raitio (talollisten poroja omassa tokassaan hoitava)	N	N
 váidi	ilmiantaja	N	N
-ildi	ildi galle: yllin kyllin	Adv	Adv
 sildi	silli	N	N
 sildi	silta	N	N
 doldi	kulunut kesälaidun	N	N
@@ -905,9 +901,9 @@ bolfi	tuuhea olio tai esine	N	N
 jievjaskuolfi	tunturipöllö	N	N
 vilgesskuolfi	tunturipöllö	N	N
 ránesskuolfi	lapinpöllö	N	N
-jarfi	pullukka	N	A& N
+jarfi	pullukka	N	N
 ráfi	rauha	N	N
-baggi	pullukka	N	A& N
+baggi	pullukka	N	N
 faggi	koukku	N	N
 soaggi	karsta (lampunsydämessä)	N	N
 čoaggi	poimija	N	N
@@ -941,7 +937,7 @@ bajándávgi	sateenkaari	N	N
 čoađgi	telkkä	N	N
 sáđgi	nummi	N	N
 gaŋgi	köntys	N	N
-silbii	jossa on paljon hopeaa	+?	+?
+silbii	jossa on paljon hopeaa	A	A
 okcii	yhdeksän kertaa	Adv	Adv
 tiidii	taikauskoinen	A	A
 ruvdii	korkealaitainen (veneestä)	A	A
@@ -1033,7 +1029,7 @@ buozaheaddji	sairaanhoitaja	N	N
 čájeheaddji	esittävä (esim. taiteesta)	A	A
 ánuheaddji	anoja	N	N
 árbejeaddji	perijä	N	N
-hovdejeaddji	holhooja& vastaava	N	A& N
+hovdejeaddji	holhooja& vastaava	N	N
 čorgejeaddji	siivooja	N	N
 válljejeaddji	valitsija& valitsijamies	N	N
 guhppejeaddji	kuppari	N	N
@@ -1095,7 +1091,7 @@ sahkki	sahki 'rantahyönteinen'	N	N
 miehkki	miekka	N	N
 niehkki	niska (erit. ulkopuoli)	N	N
 riehkki	ajopuu	N	N
-viehkki	juokseva& juoksija	A|N	A& N
+viehkki	juokseva& juoksija	A|N	N
 viehkki	juoksevainen	A|N	A
 dihkki	täi	N	N
 lohkki	kansi	A|N	N
@@ -1124,12 +1120,11 @@ doavki	tyhmä	A	A
 lávki	(ruoka)sipuli	N	N
 lávki	askel	N	N
 faŋki	kurokaulainen olio	N	N
-šoaŋki	ruipelo	N	A& N
+šoaŋki	ruipelo	N	N
 šluŋki	luppakorva	N	N
 dáški	sotku	N	N
 máihli	mahla	N	N
 doavhli	vesirakkula	N	N
-duhkordalli	duhkordalˈli: leikkijä	N	N
 asibealli	kesipuoli	N	N
 dealli	tela (veneelle)	N	N
 gealli	kela (nuotanvedossa)	N	N
@@ -1139,7 +1134,7 @@ sealli	(puissa talvella oleva) lumettomuus	N	N
 nalli	lökäpöksy	N	N
 doalli	pitävä& tenivä	N	A
 silli	siivilä	A|N	N
-čilli	pullukka	N	A& N
+čilli	pullukka	N	N
 buolli	palava	A	A
 fleahkkaguolli	kalliolla kuivattu kala	N	N
 áhpeguolli	syvänmerenkala	N	N
@@ -1178,7 +1173,7 @@ guorbmi	kuorma	N	N
 curbmi	suppusuu	N	N
 krisensurbmi	riisiryyni	N	N
 hubmi	puhuja	N	N
-submi	summa	N	A& N
+submi	summa	N	N
 jábmi	kuoleva	N	A
 gieđbmi	kattila& pannu& sanko	N	N
 eapmi	emi	N	N
@@ -1220,7 +1215,7 @@ adni	käytteliäs	A|N	A
 badni	kehrääjä	N	N
 sealgeeadni	kätilö	N	N
 vadni	venyvä	A	A
-čadni	sitova	A	A& N
+čadni	sitova	A	A
 viedni	taipuvainen tulehtumaan (jänteistä)	A	A
 idni	(pohjan)katinlieko	N	N
 veaidni	vamma	N	N
@@ -1236,7 +1231,7 @@ bierdni	karhunpoika	N	N
 guosttaheavdni	lumikirppu	N	N
 tuvdni	tunkio	N	N
 hámmelheanni	merisaamelaisnainen	N	N
-manni	menijä& menevä	A|N	A& N
+manni	menijä& menevä	A|N	N
 manni	muna	A|N	N
 nanni	sisämaa (porojen kesälaitumena)	N	N
 skuohpponjunni	koukkunokka	N	N
@@ -1302,7 +1297,7 @@ gussagoalsi	isokoskelo	N	N
 vuoktagoalsi	tukkakoskelo	N	N
 soalsi	kuola	N	N
 nursi	tylppä esine	N	N
-dársi	pullukka	N	A& N
+dársi	pullukka	N	N
 beassi	pesä	N	N
 beassi	tuohi	N	N
 albmeassi	taivaankansi	N	N
@@ -1345,14 +1340,13 @@ suorti	(vaatteisiin ja karjan karvoihin tarttuva) loka	N	N
 gurti	(poron) kaulalihat	N	N
 oasti	ostaja	N	N
 lásti	(puinen) lautanen	N	N
-atti	Ipmel atti: Jumala antakoon	Adv	Adv
 eahpidahtti	epäilyttävä	A	A
 ipmirdahtti	ymmärrettävä	A	A
-jugahahtti	juotava	A	A& N
+jugahahtti	juotava	A	A
 áddehahtti	ymmärrettävä	A	A
 luohtehahtti	luotettava	A	A
 badjeliiluohtehahtti	luotettava	A	A
-sáhtehahtti	mahdollinen	A	A& N
+sáhtehahtti	mahdollinen	A	A
 jeđđehahtti	lohdutettava& lohtuisa	A	A
 bažihahtti	lypsettävä	A	A
 niehtti	pähkinä	N	N
@@ -1390,12 +1384,11 @@ gohččui	nokinen	A	A
 šleđđui	tasankoinen (ylämaasta)	A	A
 riđđui	myrskyisä	A	A
 bođđui	karikkoinen	A	A
-boršui	kuohuva	A	A& N
+boršui	kuohuva	A	A
 riššui	hätiköivä	A	A
 ráššui	jolloin on paljon rankkasateita	A	A
 ođđabeaivi	uudenvuodenpäivä	N	N
 bárdebeaivi	pärttyli	N	N
-birranbeaivi	birrabeaivi: vuorokausi	N	N
 loahppášbeaivi	loppiaispäivä	N	N
 šleaivi	kömpelö (suopungin) heittäjä	N	N
 ruobboaivi	rupipää	N	N
@@ -1421,7 +1414,7 @@ njirvi	likomärkä nahkavaate (= šnjarvi)	N	N
 šnjirvi	likomärkä nahkavaate	N	N
 smurvi	loppuun syötetty kesälaidun	N	N
 hárvi	harva (ei tiheä)	A	A
-davvi	pohjoinen& länsi (R)	N	A& N
+davvi	pohjoinen& länsi (R)	N	N
 beavvi	rakas ystävä	N	N
 reavvi	länkisääri	N	N
 hivvi	hyväkäs (ihmisestä)	N	N
@@ -1528,7 +1521,7 @@ skáhppái	jossa on paljon pihlajia	A	A
 ráhppái	rapainen	A	A
 sáhppái	jolla tai jossa on paljon sappea tai iso sappirakko& mehukas (marjoista)	A	A
 stáhppái	juovikas& jossa on paljon kimpiä (astiasta)	A	A
-hearrái	herraskainen	A	A& N
+hearrái	herraskainen	A	A
 skierrái	tiheästi vaivaiskoivuja kasvava	A	A
 borrái	särmikäs	A	A
 gorrái	suhteen	Po	Po
@@ -1625,7 +1618,7 @@ steampal	leima	N	N
 fárppal	tynnyri	N	N
 ruppal	rupla	N	N
 bearal	helmi	N	N
-bohtal	pullo	N	A& N
+bohtal	pullo	N	N
 skohtal	keihään kaltainen harppuuna (paltaan tai kampelan pyynnissä)	N	N
 veastal	lännempää (ohi)	Adv	Adv
 apostal	apostoli	N	N
@@ -1643,7 +1636,7 @@ tempel	temppeli	N	N
 bárel	parila	N	N
 ussel	kurja	A	A
 seđel	seteli	N	N
-dabbil	sitä puolta (myöten)	Adv|Pr|Po	+?
+dabbil	sitä puolta (myöten)	Adv|Pr|Po	Adv
 geabbil	ketterä	A	A
 urbil	urpiainen	N	N
 eahccil	mieltynyt& seurallinen	A	A
@@ -1653,7 +1646,7 @@ duoddil	yksin viihtyvä (porosta)	A	A
 suddil	(helposti) sulava	A	A
 skoavddil	komolla (lumesta)	Adv	Adv
 gáddil	rannempaa	Adv|Pr|Po	Adv
-máddil	etelämpää (ohi)	Adv|Pr|Po	+?
+máddil	etelämpää (ohi)	Adv|Pr|Po	Adv
 sándil	santalo (pauloitussilmä verkossa)	N	N
 vardil	josta vuotaa helposti tai usein verta	A	A
 gierdil	kärsivällinen	A	A
@@ -1661,7 +1654,7 @@ joavdil	joutuisa (kulkuneuvoista)& täsmällinen (ajan suhteen)	A	A
 dovdil	hyvä tuntemaan	A	A
 suvdil	kantava (veneestä)	A	A
 bohccejeagil	torvijäkälä	N	N
-soggil	lähempää seinänviertä (ohi) (erit. kodassa)	Adv|Pr|Po	+?
+soggil	lähempää seinänviertä (ohi) (erit. kodassa)	Adv|Pr|Po	Adv
 staigil	sävyisä	A	A
 gávgil	kaukalo	N	N
 skiŋgil	kilkattava	A	A
@@ -1670,7 +1663,7 @@ ráddjil	tarkka (tavaroistaan)	A	A
 gardnjil	kyynärpää	N	N
 oavnnjil	tuntumassa (= perässä)	Adv	Adv
 sávnnjil	saumalla (jltak kohtaa)	Adv	Adv
-oarjil	lännempää (ohi)& (R) etelämpää (ohi)	Adv|Pr|Po	+?
+oarjil	lännempää (ohi)& (R) etelämpää (ohi)	Adv|Pr|Po	Adv
 boakkil	väärällä (sääristä)	Adv	Adv
 rohkkil	höylä	N	N
 jáhkkil	hyväuskoinen	A	A
@@ -1682,9 +1675,8 @@ háskil	(meri)kihu	N	N
 mearraháskil	leveäpyrstökihu	N	N
 viŋkil	suora kulma& suorakulma (työkalu)	N	N
 váillil	vajaa(na)	Adv	Adv
-lullil	etelämpää (ohi): (R) idempää (ohi)	Adv|Pr|Po	+?
 geavllil	kaarella& kaartaen	Adv	Adv
-fávlil	ulompaa (rannasta katsottuna)	Adv|Pr|Po	+?
+fávlil	ulompaa (rannasta katsottuna)	Adv|Pr|Po	Adv
 láimmil	pohjaa myöten painuneena (verkosta)	Adv	Adv
 ájasámil	vesisammal (poron ruokaa keväällä)	N	N
 vadnil	helposti venyvä tai venytettävä	A	A
@@ -1756,7 +1748,7 @@ skeaikkan	räkättäjä	N	N
 huikkan	huutaja	N	N
 láikkan	laiskuri	N	N
 bealljerokkan	vaaksiainen	N	N
-doavkkan	houkka	N	A& N
+doavkkan	houkka	N	N
 stoavkkan	maiskuttelija	N	N
 kievkkan	keittiö	N	N
 dutkan	tutkiminen& tutkimus& tutkinto	N	N
@@ -1771,9 +1763,8 @@ silan	ruipelo (nopeasti väsyvä)	N	N
 árvvoštallan	arvostelu& päätelmä& arviointi	N	N
 állan	kyynärä	N	N
 vuolan	joka vuolee kovasti& joka höylää kovasti	N	N
-aman	etten	+?	CC
+aman	etten	V	V
 jaman	rähisijä	N	N
-biebman	biebmanluokti: ruokintakatos	N	N
 gieimman	kiimainen eläin	N	N
 báimman	paimen (rel.)	N	N
 roman	rumilus	N	N
@@ -1784,7 +1775,7 @@ leansman	nimismies	N	N
 albmáimannan	taivaaseenastuminen	N	N
 čuonan	kipinä	N	N
 ránan	harmo	N	N
-oahppan	oppinut	A	A& N
+oahppan	oppinut	A	A
 haran	murisija	N	N
 boaran	vanhus	N	N
 hoavrran	mankuja& hellittämätön ihminen	N	N
@@ -1798,7 +1789,7 @@ njuovan	(aikaansaapa) teurastaja	N	N
 ruivvan	sottapytty	N	N
 njoazan	vitkuttelija	N	N
 buozan	sairastelija	N	N
-iehčan	(minut) itseni& (minun) oma(ni)	+?	+?
+iehčan	(minut) itseni& (minun) oma(ni)	Pron	Pron
 luovččan	taltta	N	N
 čađan	lävistäjä	N	N
 duđan	kuhnailija& hössöttäjä	N	N
@@ -1807,16 +1798,16 @@ bážan	ampuma-ase	N	N
 skárben	pahus	N	N
 ádden	ymmärrys	N	N
 bovden	kutsu	N	N
-máhken	vertainen	A	A& N
+máhken	vertainen	A	A
 herkken	härkin	N	N
 klovkken	ovela	A	A
-sovkken	sokea	N	A& N
+sovkken	sokea	N	N
 gollen	kultasormus	N	N
 fánen	piru (kirosana)	N	N
 meren	merisaamelainen (us. halventavasti)	N	N
 automatiseren	automatisointi	N	N
 boksen	nyrkkeily	N	N
-dusen	tusina	+?	N
+dusen	tusina	N	N
 ásen	aasi	N	N
 sálten	suolaus	N	N
 fánten	pahus	Interj|N	N
@@ -1858,7 +1849,7 @@ dulkon	tulkinta	N	N
 giškon	hankakorva (porosta)	N	N
 boimmon	nokkija& näpistelijä	N	N
 mámmon	mammona	N	N
-vuhpon	ahmatti	N	A& N
+vuhpon	ahmatti	N	N
 giron	kiiruna	N	N
 báron	paroni	N	N
 gáron	ahkion tai komsion laidassa oleva raksi	N	N
@@ -1868,7 +1859,7 @@ báson	pasuuna	N	N
 lutton	halkoja& halkaisukirves	N	N
 venzzon	vollottaja& suunvääntäjä	N	N
 vuhččon	lihassärky (niskassa ja hartioissa)	N	N
-náššon	kansakunta	+?	N
+náššon	kansakunta	N	N
 Biŧon	Piitime	N	N
 guoggun	kurkunpää	N	N
 skuoggun	seulaluu	N	N
@@ -1917,7 +1908,7 @@ durján	sottapytty	N	N
 čoakkán	kokous	N	N
 dutkán	ripsu (raanun valmiiksi kudotun kankaan reunassa)	N	N
 biellán	kellokas	N	N
-jápmán	kuollut	A	A& N
+jápmán	kuollut	A	A
 nannán	manner	N	N
 ruksessáhpán	kotihiiri	N	N
 sierrán	pystypuu (rysäpadossa)	N	N
@@ -1927,13 +1918,13 @@ sáhtán	saatana (tav. kirosanana)	N	N
 vintán	järripeippo	N	N
 áhttán	jää (vuonossa)	N	N
 ovsttán	itätuuli	N	N
-oaván	urho& urhea	A|N	A& N
+oaván	urho& urhea	A|N	N
 gođán	kudelma	N	N
 nago	nago... de ˈjospaˈ	Adv	Adv
 geiggo	muita pitemmäksi jätetty rakennuksen pitkän seinän ylimmäinen tai alimmainen hirsi	N	N
 dieiggo	siinä (jossakin puhuteltavan lähellä)	Adv	Adv
 dáiggo	näillä main	Adv	Adv
-josgo	josko	+?	CC
+josgo	josko	CS	CC
 gálljo	telana käytetty pölkky	N	N
 duohko	tuonne	Adv	Adv
 duoid-duohko	sinne tänne	Adv	Adv
@@ -1952,14 +1943,13 @@ kruvdno	kruunu (raha)	N	N
 vávdno	vaunut	N	N
 bánno	pannu	N	N
 steaikabánno	paistinpannu	N	N
-biro	piru	N	A& N
+biro	piru	N	N
 hevro	höyry	N	N
 so	niin	Adv	Adv& Pcle
 lánto	lantti	N	N
 kránto	kranttu	A	A
 brutto	brutto	N	N
 gáivo	kaivo	N	N
-ilmentyma_p	merkitys	+?	N
 dimbbar	tukki	N	N
 spáiddar	soihtu	N	N
 finddar	kampela	N	N
@@ -2025,7 +2015,7 @@ viivvur	itsehillintä	N	N
 skreaddár	räätäli	N	N
 morddár	murhaaja	N	N
 sniiggár	nuukailija& kuokkavieras	N	N
-nealggár	aina nälkäinen olio& ahmatti	N	A& N
+nealggár	aina nälkäinen olio& ahmatti	N	N
 snuolggár	räkänokka	N	N
 buorggár	upporikas	N	N
 sreaŋggár	ankara (ihminen)	N	N
@@ -2039,7 +2029,7 @@ guhkkár	kukkaro	N	N
 stáhkkár	raukka	N	A
 kiikkár	kiikari	N	N
 spiikkár	naula	N	N
-dokkár	tuollainen (kuin tuo tuolla kaukana)	Pron	+?
+dokkár	tuollainen (kuin tuo tuolla kaukana)	Pron	A
 faskár	varasteleva	A	A
 buoskár	puoskari	N	N
 háskár	haaskaava	A	A
@@ -2141,7 +2131,7 @@ meaddugas	erehtyväinen	A	A
 suddugas	syntinen	A	N
 buldugas	korppi	N	N
 ávdugas	autuas	A|N	A
-vealgugas	velallinen	A	A& N
+vealgugas	velallinen	A	A
 válljugas	mainio	A	A
 várrugas	varovainen	A	A
 bahágas	paholainen	N	N
@@ -2225,7 +2215,6 @@ háhkalas	innokas hankkimaan	A	A
 roahkkalas	koukkaileva	A	A
 jávkalas	joka viipyy pitkään jssak& joka helposti voidaan varastaa	A	A
 ballalas	pelokas	A	A
-duhkordallalas	duhkordallalas: leikkisä	A	A
 snoallalas	rivo (puheissaan)	A	A
 hárbmalas	äreä	A	A
 nalas	lököttävä (housuista)	A	A
@@ -2342,7 +2331,7 @@ suoivvanas	häilähdys	N	N
 stužanas	loiskahdus	N	N
 njivžžanas	lieska	N	N
 golnnas	kuihtunut	A	A
-gávnnas	nauru	+?	N
+gávnnas	nauru	N	N
 čortnas	hutera (pinosta)	A	A
 gánas	viluinen	A	A
 jánas	kutistunut (nahasta tai nahkaisista vaatteista)	A	A
@@ -2366,15 +2355,14 @@ skieras	vaivaiskoivua kasvava paikka	A|N	N
 čahras	räkätys	N	N
 biras	ympäröivä	N	A
 hiras	vauhko	A	A
-boras	syöpä	N	A& N
+boras	syöpä	N	N
 snarras	haarova (erit. sarvista)& eripurainen	A	A
 skoarras	karvakulu	A	A
-gáirras	juovainen (poron tai koiran koipinahasta: jossa on valkoinen juova etupuolella)	A	A
 snorras	kurttuinen (liian nopeasti kuivuneesta nahkavaatteesta)	A	A
 davrras	kurttuinen	A	A
 reavrras	länkisäärinen	A	A
-goavrras	köyry	A	A& N
-givrras	köyry	A	A& N
+goavrras	köyry	A	A
+givrras	köyry	A	A
 suovrras	törkyinen	A	A
 stávrras	pitkänhuiskea	A	A
 čuomáras	näppylä (ihossa)	N	N
@@ -2404,16 +2392,15 @@ nuorttas	itään& (R) pohjoiseen	Adv	Adv
 skárttas	karstainen	A	A
 veasttas	länteen	Adv	Adv
 mosttas	samea	A	A
-suosttas	laho (ytimestään: puunrungosta)	A	A
 suosttas	leväperäinen	A	A
 ovsttas	itään (päin)	Adv	Adv
 gásttas	märkä	A	A
-lávttas	kostea& kosteus	A|N	A& N
+lávttas	kostea& kosteus	A|N	N
 báttas	patoutuma& (patoutuman vuoksi) tulviva	A|N	N
 ráttas	jääkylmä	A	A
 eavas	itkunherkkä	A	A
 reavas	herkkäuninen (lapsesta)	A	A
-divas	saita	A	A& N
+divas	saita	A	A
 givas	päättäväinen& peloton	A	A
 ruovas	halkeillut (lapinkakusta)	A	A
 luvas	liotettu	A	A
@@ -2490,7 +2477,7 @@ bávččaskeahtes	kivuton	A	A
 bealátkeahtes	puolueeton	A	A
 alimahtes	lanteilla	Adv	Adv
 dihttes	tietäväinen	A	A
-rievttes	oikea	A	A& N
+rievttes	oikea	A	A
 holbbis	hulpiokangas	N	N
 gárbbis	(pienehkö) vene	N	N
 fanccis	vene (leik.)	N	N
@@ -2532,8 +2519,8 @@ nákkis	ahdas	A	A
 oalis	olas	N	N
 návllis	puunaulan aines	N	N
 gállis	aviomies& ukko& äijä& miekkonen	N	N
-vuolis	enteenä	Po	+?
-mis	tosiaan	+?	Pcle
+vuolis	enteenä	Po	Adv
+mis	tosiaan	Pcle	Pcle
 čuoimmis	ainespuu sauvointa varten	N	N
 rundierpmis	rasvakala	N	N
 dáinnis	aines veneen tai ahkion paikaksi	N	N
@@ -2559,9 +2546,9 @@ vievssis	ampiainen	N	N
 háhttásis	ahtaalla	Adv	Adv
 teahtis	tiivis	A	A
 smoahtis	mättäinen (pellosta)	A	A
-riehtis	rietas (kirosana)& piru	N	A& N
+riehtis	rietas (kirosana)& piru	N	N
 ruohtis	karhea	A	A
-ittis	pulska	A	A& N
+ittis	pulska	A	A
 sálttis	suolainen	A	A
 beanttis	suora (ei vino tai vääntynyt)	A	A
 geađgerásttis	kivitasku	N	N
@@ -2616,7 +2603,7 @@ golggahus	vuodatus	N	N
 jugahus	juotos	N	N
 vealahus	syrjintä	N	N
 bajásdoalahus	ylläpito	N	N
-golahus	kulutus& kulu	N	A& N& N
+golahus	kulutus& kulu	N	N& N
 gulahus	kuulutus	N	N
 birračuohpahus	ympärileikkaus	N	N
 bovdehus	kutsu	N	N
@@ -2689,7 +2676,7 @@ stuorámus	suurin	A	A
 bonus	punos	N	N
 botnus	sakka	N	N
 vearránus	pahennus& ärtymys	N	N
-borus	syötävä	N	A& N
+borus	syötävä	N	N
 čivrrus	täinmunat (pl.)	N	N
 uvrrus	tasakertahirsi	N	N
 suvrrus	suurus	N	N
@@ -2732,7 +2719,6 @@ attás	lahjaksi	Adv	Adv
 máttás	etelään	Adv	Adv
 uheavás	tarpeettomasti	Adv	Adv
 proavás	rovasti	N	N
-hearvás	ihana& hearvásin dahkat: kirkastaa (rel.)	A	A
 leabbat	levällään oleva	A	A
 váibbat	vaipukka (uupunut eläin)	N	N
 ciebat	metsäpäästäinen	N	N
@@ -2759,7 +2745,7 @@ miessadat	vasannahka	N	N
 lávttadat	kostea sää	N	N
 buolvadat	sukupolvi	N	N
 vazadat	vitikeli	N	N
-čázadat	sadeilma	+?	N
+čázadat	sadeilma	N	N
 bárgádaddat	palmikoida (useita palmikoita)	V	V
 sávdnádaddat	saunoa	V	V
 fievrrádaddat	kuljetella	V	V
@@ -2819,7 +2805,7 @@ ravddat	reunaporo (joka pysyttelee tokan reunoilla)	N	N
 buvvedat	tylli	N	N
 loaidat	astua	V	V
 guobaldat	poimutus& pussinmuotoinen osa naistenlakissa	N	N
-cokkaldat	pohjallinen	N	A& N
+cokkaldat	pohjallinen	N	N
 dahpaldat	tuke	N	N
 sahpaldat	pölyrätti	N	N
 snoraldat	kurenauha	N	N
@@ -2846,7 +2832,6 @@ bahodat	pahuus	N	N
 dovkodat	tyhmyys	N	N
 allodat	korkeus	N	N
 jallodat	hulluus	N	N
-ollodat	ollodahkii: mittaan	Adv	Adv
 opmodat	omaisuus	N	N
 ropmodat	rumuus	N	N
 vupmodat	(kankaan) leveys	N	N
@@ -2897,18 +2882,18 @@ sággat	sauvoa (toden teolla)	V	V
 laigat	lohjeta	V	V
 siigat	lipua	V	V
 salgat	sulaa (jäättömäksi& astioista)	V	V
-smolgat	huoliteltu	A	A& N
+smolgat	huoliteltu	A	A
 juolgat	jalkaantua (potilaasta)	V	V
 čolgat	sylkeä	V	V
 čogat	ahkion kolmanneksi ylin liiste	N	N
 čeargat	kinostaa (kovia kinoksia)	V	V
-olugat	monet (ihmiset)	+?	+?
+olugat	monet (ihmiset)	Pron	Pron
 skávgat	hätistää (liikkeelle)	V	V
 njeađgat	tuiskuttaa (tie tms.) umpeen (tuulesta)	V	V
 váccahat	vitsas (sitomiseen)	N	N
 bálggahat	palkima-alue	N	N
 njiejahat	laskeutumispaikka (jäälle)	N	N
-bonjahat	väänne (erit. vatsanväänne)& äkkikäännös	+?	N
+bonjahat	väänne (erit. vatsanväänne)& äkkikäännös	N	N
 vuojahat	uittopaikka& lohipadossa poikittain virtaan nähden oleva osa	N	N
 ruohkahat	raapaisujälki	N	N
 rokkahat	kaivanto	N	N
@@ -2928,7 +2913,7 @@ márahat	tyrsky& (suuren porotokan tai ihmisjoukon) kulkujälki	N	N
 sárahat	suonisäiekimppu	N	N
 giesahat	(pauloitettu) nilkka	N	N
 guorssahat	köhä	N	N
-oktahat	yksi ja sama	Pron	+?
+oktahat	yksi ja sama	Pron	Num
 ávttahat	teurastuspaikka (lumella)	N	N
 oaivvahat	kerä	N	N
 njuikehat	hyppyri	N	N
@@ -2997,7 +2982,6 @@ sulladallat	pysytellä porojen lähettyvillä	V	V
 giehtadallat	käsitellä	V	V
 njalaidallat	nieleskellä (jotain kuivaa juomatilkan kanssa)	V	V
 dugordallat	leikkiä	V	V
-duhkordallat	duhkordallat: leikkiä	V	V
 báddádallat	heittää kiinni (suopungilla)& harjoittaa (poroa tai poroja) liekaan	V	V
 čiehkádallat	piileskellä	V	V
 unnádallat	pienennellä& yrittää pienentää	V	V
@@ -3027,7 +3011,7 @@ ritnohallat	kilpailla (keskenään)	V	V
 sártnohallat	yrittää taivuttaa (puhumalla)& saada toruja	V	V
 arvvohallat	käyttäytyä pirteästi	V	V
 rávvohallat	muistutella	V	V
-čekŋohallat	kyykistellä	V	Verb
+čekŋohallat	kyykistellä	V	V
 balddáhallat	pelotella	V	V
 njuorddáhallat	alistua	V	V
 govssáhallat	jäädä ilman tai liian vähälle (jkn etuilun vuoksi)	V	V
@@ -3061,7 +3045,7 @@ villat	sännätä	V	V
 mollat	sivuuttaa (tietämättään& tav. vastakkaiseen suuntaan kulkeva)	V	V
 muollat	mölistä	V	V
 vuollat	vuolla& höylätä (lautaa)	V	V
-cullat	tuudittaa	+?	V
+cullat	tuudittaa	V	V
 hullat	turista	V	V
 dávllat	täpläkylki (porovaatimesta)	N	N
 ruoššaállat	tunturikiuru	N	N
@@ -3102,7 +3086,7 @@ nammaláhpat	nimiloppu (kahdeksanvuotias tai sitä vanhempi urosporo)	N	N
 loahppat	loppua	V	V
 birračuohppat	ympärileikata	V	V
 spiertačáhppat	pikimusta	A	A
-smurtačáhppat	sysimusta	A	A& N
+smurtačáhppat	sysimusta	A	A
 sáppat	saapas	N	N
 arat	kiihkeä	A	A
 mearat	lähempänä merta oleva	A	A
@@ -3180,8 +3164,8 @@ guškkástat	(pikku)kuovi	N	N
 veattat	liekaporo	N	N
 spoahttat	pilkata	V	V
 nuorttat	itäisempi& (R) pohjoisempi	A	A
-rievttat	oius (suoraan menevä& ajoporosta)	+?	+?
-dávttat	(kukkiva) väinönputki	N	N
+rievttat	ajoporon suoraan menevä oius	Npl	N
+dávttat	väinönputki	N	N
 alladávttat	romuluinen	A	A
 bávtat	paantaa	V	V
 dievat	paljon enemmän (jtak jssak)	Adv	Adv
@@ -3245,7 +3229,6 @@ nagahuvvat	humaltua (vähän)	V	V
 čuovggahuvvat	sokeutua	V	V
 dárjjahuvvat	aristua (kuumalle)	V	V
 bleahkahuvvat	tahraantua musteeseen	V	V
-bihkahuvvat	bihkkaduvvat: tulla tervaiseksi	V	V
 doaimmahuvvat	tulla toimettomaksi& tulla aloitekyvyttömäksi	V	V
 varahuvvat	tahrautua vereen	V	V
 stivrrahuvvat	tulla kurittomaksi	V	V
@@ -3324,8 +3307,7 @@ dásásmuvvat	tasaantua	V	V
 divttásmuvvat	tiivistyä	V	V
 váttásmuvvat	vaikeutua	V	V
 dielvvásmuvvat	tasoittua (maasta)	V	V
-hiđásmuvvat	hiđástuvvat: hidastua	V	V
-arggosnuvvat	piristyä	+?	V
+arggosnuvvat	piristyä	V	V
 nállasuvvat	tulla (jkhun)	V	V
 nammasuvvat	tulla (jkun) nimiin	V	V
 varrasuvvat	tulla verenpurkaus	V	V
@@ -3459,7 +3441,7 @@ dulbet	tasoittaa& latistaa	V	V
 njeahcet	saraheinä	N	N
 runcet	töhertää	V	V
 harcet	hirttää (yksi olio)	V	V
-uminddet	alaikäinen	A	A& N
+uminddet	alaikäinen	A	A
 goddet	pyytää peuroja	V	V
 hoddet	älytä	V	V
 gorddet	järvi- tai kirjokorte	N	N
@@ -3505,7 +3487,7 @@ válget	tehdä vaalityötä	V	V
 čerget	karjaista& jyrähtää	V	V
 njirget	ruikata	V	V
 njurget	viheltää (kerran)	V	V
-geđget	kivetä& kivittää	V	Verb& V& V
+geđget	kivetä& kivittää	V	V
 leŋget	valjastaa	V	V
 streŋget	kovistella (ankarasti)	V	V
 steŋget	sulkea	V	V
@@ -3659,7 +3641,7 @@ destilleret	tislata	V	V
 defineret	määritellä	V	V
 adresseret	osoittaa	V	V
 teret	keuhkotauti	V|N	N
-kviteret	kuitti	V|N	A& N
+kviteret	kuitata	V	V
 dikteret	sanella	V	V
 adopteret	adoptoida	V	V
 aresteret	pidättää& takavarikoida	V	V
@@ -3698,7 +3680,7 @@ russet	varustaa ristillä& sivellä ristillä (kirkollisten toimitusten yhteydes
 lovsset	luotsata	V	V
 snuvsset	nuuskata	V	V
 lásset	lukita	V	V
-duset	tusina	+?	N
+duset	tusina	N	N
 háset	haasioida	V	V
 máset	jankuttaa	V	V
 riehtet	vuotakenkä	N	N
@@ -3763,7 +3745,7 @@ golgŋet	vastata (vähän tai nopeasti porotokan reunaa)	V	V
 gorgŋet	kiivetä (nopeasti)& lähteä kiipeämään& sauvoa (nopeasti)& lähteä sauvomaan	V	V
 vikšet	vyyhdetä	V	V
 skávžžet	(veneen) ylilaidan jatke etusiestimestä vannaaseen	N	N
-it	et	+?	CC
+it	et	V	V
 šleambit	hotkia	V	V
 čeahcit	(vanhemman) veljen lapsi (sedälleen)	N	N
 oahcit	levollinen	A	A
@@ -3816,7 +3798,6 @@ baladit	pelkäillä	V	V
 cieladit	haukuskella& haukkua toisiaan	V	V
 molladit	panna tai saada sivuuttamaan (tietämättään& tav. vastakkaiseen suuntaan kulkeva)	V	V
 gulladit	saada tai panna (luu) murtumaan	V	V
-moladit	sivuuttaa (huomaamattaan jku vastakkaiseen suuntaan kulkeva)& sivuuttaa toisensa (näkemättä: vastakkaisiin suuntiin kulkevista)	V	V
 muoladit	mölistä	V	V
 vuoladit	vuoleskella& höyläillä	V	V
 fáladit	tarjoilla& yrittää tarjota	V	V
@@ -4640,17 +4621,17 @@ divvulit	korjata (nopeasti)& laittautua	V	V
 hárčulit	lähteä harppomaan	V	V
 geavlit	poiketa (ja palata tokkaan takaisin& porosta)	V	V
 eaškálit	nyrjähtää	V	V
-jorbbasmit	pyöristyä	+?	V
+jorbbasmit	pyöristyä	V	V
 dávggasmit	joustavoitua& sitkastua	V	V
 vuonjasmit	kesyyntyä (linnuista)	V	V
-roahkasmit	rohkaistua	+?	V
+roahkasmit	rohkaistua	V	V
 boarkkasmit	tulla äkkipikaise(mma)ksi	V	V
 amasmit	tulla oudo(mma)ksi	V	V
-hirasmit	vauhkoontua	+?	V
-nuorasmit	nuortua	+?	V
+hirasmit	vauhkoontua	V	V
+nuorasmit	nuortua	V	V
 luovasmit	tulla helppolypsyise(mmä)ksi	V	V
 árvvasmit	tulla anteliaa(mma)ksi	V	V
-siđasmit	käheytyä	+?	V
+siđasmit	käheytyä	V	V
 jarkŋasmit	pullistua (ulos)	V	V
 njoiddosmit	loiventua (rinteestä)	V	V
 vilddosmit	vuolastua (liiaksi)	V	V
@@ -4659,14 +4640,14 @@ rávddásmit	tulla kireälypsyiseksi	V	V
 sajásmit	tulla tilavammaksi	V	V
 suojásmit	tulla suojaisammaksi	V	V
 snielásmit	tulla röyhkeäksi	V	V
-oahpásmit	tutustua	+?	V
-áhpásmit	virkistyä	+?	V
+oahpásmit	tutustua	V	V
+áhpásmit	virkistyä	V	V
 ráhpásmit	tulla kivikkoiseksi	V	V
-dásásmit	tasaantua	+?	V
-teahtásmit	tiivistyä	+?	V
-buhtásmit	puhdistua	+?	V
-divttásmit	tiivistyä	+?	V
-váttásmit	vaikeutua	+?	V
+dásásmit	tasaantua	V	V
+teahtásmit	tiivistyä	V	V
+buhtásmit	puhdistua	V	V
+divttásmit	tiivistyä	V	V
+váttásmit	vaikeutua	V	V
 smiđásmit	lauhtua (keväisemmäksi)& tulla säyseä(mmä)ksi	V	V
 dárbbašmeahttumit	tarpeettomasti	Adv	Adv
 suorganit	säikähtää& yllättyä	V	V
@@ -4715,7 +4696,6 @@ duoppit	tuonnempi	Adv	A
 varit	urakka (kaksi vuotta vanha urosporo)	N	N
 guoikgáhrit	koskikara	N	N
 suorit	haarakeppi	N	N
-gearrit	gearregat: käräjät	N	N
 čearrit	(lapin)tiira	N	N
 árrit	estää& häiritä& hätistää	V	V
 ábbasit	ruveta kiehumaan yli	V	V
@@ -4725,7 +4705,6 @@ gasit	paksulti lunta	N	N
 jorgasit	kääntyä (nurjin puolin)	V	V
 njaŋgasit	rötkähtää (pitkin pituuttaan)	V	V
 šloaŋgasit	lähteä liikkeelle laiskanpulskeana	V	V
-njáŋgasit	rötkähtää (pitkin pituuttaan: esineistä)	V	V
 bodnjasit	vääntyä	V	V
 spatnjasit	haljeta (taivutettaessa)	V	V
 satnjasit	lohjeta (työstettävästä puusta)	V	V
@@ -4763,7 +4742,7 @@ viidásit	laajalti	Adv	Adv
 burgásit	purkautua& tulla puretuksi	V	V
 doadjásit	taittua& soveltua taitettavaksi	V	V
 njammásit	imeytyä	V	V
-gáranasrásit	gáranasrássi& ruohokanukka	+?	+?
+gáranasrássi	ruohokanukka	N	N
 viisásit	viisaasti	Adv	Adv
 hihtásit	hitaasti	Adv	Adv
 laktásit	liittyä	V	V
@@ -4894,7 +4873,7 @@ jiervvastit	varustaa (raitoahkio) viimeisellä kaarella	V	V
 dorvvastit	turvata& turvautua	V	V
 gávastit	haukotella (kerran)	V	V
 smirezastit	märehtiä	V	V
-gozastit	ripustaa	+?	V
+gozastit	ripustaa	V	V
 ođastit	hankkia (jtak uutta)& uudistaa	V	V
 daŋastit	kiskoa varpuja (erit. kanervia)	V	V
 deaššastit	heittää leipiä (kivellä)	V	V
@@ -5198,7 +5177,7 @@ bolot	nappula& rivi peräkkäin jamottuja ajoverkkoja	N	N
 njammot	tulla imetyksi	V	V
 skupmot	(naisen) päällyslakki& (tavallisen lakin päälle tuleva) suojuslakki	N	N
 čidnot	saada ummetus	V	V
-girdnot	kirnuta	+?	V
+girdnot	kirnuta	V	V
 bevnnot	suoraan (sanottuna)	Adv	Adv
 lánnot	lantalainen	N	N
 rutnot	turska (pieni)	N	N
@@ -5217,7 +5196,7 @@ beitot	jäädä saaliitta	V	V
 heitot	tulla lopetetuksi& tulla hylätyksi	V	V
 báitot	saada tehdyksi jtak	V	V
 giktot	yltyä (tekemään jtak)	V	V
-máistot	maistua	+?	V
+máistot	maistua	V	V
 hehttot	joutua& täytyä (impers.)	V	V
 ihttot	itää& saada ihottuma& joutua noidutuksi	V	V
 muhttot	muuttua	V	V
@@ -5225,7 +5204,7 @@ muhttot	peittyä lumeen	V	V
 rosttot	könkämävuomalainen	N	N
 ruovttot	perätilassa syntyvä poikanen tai lapsi	N	N
 arvot	kastua sateessa	V	V
-bahččot	pusertua	+?	V
+bahččot	pusertua	V	V
 suhččot	joutua (tekemään jtak)	V	V
 vuhččot	saada lihassärky (niskaan ja hartioihin)	V	V
 báhččot	tulla ammutuksi& joutua (ampiaisen jne.) pistämäksi	V	V
@@ -5350,7 +5329,7 @@ suoldnut	tulla kasteiseksi	V	V
 girdnut	kirnuta	V	V
 vuordnut	vannoa	V	V
 sávdnut	saunoa	V	V
-áinnut	ainokainen	N	A& N
+áinnut	ainokainen	N	N
 monnut	munia	V	V
 rávnnut	hyvin levännyt ja kuntoutunut vetoporo	N	N
 spoatnut	paakkuuntua	V	V
@@ -5402,7 +5381,6 @@ suortut	ryvettyä (lokaan)	V	V
 fastut	rumentua	V	V
 boastut	väärin	Adv	Adv
 ruostut	ruostua	V	V
-suostut	lahota (ytimeltään: puusta)	V	V
 nuohttut	nuotata	V	V
 deavut	halli (hylje)	N	N
 seaivut	laskeutua (lennosta)	V	V
@@ -5465,12 +5443,10 @@ gohccát	herätä	V	V
 háhccát	olla jssak jalat harallaan	V	V
 šleancát	lerpattaa	V	V
 soalddát	sotilas	N	N
-beatnatgielddát	beatnatgieldá: katinlieko	N	N
 gildát	kukoistaa	V	V
 vardát	alkaa vuotaa verta	V	V
 sirdát	lähteä siirtymään (jutamamatkalla)	V	V
 snuordát	olla jssak karvakuluissa vaatteissa	V	V
-bierffát	bierfát: olla jssak pörröisenä	V	V
 bolfát	olla tuuheana (jssak)	V	V
 jarfát	olla jssak pulleana	V	V
 siiggát	maininki	N	N
@@ -5570,7 +5546,7 @@ njuohcu	raate	N	N
 muohcu	(kirja)koi	N	N
 hilcu	tytönhattara	N	N
 áhkacincu	rasvakala	N	N
-du	sinä	+?	Pron
+don	sinä	Pron	Pron
 deaddu	paino& paine& painotus	N	N
 oarskieddu	peruke (pitkässäsiimassa)	N	N
 áhkábiddu	(iso)simppu	N	N
@@ -5612,7 +5588,7 @@ rággu	kaari (veneen)	N	N
 heaŋggu	jyrkänne	N	N
 dieigu	värttinäluu	N	N
 ruoigu	kauris	N	N
-ruigu	ruipelo	N	A& N
+ruigu	ruipelo	N	N
 gálgu	vaimo& eukko	N	N
 gieddegeašgálgu	tietäjäeukko (folkl. kentänpään eukko)	N	N
 hálgu	halko	N	N
@@ -5651,7 +5627,6 @@ sávarihkku	saverikko (aisassa)	N	N
 rádjerihkku	raajarikoksi	Adv	Adv
 rásselohkku	heinäsirkka	N	N
 uhkku	ukko	N	N
-guhkku	guhku: pituinen	+?	+?
 ruhkku	ruukku	N	N
 láhkku	(paakkuuntunut ja huonosti kuivunut) heinä	N	N
 ráhkku	haavauma (kalassa)	N	N
@@ -5666,7 +5641,6 @@ feasku	(käsi)laukku	N	N
 geasku	käsky	N	N
 beaisku	tuholainen	N	N
 fisku	kalastus	N	N
-hilsku	rikkaruoho& dábálaš hilsku: pihatähtimö	N	N
 mosku	sumu (pimeällä)	N	N
 ruosku	perse	N	N
 nuvsku	nuuska	N	N
@@ -5728,7 +5702,7 @@ riipu	etana	N	N
 riipu	varpekansi (veneessä)	N	N
 rivgovuolpu	keräpääpoimulehti	N	N
 dulpu	tylppä XXX  dulpi	N	N
-stumpu	pullukka	N	A& N
+stumpu	pullukka	N	N
 šumpu	jykevä esine	N	N
 skeahppu	vakka (tilavuusmittana)	N	N
 skuohppu	kotelo& kuonoke (poroja purevalle koiralle)& huppu	N	N
@@ -5737,7 +5711,6 @@ soairu	(luu)naskali	N	N
 liiru	koppi (pallon kiinniotto)	N	N
 áiru	airo	N	N
 gearru	käärö	N	N
-skierru	kiekko (pyörä)& pl.: kärryt	N	N
 skierru	pikkukajava	N	N
 spierru	kalaparvi (esim. seiparvi)	N	N
 guorru	(kesällä kuivuva) lampi	N	N
@@ -5745,7 +5718,6 @@ stuorru	stuoru ’suuruinen’	A	A
 eavru	(kalan) vatsanalus	N	N
 eavru	hapro	N	N
 roavru	komojää	N	N
-gievru	gievrru: (sen ja sen) vahvuinen	A	A
 stávru	pitkäkoipi (ihmisestä)	N	N
 nisu	nainen& vaimo	N	N
 nisu	vehnä	N	N
@@ -5760,7 +5732,6 @@ meassu	messu (usk.)& (pl.) juhlat	N	N
 roassu	poropeukalo (joka rikkoo tavaransa)	N	N
 missu	hera	N	N
 bossu	(hetula)valas	N	N
-lossu	losu: painoinen	+?	+?
 ássu	rauha	N	N
 dássu	laatu	N	N
 vássu	tapahtuma (esim. markkinoilla)	N	N
@@ -5782,12 +5753,12 @@ reantu	korko	N	N
 smuortu	(vanhanaikainen) vyönsolki (hopeaa)	N	N
 murtu	(pieni) merikala	N	N
 spártu	känsä& nänni	N	N
-leastu	pohjallinen	N	A& N
+leastu	pohjallinen	N	N
 oastu	ostos	N	N
 bistu	kesto	N	N
 gistu	(ruumis)arkku	N	N
 hiistu	veto (vedonlyönti)	N	N
-boarstu	eteinen	N	A& N
+boarstu	eteinen	N	N
 fástu	paasto	N	N
 beahttu	petos	N	N
 leahttu	vauhti	N	N
@@ -5856,7 +5827,6 @@ lággá	umpisuoli& letku	N	N
 seakkalággá	lynkkysuoli	N	N
 guopmolággá	umpisuoli	N	N
 viigá	(eläimen) ulkosynnyttimet	N	N
-dáigá	(adv.) taikaa& das ii leat d.: siitä ei ole taikaa	Adv|N	N
 snuolgá	räkänokka	N	N
 šuđgá	hätähousu	N	N
 duŋgá	tunkio	N	N
@@ -5908,15 +5878,15 @@ gehlá	(nuotan) kela	N	N
 luoilá	märisijä	N	N
 feallá	(etelänorjalainen) merikalastaja	N	N
 heallá	paasi	N	N
-dolá	entinen	A	A& N
+dolá	entinen	A	A
 dolá	milloinka (tulevaisuudessa tai kuluvana päivänä)	A	A
 šielbmá	kynnys	N	N
-guolbmá	karvanluonti (kun peitinkarvat ovat vielä aivan lyhyet)	+?	+?
+guolbmá	karvanluonti& kun peitinkarvat ovat vielä aivan lyhyet	N	N
 horbmá	(maito)horsma	N	N
 njammá	imevä karitsa	N	N
 almmá	ilman	Adv	Adv& Po
 hommá	homma	N	N
-summá	summa	N	A& N
+summá	summa	N	N
 básmá	pasma	N	N
 dumá	tuuma (mitta)	N	N
 prámá	proomu	N	N
@@ -5929,9 +5899,9 @@ hátná	(pyssyn) hana	N	N
 čátná	(taula)kääpä	N	N
 ruohpá	paakku (jauhoissa)	N	N
 šliipá	tahko	N	N
-šlimpá	heiluri& luoti (luotilangassa)	N	N
+šlimpá	heiluri& luoti luotilangassa	N	N
 sámpá	sammas (med.)	N	N
-liehppá	(R) rintaläppä (vaate)	N	N
+liehppá	(R) rintaläppä	N	N
 nihppá	lyhytkorvainen lammas	N	N
 suohppá	vasansa hylkäävä vaadin	N	N
 guhppá	kuppaus	N	N
@@ -5963,16 +5933,12 @@ doppimustá	kaukaisimmillaan	Adv	Adv
 duoppimustá	kaukaisimmillaan (tuolla)	Adv	Adv
 gávstá	kausta (reessä kaplaiden kannattama sivupuu)	N	N
 nástá	nasta	N	A
-beasakeahttá	beasakeahtes: ripillä käymätön	A	A
 vealttakeahttá	välttämättä	Adv	Adv
-bažekeahttá	bažekeahtes: lypsämätön	A	A
-bážekeahttá	bážekeahtes: ampumaton	A	A
-ánssáškeahttá	ánssáškeahtes: ansaitsematon	A	A
 hahttá	ilman	Pr|Po	Adv& Po
 nissonahttá	emännättä	Adv	Adv
 ihttá	huominen	A	A
 dasttá	heti	Adv	Adv
-ievttá	eilinen	A	A& N
+ievttá	eilinen	A	A
 njuolvá	ressukka	N	N
 čárvá	koura& ote	N	N
 roavvá	rouva	N	N
@@ -5981,7 +5947,7 @@ kruvvá	kaivos	N	N
 spihčá	piiska	N	N
 šokčá	jäniksenansa	N	N
 čukčá	(ukko)metso	N	N
-bahčinviđá	vastalypsetty(nä)	+?	+?
+bahčinviđá	vastalypsetty(nä)	Adv	Adv
 báhčinviđá	vasta-ammuttu(na)	Adv	Adv
 buđđá	kivespussi	N	N
 spáđđá	pata (korttipelissä)	N	N
@@ -5990,7 +5956,6 @@ liššá	viikate	N	N
 guvžá	meritaimen	N	N
 lávžá	(hevos)paarma	N	N
 dárbbaš	tarve	N	N
-ustibaš	pl. ustibaččat: ystävykset	N	N
 giljobaš	kiljuhanhi	N	N
 uhcagaccaš	pikkuvarvas	N	N
 unnagaccaš	pikkuvarvas	N	N
@@ -6005,7 +5970,7 @@ bárrahaš	paras(kin)	A	A
 heahtahaš	hädänalainen	A	A
 juohkehaš	jokainen	Pron	Pron
 láhkkehaš	laes (heinää)	N	N
-áinnuhaš	ainokainen	N	A& N
+áinnuhaš	ainokainen	N	N
 boldejaš	polttiainen	N	N
 dullejaš	tuliainen	N	N
 báidnejaš	painajainen	N	N
@@ -6013,13 +5978,13 @@ vuojaš	jouhisorsa	N	N
 bihkaš	tervas	N	N
 dáiddalaš	taiteellinen	A	A
 bealaš	väliraha	N	N
-buotveagalaš	kaikkivaltias	A	A& N
+buotveagalaš	kaikkivaltias	A	A
 jolggalaš	julkinen	A	A
 álggalaš	alkeellinen	A	A
 jearggalaš	järkevä& johdonmukainen	A	A
 biologalaš	biologinen	A	A
 norgalaš	Norjan kansalainen	A|N	N
-belgialaš	belgialainen	A	A& N
+belgialaš	belgialainen	A	A
 bulgárialaš	bulgarialainen	N	A
 ásialaš	aasialainen	A	A
 vieljalaš	veljellinen	A	A
@@ -6044,7 +6009,7 @@ barbáralaš	barbaarinen	A	A
 alfabehtalaš	aakkosellinen	A	A
 automáhtalaš	automaattinen	A	A
 árktalaš	arktinen	A	A
-skoltalaš	kolttasaamelainen	N	A& N
+skoltalaš	kolttasaamelainen	N	N
 báltalaš	balttilainen	A	A
 brihttalaš	brittiläinen	A	A
 alvvalaš	tarmokas	A	A
@@ -6065,15 +6030,15 @@ aiddolaš	täsmällinen	A	A
 ráiddolaš	raidollinen& raitomies	A	A
 dovddolaš	tunnollinen	A	A
 oamedovddolaš	omantunnonarka	A	A
-dagolaš	velallinen	A	A& N
-velggolaš	velallinen	A	A& N
+dagolaš	velallinen	A	A
+velggolaš	velallinen	A	A
 álggolaš	alkeellinen	A	A
 nigolaš	enneunia näkevä& (unen)näkijä	N	N
 gárgolaš	karkulainen	N	N
 čujolaš	soinnillinen	A	A
 báikkolaš	paikoittainen& laikukas	A	A
 mirkkolaš	myrkyllinen	A	A
-oskkolaš	uskovainen	A	A& N
+oskkolaš	uskovainen	A	A
 bákkolaš	pakollinen	A	A
 eahpegulolaš	tottelematon	A	A
 sulolaš	suloinen	A	A
@@ -6083,23 +6048,23 @@ jámolaš	kuolevainen	A	A
 hohpolaš	kiireellinen	A	A
 dárrolaš	norjalainen& norjantaitoinen	A|N	A
 surolaš	surullinen	A	A
-osolaš	osallinen& osakas	N	A& N
+osolaš	osallinen& osakas	N	N
 ánssolaš	ansiokas	A	A
 sesttolaš	säästäväinen	A	A
 muttolaš	kohtuullinen	A	A
-suttolaš	syntinen	A	A& N
+suttolaš	syntinen	A	A
 evttolaš	ehdollinen& tahallinen	A	A
 deivvolaš	satunnainen	A	A
-servvolaš	osallinen& osakas	A	A& N
+servvolaš	osallinen& osakas	A	A
 dorvvolaš	turvallinen	A	A
 árvvolaš	arvokas	A	A
 diđolaš	tietäväinen& tietoinen& tunnettu	A	A
 muđolaš	nuorekas (kasvoiltaan)	A	A
 vuđolaš	perusteellinen	A	A
-vašolaš	vihollinen	N	A& N
-máŧolaš	mahdollinen	A	A& N
+vašolaš	vihollinen	N	N
+máŧolaš	mahdollinen	A	A
 borgárlaš	porvarillinen	A	A
-gonagaslaš	kuninkaallinen	A	A& N
+gonagaslaš	kuninkaallinen	A	A
 dálkkaslaš	lääkkeellinen	A	A
 ávnnaslaš	aineellinen	A	A
 dievaslaš	täydellinen	A	A
@@ -6110,17 +6075,16 @@ niehkulaš	haaveilija	N	N
 dánmárkulaš	tanskalainen	A	A
 lobálaš	luvallinen	A	A
 jábálaš	vauras	A	A
-juvdálaš	juutalainen	A	A& N
+juvdálaš	juutalainen	A	A
 hebreálaš	heprealainen	A	A
 liiggálaš	erikoinen& liiallinen	A	A
 juolggálaš	nopsajalkainen (lapsesta)	A	A
-bajálaš	väliraha& lisuke: jälkiruoka	N	N
 soajálaš	siivellinen	A	A
 veahkálaš	avulias	A	A
 dohkálaš	kelvollinen& pätevä	A	A
 náhkálaš	nahkaesine	N	N
 hutkkálaš	kekseliäs	A	A
-mátkkálaš	matkalainen& matkustaja	N	A& N
+mátkkálaš	matkalainen& matkustaja	N	N
 ávkkálaš	hyödyllinen	A	A
 dilálaš	kiireetön	A	A
 vuoimmálaš	voimallinen	A	A
@@ -6131,13 +6095,13 @@ sorpmálaš	hengenvaarallinen& tuhoisa& murhanhimoinen	A	A
 ođđaivnnálaš	kirkkaanvärinen& verevä (kasvoiltaan)	A	A
 eatnálaš	äidillinen	A	A
 bártnálaš	kuuliainen (vanhempiaan kohtaan& aikuisesta pojasta)	A	A
-sánálaš	sanallinen& henkinen& sanavalmis	A	A& A& N
+sánálaš	sanallinen& henkinen& sanavalmis	A	A
 gávppálaš	kaupallinen	A|N	A
 gávppálaš	kauppias	A|N	N
 várálaš	vaarallinen	A	A
 sálaš	saalis	N	N
 asálaš	paksuketinen (nahasta)	A	A
-oasálaš	osallinen& onnekas	N	A& N
+oasálaš	osallinen& onnekas	N	N
 spihtálaš	spitaalinen	N	A
 alladávttálaš	romuluinen	A	A
 áhčálaš	isällinen	A	A
@@ -6150,7 +6114,7 @@ ihttenaš	heti seuraavana päivänä	Adv	Adv
 náránaš	näppy	N	N
 gaccepaš	(lapin)tiainen	N	N
 cizopaš	lapinsirkku	N	N
-dokkáraš	tuollainen (kuin tuo tuolla kaukana)	A|Pron	+?
+dokkáraš	tuollainen (kuin tuo tuolla kaukana)	A|Pron	A
 skihpáraš	(pl.) kaverukset	N	N
 boddasaš	hallittavissa oleva	A	A
 ovdasaš	etiäinen	N	N
@@ -6192,7 +6156,6 @@ jáhkkeš	herkkäuskoinen	A	A
 naleš	louteen yläosa	N	N
 doleš	meteori	N	N
 njameš	halukas imemään	A	A
-gáimmeš	gáimmežat: kaimakset	N	N
 unnabummeš	kangastukki (kangaspuissa)	N	N
 jámeš	haamu& vainaja	N	N
 etneš	äitinsä kanssa	Adv	Adv
@@ -6200,7 +6163,7 @@ atteš	(liian) antelias	N	N
 arveš	tarmokas	A	A
 čezeš	setänsä (isän nuoremman veljen tai serkun) kanssa	Adv	Adv
 áhčeš	isänsä kanssa	Adv	Adv
-giš	sooh (nopeammin huudahdus ajokkaalle)	Interj	+?
+giš	sooh (nopeammin huudahdus ajokkaalle)	Interj	Interj
 goidoš	vätys	N	N
 nelggoš	jatkuvasti nälkäinen	A	A
 barggoš	työteliäs	A|N	A
@@ -6208,7 +6171,6 @@ rovgoš	suokukko	N	N
 bávgoš	tylli	N	N
 rávgoš	suokukko	N	N
 hejoš	raukka	N	A
-áhkoš	áhkošguovttos: isoäiti lapsenlapsensa kanssa	Adv|N	N
 nihkkoš	enneunia näkevä	A	A
 beškkoš	pääskynen	N	N
 dalloš	silloinen	A	A
@@ -6221,7 +6183,7 @@ oarjjibuš	vähän läntisempi& (R) vähän eteläisempi	A	A
 fávllibuš	vähän ulompi (rannasta katsottuna)	A	A
 vuolibuš	vähän alempi	Adv|N	N
 olggubuš	vähän ulompi	A	A
-cuš	hoi (porotokan houkutushuuto)	Interj	+?
+cuš	hoi (porotokan houkutushuuto)	Interj	Interj
 bajuš	yläosa& (verkon) koho	N	N
 ruotkkuš	juurakko	N	N
 juolgeluš	jalkopää	N	N
@@ -6235,15 +6197,14 @@ manimuš	munuaiset (pl.)	N	N
 buotnjomuš	kastike	N	N
 eallámuš	elanto	N	N
 gillámuš	kärsimys	N	N
-heavuš	hevonen	+?	N
+heavuš	hevonen	N	N
 soarvvuš	tervas (poltettavaksi)	N	N
 hyš	hys	Interj	Interj
-kyš kyš	hus hus	+?	+?
+kyš kyš	hus hus	Interj	Interj
 ruovddáš	(rotkon) kapeikko	N	N
 gáđffáš	isolumikko	N	N
 čuovggáš	keskipäivä (kaamosaikaan)	N	N
 lojáš	kesy vaadin	N	N
-áhkáš	áhkášguovttos: vaimo miehensä kanssa	Adv	Adv
 láskkáš	laskiainen	N	N
 liidnelláš	västäräkki	N	N
 golláš	silmäterä	N	N
@@ -6258,4 +6219,48 @@ fiskescizáš	keltavästäräkki	N	N
 rievssatcizáš	pajulintu	N	N
 seaŋáš	raelumi (maata vasten oleva)	N	N
 saŋáš	syyhy	N	N
-gearʼ	(niin ja niin monta) kertaa	+?	+?
+gearʼ	(niin ja niin monta) kertaa	N	N
+oarda	orsi& kalankuivaustelineessä orsien varassa lepäävät selkoimet	N	N
+stáloboska	karhunputki	N	N
+balsámabohppel	palsamipoppeli	N	N
+hirssat	hirssi	Npl	N
+lullelačča	vähän etelämpää& (R) vähän idempää& 	Adv	Adv
+ildi galle	yllin kyllin	Adv	Adv
+duhkordalˈli	leikkijä	N	N
+Ipmel atti	Jumala antakoon	Adv	Adv
+birrabeaivi	vuorokausi	N	N
+lullil	etelämpää (ohi)& (R) idempää (ohi)	Adv	Adv
+biebmanluokti	ruokintakatos	N	N
+duhkordallalas	leikkisä	A	A
+gáirras	juovainen& (poron tai koiran koipinahasta) jossa on valkoinen juova etupuolella	A	A
+suosttas	laho	A	A
+hearvás	ihana& hearvásin dahkat& kirkastaa	A	A
+ollodahkii	mittaan	Adv	Adv
+duhkordallat	leikkiä	V	V
+bihkahuvvat	tulla tervaiseksi	V	V
+bihkkaduvvat	tulla tervaiseksi	V	V
+hiđástuvvat	hidastua	V	V
+hiđásmuvvat	hidastua	V	V
+moladit	sivuuttaa huomaamattaan jku vastakkaiseen suuntaan kulkeva& sivuuttaa toisensa näkemättä vastakkaisiin suuntiin kulkevista	V	V
+gearregat	käräjät	N	N
+njáŋgasit	rötkähtää	V	V
+suostut	lahota	V	V
+beatnatgieldá	katinlieko	N	N
+bierfát	olla jssak pörröisenä	V	V
+guhku	pituinen	Po	A
+hilsku	rikkaruoho	N	N
+dábálaš hilsku	pihatähtimö	N	N
+skierru	kiekko	N	N
+skieryt	kärryt	Npl	Npl
+gievrru	(sen ja sen) vahvuinen	Po	A
+losu	painoinen	Po	A
+dáigá	taikaa& das ii leat dáigá& siitä ei ole taikaa	Adv	N
+beasakeahttá	ripillä käymätön	A	A
+bažekeahttá	lypsämätön	A	A
+bážekeahttá	ampumaton	A	A
+ánssáškeahttá	ansaitsematon	A	A
+ustibaččat	ystävykset	Npl	Npl
+bajálaš	väliraha& lisuke& jälkiruoka	N	N
+gáimmežat	kaimakset	N	N
+áhkošguovttos	isoäiti lapsenlapsensa kanssa	Adv|N	N
+áhkášguovttos	vaimo miehensä kanssa	Adv	Adv
