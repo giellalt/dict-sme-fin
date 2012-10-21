@@ -136,6 +136,11 @@
             <t pos="v">peseytyä</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">peseskellä</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2151,6 +2156,7 @@
       <mg>
          <tg>
             <t pos="v">kylmettää</t>
+            <t pos="v">jäädyttää</t>
             <t pos="v">pakastaa</t>
          </tg>
       </mg>
@@ -7480,6 +7486,12 @@
       <mg>
          <tg>
             <t pos="v">istahtaa</t>
+            <t pos="v">istuutua</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">kokoilla</t>
          </tg>
       </mg>
    </e>

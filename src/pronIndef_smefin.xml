@@ -79,6 +79,7 @@
       </lg>
       <mg>
          <tg>
+            <t pos="pron">jokin</t>
             <t pos="pron">jotakin</t>
          </tg>
       </mg>
@@ -101,6 +102,17 @@
       <mg>
          <tg>
             <t pos="pron">jotakin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="indef">makkárge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">minkäänlainen</t>
+            <t pos="a">ei minkäänlainen</t>
          </tg>
       </mg>
    </e>

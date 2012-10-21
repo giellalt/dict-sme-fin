@@ -7885,6 +7885,11 @@
             <t pos="n">haava</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="n">kerta</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -8218,6 +8223,16 @@
       <mg>
          <tg>
             <t pos="n">punainen viinimarja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">juoga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vedenjakaja</t>
          </tg>
       </mg>
    </e>
@@ -11959,6 +11974,7 @@
       <mg>
          <tg>
             <t pos="n">nainen</t>
+            <t pos="n">vaimo</t>
          </tg>
       </mg>
    </e>
@@ -14915,6 +14931,11 @@
             <t pos="n">silta</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="n">silli</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -15998,11 +16019,27 @@
    </e>
    <e>
       <lg>
+         <l pos="n">viehkat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vaaka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="n">suohkan</l>
       </lg>
       <mg>
          <tg>
             <t pos="n">kunta</t>
+            <t pos="n">pitäjä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">naara</t>
          </tg>
       </mg>
    </e>

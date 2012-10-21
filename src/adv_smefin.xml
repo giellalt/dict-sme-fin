@@ -681,6 +681,11 @@
             <t pos="adv">enemmän</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="pron">useampi</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1540,17 +1545,6 @@
          <tg>
             <t pos="adv">myös</t>
             <t pos="adv">myöskin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="adv">makkárge</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="adv">minkäänlainen</t>
-            <t pos="adv">ei minkäänlainen</t>
          </tg>
       </mg>
    </e>
