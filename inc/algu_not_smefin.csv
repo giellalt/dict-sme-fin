@@ -140,8 +140,6 @@ válga	uittosalko	N	N
 válga	vaalit	N	N
 arkeologa	arkeologi	N	N
 biologa	biologi	N	N
-juoga	veden)jakaja	Pron|N	N
-juoga	jokin	Pron|N	Pron
 dearga	törky	N	N
 Norga	Norja	N	N
 guorga	kurki	N	N
@@ -436,7 +434,6 @@ balánsa	tasapaino	N	N
 duosa	tuohon	Adv	Adv
 noarsa	mutu (kalalaji)	N	N
 girsa	pukki	N	N
-hirsa	hirsi	N	N
 stálubursa	tuhkelo	N	N
 eassa	ässä (korteissa)	N	N
 boassa	hiirenpesä	N	N
@@ -683,8 +680,6 @@ duohttige	todella	Adv	Adv
 šelge	kiiltäväkarvainen poro (erit. vaadin)	N	N
 smolge	erit. pukeutumiseltaan) huoliteltu ihminen	N	N
 čurge	hallava eläin	N	N
-makkárge	minkäänlainen& minkälainen (tahansa)& minkäkinlainen& muunkaanlainen	Pron	A
-makkárge	missään nimessä	Pron	N
 uhcimusge	vähintäinkin	Adv	Adv
 unnimusge	vähintäinkin	Adv	Adv
 njavge	silokarvainen eläin	N	N
@@ -871,8 +866,6 @@ maŋŋebuoidi	peräsuoli	N	N
 láidi	veneen) laita	N	N
 ráidi	raitio (talollisten poroja omassa tokassaan hoitava)	N	N
 váidi	ilmiantaja	N	N
-sildi	silli	N	N
-sildi	silta	N	N
 doldi	kulunut kesälaidun	N	N
 muldi	multa	N	N
 váldi	ottaja	N	N
@@ -881,8 +874,6 @@ sundi	kihlakunnantuomari& suntio	N	N
 ealageardi	käytös	N	N
 dásageardi	tasakerta (hirsisalvoksessa)	N	N
 veardi	piipun)varsi	N	N
-girdi	lentokone& lentäjä	N	N
-girdi	lentävä	N	A
 virdi	voimakas) virta	N	N
 ordi	särmä	N	N
 nurdi	tylppä esine	N	N
@@ -1006,7 +997,6 @@ rossii	puuskainen (säästä)	A	A
 ahkásii	iäksi	Adv	Adv
 háhttásii	ahtaalle	Adv	Adv
 gárvásii	valmiiksi	Adv	Adv
-oktii	kerran	Adv	Adv
 oktii	yhteen& vastakkain& toinen toistensa kanssa	Adv	Adv
 vihttii	viidesti	Adv	Adv
 čihččii	seitsemän kertaa	Adv	Adv
@@ -1091,12 +1081,7 @@ sahki	rantahyönteinen	N	N
 miehkki	miekka	N	N
 niehkki	niska	N	N
 riehkki	ajopuu	N	N
-viehkki	juokseva& juoksija	A|N	N
-viehkki	juoksevainen	A|N	A
 dihkki	täi	N	N
-lohkki	kansi	A|N	N
-lohkki	lukeva& lukija	A|N	N
-lohkki	lukeva	A	A
 guohkki	kuokka	N	N
 juohkki	jakaja	N	N
 snuohkki	värttinäkoukku	N	N
@@ -1232,7 +1217,6 @@ guosttaheavdni	lumikirppu	N	N
 tuvdni	tunkio	N	N
 hámmelheanni	merisaamelaisnainen	N	N
 manni	menijä& menevä	A|N	N
-manni	muna	A|N	N
 nanni	sisämaa& porojen kesälaitumena	N	N
 skuohpponjunni	koukkunokka	N	N
 dánamánni	kunnianmies	N	N
@@ -1298,8 +1282,6 @@ vuoktagoalsi	tukkakoskelo	N	N
 soalsi	kuola	N	N
 nursi	tylppä esine	N	N
 dársi	pullukka	N	N
-beassi	pesä	N	N
-beassi	tuohi	N	N
 albmeassi	taivaankansi	N	N
 lassi	lisä	A|N	N
 suohkulanmiessi	syysvasa (jonka karva on jo hieman tuuheampaa	N	N
@@ -1420,8 +1402,6 @@ beavvi	rakas ystävä	N	N
 reavvi	länkisääri	N	N
 hivvi	hyväkäs (ihmisestä)	N	N
 suovvi	heinäsuova	N	N
-hávvi	haava	N	N
-hávvi	kerta	N	N
 lávvi	ystävä	N	N
 bađvi	palko	N	N
 veanzi	vollottaja	N	N
@@ -1738,8 +1718,6 @@ suonjan	pujahtelija	N	N
 lojan	kesy eläin	N	N
 biehkan	piekana	N	N
 riehkan	työkkyri	N	N
-suohkan	naara	N	N
-suohkan	pitäjä	N	N
 guhkan	kukkuja	N	N
 juhkan	juominen	N	N
 fáhkan	miekkavalas	N	N
@@ -2435,8 +2413,6 @@ uđas	lumi)vyöry& ryöppy	N	N
 dáđas	tahmainen	A	A
 beatnatdaŋas	ruohokanukka	N	N
 jaŋas	rutikuiva	A	A
-jieŋas	jäätie	A|N	N
-jieŋas	jäätävä	A|N	A
 čeakŋas	kyykistelevä& matalajalkainen (eläimestä)	A	A
 jarkŋas	jossa on pullistuma	A	A
 goalššas	kolea	A	A
@@ -2958,8 +2934,6 @@ lojat	kesy eläin (erit. ajoporo)	N	N
 borjat	purjetuuli	N	N
 cahkat	kyteä	V	V
 hoahkat	hokea	V	V
-viehkat	juosta (kahdella jalalla)	N|V	V
-viehkat	vaaka	N|V	V
 bohkat	porata	V	V
 cahkkat	räikeä	A	A
 roahkkat	rohkea	A|V	A
@@ -3584,8 +3558,6 @@ ruovdegulmmet	kolmipiikki	N	N
 skummet	kuoria (maitoa)	V	V
 satmet	koota vesisammalta	V	V
 rumet	tunkeutua (esiin)	V	V
-eanet	enemmän	A|Adv	Adv
-eanet	useampi	A|Adv	Pron
 dadnet	tinata	V	V
 gadnet	raaputtaa hilsettä& nuolla kivijäkälää	V	V
 heidnet	hioa (hiomakivellä)	V	V
@@ -3818,8 +3790,6 @@ soradit	sotkeutua (esim. hihnaan tai toistensa hihnoihin)	V	V
 garradit	kovettaa	V	V
 gáradit	sitoa (kuormia tai monta tavaraa kuormaan)	V	V
 čáradit	erittää rasvaa (keitettävästä lihasta)	V	V
-basadit	peseskellä	V	V
-basadit	peseytyä	V	V
 dasadit	kohennella (tulta)& tuupiskella& tuuppia toisiaan	V	V
 giesadit	kietoa kengänpaulansa	V	V
 ruosadit	kompuroida	V	V
@@ -3852,8 +3822,6 @@ boaddit	kookas	A	A
 sáddedit	lähetellä& sadatella	V	V
 tiggedit	tinkiä (pitkään)	V	V
 reikedit	astella edestakaisin (lattialla)	V	V
-čohkkedit	istuutua	V	V
-čohkkedit	kokoilla	V	V
 njammedit	juopotella (jatkuvasti)	V	V
 ávdnedit	muotoilla (vähin erin)	V	V
 prentedit	kirjoittaa painokirjaimia	V	V
@@ -3985,8 +3953,6 @@ jorggodit	käännellä (nurjin puolin)	V	V
 čurggodit	harmaantua (hiuksistaan)	V	V
 njavggodit	silottua (karvasta)& raahautua (hihnan päässä ajoporon perässä)	V	V
 ravggodit	tempoilla (erit. ajoporoa hihnasta)	V	V
-lávggodit	kylpeä	V	V
-lávggodit	kylvetellä	V	V
 fiŋggodit	sätkytellä	V	V
 mugodit	ammua (jatkuvasti)	V	V
 gerjjodit	heiluttaa häntäänsä& mielistellä	V	V
@@ -4334,8 +4300,6 @@ gálihit	kahlauttaa& kuljettaa kahlaamalla	V	V
 čálihit	kirjoituttaa& hakea avioliittokuulutus& viillättää	V	V
 deamihit	tömähtää	V	V
 dimihit	pehmetä (äkkiä)& tuntua (äkkiä) pehmeältä	V	V
-galmmihit	jäädyttää& pakastaa	V	V
-galmmihit	kylmätä (äkkiä)	V	V
 árpmihit	armahtaa	V	V
 humihit	mumista (hetken)& humahtaa	V	V
 jumihit	jymähtää	V	V
@@ -5547,7 +5511,6 @@ njuohcu	raate	N	N
 muohcu	kirja)koi	N	N
 hilcu	tytönhattara	N	N
 áhkacincu	rasvakala	N	N
-don	sinä	Pron	Pron
 deaddu	paino& paine& painotus	N	N
 oarskieddu	peruke (pitkässäsiimassa)	N	N
 áhkábiddu	iso)simppu	N	N
@@ -5668,8 +5631,6 @@ tuollu	tulli	N	N
 gullu	kuloheinä	N	N
 čállu	kirjoitus	N	N
 uvlu	kimalainen	N	N
-lávlu	laulaja	A|N	N
-lávlu	laulu	A|N	N
 tiibmu	kello& tunti	N	N
 árbmu	armo	N	N
 njoammu	erittäin tarttuva (taudista)	A|N	A
@@ -5718,7 +5679,6 @@ eavru	kalan) vatsanalus	N	N
 eavru	hapro	N	N
 roavru	komojää	N	N
 stávru	pitkäkoipi (ihmisestä)	N	N
-nisu	nainen& vaimo	N	N
 nisu	vehnä	N	N
 bieksu	pieksu	N	N
 uksu	ruijanpaltaan pää (ilman alaleukaa)	N	N
@@ -5789,8 +5749,6 @@ gáhčču	kiire	N	N
 gođđu	kutu	N	N
 nođđu	kerä	N	N
 čieŋu	syvyinen	Po	A
-dikšu	hoitaja	N	N
-dikšu	hoito	N	N
 gákšu	naarassusi& (naisesta halv.) narttu	N	N
 goalšu	ruoko	N	N
 boršu	kuohu	N	N
