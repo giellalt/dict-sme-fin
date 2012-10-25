@@ -56,4 +56,102 @@
          </tg>
       </mg>
    </e>
+  <e>
+    <l pos="interj">cuš</l>
+    <mg>
+      <tg>
+        <t pos="interj">hoi (porotokan houkutushuuto)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="interj">fihcce</l>
+    <mg>
+      <tg>
+        <t pos="interj">hyi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="interj">fuoi</l>
+    <mg>
+      <tg>
+        <t pos="interj">hyi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="interj">fuos</l>
+    <mg>
+      <tg>
+        <t pos="interj">hus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="interj">hei</l>
+    <mg>
+      <tg>
+        <t pos="interj">ohhoh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="interj">hoi</l>
+    <mg>
+      <tg>
+        <t pos="interj">hohoi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="interj">huf</l>
+    <mg>
+      <tg>
+        <t pos="interj">huh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="interj">hyš</l>
+    <mg>
+      <tg>
+        <t pos="interj">hys</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="interj">kyš kyš</l>
+    <mg>
+      <tg>
+        <t pos="interj">hus hus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="interj">skolle</l>
+    <mg>
+      <tg>
+        <t pos="interj">kippis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="interj">buorat</l>
+    <mg>
+      <tg>
+        <t pos="interj">päivää</t>
+        <t pos="interj"> terve</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="interj">dearvva</l>
+    <mg>
+      <tg>
+        <t pos="interj">terve</t>
+        <t pos="interj"> moi</t>
+      </tg>
+    </mg>
+  </e>
 </r>

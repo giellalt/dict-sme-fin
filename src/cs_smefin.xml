@@ -96,4 +96,28 @@
          </tg>
       </mg>
    </e>
+  <e>
+    <l pos="cs">jogo ... dahje</l>
+    <mg>
+      <tg>
+        <t pos="cs">joko ... tai</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="cs">josgo</l>
+    <mg>
+      <tg>
+        <t pos="cc">josko</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="cs">váikko</l>
+    <mg>
+      <tg>
+        <t pos="cc">vaikka</t>
+      </tg>
+    </mg>
+  </e>
 </r>

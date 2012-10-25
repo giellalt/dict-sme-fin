@@ -52,4 +52,84 @@
          </tg>
       </mg>
    </e>
+  <e>
+    <l pos="pron">dokkár</l>
+    <mg>
+      <tg>
+        <t pos="a">tuollainen kuin tuo tuolla kaukana</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="pron">giige</l>
+    <mg>
+      <tg>
+        <t pos="pron">kukaan</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="pron">giige</l>
+    <mg>
+      <tg>
+        <t pos="pron">kukin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="pron">guhtet</l>
+    <mg>
+      <tg>
+        <t pos="pron">kukin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="pron">juobbá</l>
+    <mg>
+      <tg>
+        <t pos="pron">jompikumpi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="pron">juobbágoabbá</l>
+    <mg>
+      <tg>
+        <t pos="pron">jompikumpi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="pron">juohkehaš</l>
+    <mg>
+      <tg>
+        <t pos="pron">jokainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="pron">miijai</l>
+    <mg>
+      <tg>
+        <t pos="pron">mikin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="pron">oktahat</l>
+    <mg>
+      <tg>
+        <t pos="num">yksi ja sama</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="pron">olugat</l>
+    <mg>
+      <tg>
+        <t pos="pron">monet ihmiset</t>
+      </tg>
+    </mg>
+  </e>
 </r>

@@ -151,4 +151,36 @@
          </tg>
       </mg>
    </e>
+  <e>
+    <l pos="num">duhát</l>
+    <mg>
+      <tg>
+        <t pos="num">tuhat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="num">gákcilogi</l>
+    <mg>
+      <tg>
+        <t pos="num">kahdeksankymmentä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="num">čiehččalogi</l>
+    <mg>
+      <tg>
+        <t pos="num">seitsemänkymmentä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="num">čuohti</l>
+    <mg>
+      <tg>
+        <t pos="num">sata</t>
+      </tg>
+    </mg>
+  </e>
 </r>

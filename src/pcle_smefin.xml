@@ -54,4 +54,36 @@
          </tg>
       </mg>
    </e>
+  <e>
+    <l pos="pcle">mis</l>
+    <mg>
+      <tg>
+        <t pos="pcle">tosiaan</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="pcle">na</l>
+    <mg>
+      <tg>
+        <t pos="pcle">no</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="pcle">no</l>
+    <mg>
+      <tg>
+        <t pos="pcle">no</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="pcle">nuba</l>
+    <mg>
+      <tg>
+        <t pos="pcle">niinpä</t>
+      </tg>
+    </mg>
+  </e>
 </r>

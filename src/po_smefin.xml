@@ -610,4 +610,100 @@
          </tg>
       </mg>
    </e>
+  <e>
+    <l pos="po">bokte</l>
+    <mg>
+      <tg>
+        <t pos="po">kautta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="po">gievrru</l>
+    <mg>
+      <tg>
+        <t pos="a">sen ja sen vahvuinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="po">gorrái</l>
+    <mg>
+      <tg>
+        <t pos="po">suhteen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="po">guhku</l>
+    <mg>
+      <tg>
+        <t pos="a">pituinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="po">hahttá</l>
+    <mg>
+      <tg>
+        <t pos="po">ilman</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="po">hárrái</l>
+    <mg>
+      <tg>
+        <t pos="po">jonkun suhteen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="po">losu</l>
+    <mg>
+      <tg>
+        <t pos="a">painoinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="po">oaidnut</l>
+    <mg>
+      <tg>
+        <t pos="po">nähden</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="po">viiddu</l>
+    <mg>
+      <tg>
+        <t pos="a">laajuinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="po">vuolis</l>
+    <mg>
+      <tg>
+        <t pos="adv">enteenä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="po">várte</l>
+    <mg>
+      <tg>
+        <t pos="po">varten</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="po">čieŋu</l>
+    <mg>
+      <tg>
+        <t pos="a">syvyinen</t>
+      </tg>
+    </mg>
+  </e>
 </r>
