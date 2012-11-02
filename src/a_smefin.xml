@@ -3302,6 +3302,7 @@
         <t pos="a">korkuinen</t>
       </tg>
     </mg>
+  </e>
   <e>
     <l pos="a">abstrákta</l>
     <mg>
@@ -9467,7 +9468,7 @@
     <mg>
       <tg>
         <t pos="a">halukas käyttämään</t>
-        <t pos="a"> himokas</t>
+        <t pos="a">himokas</t>
       </tg>
     </mg>
   </e>
@@ -9476,7 +9477,7 @@
     <mg>
       <tg>
         <t pos="a">päivän vanha</t>
-        <t pos="a"> -päiväinen</t>
+        <t pos="a">-päiväinen</t>
       </tg>
     </mg>
   </e>
@@ -9485,7 +9486,7 @@
     <mg>
       <tg>
         <t pos="a">tehokas</t>
-        <t pos="a"> ravitseva</t>
+        <t pos="a">ravitseva</t>
       </tg>
     </mg>
   </e>
@@ -9494,7 +9495,7 @@
     <mg>
       <tg>
         <t pos="a">tuoheton</t>
-        <t pos="a"> vähätuohinen</t>
+        <t pos="a">vähätuohinen</t>
       </tg>
     </mg>
   </e>
@@ -9503,7 +9504,7 @@
     <mg>
       <tg>
         <t pos="a">bilateraali (äänteestä)</t>
-        <t pos="a"> kahdenkeskinen</t>
+        <t pos="a">kahdenkeskinen</t>
       </tg>
     </mg>
   </e>
@@ -9512,7 +9513,7 @@
     <mg>
       <tg>
         <t pos="a">pitkäaikainen</t>
-        <t pos="a"> pitkäikäinen (esineestä)</t>
+        <t pos="a">pitkäikäinen (esineestä)</t>
       </tg>
     </mg>
   </e>
@@ -9521,7 +9522,7 @@
     <mg>
       <tg>
         <t pos="a">lyhytaikainen</t>
-        <t pos="a"> riittämätön</t>
+        <t pos="a">riittämätön</t>
       </tg>
     </mg>
   </e>
@@ -9530,7 +9531,7 @@
     <mg>
       <tg>
         <t pos="a">rasvaton</t>
-        <t pos="a"> vähärasvainen</t>
+        <t pos="a">vähärasvainen</t>
       </tg>
     </mg>
   </e>
@@ -9539,7 +9540,7 @@
     <mg>
       <tg>
         <t pos="a">palamaton</t>
-        <t pos="a"> huonosti palava</t>
+        <t pos="a">huonosti palava</t>
       </tg>
     </mg>
   </e>
@@ -9548,7 +9549,7 @@
     <mg>
       <tg>
         <t pos="a">paikoittainen</t>
-        <t pos="a"> laikukas</t>
+        <t pos="a">laikukas</t>
       </tg>
     </mg>
   </e>
@@ -9557,7 +9558,7 @@
     <mg>
       <tg>
         <t pos="a">loistava</t>
-        <t pos="a"> loistelias</t>
+        <t pos="a">loistelias</t>
       </tg>
     </mg>
   </e>
@@ -9566,7 +9567,7 @@
     <mg>
       <tg>
         <t pos="a">kiikkerä</t>
-        <t pos="a"> ympäripyöreä</t>
+        <t pos="a">ympäripyöreä</t>
       </tg>
     </mg>
   </e>
@@ -9575,7 +9576,7 @@
     <mg>
       <tg>
         <t pos="a">toimeton</t>
-        <t pos="a"> aloitekyvytön</t>
+        <t pos="a">aloitekyvytön</t>
       </tg>
     </mg>
   </e>
@@ -9584,7 +9585,7 @@
     <mg>
       <tg>
         <t pos="a">kelvollinen</t>
-        <t pos="a"> pätevä</t>
+        <t pos="a">pätevä</t>
       </tg>
     </mg>
   </e>
@@ -9593,7 +9594,7 @@
     <mg>
       <tg>
         <t pos="a">lämmittämätön (huoneesta)</t>
-        <t pos="a"> tuleton</t>
+        <t pos="a">tuleton</t>
       </tg>
     </mg>
   </e>
@@ -9602,7 +9603,7 @@
     <mg>
       <tg>
         <t pos="a">tappelunhaluinen</t>
-        <t pos="a"> puskuri (eläimestä)</t>
+        <t pos="a">puskuri (eläimestä)</t>
       </tg>
     </mg>
   </e>
@@ -9611,7 +9612,7 @@
     <mg>
       <tg>
         <t pos="a">turvaton</t>
-        <t pos="a"> masentunut</t>
+        <t pos="a">masentunut</t>
       </tg>
     </mg>
   </e>
@@ -9620,7 +9621,7 @@
     <mg>
       <tg>
         <t pos="a">sietokykyinen</t>
-        <t pos="a"> uskalias</t>
+        <t pos="a">uskalias</t>
       </tg>
     </mg>
   </e>
@@ -9629,7 +9630,7 @@
     <mg>
       <tg>
         <t pos="a">takkuuntuva</t>
-        <t pos="a"> rujo</t>
+        <t pos="a">rujo</t>
       </tg>
     </mg>
   </e>
@@ -9638,7 +9639,7 @@
     <mg>
       <tg>
         <t pos="a">helposti kiehuva</t>
-        <t pos="a"> puhelias</t>
+        <t pos="a">puhelias</t>
       </tg>
     </mg>
   </e>
@@ -9647,7 +9648,7 @@
     <mg>
       <tg>
         <t pos="a">huono ottamaan koppia</t>
-        <t pos="a"> haluton torjumaan</t>
+        <t pos="a">haluton torjumaan</t>
       </tg>
     </mg>
   </e>
@@ -9656,7 +9657,7 @@
     <mg>
       <tg>
         <t pos="a">tuskainen</t>
-        <t pos="a"> ärtyisä</t>
+        <t pos="a">ärtyisä</t>
       </tg>
     </mg>
   </e>
@@ -9665,7 +9666,7 @@
     <mg>
       <tg>
         <t pos="a">kuhnaileva</t>
-        <t pos="a"> hössöttävä</t>
+        <t pos="a">hössöttävä</t>
       </tg>
     </mg>
   </e>
@@ -9674,7 +9675,7 @@
     <mg>
       <tg>
         <t pos="a">norjalainen</t>
-        <t pos="a"> norjantaitoinen</t>
+        <t pos="a">norjantaitoinen</t>
       </tg>
     </mg>
   </e>
@@ -9683,7 +9684,7 @@
     <mg>
       <tg>
         <t pos="a">mieltynyt</t>
-        <t pos="a"> seurallinen</t>
+        <t pos="a">seurallinen</t>
       </tg>
     </mg>
   </e>
@@ -9692,7 +9693,7 @@
     <mg>
       <tg>
         <t pos="a">huonovointinen</t>
-        <t pos="a"> raskaana oleva</t>
+        <t pos="a">raskaana oleva</t>
       </tg>
     </mg>
   </e>
@@ -9701,7 +9702,7 @@
     <mg>
       <tg>
         <t pos="a">elinvoimainen</t>
-        <t pos="a"> elollinen</t>
+        <t pos="a">elollinen</t>
       </tg>
     </mg>
   </e>
@@ -9710,7 +9711,7 @@
     <mg>
       <tg>
         <t pos="a">killinki (vanha raha)</t>
-        <t pos="a"> yksinkertainen</t>
+        <t pos="a">yksinkertainen</t>
       </tg>
     </mg>
   </e>
@@ -9719,7 +9720,7 @@
     <mg>
       <tg>
         <t pos="a">ehdollinen</t>
-        <t pos="a"> tahallinen</t>
+        <t pos="a">tahallinen</t>
       </tg>
     </mg>
   </e>
@@ -9728,7 +9729,7 @@
     <mg>
       <tg>
         <t pos="a">hillitön</t>
-        <t pos="a"> liian lyhyitä vaatteita pitävä</t>
+        <t pos="a">liian lyhyitä vaatteita pitävä</t>
       </tg>
     </mg>
   </e>
@@ -9737,7 +9738,7 @@
     <mg>
       <tg>
         <t pos="a">päättäväinen</t>
-        <t pos="a"> peloton</t>
+        <t pos="a">peloton</t>
       </tg>
     </mg>
   </e>
@@ -9746,7 +9747,7 @@
     <mg>
       <tg>
         <t pos="a">ankara (olosuhteista)</t>
-        <t pos="a"> kovasydäminen</t>
+        <t pos="a">kovasydäminen</t>
       </tg>
     </mg>
   </e>
@@ -9755,7 +9756,7 @@
     <mg>
       <tg>
         <t pos="a">virtaava</t>
-        <t pos="a"> juokseva (nesteestä)</t>
+        <t pos="a">juokseva (nesteestä)</t>
       </tg>
     </mg>
   </e>
@@ -9764,7 +9765,7 @@
     <mg>
       <tg>
         <t pos="a">jossa on paljon kultaa</t>
-        <t pos="a"> kultainen</t>
+        <t pos="a">kultainen</t>
       </tg>
     </mg>
   </e>
@@ -9773,7 +9774,7 @@
     <mg>
       <tg>
         <t pos="a">tarkkakorvainen</t>
-        <t pos="a"> herkkäuninen</t>
+        <t pos="a">herkkäuninen</t>
       </tg>
     </mg>
   </e>
@@ -9782,7 +9783,7 @@
     <mg>
       <tg>
         <t pos="a">jäykkä</t>
-        <t pos="a"> karski</t>
+        <t pos="a">karski</t>
       </tg>
     </mg>
   </e>
@@ -9791,7 +9792,7 @@
     <mg>
       <tg>
         <t pos="a">juovainen (poron tai koiran koipinahasta)</t>
-        <t pos="a"> jossa on valkoinen juova etupuolella</t>
+        <t pos="a">jossa on valkoinen juova etupuolella</t>
       </tg>
     </mg>
   </e>
@@ -9800,7 +9801,7 @@
     <mg>
       <tg>
         <t pos="a">toljottava</t>
-        <t pos="a"> kolkko</t>
+        <t pos="a">kolkko</t>
       </tg>
     </mg>
   </e>
@@ -9809,7 +9810,7 @@
     <mg>
       <tg>
         <t pos="a">elollinen</t>
-        <t pos="a"> henkinen</t>
+        <t pos="a">henkinen</t>
       </tg>
     </mg>
   </e>
@@ -9818,7 +9819,7 @@
     <mg>
       <tg>
         <t pos="a">sopimaton</t>
-        <t pos="a"> soveltumaton</t>
+        <t pos="a">soveltumaton</t>
       </tg>
     </mg>
   </e>
@@ -9827,7 +9828,7 @@
     <mg>
       <tg>
         <t pos="a">puhumaton</t>
-        <t pos="a"> vähäpuheinen</t>
+        <t pos="a">vähäpuheinen</t>
       </tg>
     </mg>
   </e>
@@ -9836,7 +9837,7 @@
     <mg>
       <tg>
         <t pos="a">itsepintainen</t>
-        <t pos="a"> omavaltainen</t>
+        <t pos="a">omavaltainen</t>
       </tg>
     </mg>
   </e>
@@ -9845,7 +9846,7 @@
     <mg>
       <tg>
         <t pos="a">itsepintainen</t>
-        <t pos="a"> omavaltainen</t>
+        <t pos="a">omavaltainen</t>
       </tg>
     </mg>
   </e>
@@ -9854,7 +9855,7 @@
     <mg>
       <tg>
         <t pos="a">väritön</t>
-        <t pos="a"> kalvakka</t>
+        <t pos="a">kalvakka</t>
       </tg>
     </mg>
   </e>
@@ -9863,7 +9864,7 @@
     <mg>
       <tg>
         <t pos="a">järkevä</t>
-        <t pos="a"> johdonmukainen</t>
+        <t pos="a">johdonmukainen</t>
       </tg>
     </mg>
   </e>
@@ -9872,7 +9873,7 @@
     <mg>
       <tg>
         <t pos="a">lohdutettava</t>
-        <t pos="a"> lohtuisa</t>
+        <t pos="a">lohtuisa</t>
       </tg>
     </mg>
   </e>
@@ -9881,7 +9882,7 @@
     <mg>
       <tg>
         <t pos="a">jossa ei ole valkkoja</t>
-        <t pos="a"> jossa on vain vähän valkkoja (tokasta)</t>
+        <t pos="a">jossa on vain vähän valkkoja (tokasta)</t>
       </tg>
     </mg>
   </e>
@@ -9890,7 +9891,7 @@
     <mg>
       <tg>
         <t pos="a">joutava</t>
-        <t pos="a"> joutilas</t>
+        <t pos="a">joutilas</t>
       </tg>
     </mg>
   </e>
@@ -9899,7 +9900,7 @@
     <mg>
       <tg>
         <t pos="a">joutuisa (kulkuneuvoista)</t>
-        <t pos="a"> täsmällinen ajan suhteen</t>
+        <t pos="a">täsmällinen ajan suhteen</t>
       </tg>
     </mg>
   </e>
@@ -9908,7 +9909,7 @@
     <mg>
       <tg>
         <t pos="a">epäuskoinen</t>
-        <t pos="a"> uskomaton</t>
+        <t pos="a">uskomaton</t>
       </tg>
     </mg>
   </e>
@@ -9917,7 +9918,7 @@
     <mg>
       <tg>
         <t pos="a">joka viipyy pitkään jossakin</t>
-        <t pos="a"> joka helposti voidaan varastaa</t>
+        <t pos="a">joka helposti voidaan varastaa</t>
       </tg>
     </mg>
   </e>
@@ -9926,7 +9927,7 @@
     <mg>
       <tg>
         <t pos="a">järvetön</t>
-        <t pos="a"> vähäjärvinen</t>
+        <t pos="a">vähäjärvinen</t>
       </tg>
     </mg>
   </e>
@@ -9935,7 +9936,7 @@
     <mg>
       <tg>
         <t pos="a">niukka</t>
-        <t pos="a"> visu</t>
+        <t pos="a">visu</t>
       </tg>
     </mg>
   </e>
@@ -9944,7 +9945,7 @@
     <mg>
       <tg>
         <t pos="a">lähin</t>
-        <t pos="a"> lähimmäinen</t>
+        <t pos="a">lähimmäinen</t>
       </tg>
     </mg>
   </e>
@@ -9953,7 +9954,7 @@
     <mg>
       <tg>
         <t pos="a">erikoinen</t>
-        <t pos="a"> liiallinen</t>
+        <t pos="a">liiallinen</t>
       </tg>
     </mg>
   </e>
@@ -9962,7 +9963,7 @@
     <mg>
       <tg>
         <t pos="a">löntystävä</t>
-        <t pos="a"> pörröinen</t>
+        <t pos="a">pörröinen</t>
       </tg>
     </mg>
   </e>
@@ -9971,7 +9972,7 @@
     <mg>
       <tg>
         <t pos="a">eteläisin</t>
-        <t pos="a"> (R) itäisin</t>
+        <t var="sw" pos="a">itäisin</t>
       </tg>
     </mg>
   </e>
@@ -9980,7 +9981,7 @@
     <mg>
       <tg>
         <t pos="a">eteläisempi</t>
-        <t pos="a"> (R) itäisempi</t>
+        <t var="sw" pos="a">itäisempi</t>
       </tg>
     </mg>
   </e>
@@ -9989,7 +9990,7 @@
     <mg>
       <tg>
         <t pos="a">pitkiä askelia ottava</t>
-        <t pos="a"> pitkäpistoinen (ompelukoneesta)</t>
+        <t pos="a">pitkäpistoinen (ompelukoneesta)</t>
       </tg>
     </mg>
   </e>
@@ -9998,7 +9999,7 @@
     <mg>
       <tg>
         <t pos="a">imelä</t>
-        <t pos="a"> raskas (rasvaisesta ruoasta)</t>
+        <t pos="a">raskas (rasvaisesta ruoasta)</t>
       </tg>
     </mg>
   </e>
@@ -10007,7 +10008,7 @@
     <mg>
       <tg>
         <t pos="a">vasaton</t>
-        <t pos="a"> jossa tai jolla on vähän vasoja</t>
+        <t pos="a">jossa tai jolla on vähän vasoja</t>
       </tg>
     </mg>
   </e>
@@ -10016,7 +10017,7 @@
     <mg>
       <tg>
         <t pos="a">sula (pakasteesta)</t>
-        <t pos="a"> leuto (ilmasta)</t>
+        <t pos="a">leuto (ilmasta)</t>
       </tg>
     </mg>
   </e>
@@ -10025,7 +10026,7 @@
     <mg>
       <tg>
         <t pos="a">kuukauden vanha</t>
-        <t pos="a"> -kuinen</t>
+        <t pos="a">-kuinen</t>
       </tg>
     </mg>
   </e>
@@ -10034,7 +10035,7 @@
     <mg>
       <tg>
         <t pos="a">nälkäinen</t>
-        <t pos="a"> säälittävä</t>
+        <t pos="a">säälittävä</t>
       </tg>
     </mg>
   </e>
@@ -10043,7 +10044,7 @@
     <mg>
       <tg>
         <t pos="a">eväätön</t>
-        <t pos="a"> jolla on vähän evästä</t>
+        <t pos="a">jolla on vähän evästä</t>
       </tg>
     </mg>
   </e>
@@ -10052,7 +10053,7 @@
     <mg>
       <tg>
         <t pos="a">limainen</t>
-        <t pos="a"> veltto</t>
+        <t pos="a">veltto</t>
       </tg>
     </mg>
   </e>
@@ -10061,7 +10062,7 @@
     <mg>
       <tg>
         <t pos="a">katoavainen (esineistä)</t>
-        <t pos="a"> rajallinen</t>
+        <t pos="a">rajallinen</t>
       </tg>
     </mg>
   </e>
@@ -10070,7 +10071,7 @@
     <mg>
       <tg>
         <t pos="a">vähän itäisempi</t>
-        <t pos="a"> (R) vähän pohjoisempi</t>
+        <t var="sw" pos="a">vähän pohjoisempi</t>
       </tg>
     </mg>
   </e>
@@ -10079,7 +10080,7 @@
     <mg>
       <tg>
         <t pos="a">itäisin</t>
-        <t pos="a"> (R) pohjoisin</t>
+        <t var="sw" pos="a">pohjoisin</t>
       </tg>
     </mg>
   </e>
@@ -10088,7 +10089,7 @@
     <mg>
       <tg>
         <t pos="a">itäisempi</t>
-        <t pos="a"> (R) pohjoisempi</t>
+        <t var="sw" pos="a">pohjoisempi</t>
       </tg>
     </mg>
   </e>
@@ -10097,7 +10098,7 @@
     <mg>
       <tg>
         <t pos="a">oppimaton</t>
-        <t pos="a"> kovapäinen</t>
+        <t pos="a">kovapäinen</t>
       </tg>
     </mg>
   </e>
@@ -10106,7 +10107,7 @@
     <mg>
       <tg>
         <t pos="a">nuoraton</t>
-        <t pos="a"> jolla on liian vähän nuoraa</t>
+        <t pos="a">jolla on liian vähän nuoraa</t>
       </tg>
     </mg>
   </e>
@@ -10115,7 +10116,7 @@
     <mg>
       <tg>
         <t pos="a">kylmänarka olio</t>
-        <t pos="a"> kylmänarka</t>
+        <t pos="a">kylmänarka</t>
       </tg>
     </mg>
   </e>
@@ -10124,7 +10125,7 @@
     <mg>
       <tg>
         <t pos="a">vähän läntisempi</t>
-        <t pos="a"> (R) vähän eteläisempi</t>
+        <t var="sw" pos="a">vähän eteläisempi</t>
       </tg>
     </mg>
   </e>
@@ -10133,7 +10134,7 @@
     <mg>
       <tg>
         <t pos="a">läntisempi</t>
-        <t pos="a"> (R) eteläisempi</t>
+        <t var="sw" pos="a">eteläisempi</t>
       </tg>
     </mg>
   </e>
@@ -10142,7 +10143,7 @@
     <mg>
       <tg>
         <t pos="a">oksaton</t>
-        <t pos="a"> vähäoksainen</t>
+        <t pos="a">vähäoksainen</t>
       </tg>
     </mg>
   </e>
@@ -10151,7 +10152,7 @@
     <mg>
       <tg>
         <t pos="a">kirkkaanvärinen</t>
-        <t pos="a"> verevä kasvoiltaan</t>
+        <t pos="a">verevä kasvoiltaan</t>
       </tg>
     </mg>
   </e>
@@ -10160,7 +10161,7 @@
     <mg>
       <tg>
         <t pos="a">pilaantunut</t>
-        <t pos="a"> liian kauan seisseestä maksasta</t>
+        <t pos="a">liian kauan seisseestä maksasta</t>
       </tg>
     </mg>
   </e>
@@ -10169,7 +10170,7 @@
     <mg>
       <tg>
         <t pos="a">kateellinen</t>
-        <t pos="a"> mustasukkainen tavaroistaan</t>
+        <t pos="a">mustasukkainen tavaroistaan</t>
       </tg>
     </mg>
   </e>
@@ -10178,7 +10179,7 @@
     <mg>
       <tg>
         <t pos="a">karhea</t>
-        <t pos="a"> möreä (äänestä)</t>
+        <t pos="a">möreä (äänestä)</t>
       </tg>
     </mg>
   </e>
@@ -10187,7 +10188,7 @@
     <mg>
       <tg>
         <t pos="a">karhea (äänestä)</t>
-        <t pos="a"> pelottava (oliosta)</t>
+        <t pos="a">pelottava (oliosta)</t>
       </tg>
     </mg>
   </e>
@@ -10196,7 +10197,7 @@
     <mg>
       <tg>
         <t pos="a">jolla on paljon (pyyntirautoja</t>
-        <t pos="a"> jossa on liikaa rautaa</t>
+        <t pos="a">jossa on liikaa rautaa</t>
       </tg>
     </mg>
   </e>
@@ -10205,7 +10206,7 @@
     <mg>
       <tg>
         <t pos="a">takaperoinen</t>
-        <t pos="a"> perätilassa oleva</t>
+        <t pos="a">perätilassa oleva</t>
       </tg>
     </mg>
   </e>
@@ -10214,7 +10215,7 @@
     <mg>
       <tg>
         <t pos="a">pärskivä</t>
-        <t pos="a"> pärskiväinen</t>
+        <t pos="a">pärskiväinen</t>
       </tg>
     </mg>
   </e>
@@ -10223,7 +10224,7 @@
     <mg>
       <tg>
         <t pos="a">raidollinen</t>
-        <t pos="a"> raitomies</t>
+        <t pos="a">raitomies</t>
       </tg>
     </mg>
   </e>
@@ -10232,7 +10233,7 @@
     <mg>
       <tg>
         <t pos="a">osallinen</t>
-        <t pos="a"> osakas</t>
+        <t pos="a">osakas</t>
       </tg>
     </mg>
   </e>
@@ -10241,7 +10242,7 @@
     <mg>
       <tg>
         <t pos="a">lauha</t>
-        <t pos="a"> säyseä</t>
+        <t pos="a">säyseä</t>
       </tg>
     </mg>
   </e>
@@ -10250,7 +10251,7 @@
     <mg>
       <tg>
         <t pos="a">haarova</t>
-        <t pos="a"> eripurainen</t>
+        <t pos="a">eripurainen</t>
       </tg>
     </mg>
   </e>
@@ -10259,7 +10260,7 @@
     <mg>
       <tg>
         <t pos="a">niukka</t>
-        <t pos="a"> kitsas</t>
+        <t pos="a">kitsas</t>
       </tg>
     </mg>
   </e>
@@ -10268,7 +10269,7 @@
     <mg>
       <tg>
         <t pos="a">rivo puheissaan</t>
-        <t pos="a"> rivot puheet</t>
+        <t pos="a">rivot puheet</t>
       </tg>
     </mg>
   </e>
@@ -10277,7 +10278,7 @@
     <mg>
       <tg>
         <t pos="a">tyyni vesi</t>
-        <t pos="a"> tyyni vedenpinta</t>
+        <t pos="a">tyyni vedenpinta</t>
       </tg>
     </mg>
   </e>
@@ -10286,7 +10287,7 @@
     <mg>
       <tg>
         <t pos="a">kuolaava</t>
-        <t pos="a"> kuolainen</t>
+        <t pos="a">kuolainen</t>
       </tg>
     </mg>
   </e>
@@ -10295,7 +10296,7 @@
     <mg>
       <tg>
         <t pos="a">kuolaava</t>
-        <t pos="a"> kuolainen</t>
+        <t pos="a">kuolainen</t>
       </tg>
     </mg>
   </e>
@@ -10304,7 +10305,7 @@
     <mg>
       <tg>
         <t pos="a">latuskainen pystysuunnassa</t>
-        <t pos="a"> latuskarintainen</t>
+        <t pos="a">latuskarintainen</t>
       </tg>
     </mg>
   </e>
@@ -10313,7 +10314,7 @@
     <mg>
       <tg>
         <t pos="a">pullottava</t>
-        <t pos="a"> punkeromainen</t>
+        <t pos="a">punkeromainen</t>
       </tg>
     </mg>
   </e>
@@ -10322,7 +10323,7 @@
     <mg>
       <tg>
         <t pos="a">ääliömäinen</t>
-        <t pos="a"> leväperäinen</t>
+        <t pos="a">leväperäinen</t>
       </tg>
     </mg>
   </e>
@@ -10331,7 +10332,7 @@
     <mg>
       <tg>
         <t pos="a">juovikas</t>
-        <t pos="a"> jossa on paljon kimpiä (astiasta)</t>
+        <t pos="a">jossa on paljon kimpiä (astiasta)</t>
       </tg>
     </mg>
   </e>
@@ -10340,7 +10341,7 @@
     <mg>
       <tg>
         <t pos="a">teräksetön</t>
-        <t pos="a"> jossa on vähän terästä</t>
+        <t pos="a">jossa on vähän terästä</t>
       </tg>
     </mg>
   </e>
@@ -10349,7 +10350,7 @@
     <mg>
       <tg>
         <t pos="a">syyllinen</t>
-        <t pos="a"> velallinen</t>
+        <t pos="a">velallinen</t>
       </tg>
     </mg>
   </e>
@@ -10358,7 +10359,7 @@
     <mg>
       <tg>
         <t pos="a">jossa on paksu kerros rasvaa (hylkeestä)</t>
-        <t pos="a"> pyylevä (naisesta)</t>
+        <t pos="a">pyylevä (naisesta)</t>
       </tg>
     </mg>
   </e>
@@ -10367,7 +10368,7 @@
     <mg>
       <tg>
         <t pos="a">jolla on paljon suonia</t>
-        <t pos="a"> suonikas</t>
+        <t pos="a">suonikas</t>
       </tg>
     </mg>
   </e>
@@ -10376,7 +10377,7 @@
     <mg>
       <tg>
         <t pos="a">kasteinen</t>
-        <t pos="a"> usvainen</t>
+        <t pos="a">usvainen</t>
       </tg>
     </mg>
   </e>
@@ -10385,7 +10386,7 @@
     <mg>
       <tg>
         <t pos="a">joka hallitsee hyvin saamen kielen</t>
-        <t pos="a"> saamenmielinen</t>
+        <t pos="a">saamenmielinen</t>
       </tg>
     </mg>
   </e>
@@ -10394,7 +10395,7 @@
     <mg>
       <tg>
         <t pos="a">jolla tai jossa on paljon sappea tai iso sappirakko</t>
-        <t pos="a"> mehukas (marjoista)</t>
+        <t pos="a">mehukas (marjoista)</t>
       </tg>
     </mg>
   </e>
@@ -10403,7 +10404,7 @@
     <mg>
       <tg>
         <t pos="a">puikkomainen</t>
-        <t pos="a"> vähähaarainen (poron sarvista)</t>
+        <t pos="a">vähähaarainen (poron sarvista)</t>
       </tg>
     </mg>
   </e>
@@ -10412,7 +10413,7 @@
     <mg>
       <tg>
         <t pos="a">puhelias</t>
-        <t pos="a"> taitava saarnaamaan</t>
+        <t pos="a">taitava saarnaamaan</t>
       </tg>
     </mg>
   </e>
@@ -10421,7 +10422,7 @@
     <mg>
       <tg>
         <t pos="a">arpinen</t>
-        <t pos="a"> kyhmyinen</t>
+        <t pos="a">kyhmyinen</t>
       </tg>
     </mg>
   </e>
@@ -10430,7 +10431,7 @@
     <mg>
       <tg>
         <t pos="a">villainen</t>
-        <t pos="a"> jossa on runsaasti villaa</t>
+        <t pos="a">jossa on runsaasti villaa</t>
       </tg>
     </mg>
   </e>
@@ -10439,7 +10440,7 @@
     <mg>
       <tg>
         <t pos="a">untuvaton</t>
-        <t pos="a"> vähäuntuvainen</t>
+        <t pos="a">vähäuntuvainen</t>
       </tg>
     </mg>
   </e>
@@ -10448,7 +10449,7 @@
     <mg>
       <tg>
         <t pos="a">veretön</t>
-        <t pos="a"> vähäverinen</t>
+        <t pos="a">vähäverinen</t>
       </tg>
     </mg>
   </e>
@@ -10457,7 +10458,7 @@
     <mg>
       <tg>
         <t pos="a">kestävä (työnteossa)</t>
-        <t pos="a"> vaikutusvaltainen</t>
+        <t pos="a">vaikutusvaltainen</t>
       </tg>
     </mg>
   </e>
@@ -10466,7 +10467,7 @@
     <mg>
       <tg>
         <t pos="a">lahjakas</t>
-        <t pos="a"> tarkkasilmäinen</t>
+        <t pos="a">tarkkasilmäinen</t>
       </tg>
     </mg>
   </e>
@@ -10475,7 +10476,7 @@
     <mg>
       <tg>
         <t pos="a">jossa on paljon metsäisiä laaksoja (seudusta)</t>
-        <t pos="a"> metsäinen (laaksosta)</t>
+        <t pos="a">metsäinen (laaksosta)</t>
       </tg>
     </mg>
   </e>
@@ -10484,7 +10485,7 @@
     <mg>
       <tg>
         <t pos="a">kärsivällinen odottamaan</t>
-        <t pos="a"> toiveikas</t>
+        <t pos="a">toiveikas</t>
       </tg>
     </mg>
   </e>
@@ -10493,7 +10494,7 @@
     <mg>
       <tg>
         <t pos="a">vallanhimoinen</t>
-        <t pos="a"> omavaltainen</t>
+        <t pos="a">omavaltainen</t>
       </tg>
     </mg>
   </e>
@@ -10502,7 +10503,7 @@
     <mg>
       <tg>
         <t pos="a">raskaana oleva</t>
-        <t pos="a"> voimaton</t>
+        <t pos="a">voimaton</t>
       </tg>
     </mg>
   </e>
@@ -10511,7 +10512,7 @@
     <mg>
       <tg>
         <t pos="a">autio</t>
-        <t pos="a"> syrjäinen asumus</t>
+        <t pos="a">syrjäinen asumus</t>
       </tg>
     </mg>
   </e>
@@ -10520,7 +10521,7 @@
     <mg>
       <tg>
         <t pos="a">niukasti heinää kasvava</t>
-        <t pos="a"> heinätön</t>
+        <t pos="a">heinätön</t>
       </tg>
     </mg>
   </e>
@@ -10529,7 +10530,7 @@
     <mg>
       <tg>
         <t pos="a">kyykistelevä</t>
-        <t pos="a"> matalajalkainen (eläimestä)</t>
+        <t pos="a">matalajalkainen (eläimestä)</t>
       </tg>
     </mg>
   </e>
@@ -10538,7 +10539,7 @@
     <mg>
       <tg>
         <t pos="a">kupera</t>
-        <t pos="a"> kukkurainen</t>
+        <t pos="a">kukkurainen</t>
       </tg>
     </mg>
   </e>
@@ -10547,7 +10548,7 @@
     <mg>
       <tg>
         <t pos="a">löyhkäävä (erit. porohirvaasta rykimäajan jälkeen)</t>
-        <t pos="a"> löyhkä</t>
+        <t pos="a">löyhkä</t>
       </tg>
     </mg>
   </e>
@@ -10556,7 +10557,7 @@
     <mg>
       <tg>
         <t pos="a">sottainen</t>
-        <t pos="a"> saamaton</t>
+        <t pos="a">saamaton</t>
       </tg>
     </mg>
   </e>
@@ -10565,8 +10566,8 @@
     <mg>
       <tg>
         <t pos="a">tietäväinen</t>
-        <t pos="a"> tietoinen</t>
-        <t pos="a"> tunnettu</t>
+        <t pos="a">tietoinen</t>
+        <t pos="a">tunnettu</t>
       </tg>
     </mg>
   </e>
@@ -10575,8 +10576,8 @@
     <mg>
       <tg>
         <t pos="a">kuoppainen</t>
-        <t pos="a"> painanteinen</t>
-        <t pos="a"> syvänteinen</t>
+        <t pos="a">painanteinen</t>
+        <t pos="a">syvänteinen</t>
       </tg>
     </mg>
   </e>
@@ -10585,8 +10586,8 @@
     <mg>
       <tg>
         <t pos="a">ihana</t>
-        <t pos="a"> hearvásin dahkat</t>
-        <t pos="a"> kirkastaa</t>
+        <t pos="a">hearvásin dahkat</t>
+        <t pos="a">kirkastaa</t>
       </tg>
     </mg>
   </e>
@@ -10595,8 +10596,8 @@
     <mg>
       <tg>
         <t pos="a">jota ei voi kääntää</t>
-        <t pos="a"> jossa ei voi kääntyä</t>
-        <t pos="a"> kääntymätön</t>
+        <t pos="a">jossa ei voi kääntyä</t>
+        <t pos="a">kääntymätön</t>
       </tg>
     </mg>
   </e>
@@ -10605,8 +10606,8 @@
     <mg>
       <tg>
         <t pos="a">puuton</t>
-        <t pos="a"> vähäpuinen</t>
-        <t pos="a"> ohut (puuesineiden seinämistä)</t>
+        <t pos="a">vähäpuinen</t>
+        <t pos="a">ohut (puuesineiden seinämistä)</t>
       </tg>
     </mg>
   </e>
@@ -10615,8 +10616,8 @@
     <mg>
       <tg>
         <t pos="a">riippaoksainen</t>
-        <t pos="a"> roikkuvavaatteinen</t>
-        <t pos="a"> rimsuvaatteinen</t>
+        <t pos="a">roikkuvavaatteinen</t>
+        <t pos="a">rimsuvaatteinen</t>
       </tg>
     </mg>
   </e>
@@ -10625,8 +10626,8 @@
     <mg>
       <tg>
         <t pos="a">hengenvaarallinen</t>
-        <t pos="a"> tuhoisa</t>
-        <t pos="a"> murhanhimoinen</t>
+        <t pos="a">tuhoisa</t>
+        <t pos="a">murhanhimoinen</t>
       </tg>
     </mg>
   </e>
@@ -10635,8 +10636,8 @@
     <mg>
       <tg>
         <t pos="a">runsassanainen</t>
-        <t pos="a"> kerkeäkielinen</t>
-        <t pos="a"> runsasleikkoinen (korvamerkistä)</t>
+        <t pos="a">kerkeäkielinen</t>
+        <t pos="a">runsasleikkoinen (korvamerkistä)</t>
       </tg>
     </mg>
   </e>
@@ -10645,8 +10646,8 @@
     <mg>
       <tg>
         <t pos="a">sanallinen</t>
-        <t pos="a"> henkinen</t>
-        <t pos="a"> sanavalmis</t>
+        <t pos="a">henkinen</t>
+        <t pos="a">sanavalmis</t>
       </tg>
     </mg>
   </e>
@@ -10655,8 +10656,8 @@
     <mg>
       <tg>
         <t pos="a">viikon vanha</t>
-        <t pos="a"> viikottainen</t>
-        <t pos="a"> -viikkoinen</t>
+        <t pos="a">viikottainen</t>
+        <t pos="a">-viikkoinen</t>
       </tg>
     </mg>
   </e>
@@ -10665,8 +10666,8 @@
     <mg>
       <tg>
         <t pos="n">kestävä työnteossa</t>
-        <t pos="n"> vaikuttava (saarnasta)</t>
-        <t pos="n"> aamunvirkku</t>
+        <t pos="n">vaikuttava (saarnasta)</t>
+        <t pos="n">aamunvirkku</t>
       </tg>
     </mg>
   </e>
@@ -10675,8 +10676,8 @@
     <mg>
       <tg>
         <t pos="a">lannoittamaton</t>
-        <t pos="a"> jossa on vähän lannoitetta</t>
-        <t pos="a"> väljähtynyt</t>
+        <t pos="a">jossa on vähän lannoitetta</t>
+        <t pos="a">väljähtynyt</t>
       </tg>
     </mg>
   </e>
@@ -10685,8 +10686,8 @@
     <mg>
       <tg>
         <t pos="a">vollottava</t>
-        <t pos="a"> vollottavinen</t>
-        <t pos="a"> joka on taipuvainen vääntelemään suutaan</t>
+        <t pos="a">vollottavinen</t>
+        <t pos="a">joka on taipuvainen vääntelemään suutaan</t>
       </tg>
     </mg>
   </e>
@@ -10695,8 +10696,8 @@
     <mg>
       <tg>
         <t pos="a">syytön</t>
-        <t pos="a"> asiaton</t>
-        <t pos="a"> turha</t>
+        <t pos="a">asiaton</t>
+        <t pos="a">turha</t>
       </tg>
     </mg>
   </e>
@@ -10705,8 +10706,8 @@
     <mg>
       <tg>
         <t pos="a">suosittu</t>
-        <t pos="a"> valoisa (talviyöstä)</t>
-        <t pos="a"> silmiinpistävä</t>
+        <t pos="a">valoisa (talviyöstä)</t>
+        <t pos="a">silmiinpistävä</t>
       </tg>
     </mg>
   </e>
@@ -10715,9 +10716,9 @@
     <mg>
       <tg>
         <t pos="a">tarkkakätinen ampumaan</t>
-        <t pos="a"> hyvä suunnistamaan</t>
-        <t pos="a"> osuva</t>
-        <t pos="a"> naseva</t>
+        <t pos="a">hyvä suunnistamaan</t>
+        <t pos="a">osuva</t>
+        <t pos="a">naseva</t>
       </tg>
     </mg>
   </e>
@@ -10726,9 +10727,9 @@
     <mg>
       <tg>
         <t pos="a">luistamaton</t>
-        <t pos="a"> huonosti luistava</t>
-        <t pos="a"> kaupaksi käymätön</t>
-        <t pos="a"> huonosti kaupaksi käyvä</t>
+        <t pos="a">huonosti luistava</t>
+        <t pos="a">kaupaksi käymätön</t>
+        <t pos="a">huonosti kaupaksi käyvä</t>
       </tg>
     </mg>
   </e>
@@ -10737,9 +10738,9 @@
     <mg>
       <tg>
         <t pos="a">luistamaton</t>
-        <t pos="a"> huonosti luistava</t>
-        <t pos="a"> kaupaksi käymätön</t>
-        <t pos="a"> huonosti kaupaksi käyvä</t>
+        <t pos="a">huonosti luistava</t>
+        <t pos="a">kaupaksi käymätön</t>
+        <t pos="a">huonosti kaupaksi käyvä</t>
       </tg>
     </mg>
   </e>
@@ -10748,9 +10749,9 @@
     <mg>
       <tg>
         <t pos="a">siivetön</t>
-        <t pos="a"> (liian) pienisiipinen</t>
-        <t pos="a"> hihaton</t>
-        <t pos="a"> (liian) lyhythihainen</t>
+        <t pos="a">(liian) pienisiipinen</t>
+        <t pos="a">hihaton</t>
+        <t pos="a">(liian) lyhythihainen</t>
       </tg>
     </mg>
   </e>
