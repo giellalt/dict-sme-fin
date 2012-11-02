@@ -97,7 +97,9 @@
       </mg>
    </e>
   <e>
-    <l pos="cs">jogo ... dahje</l>
+    <lg>
+      <l pos="cs">jogo ... dahje</l>
+    </lg>
     <mg>
       <tg>
         <t pos="cs">joko ... tai</t>
@@ -105,7 +107,9 @@
     </mg>
   </e>
   <e>
-    <l pos="cs">josgo</l>
+    <lg>
+      <l pos="cs">josgo</l>
+    </lg>
     <mg>
       <tg>
         <t pos="cc">josko</t>
@@ -113,7 +117,9 @@
     </mg>
   </e>
   <e>
-    <l pos="cs">váikko</l>
+    <lg>
+      <l pos="cs">váikko</l>
+    </lg>
     <mg>
       <tg>
         <t pos="cc">vaikka</t>

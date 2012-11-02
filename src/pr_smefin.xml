@@ -43,7 +43,9 @@
       </mg>
    </e>
   <e>
-    <l pos="pr">earret</l>
+    <lg>
+      <l pos="pr">earret</l>
+    </lg>
     <mg>
       <tg>
         <t pos="po">paitsi</t>
@@ -51,7 +53,9 @@
     </mg>
   </e>
   <e>
-    <l pos="pr">guovdelaš</l>
+    <lg>
+      <l pos="pr">guovdelaš</l>
+    </lg>
     <mg>
       <tg>
         <t pos="adv">keskellä</t>

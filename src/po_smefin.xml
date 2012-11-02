@@ -611,7 +611,9 @@
       </mg>
    </e>
   <e>
-    <l pos="po">bokte</l>
+    <lg>
+      <l pos="po">bokte</l>
+    </lg>
     <mg>
       <tg>
         <t pos="po">kautta</t>
@@ -619,7 +621,9 @@
     </mg>
   </e>
   <e>
-    <l pos="po">gievrru</l>
+    <lg>
+      <l pos="po">gievrru</l>
+    </lg>
     <mg>
       <tg>
         <t pos="a">sen ja sen vahvuinen</t>
@@ -627,7 +631,9 @@
     </mg>
   </e>
   <e>
-    <l pos="po">gorrái</l>
+    <lg>
+      <l pos="po">gorrái</l>
+    </lg>
     <mg>
       <tg>
         <t pos="po">suhteen</t>
@@ -635,7 +641,9 @@
     </mg>
   </e>
   <e>
-    <l pos="po">guhku</l>
+    <lg>
+      <l pos="po">guhku</l>
+    </lg>
     <mg>
       <tg>
         <t pos="a">pituinen</t>
@@ -643,7 +651,9 @@
     </mg>
   </e>
   <e>
-    <l pos="po">hahttá</l>
+    <lg>
+      <l pos="po">hahttá</l>
+    </lg>
     <mg>
       <tg>
         <t pos="po">ilman</t>
@@ -651,7 +661,9 @@
     </mg>
   </e>
   <e>
-    <l pos="po">hárrái</l>
+    <lg>
+      <l pos="po">hárrái</l>
+    </lg>
     <mg>
       <tg>
         <t pos="po">jonkun suhteen</t>
@@ -659,7 +671,9 @@
     </mg>
   </e>
   <e>
-    <l pos="po">losu</l>
+    <lg>
+      <l pos="po">losu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="a">painoinen</t>
@@ -667,7 +681,9 @@
     </mg>
   </e>
   <e>
-    <l pos="po">oaidnut</l>
+    <lg>
+      <l pos="po">oaidnut</l>
+    </lg>
     <mg>
       <tg>
         <t pos="po">nähden</t>
@@ -675,7 +691,9 @@
     </mg>
   </e>
   <e>
-    <l pos="po">viiddu</l>
+    <lg>
+      <l pos="po">viiddu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="a">laajuinen</t>
@@ -683,7 +701,9 @@
     </mg>
   </e>
   <e>
-    <l pos="po">vuolis</l>
+    <lg>
+      <l pos="po">vuolis</l>
+    </lg>
     <mg>
       <tg>
         <t pos="adv">enteenä</t>
@@ -691,7 +711,9 @@
     </mg>
   </e>
   <e>
-    <l pos="po">várte</l>
+    <lg>
+      <l pos="po">várte</l>
+    </lg>
     <mg>
       <tg>
         <t pos="po">varten</t>
@@ -699,7 +721,9 @@
     </mg>
   </e>
   <e>
-    <l pos="po">čieŋu</l>
+    <lg>
+      <l pos="po">čieŋu</l>
+    </lg>
     <mg>
       <tg>
         <t pos="a">syvyinen</t>

@@ -57,7 +57,9 @@
       </mg>
    </e>
   <e>
-    <l pos="interj">cuš</l>
+    <lg>
+      <l pos="interj">cuš</l>
+    </lg>
     <mg>
       <tg>
         <t pos="interj">hoi (porotokan houkutushuuto)</t>
@@ -65,7 +67,9 @@
     </mg>
   </e>
   <e>
+    <lg>
     <l pos="interj">fihcce</l>
+    </lg>
     <mg>
       <tg>
         <t pos="interj">hyi</t>
@@ -73,7 +77,9 @@
     </mg>
   </e>
   <e>
-    <l pos="interj">fuoi</l>
+    <lg>
+      <l pos="interj">fuoi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="interj">hyi</t>
@@ -81,7 +87,9 @@
     </mg>
   </e>
   <e>
+    <lg>
     <l pos="interj">fuos</l>
+    </lg>
     <mg>
       <tg>
         <t pos="interj">hus</t>
@@ -89,7 +97,9 @@
     </mg>
   </e>
   <e>
+    <lg>
     <l pos="interj">hei</l>
+    </lg>
     <mg>
       <tg>
         <t pos="interj">ohhoh</t>
@@ -97,7 +107,9 @@
     </mg>
   </e>
   <e>
-    <l pos="interj">hoi</l>
+    <lg>
+      <l pos="interj">hoi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="interj">hohoi</t>
@@ -105,7 +117,9 @@
     </mg>
   </e>
   <e>
-    <l pos="interj">huf</l>
+    <lg>
+      <l pos="interj">huf</l>
+    </lg>
     <mg>
       <tg>
         <t pos="interj">huh</t>
@@ -113,7 +127,9 @@
     </mg>
   </e>
   <e>
-    <l pos="interj">hyš</l>
+    <lg>
+      <l pos="interj">hyš</l>
+    </lg>
     <mg>
       <tg>
         <t pos="interj">hys</t>
@@ -121,7 +137,9 @@
     </mg>
   </e>
   <e>
-    <l pos="interj">kyš kyš</l>
+    <lg>
+      <l pos="interj">kyš kyš</l>
+    </lg>
     <mg>
       <tg>
         <t pos="interj">hus hus</t>
@@ -129,7 +147,9 @@
     </mg>
   </e>
   <e>
-    <l pos="interj">skolle</l>
+    <lg>
+      <l pos="interj">skolle</l>
+    </lg>
     <mg>
       <tg>
         <t pos="interj">kippis</t>
@@ -137,7 +157,9 @@
     </mg>
   </e>
   <e>
-    <l pos="interj">buorat</l>
+    <lg>
+      <l pos="interj">buorat</l>
+    </lg>
     <mg>
       <tg>
         <t pos="interj">päivää</t>
@@ -146,7 +168,9 @@
     </mg>
   </e>
   <e>
-    <l pos="interj">dearvva</l>
+    <lg>
+      <l pos="interj">dearvva</l>
+    </lg>
     <mg>
       <tg>
         <t pos="interj">terve</t>

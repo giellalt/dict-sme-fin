@@ -152,7 +152,9 @@
       </mg>
    </e>
   <e>
-    <l pos="num">duhát</l>
+    <lg>
+      <l pos="num">duhát</l>
+    </lg>
     <mg>
       <tg>
         <t pos="num">tuhat</t>
@@ -160,7 +162,9 @@
     </mg>
   </e>
   <e>
-    <l pos="num">gákcilogi</l>
+    <lg>
+      <l pos="num">gákcilogi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="num">kahdeksankymmentä</t>
@@ -168,7 +172,9 @@
     </mg>
   </e>
   <e>
-    <l pos="num">čiehččalogi</l>
+    <lg>
+      <l pos="num">čiehččalogi</l>
+    </lg>
     <mg>
       <tg>
         <t pos="num">seitsemänkymmentä</t>
@@ -176,7 +182,9 @@
     </mg>
   </e>
   <e>
-    <l pos="num">čuohti</l>
+    <lg>
+      <l pos="num">čuohti</l>
+    </lg>
     <mg>
       <tg>
         <t pos="num">sata</t>

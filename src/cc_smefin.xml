@@ -91,7 +91,9 @@
       </mg>
    </e>
   <e>
-    <l pos="cc">sihke</l>
+    <lg>
+      <l pos="cc">sihke</l>
+    </lg>
     <mg>
       <tg>
         <t pos="cc">sekä</t>
