@@ -12564,7 +12564,7 @@
     <l pos="v">gohcut</l>
     <mg>
       <tg>
-        <t pos="v">(R) ripustella</t>
+        <t var="sw" pos="v">ripustella</t>
       </tg>
     </mg>
   </e>
@@ -12804,7 +12804,7 @@
     <l pos="v">gullet</l>
     <mg>
       <tg>
-        <t pos="v">(R) kalastaa</t>
+        <t var="sw" pos="v">kalastaa</t>
       </tg>
     </mg>
   </e>
@@ -25326,7 +25326,7 @@
     <mg>
       <tg>
         <t pos="v">jaaritella</t>
-        <t pos="v">(R) puhua</t>
+        <t var="sw" pos="v">puhua</t>
       </tg>
     </mg>
   </e>
@@ -25569,7 +25569,7 @@
     <mg>
       <tg>
         <t pos="v">siirtää etelämmäs</t>
-        <t pos="v">(R) siirtää idemmäs</t>
+        <t var="sw" pos="v">siirtää idemmäs</t>
       </tg>
     </mg>
   </e>
@@ -25578,7 +25578,7 @@
     <mg>
       <tg>
         <t pos="v">siirtyä etelämmäs</t>
-        <t pos="v">(R) siirtyä idemmäs</t>
+        <t var="sw" pos="v">siirtyä idemmäs</t>
       </tg>
     </mg>
   </e>

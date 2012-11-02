@@ -19802,8 +19802,6 @@
          </tg>
       </mg>
    </e>
-</r>
-<r>
   <e>
     <l pos="npl">behttosat</l>
     <mg>
@@ -19956,8 +19954,6 @@
       </tg>
     </mg>
   </e>
-</r>
-<r>
   <e>
     <l pos=" käyttökelpoiset vaatteet">atnubiktasat</l>
     <mg>
@@ -28644,7 +28640,7 @@
     <l pos="n">liehppá</l>
     <mg>
       <tg>
-        <t pos="n">(R) rintaläppä</t>
+        <t var="sw" pos="n">rintaläppä</t>
       </tg>
     </mg>
   </e>
@@ -32036,7 +32032,7 @@
     <l pos="n">ruomas</l>
     <mg>
       <tg>
-        <t pos="n">(R) susi</t>
+        <t var="sw" pos="n">susi</t>
       </tg>
     </mg>
   </e>
@@ -38227,7 +38223,7 @@
     <mg>
       <tg>
         <t pos="n">pohjoinen</t>
-        <t pos="n">(R) länsi</t>
+        <t var="sw" pos="n">länsi</t>
       </tg>
     </mg>
   </e>
@@ -38893,7 +38889,7 @@
     <mg>
       <tg>
         <t pos="n">etelä</t>
-        <t pos="n">(R) itä</t>
+        <t var="sw" pos="n">itä</t>
       </tg>
     </mg>
   </e>
@@ -38902,7 +38898,7 @@
     <mg>
       <tg>
         <t pos="n">etelätuuli</t>
-        <t pos="n">(R) itätuuli</t>
+        <t var="sw" pos="n">itätuuli</t>
       </tg>
     </mg>
   </e>
@@ -39199,7 +39195,7 @@
     <mg>
       <tg>
         <t pos="n">itä</t>
-        <t pos="n">(R) pohjoinen</t>
+        <t var="sw" pos="n">pohjoinen</t>
       </tg>
     </mg>
   </e>
@@ -39208,7 +39204,7 @@
     <mg>
       <tg>
         <t pos="n">itä</t>
-        <t pos="n">(R) pohjoinen</t>
+        <t var="sw" pos="n">pohjoinen</t>
       </tg>
     </mg>
   </e>
@@ -39226,7 +39222,7 @@
     <mg>
       <tg>
         <t pos="n">länsi</t>
-        <t pos="n">(R) etelä</t>
+        <t var="sw" pos="n">etelä</t>
       </tg>
     </mg>
   </e>
@@ -39235,7 +39231,7 @@
     <mg>
       <tg>
         <t pos="n">lännessä asuva saamelainen</t>
-        <t pos="n">(R) etelässä asuva saamelainen</t>
+        <t var="sw" pos="n">etelässä asuva saamelainen</t>
       </tg>
     </mg>
   </e>
@@ -39973,7 +39969,7 @@
     <mg>
       <tg>
         <t pos="n">viivytys</t>
-        <t pos="n">(R) ajatus</t>
+        <t var="sw" pos="n">ajatus</t>
       </tg>
     </mg>
   </e>
