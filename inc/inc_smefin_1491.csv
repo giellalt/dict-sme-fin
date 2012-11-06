@@ -285,7 +285,6 @@ ruoŧa	ruotsalainen	A	A
 ruoŧŧa	ruotsalainen	N	A
 muđuid	muuten	Adv	Adv& Pcle& Interj
 omd	esimerkiksi	Adv	+?
-vrd	vrt	V	+?
 geardde	kerran	CS|Adv	Adv
 ovddabealde	etupuolella	Adv|Po	+?
 oarjjabealde	länsipuolella	Adv|Pr|Po	+?
@@ -559,9 +558,9 @@ dálon	talollinen	N	A& N
 rihkkun	pilkku	N	N
 geasseguohtun	kesälaidun	N	N
 dálveguohtun	talvilaidun	N	N
-veadjemeahttun	mahdoton	A	+?
-sorjjasmeahttun	riippumaton	A	+?
-dárbbašmeahttun	tarpeeton	A	+?
+veadjemeahttun	mahdoton	A	A
+sorjjasmeahttun	riippumaton	A	A
+dárbbašmeahttun	tarpeeton	A	A
 gohččun	kutsu	N	N
 dikšun	hoito	N	N
 aiddo	juuri	Adv	Pcle& N
@@ -864,7 +863,7 @@ muittuhit	muistuttaa	V	V
 eavttuhit	ehdottaa	V	V
 čuoččuhit	väittää	V	V
 bálkáhit	vuokrata	V	V
-bajit	ylä-	A	+?
+bajit	ylä-	A	A
 guhkit	pidempi	Adv	+?
 álkit	helppo	Adv	A
 guoddalit	valittaa	V	V
@@ -924,7 +923,7 @@ heađuštit	estää	V	V
 vuođuštit	perustella	V	V
 ráŋggáštit	rankaista	V	+?
 láhčit	sijoita	V	+?
-maŋit	taka-	A	+?
+maŋit	taka-	A	A
 hálddašit	hallita	V	V
 máinnašit	mainonta	V	N
 šállošit	valittaa	V	V
@@ -1053,7 +1052,7 @@ sátnevuorká	sanavarasto	N	N
 dávvirvuorká	museo	N	N
 dalá	silloinen	Adv|A	A
 almmá	ilman	Adv	Adv& Po
-otná	tämän päivän	A	+?
+otná	tämänpäivinen	A	A
 gč	ks	V	+?
 juohkehaš	jokainen	Pron	Pron
 obbalaš	yleinen	A	A
@@ -1064,16 +1063,16 @@ geográfalaš	maantieteellinen	A	A
 strategalaš	strateginen	A	A
 vuoiggalaš	rehellinen	A	A
 pedagogalaš	pedagoginen	A	A
-erenoamášpedagogalaš	erikoispedagoginen	A	+?
+erenoamášpedagogalaš	erikoispedagoginen	A	A
 biologalaš	biologinen	A	A
-ekologalaš	ekolooginen	A	+?
+ekologalaš	ekolooginen	A	A
 norgalaš	norjalainen	A|N	A
 fágalaš	ammatillinen	A	A
 lágalaš	laillinen	A	A
 juridihkalaš	juridinen	A	A
 teknihkalaš	tekninen	A	A
 politihkalaš	poliittinen	A	A
-sámepolitihkalaš	saamepoliittinen	A	+?
+sámepolitihkalaš	saamepoliittinen	A	A
 praktihkalaš	käytännöllinen	A	A
 psyhkalaš	psyykkinen	A	A
 gaskariikkalaš	kansainvälinen	A	A
@@ -1088,7 +1087,7 @@ ekonomalaš	taloudellinen	A	A
 iešheanalaš	itsenäinen	A	A
 bienalaš	yksityiskohtainen	A	A
 ovttajienalaš	yksimielisesti	A	Adv
-persovnnalaš	henkilöllinen	A	+?
+persovnnalaš	henkilöllinen	A	A
 našuvnnalaš	kansallinen	A	A
 nášuvnnalaš	kansallinen	+?	A
 loahpalaš	vihdoin	A	Adv& Pcle
@@ -1139,18 +1138,18 @@ gaskaboddasaš	väliaikainen	A	A
 sullasaš	samanlainen	A	A
 nammasaš	niminen	A	A
 gaskaboddosaš	väliaikainen	A	A
-riikkaviidosaš	maankattava	A	+?
-ruvdnosaš	kruunuinen	A	+?
+riikkaviidosaš	maankattava	A	A
+ruvdnosaš	kruunuinen	A	A
 sturrosaš	suuruinen	A	A
-ovttaárvosaš	samaarvoinen	A	+?
+ovttaárvosaš	samaarvoinen	A	A
 jahkásaš	yksivuotinen	A	A& N
 dássásaš	tasavertainen	A	A
-sorjavaš	riippumaton	A	+?
+sorjavaš	riippumaton	A	A
 guoskevaš	koskien	A	Po
 váilevaš	puuttuva	A	A
 gullevaš	kuuluva	A	A
 boahttevaš	tuleva	A	A
-gustovaš	koskevan	A	+?
+gustovaš	koskevan	A	A
 fágaolmmoš	ammattilainen	N	A& N
 rávisolmmoš	aikuinen	N	A
 ohcamuš	hakemus	N	N
