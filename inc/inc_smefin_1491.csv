@@ -1,6 +1,6 @@
 oba	melko	Adv	Pcle
 lesba	lesbo	N	N
-baicca	miellummin	Adv	+?
+baicca	miellummin	Adv	Adv
 nákca	kyky	N	N
 dáidda	taide	N	N
 govvadáidda	kuvataide	N	N
@@ -22,12 +22,12 @@ stáda	valtio	N	N
 dáiddamusea	taidemuseo	N	N
 paragráfa	pykälä	N	N
 ulbmilparagráfa	tavoitepykälä	N	N
-haga	ilman	Adv|Po	Adv& Po
-dađistaga	pikku hiljaa	Adv	+?
+haga	ilman	Po	Po
+dađistaga	pikku hiljaa	Adv	Adv
 álgga	aloite	N	N
 vuosteágga	vasta-argumentti	N	N
 čielga	selkeä	Adv	A
-njuolga	suora	Adv	A& N
+njuolga	suora	Adv	A
 válga	vaali	N	N
 stuorradiggeválga	suurkäräjävaalit	N	Npl
 sámediggeválga	saamelaiskäräjien vaalit	N	Npl
@@ -78,7 +78,7 @@ guolástuspolitihkka	kalastuspolitiikka	N	N
 guovllupolitihkka	aluepolitiikka	N	N
 statistihkka	tilasto	N	N
 láhkka	lakka	N	N
-gaskka	kesken	Adv|Po|N	Adv& Po
+gaskka	kesken	Po	Po
 joatkka	jatko	N	N
 ovdamearka	esimerkki	N	N
 dovdomearka	tuntomerkki	N	N
@@ -89,16 +89,16 @@ tabealla	taulukko	N	N
 modealla	malli	N	N
 oarjelsámegiella	länsisaame	N	N
 nubbingiella	toinen kieli	N	N
-unnitlohkogiella	vähemmistökieli	+?	N
+unnitlohkogiella	vähemmistökieli	N	N
 rolla	rooli	N	N
-areála	pinta-ala	A|N	N
+areála	pinta-ala	N	N
 materiála	materiaali	N	N
 potensiála	potentiaali	N	N
 sosiála	sosiaalinen	A	A
 formála	muodollinen	A	A
 signála	signaali	N	N
 regionála	alueellinen	A	A
-nationála	kansallinen	+?	A
+nationála	kansallinen	A	A
 našunála	kansallinen	A	A
 minerála	mineraali	N	N
 digitála	digitaalinen	A	A
@@ -143,7 +143,6 @@ sámekonvenšuvdna	saamelaiskonventio	N	N
 konklušuvdna	päätelmä	N	N
 institušuvdna	laitos	N	N
 arena	areena	N	N
-jna	jne	Adv	+?
 tonna	tonni	N	N
 leatna	lääni	N	N
 orgána	elin	N	N
@@ -174,7 +173,7 @@ seminára	seminaari	N	N
 poastaboksa	postilaatikko	N	N
 fáksa	faksi	N	N
 telefáksa	telefaksi	N	N
-konfereansa	konferenssi	+?	N
+konfereansa	konferenssi	N	N
 konferánsa	konferenssi	N	N
 nuoraidkonferánsa	nuorisokonferenssi	N	N
 resursa	resurssi	N	N
@@ -234,8 +233,8 @@ várrepresideanta	varapresidentti	N	N
 pasieanta	potilas	N	N
 departemeanta	ministeriö	N	N
 energiijadepartemeanta	energiaministeriö	N	N
-olgoriikadepartemeanta	ulkoministeriö	+?	N
-kultuvradepartemeanta	kulttuuridepartementti	+?	+?
+olgoriikadepartemeanta	ulkoministeriö	N	N
+kultuvradepartemeanta	kulttuuriministeriö	N	N
 justiisadepartemeanta	oikeusministeriö	N	N
 gávpedepartemeanta	kauppaministeriö	N	N
 dutkandepartemeanta	tutkimusministeriö	N	N
@@ -252,8 +251,8 @@ guovludepartemeanta	alueministeriö	N	N
 bearašdepartemeanta	perheministeriö	N	N
 dokumeanta	dokumentti& asiakirja	N	N
 departementa	ministeriö	N	N
-dutkandepartementa	tutkimusdepartementti	+?	+?
-girkodepartementa	kirkkoministeriö	+?	+?
+dutkandepartementa	tutkimusministeriö	N	N
+girkodepartementa	kirkkoministeriö	N	N
 guovlodepartementa	alueministeriö	N	N
 guovludepartementa	alueministeriö	N	N
 relevánta	relevantti	A	A
@@ -262,21 +261,21 @@ nuorta	itä	N	N
 e-poasta	sähköposti	N	N
 lista	lista	N	N
 láhkateaksta	lakiteksti	N	N
-fásta	vakio	Adv|A	A
+fásta	vakio	A	A
 neahtta	netti	N	N
 kvaliteahtta	laatu	N	N
 bušeahtta	budjetti	N	N
 stáhtabušeahtta	valtionbudjetti	N	N
 minoritehtta	vähemmistö	N	N
 instituhtta	laitos& instituutti	N	N
-priváhtta	yksityinen	+?	A
+priváhtta	yksityinen	A	A
 ovtta	yhteinen	Adv	A
 buvtta	tuote	N	N
 arkiiva	arkisto	N	N
 negatiiva	negatiivinen	A	A
 positiiva	positiivinen	A	A
-aktiiva	aktiivinen	A|N	A
-kollektiiva	kollektiivi	A|N	N
+aktiiva	aktiivinen	A	A
+kollektiiva	kollektiivi	N	N
 perspektiiva	näkökulma	N	N
 ráva	neuvo	N	N
 badjebáza	ylijäämä	N	N
@@ -284,15 +283,15 @@ badjelbáza	ylijäämä	N	N
 ruoŧa	ruotsalainen	A	A
 ruoŧŧa	ruotsalainen	N	A
 muđuid	muuten	Adv	Adv& Pcle& Interj
-omd	esimerkiksi	Adv	+?
-geardde	kerran	CS|Adv	Adv
-ovddabealde	etupuolella	Adv|Po	+?
-oarjjabealde	länsipuolella	Adv|Pr|Po	+?
-siskkabealde	sisäpuolella	Adv|Pr|Po	+?
-vuolábealde	alapuolella	Adv|Pr|Po	+?
-lulábealde	eteläpuolella	Adv|Pr|Po	+?
-davábealde	pohjoispuolella	Adv|Pr|Po	+?
-mihkkege	mitään	Pron	+?
+omd	esimerkiksi	Adv	Adv
+geardde	kerran	Adv	Adv
+ovddabealde	etupuolella	Adv	Adv
+oarjjabealde	länsipuolella	Adv	Adv
+siskkabealde	sisäpuolella	Adv	Adv
+vuolábealde	alapuolella	Adv	Adv
+lulábealde	eteläpuolella	Adv	Adv
+davábealde	pohjoispuolella	Adv	Adv
+mihkkege	mitään	Pron	Pron
 goassege	koskaan	Adv	Adv
 guhtege	jokainen	Pron	Pron
 almmatge	kuitenkin	Adv	Pcle
@@ -300,12 +299,12 @@ dattetge	kuitenkin	Adv	Pcle
 goabbáge	kumpikin	Pron	Pron
 dehe	tai	CC	CC& N
 die	tuolla	Adv	Adv
-ládje	tapa	Po|Pcle	N
-seammaládje	samanlainen	+?	A
+ládje	tavalla	Po	Adv
+seammaládje	samanlainen	A	A
 sihke	sekä	CC	CC
-bealle	puoli	Adv|N	Pcle& N
+bealle	puoli	N	N
 norggabealle	norjan puoli	N	N
-sohkabealle	sukupuoli	+?	N
+sohkabealle	sukupuoli	N	N
 olle	kaikki	N	Pron
 málle	malli	N	N
 fuolaheapme	välinpitämätön	A	A
@@ -315,11 +314,10 @@ goasse	koskaan	Adv	Adv
 dihte	takia	Po	Adv& Po
 bakte	kautta	Po	Po
 bokte	kautta	Po	Po
-mađe	samoin	CS|Adv|Po	Adv& Pcle
 dakkaviđe	heti	Adv	Adv
-láhkai	tapa	Po|Pcle	N
+láhkai	tavalla	Po	Adv
 nai	myös	Pcle	Pcle
-vai	vai	CC|CS	CC
+vai	vai	CC	CC
 kulturárbi	kulttuuriperinne	N	N
 álbmotmeahcci	kansallispuisto	N	N
 oahcci	hakija	N	N
@@ -333,7 +331,7 @@ láhkalávdegoddi	lakilautakunta	N	N
 giellalávdegoddi	kielilautakunta	N	N
 vuoigatvuođalávdegoddi	oikeuslautakunta	N	N
 boraspirelávdegoddi	petoeläinlautakunta	N	N
-áššedovdilávdegoddi	asiantuntijalautakunta	+?	+?
+áššedovdilávdegoddi	asiantuntijalautakunta	N	N
 boazoguohtunlávdegoddi	porolaidunlautakunta	N	N
 váldolávdegoddi	päälautakunta	N	N
 bargolávdegoddi	työlautakunta	N	N
@@ -343,7 +341,6 @@ diggegoddi	käräjäoikeus	N	N
 báikegoddi	kylä& paikkakunta	N	N
 čoahkkinjođihangoddi	kokousjohtokunta	N	N
 čállingoddi	sihteeristö	N	N
-gearddi	kerta& kerros& vuosikerros	CS|Adv	Pcle& N& N
 plánaeiseváldi	suunnitteluviranomainen	N	N
 mearridanváldi	päätösvalta	N	N
 áššedovdi	asiantuntija	N	N
@@ -357,21 +354,21 @@ vuoruhansuorgi	satsausalue	N	N
 bargosuorgi	työllistämiskerroin	N	N
 ovddasvástádussuorgi	vastuualue	N	N
 servodatsuorgi	yhteiskuntasektori	N	N
-álohii	aina	Adv	Adv& Pcle
+álohii	aina	Adv	Adv
 belohahkii	osittain	Adv	Adv
-badjelii	yli	Adv|Pr|Po	Adv& Po& Pcle
+badjelii	yli	Adv	Adv
 oidnosii	näkyviin	Adv	Adv
-namalassii	nimittäin	Adv	Adv& Pcle
+namalassii	nimittäin	Adv	Adv
 ovddalgihtii	etukäteen	Adv	Adv
-vuhtii	vastaan	Adv	Adv& Po
-dassážii	siihen asti	Adv	+?
-dássážii	tähän asti	Adv	+?
+vuhtii	vastaan	Adv	Adv
+dassážii	siihen asti	Adv	Adv
+dássážii	tähän asti	Adv	Adv
 mearrideaddji	määräävä	A	A
 geavaheaddji	käyttäjä	N	N
 gustojeaddji	kelvollinen&	A	A
-ovddasteaddji	edustaja	A|N	N
+ovddasteaddji	edustaja	A	N
 berošteaddji	kiinnostunut	A	A
-riikarádji	valtionraja	+?	+?
+riikarádji	valtionraja	N	N
 oarji	länsi	N	N
 čoahkkingirji	kokouskirja	N	N
 válgajahki	vaalivuosi	N	N
@@ -395,8 +392,8 @@ olli	ulottuvuus	N	N
 gulli	kuuntelija	N	N
 lulli	etelä	N	N
 stáhtačálli	valtionsihteeri	N	N
-doaibmi	aktiivinen	A|N	A
-submi	summa	N	A& N
+doaibmi	aktiivinen	A	A
+submi	summa	N	N
 rievdadeapmi	muutos	N	N
 oahpponeavvoráhkadeapmi	opetusmateriaalin tekeminen	N	N
 iskkadeapmi	tutkimus	N	N
@@ -438,9 +435,9 @@ mearri	määrä	N	N
 áigemearri	aikamäärä	N	N
 mihttomearri	tavoite	N	N
 buorri	hyve	N	N
-lassi	lisäys	A|N	N
-siidaoassi	paliskunnan osa	+?	+?
-teakstaoassi	tekstiosa	+?	+?
+lassi	lisäys	N	N
+siidaoassi	paliskunnan osa	N	N
+teakstaoassi	tekstiosa	N	N
 eananoassi	maanosa	N	N
 váldooassi	valtaosa	N	N
 jahkečuohti	vuosisata	N	N
@@ -448,23 +445,23 @@ alimusriekti	korkein oikeus	N	N
 álbmotriekti	kansanoikeus	N	N
 oassálasti	osallistuja	N	N
 sihkkarasti	vahvistaa	N	V
-sávahahtti	toivottu	A	A& N
+sávahahtti	toivottu	A	N
 jáhkehahtti	luultavasti	A	Adv
 gánnáhahtti	kannattava	A	A
-mearkkašahtti	merkityksellinen	Adv|A	A
+mearkkašahtti	merkityksellinen	A	A
 lagabui	lähempi	Adv	A
 guvlui	suhteen	Po	Po
-ovddosguvlui	eteenpäin	+?	Adv
-ektui	ehdolla	Po	+?
+ovddosguvlui	eteenpäin	Adv	Adv
+ektui	ehdolla	Po	Po
 válgabeaivi	vaalipäivä	N	N
 árgabeaivi	arkipäivä	N	N
 leavgabeaivi	liputuspäivä	N	N
 riikkasearvi	maanjärjestö	N	N
 davvi	pohjoinen	N	A& N
 skovvi	lomake	N	N
-sadjái	sijaan	Po	+?
-rádjái	asti	Adv|Po	Po& Pcle
-dađi	sitä	CS|Adv	Adv& Pcle
+sadjái	sijaan	Po	Po
+rádjái	asti	Po	Po
+dađi	sitä	Adv	Adv
 ráđđi	neuvo& neuvosto	N	N
 giellaráđđi	kielineuvosto	N	N
 stáhtaráđđi	ministeri	N	N
@@ -477,15 +474,14 @@ eamiálbmotášši	alkuperäiskansa-asia	N	N
 álgoálbmotášši	alkuperäiskansa-asia	N	N
 dal	nyt	Adv	Pcle
 artihkal	artikkeli	N	N
-gaskal	keskellä	Adv|Pr|Po	Adv
+gaskal	keskellä	Adv	Adv
 kapihtal	kappale	N	N
-kapihttal	kappale	+?	N
 sámegiel	saamenkielinen	A	A
-vuollel	alla	Adv|Pr|Po	Adv& Po
+vuollel	alla	Po	Po
 váldoulbmil	päämäärä	N	N
 kulturulbmil	kulttuuritavoite	N	N
-ovttaoaivil	yhteisymmärrys& yhteinen kanta	+?	N
-maŋŋil	jälkeen	+?	Adv& Po
+ovttaoaivil	yhteinen kanta	N	N
+maŋŋil	jälkeen	Po	Po
 vuođul	perusteella	Po	Po
 forum	foorumi	N	N
 ohcan	hakemus	N	N
@@ -497,9 +493,9 @@ lágan	sellainen	A	A
 earalágan	erilainen	Adv	A
 sierralágan	erilainen	A	A
 ovttalágan	samanlainen	A	A
-earálágan	erilainen	A|Adv	A
+earálágan	erilainen	A	A
 lohkan	lukeminen	N	N
-gaskan	puolivalmis	Adv|Pr|Po|N	N
+gaskan	puolivalmis	N	N
 iskan	koe	N	N
 dutkan	tutkinto, tutkimus	N	N
 bagadallan	ohjaus	N	N
@@ -511,13 +507,13 @@ digaštallan	väittely& keskustelu	N	N
 árvvoštallan	arviointi	N	N
 valáštallan	urheilu	N	N
 man	kuinka	Adv	Adv& Pron
-eanan	maa	+?	N
-stáhtaeanan	valtionmaa	+?	N
-guohtuneanan	laidunalue	+?	N
-siseanan	sisämaa	+?	N
+eanan	maa	N	N
+stáhtaeanan	valtionmaa	N	N
+guohtuneanan	laidunalue	N	N
+siseanan	sisämaa	N	N
 beassan	pääsy	N	N
 oktan	yhdessä	Adv	Adv
-nuortan	idässä	Adv	+?
+nuortan	idässä	Adv	Adv
 njuovvan	teurastus	N	N
 vuohččan	ensimmäinen	Adv	Num& N
 válljen	valinta	N	N
@@ -531,8 +527,8 @@ kárten	kartoittaminen	N	N
 birasgáhtten	ympäristösuojelu	N	N
 sirdin	siirto	N	N
 vuovdin	myynti	N	N
-dainnalágiin	sillä tavalla	Adv	+?
-oarjin	lännessä	Adv	+?
+dainnalágiin	sillä tavalla	Adv	Adv
+oarjin	lännessä	Adv	Adv
 juohkin	jako	N	N
 diehtojuohkin	tiedotus	N	N
 jahkečoahkkin	vuosikokous	N	N
@@ -541,7 +537,7 @@ dievasčoahkkin	täysistunto	N	N
 ollesčoahkkin	täysistunto	N	N
 eallin	elämä	N	N
 bargoeallin	työelämä	N	N
-girkoeallin	kirkkoelämä	+?	+?
+girkoeallin	kirkkoelämä	N	N
 kultureallin	kulttuurielämä	N	N
 servodateallin	yhteiskuntaelämä	N	N
 čállin	kirjoittaminen	N	N
@@ -551,8 +547,8 @@ ovdanbuktin	esitys	N	N
 oastin	osto	N	N
 sihkkarastin	varmistus	N	N
 dáruiduhttin	norjalaistuminen	N	N
-davvin	pohjoisessa	Adv	+?
-miljon	miljoona	+?	Num& N
+davvin	pohjoisessa	Adv	Adv
+miljon	miljoona	N	N
 dulkon	tulkkaus	N	N
 dálon	talollinen	N	A& N
 rihkkun	pilkku	N	N
@@ -570,7 +566,7 @@ dakko	siinä	Adv	Adv& Pcle
 dákko	täällä	Adv	Adv
 kruvdno	kruunu	N	N
 konto	tili	N	N
-duo	tuolla	Adv|N	Adv
+duo	tuolla	Adv	Adv
 vuođđo	perusta	N	N
 sihkar	varma	A	A
 registtar	rekisteri	N	N
@@ -583,12 +579,12 @@ suodjalusministtar	puolustusministeri	N	N
 áššebábir	asiapaperi	N	N
 diekkár	tällainen	Pron	A
 buhtadas	korvaus	N	N
-olgguldas	ulkoinen	A|N	A
+olgguldas	ulkoinen	A	A
 siskkáldas	sisäinen	A	A
-lagas	läheinen	A|N	A
+lagas	läheinen	A	A
 evttohas	ehdokas	N	N
-mielas	mielestä	Adv|Po	Adv& Po
-diehttelas	tietysti	A|Adv	Adv& Pcle
+mielas	mielestä	Po	Po
+diehttelas	tietysti	Adv	Adv
 sierranas	erikseen	A	Adv
 biras	ympäristö	N	N
 fágabiras	ammattipiiri	N	N
@@ -596,11 +592,11 @@ dutkanbiras	tutkimusalue	N	N
 kulturbiras	kulttuuripiiri	N	N
 várreáirras	varaedustaja	N	N
 duođas	todellinen	Adv	A
-beales	puolella	Po	+?
+beales	puolella	Po	Adv
 soames	muutama	Pron	Pron
-rájis	siitä asti	Adv|Po	+?
-bealis	puolella	Po	+?
-olis	mukaan	Pr|Po	Adv& Po
+rájis	siitä asti	Adv	Adv
+bealis	puolella	Po	Adv
+olis	mukaan	Po	Po
 rávis	aikuinen	A	A
 rievdadus	muutos	N	N
 láhkarievdadus	lakimuutos	N	N
@@ -613,17 +609,17 @@ váldošiehtadus	pääsopimus	N	N
 ovttasbargošiehtadus	yhteistyösopimus	N	N
 boazodoallošiehtadus	poronhoitosopimus	N	N
 buhtadus	korvaus	N	N
-gielddus	kielto	A|N	N
+gielddus	kielto	N	N
 mielddus	liite	N	N
 vuođđudus	säätiö	N	N
 lágádus	kustantamo	N	N
-čoahkádus	koostumus	+?	N
+čoahkádus	koostumus	N	N
 eahpádus	epäily	N	N
 lohpádus	lupaus	N	N
 mearrádus	määräys	N	N
 láhkamearrádus	lakipäätös	N	N
 ovddasvástádus	vastuu	N	N
-hálddašanovddasvástádus	hallintovastuu	+?	+?
+hálddašanovddasvástádus	hallintovastuu	N	N
 boazodoallohálddahus	poronhoitohallinto	N	N
 doaimmahus	toimitus	N	N
 joatkkaoahpahus	jatkokoulutus	N	N
@@ -661,8 +657,8 @@ dearvvašvuođabálvalus	terveyspalvelu	N	N
 dulkonbálvalus	tulkkipalvelu	N	N
 láhkaárvalus	lakiehdotus	N	N
 maŋemus	viimeinen	Adv	A
-oainnus	näkyvä	A|N	A
-oainnus	näköala	A|N	N
+oainnus	näkyvä	A	A
+oainnus	näköala	N	N
 stáhtus	status	N	N
 ovddastus	edustus	N	N
 ođastus	uudistus	N	N
@@ -672,12 +668,12 @@ guolástus	kalastus	N	N
 nuppástus	muutos	N	N
 julggaštus	julistus	N	N
 eamiálbmotjulggaštus	alkuperäiskansajulistus	N	N
-álgoálbmotjulggaštus	alkuperäiskansajulistus	+?	+?
+álgoálbmotjulggaštus	alkuperäiskansajulistus	N	N
 beroštus	huoli& kiinnostus	N	N
 ráŋggáštus	rangaistus	N	N
-dieđus	tietysti	A|Adv	Adv& Pcle
+dieđus	tietysti	Adv	Adv
 vuođus	perusta	N	N
-várás	takia	Adv|Po	Adv& Po
+várás	takia	Po	Po
 eanadat	maasto	N	N
 ovttadat	yksikkö	N	N
 doalloovttadat	toimintayksikkö	N	N
@@ -698,12 +694,10 @@ dálkkádat	ilmasto	N	N
 fierpmádat	verkosto	N	N
 avádat	vyöhyke	N	N
 čázádat	vesistö	N	N
-viggat	yrittää, pyrkiä	V	+?
-mealgat	melko	Adv|A	Pcle
-ovttasbargat	tehdä yhteistyötä	V	+?
-oallugat	monet ihmiset	+?	+?
-ollugat	monet ihmiset	Pron	+?
-čavgat	kireä	A|V	A
+viggat	yrittää, pyrkiä	V	V
+mealgat	melko	Adv	Pcle
+ovttasbargat	tehdä yhteistyötä	V	V
+čavgat	kireä	A	A
 guoskat	koskea	V	V
 máŋggabealat	monipuolinen	A	A
 guovttegielat	kaksikielinen	A	A
@@ -718,7 +712,7 @@ sisttisdoallat	sisältää	V	V
 ávkkástallat	hyödyntää& käyttää hyväksi	V	V
 digaštallat	keskustella	V	V
 digáštallat	keskustella	V	V
-biebmat	ruokia	V	+?
+biebmat	ruokia	V	V
 ilbmat	toimeentulo	V	N
 guohtumat	laidunresurssit	N	N
 dálveguohtumat	talvilaidun	N	N
@@ -728,8 +722,8 @@ juksat	taas	V	Pcle
 eanemusat	eniten	Adv	Adv
 spiehkastat	poikkeama	N	N
 geavat	käyttää	N	V
-arvat	paljon	Adv|V	Adv
-arvat	uskaltaa	Adv|V	V
+arvat	paljon	Adv	Adv
+arvat	uskaltaa	V	V
 geavvat	nousta	V	V
 sajáiduvvat	sopeutua	V	V
 ođasmuvvat	uusia	V	V
@@ -743,8 +737,7 @@ vejolaččat	mahdollisesti	Adv	Adv
 dohkálaččat	kelvollinen	Adv	A
 báikkálaččat	paikallisesti	Adv	Adv
 gaskamearálaččat	keskimääräisesti	Adv	Adv
-jahkásaččat	vuotinen	Adv	+?
-goappašat	molemmat	A|Pron	Pron
+goappašat	molemmat	Pron	Pron
 eaiggáduššat	omistaa	V	V
 áimmahuššat	ylläpitää	V	V
 ságaškuššat	keskustella	V	V
@@ -752,7 +745,7 @@ nákcet	pystyä	V	V
 muddet	oikoa& korjata	V	V
 bivdet	pyytää	V	V
 bágget	pakottaa	V	V
-njulget	oikoa	V	+?
+njulget	oikoa	V	V
 čavget	kiristää	V	V
 čuvget	ilmoittaa	V	V
 máŋget	monistaa	V	V
@@ -760,8 +753,8 @@ suddjet	suojella	V	V
 ráddjet	rajoittaa	V	V
 goiket	kuivata	V	V
 čohkket	kerätä	V	V
-vurket	säilytä	V	+?
-hábmet	hahmota	V	+?
+vurket	säilytä	V	V
+hábmet	hahmota	V	V
 stipeandaortnet	stipendijärjestelmä	N	N
 válgaortnet	vaalijärjestelmä	N	N
 doarjjaortnet	tukijärjestelmä	N	N
@@ -777,25 +770,25 @@ raporteret	raportoida	V	V
 rekrutteret	rekrytoida	V	V
 evalueret	arvioida	V	V
 buoret	miellummin& paremmin	Adv	Adv
-earret	paitsi	Pr	Adv& Po& Pcle
-sirret	jakaa	V	+?
+earret	paitsi	Pr	Po
+sirret	jakaa	V	V
 várret	varoittaa	V	V
 stivret	hallita	V	V
-dásset	tasoittaa	A|V	V
+dásset	tasoittaa	V	V
 viidáset	eteenpäin	Adv	Adv
 iešguhtet	jokainen	Pron	Pron
-máhttoloktet	nostaa tietomäärä	+?	+?
+máhttoloktet	nostaa tietomäärä	V	V
 kártet	kartoittaa	V	V
 hehttet	estää	V	V
 gáhttet	katua	V	V
 luvvet	ratkaista	V	V
-bláđet	kääntää sivua	V	+?
+bláđet	kääntää sivua	V	V
 ráđđet	neuvoa	V	V
 čuohcit	vaikuttaa	V	V
 rievddadit	muuttaa	V	V
 bagadit	kasvattaa	V	V
 čielggadit	selittää	V	V
-juogadit	jakaa	V	+?
+juogadit	jakaa	V	V
 nammadit	nimittää	V	V
 šiehtadit	sopimus	V	N
 buhtadit	hyvittää	V	V
@@ -803,7 +796,7 @@ duhtadit	tyydyttää	V	V
 eastadit	estää	V	V
 buvttadit	tuottaa	V	V
 geahpedit	keventää	V	V
-fievrredit	kuljettaa	+?	V
+fievrredit	kuljettaa	V	V
 viiddidit	laajentaa	V	V
 ovddidit	edistää	V	V
 bajidit	nostaa	V	V
@@ -822,18 +815,18 @@ maŋidit	lykätä	V	V
 gáržžidit	rajoittaa	V	V
 gieldit	kieltää	V	V
 siskkildit	sisältää	V	V
-vuhtiiváldit	ottaa huomioon	V	+?
-vuostáiváldit	ottaa vastaan	V	+?
+vuhtiiváldit	ottaa huomioon	V	V
+vuostáiváldit	ottaa vastaan	V	V
 divodit	korjata	V	V
-oččodit	yrittää saada	V	+?
+oččodit	yrittää saada	V	V
 suokkardit	tutkia	V	V
 meannudit	käyttäytyä	V	V
 vuođđudit	perustaa	V	V
 čiekŋudit	paneutua	V	V
 navdit	nimittää& pitää	V	V
 čoavdit	ratkaista	V	V
-duvdit	tuki	V	+?
-virgádit	nimittää virkaan	V	+?
+duvdit	tuki	V	V
+virgádit	nimittää virkaan	V	V
 beaivádit	päivittää	V	V
 luobahit	luopua	V	V
 máhcahit	palauttaa	V	V
@@ -847,7 +840,7 @@ gávnnahit	selvittää	V	V
 ásahit	järjestää	V	V
 čilgehit	selittää	V	V
 bissehit	pysäyttää	V	V
-vásihit	kokea	V	+?
+vásihit	kokea	V	V
 heaittihit	lopettaa	V	V
 gozihit	vahtia	V	V
 mieđihit	myöntää	V	V
@@ -864,7 +857,7 @@ eavttuhit	ehdottaa	V	V
 čuoččuhit	väittää	V	V
 bálkáhit	vuokrata	V	V
 bajit	ylä-	A	A
-guhkit	pidempi	Adv	+?
+guhkit	pidempi	Adv	Adv
 álkit	helppo	Adv	A
 guoddalit	valittaa	V	V
 váidalit	valittaa	V	V
@@ -881,7 +874,7 @@ ovdánit	kehittyä	V	V
 geahppánit	keventyä	V	V
 lassánit	lisääntyä	V	V
 massit	menettää	V	V
-ollásit	täydellinen	Adv|V	A
+ollásit	täydellinen	Adv	A
 laktit	monistaa	V	V
 boktit	herättää	V	V
 ovdanbuktit	esittää	V	V
@@ -921,8 +914,8 @@ duođaštit	vahvistaa	V	V
 bealuštit	puolustaa	V	V
 heađuštit	estää	V	V
 vuođuštit	perustella	V	V
-ráŋggáštit	rankaista	V	+?
-láhčit	sijoita	V	+?
+ráŋggáštit	rankaista	V	V
+láhčit	sijoita	V	V
 maŋit	taka-	A	A
 hálddašit	hallita	V	V
 máinnašit	mainonta	V	N
@@ -931,22 +924,22 @@ fuomášit	huomata	V	V
 earenoamážit	erityisesti	Adv	Adv& Pcle
 dárkot	tarkistaa	V	V
 sámeálbmot	saamenkansa	N	N
-dárkileappot	tarkempi	Adv	+?
+dárkileappot	tarkempi	Adv	A
 viidáseappot	edelleen& eteenpäin	Adv	Adv
 rahppot	avautua	V	V
 orrot	asua	V	V
 gustot	pitää	V	V
 buorebut	parantaa	Adv	V
 hilgut	hylkiä	V	V
-njuolgut	suoristaa	Adv|V	V
+njuolgut	suoristaa	V	V
 rihkkut	rikkoa	V	V
 doalut	pidot	N	N
 unnut	vähentyä	V	V
 lotnut	maksaa	V	V
 geassut	vetää	V	V
-guohtut	laidun	V	+?
+guohtut	laidun	V	V
 boastut	väärin	Adv	Adv
-movt	miten	CS|Adv	Adv
+movt	miten	Adv	Adv
 soalddát	sotilas	N	N
 eaiggát	omistaja	N	N
 eanaeaiggát	maanomistaja	N	N
@@ -997,14 +990,14 @@ rehketdoallu	tilinpito	N	N
 gollu	kulu	N	A& N
 doaibmagollu	toimikulu	N	N
 duopmostuollu	tuomioistuin	N	N
-olu	paljon	Adv|A	Adv
-giellaguovlu	kielialue	+?	N
+olu	paljon	Adv	Adv
+giellaguovlu	kielialue	N	N
 doaibmaguovlu	toiminta-alue	N	N
 vuotnaguovlu	vuonoalue	N	N
 mearraguovlu	merialue	N	N
-sámeguovlu	saamen alue	+?	+?
+sámeguovlu	saamen alue	N	N
 davviguovlu	pohjoinen alue	N	N
-hálddahanguovlu	hallintoalue	+?	N
+hálddahanguovlu	hallintoalue	N	N
 hálddašanguovlu	hallintoalue	N	N
 báhčinguovlu	ampuma-alue	N	N
 guohtunguovlu	laidunalue	N	N
@@ -1042,7 +1035,7 @@ veahkkeneavvu	apuneuvo	N	N
 oahpponeavvu	opetusmateriaali	N	N
 čuovvu	seuraaja	N	N
 diehtovuođđu	tietokanta	N	N
-julev	luulaja	+?	+?
+julev	luulaja	A	N
 gonagasreabbá	kuningasrapu	N	N
 mihá	melko	Adv	Pcle
 linjjá	viiva& linja	N	N
@@ -1050,15 +1043,13 @@ linjá	viiva& linja	N	N
 vuorká	arkisto	N	N
 sátnevuorká	sanavarasto	N	N
 dávvirvuorká	museo	N	N
-dalá	silloinen	Adv|A	A
-almmá	ilman	Adv	Adv& Po
+dalá	silloinen	A	A
 otná	tämänpäivinen	A	A
-gč	ks	V	+?
 juohkehaš	jokainen	Pron	Pron
 obbalaš	yleinen	A	A
 dáiddalaš	taiteellinen	A	A
 čearddalaš	etninen	A	A
-ovdalaš	aikaisemmin	A|Adv	Adv
+ovdalaš	aikaisemmin	Adv	Adv
 geográfalaš	maantieteellinen	A	A
 strategalaš	strateginen	A	A
 vuoiggalaš	rehellinen	A	A
@@ -1066,7 +1057,7 @@ pedagogalaš	pedagoginen	A	A
 erenoamášpedagogalaš	erikoispedagoginen	A	A
 biologalaš	biologinen	A	A
 ekologalaš	ekolooginen	A	A
-norgalaš	norjalainen	A|N	A
+norgalaš	norjalainen	A	A
 fágalaš	ammatillinen	A	A
 lágalaš	laillinen	A	A
 juridihkalaš	juridinen	A	A
@@ -1076,7 +1067,7 @@ sámepolitihkalaš	saamepoliittinen	A	A
 praktihkalaš	käytännöllinen	A	A
 psyhkalaš	psyykkinen	A	A
 gaskariikkalaš	kansainvälinen	A	A
-davviriikkalaš	pohjoismainen	A|N	A
+davviriikkalaš	pohjoismainen	A	A
 psykalaš	psyykkinen	A	A
 gielalaš	kielellinen	A	A
 sámegielalaš	saamenkielinen	A	A
@@ -1089,8 +1080,8 @@ bienalaš	yksityiskohtainen	A	A
 ovttajienalaš	yksimielisesti	A	Adv
 persovnnalaš	henkilöllinen	A	A
 našuvnnalaš	kansallinen	A	A
-nášuvnnalaš	kansallinen	+?	A
-loahpalaš	vihdoin	A	Adv& Pcle
+nášuvnnalaš	kansallinen	A	A
+loahpalaš	lopullinen	A	A
 prinsihpalaš	periaatteellinen	A	A
 eurohpalaš	eurooppalainen	A	A
 oppalaš	yleinen	A	A
@@ -1103,7 +1094,7 @@ systemáhtalaš	systemaattinen	A	A
 automáhtalaš	automaattinen	A	A
 demokráhtalaš	demokraattinen	A	A
 stáhtalaš	valtiollinen	A	A
-arktalaš	arktinen	+?	A
+arktalaš	arktinen	A	A
 árktalaš	arktinen	A	A
 negatiivvalaš	negatiivinen	A	A
 positiivvalaš	positiivinen	A	A
@@ -1114,11 +1105,11 @@ ulbmillaš	määrätietoinen	A	A
 suohkanlaš	kunnallinen	A	A
 gelbbolaš	kelvollinen	A	A
 girkolaš	kirkollinen	A	A
-eaktodáhtolaš	vapaaehtoinen	A	A& N
+eaktodáhtolaš	vapaaehtoinen	A	A
 šattolaš	seuraaja	A	N
-molssaevttolaš	vapaaehtoinen	A	A& N
+molssaevttolaš	vapaaehtoinen	A	A
 vuđolaš	perusteellinen	A	A
-gonagaslaš	kuninkaallinen	A	A& N
+gonagaslaš	kuninkaallinen	A	A
 dievaslaš	täydellinen	A	A
 hálddahuslaš	hallinnollinen	A	A
 servodatlaš	yhteiskunnallinen	A	A
@@ -1132,7 +1123,7 @@ báikkálaš	paikallinen	A	A
 ekonomálaš	taloudellinen	A	A
 sálaš	saalis	N	N
 olmmošlaš	kohtelias	A	A
-eanaš	enimmäkseen	Adv|Pron|A	Adv
+eanaš	enimmäkseen	Adv	Adv
 goappaš	molemmat	Pron	Pron
 gaskaboddasaš	väliaikainen	A	A
 sullasaš	samanlainen	A	A
@@ -1142,7 +1133,7 @@ riikkaviidosaš	maankattava	A	A
 ruvdnosaš	kruunuinen	A	A
 sturrosaš	suuruinen	A	A
 ovttaárvosaš	samaarvoinen	A	A
-jahkásaš	yksivuotinen	A	A& N
+jahkásaš	yksivuotinen	A	A
 dássásaš	tasavertainen	A	A
 sorjavaš	riippumaton	A	A
 guoskevaš	koskien	A	Po
@@ -1150,7 +1141,7 @@ váilevaš	puuttuva	A	A
 gullevaš	kuuluva	A	A
 boahttevaš	tuleva	A	A
 gustovaš	koskevan	A	A
-fágaolmmoš	ammattilainen	N	A& N
+fágaolmmoš	ammattilainen	N	N
 rávisolmmoš	aikuinen	N	A
 ohcamuš	hakemus	N	N
 soahpamuš	sopimus	N	N
@@ -1166,8 +1157,8 @@ gelbbolašvuođaguovddáš	kompetenssikeskus	N	N
 gealboguovddáš	kompetenssikeskus	N	N
 kulturguovddáš	kulttuurikeskus	N	N
 duogáš	tausta	N	N
-veaháš	vähän	Adv|Pron	Adv& Pcle
-dáláš	nykyaikainen	A|N	A
-earenoamáš	erinomainen	+?	A
-erenoamáš	erikoinen	Adv|A	A
+veaháš	vähän	Adv	Adv
+dáláš	nykyaikainen	A	A
+earenoamáš	erinomainen	A	A
+erenoamáš	erikoinen	A	A
 otnáš	tämänpäivän	A	A
