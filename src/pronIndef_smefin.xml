@@ -198,4 +198,105 @@
          </tg>
       </mg>
    </e>
+  <e>
+    <lg>
+      <l pos="pron" type="indef">mihkkege</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron" type="indef">mitään</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pron" type="indef">guhtege</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron" type="indef">jokainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pron" type="indef">goabbáge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron" type="indef">kumpikin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pron" type="indef">muhtin</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron" type="indef">muutama</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pron" type="indef">diekkár</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A" type="indef">tällainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pron" type="indef">soames</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron" type="indef">muutama</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pron" type="indef">goappašat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron" type="indef">molemmat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pron" type="indef">iešguhtet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron" type="indef">jokainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pron" type="indef">juohkehaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron" type="indef">jokainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pron" type="indef">goappaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron" type="indef">molemmat</t>
+      </tg>
+    </mg>
+  </e>
+</r>
 </r>

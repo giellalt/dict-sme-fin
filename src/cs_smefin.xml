@@ -126,4 +126,24 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="CS">dego</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="Pcle">kuten</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">jus</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="CC">jos</t>
+      </tg>
+    </mg>
+  </e>
 </r>

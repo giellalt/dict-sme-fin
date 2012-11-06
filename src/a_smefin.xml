@@ -10755,4 +10755,1516 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="a">friija</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">vapaa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">siviila</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">siviili</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sosiála</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">sosiaalinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">formála</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">muodollinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">regionála</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">alueellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">nationála</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kansallinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">našunála</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kansallinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">digitála</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">digitaalinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">individuála</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">yksilöllinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">konkrehta</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">konkreettinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">relevánta</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">relevantti</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">fásta</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">vakio</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">priváhtta</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">yksityinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">negatiiva</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">negatiivinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">positiiva</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">positiivinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">aktiiva</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">aktiivinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">ruoŧa</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">ruotsalainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">seammaládje</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">samanlainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">fuolaheapme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">välinpitämätön</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">mearrideaddji</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">määräävä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">gustojeaddji</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kelvollinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">ovddasteaddji</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="n">edustaja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">berošteaddji</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kiinnostunut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">hearki</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">herkkä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">doaibmi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">aktiivinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sávahahtti</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="n">toivottu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">jáhkehahtti</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">luultavasti</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">gánnáhahtti</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kannattava</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">mearkkašahtti</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">merkityksellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sámegiel</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">saamenkielinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">lágan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">sellainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sierralágan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">erilainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">ovttalágan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">samanlainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">earálágan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">erilainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">veadjemeahttun</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">mahdoton</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sorjjasmeahttun</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">riippumaton</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">dárbbašmeahttun</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">tarpeeton</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sihkar</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">varma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">olgguldas</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">ulkoinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">siskkáldas</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">sisäinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">lagas</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">läheinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sierranas</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">erikseen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">rávis</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">aikuinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">oainnus</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">näkyvä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">čavgat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kireä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">máŋggabealat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">monipuolinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">guovttegielat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kaksikielinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">bajit</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">ylä-</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">maŋit</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">taka-</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">boasttu</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">väärä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">julev</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="n">luulaja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">dalá</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">silloinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">otná</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">tämänpäivinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">obbalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">yleinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">dáiddalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">taiteellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">čearddalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">etninen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">geográfalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">maantieteellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">strategalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">strateginen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">vuoiggalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">rehellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">pedagogalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">pedagoginen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">erenoamášpedagogalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">erikoispedagoginen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">biologalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">biologinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">ekologalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">ekolooginen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">norgalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">norjalainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">fágalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">ammatillinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">lágalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">laillinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">juridihkalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">juridinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">teknihkalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">tekninen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">politihkalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">poliittinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sámepolitihkalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">saamepoliittinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">praktihkalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">käytännöllinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">psyhkalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">psyykkinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">gaskariikkalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kansainvälinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">davviriikkalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">pohjoismainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">psykalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">psyykkinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">gielalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kielellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sámegielalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">saamenkielinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">dihtomielalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">tietoinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sosiálalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">sosiaalinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">formálalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">muodollinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">ekonomalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">taloudellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">iešheanalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">itsenäinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">bienalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">yksityiskohtainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">ovttajienalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">yksimielisesti</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">persovnnalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">henkilöllinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">našuvnnalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kansallinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">nášuvnnalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kansallinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">loahpalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">lopullinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">prinsihpalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">periaatteellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">eurohpalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">eurooppalainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">oppalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">yleinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">kultuvrralaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kulttuurinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">máŋggakultuvrralaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">monikulttuurinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">parlamentáralaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">parlamentaarinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">deatalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">tärkeä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">konkrehtalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">konkreettinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">systemáhtalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">systemaattinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">automáhtalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">automaattinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">demokráhtalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">demokraattinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">stáhtalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">valtiollinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">arktalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">arktinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">árktalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">arktinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">negatiivvalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">negatiivinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">positiivvalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">positiivinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">dieđalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">tieteellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">ruđalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">rahallinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">vuoiŋŋalaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">hengellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">ulbmillaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">määrätietoinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">suohkanlaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kunnallinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">gelbbolaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kelvollinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">girkolaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kirkollinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">eaktodáhtolaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">vapaaehtoinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">šattolaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="n">seuraaja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">molssaevttolaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">vapaaehtoinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">vuđolaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">perusteellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">gonagaslaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kuninkaallinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">dievaslaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">täydellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">hálddahuslaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">hallinnollinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">servodatlaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">yhteiskunnallinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">geavatlaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">käytännöllinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">guovllulaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">alueellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">guovlulaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">alueellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">lobálaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">laillinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">báikkálaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">paikallinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">ávkkálaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">hyödyllinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">ekonomálaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">taloudellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">olmmošlaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kohtelias</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">gaskaboddasaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">väliaikainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sullasaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">samanlainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">nammasaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">niminen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">gaskaboddosaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">väliaikainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">riikkaviidosaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">maankattava</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">ruvdnosaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kruunuinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sturrosaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">suuruinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">ovttaárvosaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">samaarvoinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">jahkásaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">yksivuotinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">dássásaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">tasavertainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">sorjavaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">riippumaton</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">guoskevaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="Po">koskien</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">váilevaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">puuttuva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">gullevaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">kuuluva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">boahttevaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">tuleva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">gustovaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">koskevan</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">vuosttamuš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="adv">ensisijaisesti</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">bajimuš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">ylin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">dáláš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">nykyaikainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">earenoamáš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">erinomainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">erenoamáš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">erikoinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">otnáš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">tämänpäivän</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">vuolit</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">alhainen</t>
+        <t pos="a">ala-</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="a">dohkálaš</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="a">sopiva</t>
+        <t pos="a">kelvollinen</t>
+      </tg>
+    </mg>
+  </e>
 </r>

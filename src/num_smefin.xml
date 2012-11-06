@@ -191,4 +191,22 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="Num">miljárda</l>
+    <mg>
+      <tg>
+        <t pos="Num">miljardi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">miljovdna</l>
+    <mg>
+      <tg>
+        <t pos="Num">miljoona</t>
+      </tg>
+    </mg>
+  </e>
 </r>

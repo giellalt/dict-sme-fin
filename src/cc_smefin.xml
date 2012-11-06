@@ -100,4 +100,24 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="CC">dehe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="CC">tai</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CC">vai</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="CC">vai</t>
+      </tg>
+    </mg>
+  </e>
 </r>
