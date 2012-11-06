@@ -2,37 +2,37 @@ oba	melko	Adv	Pcle
 lesba	lesbo	N	N
 baicca	miellummin	Adv	+?
 nákca	kyky	N	N
-dáidda	taide	N	+?
-govvadáidda	kuvataide	N	+?
-báktedáidda	kivitaide	N	+?
+dáidda	taide	N	N
+govvadáidda	kuvataide	N	N
+báktedáidda	kivitaide	N	N
 váidda	syyttää	N	V
 gieldda	kielto	N	N
-vuođđojurdda	periaate	N	+?
+vuođđojurdda	periaate	N	N
 duovdda	alue	N	N
 stipeanda	stipendi	N	N
-oahppostipeanda	opiskelijastipendi	N	+?
+oahppostipeanda	opiskelijastipendi	N	N
 foanda	rahasto	N	N
-ovddidanfoanda	kehitysrahasto	N	+?
-kulturfoanda	kulttuurirahasto	N	+?
+ovddidanfoanda	kehitysrahasto	N	N
+kulturfoanda	kulttuurirahasto	N	N
 metoda	metodi	N	N
-čearda	laji&	N	+?
+čearda	laji&	N	N
 standárda	standardi	N	N
 miljárda	miljardi	Num	Num& N
 stáda	valtio	N	N
 dáiddamusea	taidemuseo	N	N
 paragráfa	pykälä	N	N
-ulbmilparagráfa	tavoitepykälä	N	+?
+ulbmilparagráfa	tavoitepykälä	N	N
 haga	ilman	Adv|Po	Adv& Po
 dađistaga	pikku hiljaa	Adv	+?
-álgga	aloite	N	+?
-vuosteágga	vasta-argumentit	N	+?
+álgga	aloite	N	N
+vuosteágga	vasta-argumentti	N	N
 čielga	selkeä	Adv	A
 njuolga	suora	Adv	A& N
 válga	vaali	N	N
-stuorradiggeválga	suurkäräjävaalit	N	+?
-sámediggeválga	saamelaiskäräjien vaalit	N	+?
+stuorradiggeválga	suurkäräjävaalit	N	Npl
+sámediggeválga	saamelaiskäräjien vaalit	N	Npl
 dialoga	vuoropuhelu& dialogi	N	N
-lága	laki	N	+?
+lága	laki	N	N
 media	media	N	N
 šládja	laji	N	N
 bibliografiija	bibliografia	N	N
@@ -44,37 +44,37 @@ ekonomiija	talous	N	N
 kopiija	moniste	N	N
 friija	vapaa	A	A& N
 demokratiija	demokratia	N	N
-doaibmadoarjja	toimeentulotuki	N	+?
-ruhtadoarjja	rahatuki	N	+?
-stáhtadoarjja	valtiontuki	N	+?
-prošeaktadoarjja	projektihakemus	N	+?
+doaibmadoarjja	toimeentulotuki	N	N
+ruhtadoarjja	rahatuki	N	N
+stáhtadoarjja	valtiontuki	N	N
+prošeaktadoarjja	projektihakemus	N	N
 vuođđodoarjja	kariutua	N	V
 árja	energia	N	N
-ája	lähde	N	+?
-sierrabibliotehka	erikoiskirjasto	N	+?
-giellaláhka	kielilaki	N	+?
-minerálaláhka	mineraalilaki	N	+?
-báikenammaláhka	paikannimilaki	N	+?
-olmmošvuoigatvuođaláhka	ihmisoikeuslaki	N	+?
-mánáidgárdeláhka	lastentarhalaki	N	+?
-sámeláhka	saamelaislaki	N	+?
-hálddašanláhka	hallintolaki	N	+?
-huksenláhka	rakentamislaki	N	+?
-eanavuovdinláhka	maanmyyntilaki	N	+?
-boazodoalloláhka	poronhoitolaki	N	+?
-vuođđoláhka	perustuslaki	N	+?
-oahpahusláhka	opetuslaki	N	+?
+ája	lähde	N	N
+sierrabibliotehka	erikoiskirjasto	N	N
+giellaláhka	kielilaki	N	N
+minerálaláhka	mineraalilaki	N	N
+báikenammaláhka	paikannimilaki	N	N
+olmmošvuoigatvuođaláhka	ihmisoikeuslaki	N	N
+mánáidgárdeláhka	lastentarhalaki	N	N
+sámeláhka	saamelaislaki	N	N
+hálddašanláhka	hallintolaki	N	N
+huksenláhka	rakentamislaki	N	N
+eanavuovdinláhka	maanmyyntilaki	N	N
+boazodoalloláhka	poronhoitolaki	N	N
+vuođđoláhka	perustuslaki	N	N
+oahpahusláhka	opetuslaki	N	N
 skuvlaseahkka	koulureppu	N	N
 replihkka	repliikki	N	N
 politihkka	politiikka	N	N
-nuoraidpolitihkka	nuorisopolitiikka	N	+?
-sámepolitihkka	saamelaispolitiikka	N	+?
-dáruiduhttinpolitihkka	norjalaistamispolitiikka	N	+?
-boazodoallopolitihkka	poronhoitopolitiikka	N	+?
-dásseárvopolitihkka	tasa-arvopolitiikka	N	+?
+nuoraidpolitihkka	nuorisopolitiikka	N	N
+sámepolitihkka	saamelaispolitiikka	N	N
+dáruiduhttinpolitihkka	norjalaistamispolitiikka	N	N
+boazodoallopolitihkka	poronhoitopolitiikka	N	N
+dásseárvopolitihkka	tasa-arvopolitiikka	N	N
 kulturpolitihkka	kulttuuripolitiikka	N	N
-ealáhuspolitihkka	elinkeinopolitiikka	N	+?
-guolástuspolitihkka	kalastuspolitiikka	N	+?
+ealáhuspolitihkka	elinkeinopolitiikka	N	N
+guolástuspolitihkka	kalastuspolitiikka	N	N
 guovllupolitihkka	aluepolitiikka	N	N
 statistihkka	tilasto	N	N
 láhkka	lakka	N	N
@@ -87,8 +87,8 @@ homofiila	homofiili	N	N
 siviila	siviili	A	A& N
 tabealla	taulukko	N	N
 modealla	malli	N	N
-oarjelsámegiella	länsisaame	N	+?
-nubbingiella	toinen kieli	N	+?
+oarjelsámegiella	länsisaame	N	N
+nubbingiella	toinen kieli	N	N
 unnitlohkogiella	vähemmistökieli	+?	N
 rolla	rooli	N	N
 areála	pinta-ala	A|N	N
@@ -105,9 +105,9 @@ digitála	digitaalinen	A	A
 kapitála	pääoma	N	N
 iežaskapitála	pääoma	N	N
 individuála	yksilöllinen	A	A
-musihkkafestivála	musiikkifestivaali	N	+?
-museadoaibma	museotoiminta	N	+?
-kulturdoaibma	kulttuuritoiminta	N	+?
+musihkkafestivála	musiikkifestivaali	N	N
+museadoaibma	museotoiminta	N	N
+kulturdoaibma	kulttuuritoiminta	N	N
 ealáhusdoaibma	elinkeinoelämä	N	N
 čuolbma	solmu	N	N
 tearbma	termi	N	N
@@ -116,7 +116,7 @@ tema	teema	N	N
 rámma	kehys	N	N
 bušeahttarámma	budjettiraami	N	N
 prográmma	ohjelma	N	N
-oasseprográmma	osaohjelma	N	+?
+oasseprográmma	osaohjelma	N	N
 dutkanprográmma	tutkimusohjelma	N	N
 suopma	suomalainen	N	A
 turisma	turismi	N	N
@@ -130,7 +130,7 @@ delegašuvdna	valtakunta	N	N
 informašuvdna	tiedotus	N	N
 organisašuvdna	järjestö	N	N
 nuoraidorganisašuvdna	nuorisojärjestö	N	N
-kulturorganisašuvdna	kulttuurijärjestä	N	+?
+kulturorganisašuvdna	kulttuurijärjestö	N	N
 innovašuvdna	innovaatio	N	N
 kommišuvdna	komissio	N	N
 komišuvdna	komissio	N	N
@@ -139,7 +139,7 @@ posišuvdna	asema	N	N
 sekšuvdna	osasto& sektio	N	N
 dimenšuvdna	ulottuvuus	N	N
 konvenšuvdna	konventio& sopimus	N	N
-sámekonvenšuvdna	saamelaiskonventio	N	+?
+sámekonvenšuvdna	saamelaiskonventio	N	N
 konklušuvdna	päätelmä	N	N
 institušuvdna	laitos	N	N
 arena	areena	N	N
@@ -152,23 +152,23 @@ ovttasbargoorgána	yhteistyöelin	N	N
 plána	suunnitelma	N	N
 gielddaplána	kuntasuunnitelma	N	N
 doaibmaplána	toimintasuunnitelma	N	N
-suodjalanplána	suojelusuunnitelma	N	+?
-hálddašanplána	hallintosuunnitelma	N	+?
+suodjalanplána	suojelusuunnitelma	N	N
+hálddašanplána	hallintosuunnitelma	N	N
 oahppa	tieto	N	N
-prinsihppa	periaate	N	+?
+prinsihppa	periaate	N	N
 militeara	sotilaallinen	N	A
 direktevra	johtaja	N	N
-válgastivra	vaalijohtokunta	N	+?
-giellastivra	kielijohtokunta	N	+?
-boazodoallostivra	poronhoitojohtokunta	N	+?
-orohatstivra	aluejohtokunta	N	+?
-guovllustivra	aluehallitus	N	+?
+válgastivra	vaalijohtokunta	N	N
+giellastivra	kielijohtokunta	N	N
+boazodoallostivra	poronhoitojohtokunta	N	N
+orohatstivra	aluejohtokunta	N	N
+guovllustivra	aluehallitus	N	N
 tuvra	retki	N	N
 struktuvra	rakenne& struktuuri	N	N
 infrastruktuvra	infrastruktuuri	N	N
-vuođđostruktuvra	perusrakenne	N	+?
-sámekultuvra	saamelaiskulttuuri	N	+?
-eanavuovdinkantuvra	maanmyyntitoimisto	N	+?
+vuođđostruktuvra	perusrakenne	N	N
+sámekultuvra	saamelaiskulttuuri	N	N
+eanavuovdinkantuvra	maanmyyntitoimisto	N	N
 prosedyra	menetelmä	N	N
 seminára	seminaari	N	N
 poastaboksa	postilaatikko	N	N
@@ -176,18 +176,18 @@ fáksa	faksi	N	N
 telefáksa	telefaksi	N	N
 konfereansa	konferenssi	+?	N
 konferánsa	konferenssi	N	N
-nuoraidkonferánsa	nuorisokonferenssi	N	+?
+nuoraidkonferánsa	nuorisokonferenssi	N	N
 resursa	resurssi	N	N
-luondduresursa	luonnonresurssi	N	+?
+luondduresursa	luonnonresurssi	N	N
 preassa	lehdistö	N	N
 proseassa	prosessi	N	N
-plánaproseassa	suunnitteluprosessi	N	+?
-jassa	lumiläiskä	N	+?
+plánaproseassa	suunnitteluprosessi	N	N
+jassa	lumiläiskä	N	N
 analysa	analyysi	N	N
 konkrehta	konkreettinen	A	A
 identitehta	identiteetti	N	N
 friddjavuohta	vapaus	N	N
-gaskavuohta	suhde	N	+?
+gaskavuohta	suhde	N	N
 girjáivuohta	kirjavuus	N	N
 ovttaoaivilvuohta	yksimielisyys	N	N
 oadjebasvuohta	turvallisuus	N	N
@@ -196,9 +196,9 @@ iešmearridanvuoigatvuohta	itsemääräämisoikeus	N	N
 geavahanvuoigatvuohta	käyttöoikeus	N	N
 oamastanvuoigatvuohta	omistusoikeus	N	N
 guolástanvuoigatvuohta	kalastusoikeus	N	N
-boazodoallovuoigatvuohta	poronhoito-oikeus	N	+?
-eamiálbmotvuoigatvuohta	alkuperäiskansaoikeus	N	+?
-álgoálbmotvuoigatvuohta	alkuperäiskansaoikeus	N	+?
+boazodoallovuoigatvuohta	poronhoito-oikeus	N	N
+eamiálbmotvuoigatvuohta	alkuperäiskansaoikeus	N	N
+álgoálbmotvuoigatvuohta	alkuperäiskansaoikeus	N	N
 olmmošvuoigatvuohta	ihmisoikeus	N	N
 guovttegielatvuohta	kaksikielisyys	N	N
 boasttuvuohta	vääryys	N	N
@@ -212,24 +212,24 @@ máhtolašvuohta	kelpoisuus	N	N
 girjjálašvuohta	kirjallisuus	N	N
 čáppagirjjálašvuohta	kaunokirjallisuus	N	N
 dilálašvuohta	tilaus	N	N
-riektedilálašvuohta	oikeussuhde	N	+?
+riektedilálašvuohta	oikeussuhde	N	N
 ovttadássásašvuohta	tasa-arvo	N	N
-váilevašvuohta	puute	N	+?
+váilevašvuohta	puute	N	N
 gullevašvuohta	kuuluisuus	N	N
 dearvvašvuohta	terveys	N	N
-doarjjaruhta	tukiraha	N	+?
-prošeaktaruhta	projektiraha	N	+?
+doarjjaruhta	tukiraha	N	N
+prošeaktaruhta	projektiraha	N	N
 mandáhta	mandaatti	N	N
 notáhta	muistio	N	N
-riektesubjeakta	oikeussubjekti	N	+?
+riektesubjeakta	oikeussubjekti	N	N
 projeakta	projekti	N	N
 prošeakta	projekti	N	N
-ovdaprošeakta	esiprojekti	N	+?
-giellaprošeakta	kieliprojekti	N	+?
-dutkanprošeakta	tutkimusprojekti	N	+?
-ovttasbargoprošeakta	yhteistyöprojekti	N	+?
+ovdaprošeakta	esiprojekti	N	N
+giellaprošeakta	kieliprojekti	N	N
+dutkanprošeakta	tutkimusprojekti	N	N
+ovttasbargoprošeakta	yhteistyöprojekti	N	N
 presideanta	presidentti	N	N
-sámediggepresideanta	saamelaispresidentti	N	+?
+sámediggepresideanta	saamelaispresidentti	N	N
 várrepresideanta	varapresidentti	N	N
 pasieanta	potilas	N	N
 departemeanta	ministeriö	N	N
@@ -238,24 +238,24 @@ olgoriikadepartemeanta	ulkoministeriö	+?	N
 kultuvradepartemeanta	kulttuuridepartementti	+?	+?
 justiisadepartemeanta	oikeusministeriö	N	N
 gávpedepartemeanta	kauppaministeriö	N	N
-dutkandepartemeanta	tutkimusministeriö	N	+?
-riddodepartemeanta	rannikkoministeriö	N	+?
+dutkandepartemeanta	tutkimusministeriö	N	N
+riddodepartemeanta	rannikkoministeriö	N	N
 bargodepartemeanta	työministeriö	N	N
-girkodepartemeanta	kirkkoministeriö	N	+?
-guovlodepartemeanta	alueministeriö	N	+?
-biebmodepartemeanta	ruokaministeriö	N	+?
-máhttodepartemeanta	tietoministeriö	N	+?
-dásseárvodepartemeanta	tasa-arvoministeriö	N	+?
-kulturdepartemeanta	kulttuuriministeriö	N	+?
+girkodepartemeanta	kirkkoministeriö	N	N
+guovlodepartemeanta	alueministeriö	N	N
+biebmodepartemeanta	ruokaministeriö	N	N
+máhttodepartemeanta	tietoministeriö	N	N
+dásseárvodepartemeanta	tasa-arvoministeriö	N	N
+kulturdepartemeanta	kulttuuriministeriö	N	N
 fuolahusdepartemeanta	sosiaaliministeriö	N	N
-guovludepartemeanta	alueministeriö	N	+?
-bearašdepartemeanta	perheministeriö	N	+?
+guovludepartemeanta	alueministeriö	N	N
+bearašdepartemeanta	perheministeriö	N	N
 dokumeanta	dokumentti& asiakirja	N	N
 departementa	ministeriö	N	N
 dutkandepartementa	tutkimusdepartementti	+?	+?
 girkodepartementa	kirkkoministeriö	+?	+?
-guovlodepartementa	alueministeriö	N	+?
-guovludepartementa	alueministeriö	N	+?
+guovlodepartementa	alueministeriö	N	N
+guovludepartementa	alueministeriö	N	N
 relevánta	relevantti	A	A
 raporta	raportti	N	N
 nuorta	itä	N	N
@@ -266,12 +266,12 @@ fásta	vakio	Adv|A	A
 neahtta	netti	N	N
 kvaliteahtta	laatu	N	N
 bušeahtta	budjetti	N	N
-stáhtabušeahtta	valtionbudjetti	N	+?
+stáhtabušeahtta	valtionbudjetti	N	N
 minoritehtta	vähemmistö	N	N
 instituhtta	laitos& instituutti	N	N
 priváhtta	yksityinen	+?	A
 ovtta	yhteinen	Adv	A
-buvtta	tuote	N	+?
+buvtta	tuote	N	N
 arkiiva	arkisto	N	N
 negatiiva	negatiivinen	A	A
 positiiva	positiivinen	A	A
@@ -305,11 +305,11 @@ ládje	tapa	Po|Pcle	N
 seammaládje	samanlainen	+?	A
 sihke	sekä	CC	CC
 bealle	puoli	Adv|N	Pcle& N
-norggabealle	norjan puoli	N	+?
+norggabealle	norjan puoli	N	N
 sohkabealle	sukupuoli	+?	N
 olle	kaikki	N	Pron
 málle	malli	N	N
-fuolaheapme	välinpitämätön	A	+?
+fuolaheapme	välinpitämätön	A	A
 biire	piiri& paliskunta	N	N
 válgabiire	vaalipiiri	N	N
 goasse	koskaan	Adv	Adv
@@ -321,7 +321,7 @@ dakkaviđe	heti	Adv	Adv
 láhkai	tapa	Po|Pcle	N
 nai	myös	Pcle	Pcle
 vai	vai	CC|CS	CC
-kulturárbi	kulttuuriperinne	N	+?
+kulturárbi	kulttuuriperinne	N	N
 álbmotmeahcci	kansallispuisto	N	N
 oahcci	hakija	N	N
 oahci	rajoitus	N	N
@@ -329,23 +329,23 @@ bargoaddi	työnantaja	N	N
 sáttagoddi	valtuusto	N	N
 lávdegoddi	lautakunta	N	N
 válgalávdegoddi	vaalilautakunta	N	N
-fágalávdegoddi	ammattilautakunta	N	+?
-láhkalávdegoddi	lakilautakunta	N	+?
-giellalávdegoddi	kielilautakunta	N	+?
-vuoigatvuođalávdegoddi	oikeuslautakunta	N	+?
-boraspirelávdegoddi	petoeläinlautakunta	N	+?
+fágalávdegoddi	ammattilautakunta	N	N
+láhkalávdegoddi	lakilautakunta	N	N
+giellalávdegoddi	kielilautakunta	N	N
+vuoigatvuođalávdegoddi	oikeuslautakunta	N	N
+boraspirelávdegoddi	petoeläinlautakunta	N	N
 áššedovdilávdegoddi	asiantuntijalautakunta	+?	+?
-boazoguohtunlávdegoddi	porolaidunlautakunta	N	+?
-váldolávdegoddi	päälautakunta	N	+?
-bargolávdegoddi	työlautakunta	N	+?
-oahppolávdegoddi	opintolautakunta	N	+?
-kulturlávdegoddi	kulttuurilautakunta	N	+?
+boazoguohtunlávdegoddi	porolaidunlautakunta	N	N
+váldolávdegoddi	päälautakunta	N	N
+bargolávdegoddi	työlautakunta	N	N
+oahppolávdegoddi	opintolautakunta	N	N
+kulturlávdegoddi	kulttuurilautakunta	N	N
 diggegoddi	käräjäoikeus	N	N
 báikegoddi	kylä& paikkakunta	N	N
-čoahkkinjođihangoddi	kokousjohtokunta	N	+?
+čoahkkinjođihangoddi	kokousjohtokunta	N	N
 čállingoddi	sihteeristö	N	N
 gearddi	kerta& kerros& vuosikerros	CS|Adv	Pcle& N& N
-plánaeiseváldi	suunnitteluviranomainen	N	+?
+plánaeiseváldi	suunnitteluviranomainen	N	N
 mearridanváldi	päätösvalta	N	N
 áššedovdi	asiantuntija	N	N
 goahccevuovdi	havumetsä	N	N
@@ -353,11 +353,11 @@ ráfi	rauha	N	N
 diggi	käräjät	N	N
 boahtteáigi	tulevaisuus	N	N
 suorgi	haarauma	N	N
-fágasuorgi	ammatti-alue	N	+?
-vuoruhansuorgi	satsausalue	N	+?
-bargosuorgi	työllistämiskerroin	N	+?
+fágasuorgi	ammatti-alue	N	N
+vuoruhansuorgi	satsausalue	N	N
+bargosuorgi	työllistämiskerroin	N	N
 ovddasvástádussuorgi	vastuualue	N	N
-servodatsuorgi	yhteiskuntasektori	N	+?
+servodatsuorgi	yhteiskuntasektori	N	N
 álohii	aina	Adv	Adv& Pcle
 belohahkii	osittain	Adv	Adv
 badjelii	yli	Adv|Pr|Po	Adv& Po& Pcle
@@ -369,41 +369,41 @@ dassážii	siihen asti	Adv	+?
 dássážii	tähän asti	Adv	+?
 mearrideaddji	määräävä	A	A
 geavaheaddji	käyttäjä	N	N
-gustojeaddji	kelvollinen&	A	+?
+gustojeaddji	kelvollinen&	A	A
 ovddasteaddji	edustaja	A|N	N
 berošteaddji	kiinnostunut	A	A
 riikarádji	valtionraja	+?	+?
 oarji	länsi	N	N
-čoahkkingirji	kokouskirja	N	+?
+čoahkkingirji	kokouskirja	N	N
 válgajahki	vaalivuosi	N	N
 logijahki	vuosikymmen	N	N
-doaibmavuohki	toimitapa	N	+?
+doaibmavuohki	toimitapa	N	N
 eallinvuohki	elämäntapa	N	N
 bargovuohki	työtapa	N	N
-ovttasbargovuohki	yhteistyömuoto	N	+?
+ovttasbargovuohki	yhteistyömuoto	N	N
 láhki	tapa	N	N
 ássanbáiki	asuinpaikka	N	N
-hearki	härkä	A	+?
-riddodorski	rannikkoturska	N	+?
+hearki	herkkä	A	A
+riddodorski	rannikkoturska	N	N
 lávki	sipuli	N	N
 beali	puoli	Po	Pcle& N
 sohkabealli	sukupuoli	N	N
 boazodoalli	poronhoito	N	N
-eallindilli	elämäntilanne	N	+?
-bargodilli	työolosuhteet	N	+?
-boazodilli	porotilanne	N	+?
+eallindilli	elämäntilanne	N	N
+bargodilli	työolosuhde	N	N
+boazodilli	porotilanne	N	N
 olli	ulottuvuus	N	N
 gulli	kuuntelija	N	N
 lulli	etelä	N	N
-stáhtačálli	valtionsihteeri	N	+?
+stáhtačálli	valtionsihteeri	N	N
 doaibmi	aktiivinen	A|N	A
 submi	summa	N	A& N
 rievdadeapmi	muutos	N	N
-oahpponeavvoráhkadeapmi	opetusmateriaalin tekeminen	N	+?
+oahpponeavvoráhkadeapmi	opetusmateriaalin tekeminen	N	N
 iskkadeapmi	tutkimus	N	N
 ruhtadeapmi	rahoitus	N	N
 buvttadeapmi	tuotanto	N	N
-iešmearrideapmi	itsemäärääminen	N	+?
+iešmearrideapmi	itsemäärääminen	N	N
 gáržžideapmi	rajoitus	N	N
 áššemeannudeapmi	asiankäsittely	N	N
 vealaheapmi	sorto	N	N
@@ -412,24 +412,24 @@ geavaheapmi	käyttö	N	N
 heiveheapmi	sopeutuminen	N	N
 lasiheapmi	lisäys	N	N
 váikkuheapmi	vaikutus	N	N
-almmuheapmi	julistaminen	N	+?
+almmuheapmi	julistaminen	N	N
 suodjaleapmi	suojelu	N	N
 geahččaleapmi	kokeilu& koe	N	N
 ovdáneapmi	kehitys	N	N
-servodatovdáneapmi	yhteiskuntakehitys	N	+?
+servodatovdáneapmi	yhteiskuntakehitys	N	N
 lassáneapmi	lisäys	N	N
 hálddašeapmi	hallinto	N	N
-eanahálddašeapmi	maanhallinta	N	+?
-gávppašeapmi	kaupanteko	N	+?
+eanahálddašeapmi	maanhallinta	N	N
+gávppašeapmi	kaupanteko	N	N
 oapmi	omistus	N	N
 iešstivrejupmi	autonomia	N	N
 bálkkašupmi	palkinto	N	N
 mearkkašupmi	merkitys	N	N
-fuomášupmi	huomautus, idea	N	+?
-nuortasápmi	itäsaamelainen	N	+?
-máttasápmi	eteläsaamelainen	N	+?
-lullisápmi	eteläsaamelainen	N	+?
-oarjelsápmi	länsisaamelainen	N	+?
+fuomášupmi	huomautus, idea	N	N
+nuortasápmi	itäsaamelainen	N	N
+máttasápmi	eteläsaamelainen	N	N
+lullisápmi	eteläsaamelainen	N	N
+oarjelsápmi	länsisaamelainen	N	N
 ovdamunni	etu	N	N
 fylkkamánni	maaherra	N	N
 fylkamánni	maaherra	N	N
@@ -437,7 +437,7 @@ fylkamánni	maaherra	N	N
 dáhpi	tapa	N	N
 mearri	määrä	N	N
 áigemearri	aikamäärä	N	N
-mihttomearri	tavoite	N	+?
+mihttomearri	tavoite	N	N
 buorri	hyve	N	N
 lassi	lisäys	A|N	N
 siidaoassi	paliskunnan osa	+?	+?
@@ -445,8 +445,8 @@ teakstaoassi	tekstiosa	+?	+?
 eananoassi	maanosa	N	N
 váldooassi	valtaosa	N	N
 jahkečuohti	vuosisata	N	N
-alimusriekti	korkein oikeus	N	+?
-álbmotriekti	kansanoikeus	N	+?
+alimusriekti	korkein oikeus	N	N
+álbmotriekti	kansanoikeus	N	N
 oassálasti	osallistuja	N	N
 sihkkarasti	vahvistaa	N	V
 sávahahtti	toivottu	A	A& N
@@ -460,22 +460,22 @@ ektui	ehdolla	Po	+?
 válgabeaivi	vaalipäivä	N	N
 árgabeaivi	arkipäivä	N	N
 leavgabeaivi	liputuspäivä	N	N
-riikkasearvi	maanjärjestö	N	+?
+riikkasearvi	maanjärjestö	N	N
 davvi	pohjoinen	N	A& N
-skovvi	lomake	N	+?
+skovvi	lomake	N	N
 sadjái	sijaan	Po	+?
 rádjái	asti	Adv|Po	Po& Pcle
 dađi	sitä	CS|Adv	Adv& Pcle
 ráđđi	neuvo& neuvosto	N	N
-giellaráđđi	kielineuvosto	N	+?
+giellaráđđi	kielineuvosto	N	N
 stáhtaráđđi	ministeri	N	N
-dutkanráđđi	tutkimusneuvosto	N	+?
+dutkanráđđi	tutkimusneuvosto	N	N
 girkoráđđi	kirkkoneuvosto	N	N
-kulturráđđi	kulttuurineuvosto	N	+?
-ovttasráđđi	yhteisneuvo	N	+?
-oahpahusráđđi	opetusneuvosto	N	+?
-eamiálbmotášši	alkuperäiskansa-asia	N	+?
-álgoálbmotášši	alkuperäiskansa-asia	N	+?
+kulturráđđi	kulttuurineuvosto	N	N
+ovttasráđđi	yhteisneuvo	N	N
+oahpahusráđđi	opetusneuvosto	N	N
+eamiálbmotášši	alkuperäiskansa-asia	N	N
+álgoálbmotášši	alkuperäiskansa-asia	N	N
 dal	nyt	Adv	Pcle
 artihkal	artikkeli	N	N
 gaskal	keskellä	Adv|Pr|Po	Adv
@@ -484,7 +484,7 @@ kapihttal	kappale	+?	N
 sámegiel	saamenkielinen	A	A
 vuollel	alla	Adv|Pr|Po	Adv& Po
 váldoulbmil	päämäärä	N	N
-kulturulbmil	kulttuuritavoite	N	+?
+kulturulbmil	kulttuuritavoite	N	N
 ovttaoaivil	yhteisymmärrys& yhteinen kanta	+?	N
 maŋŋil	jälkeen	+?	Adv& Po
 vuođul	perusteella	Po	Po
@@ -492,7 +492,7 @@ forum	foorumi	N	N
 ohcan	hakemus	N	N
 gulaskuddan	kuulustelu	N	N
 rievdan	muutos	N	N
-dálkkádatrievdan	ilmastomuutos	N	+?
+dálkkádatrievdan	ilmastomuutos	N	N
 ovdan	eteen	Adv	Adv& Po
 lágan	sellainen	A	A
 earalágan	erilainen	Adv	A
@@ -501,8 +501,8 @@ ovttalágan	samanlainen	A	A
 earálágan	erilainen	A|Adv	A
 lohkan	lukeminen	N	N
 gaskan	puolivalmis	Adv|Pr|Po|N	N
-iskan	koe	N	+?
-dutkan	tutkinto, tutkimus	N	+?
+iskan	koe	N	N
+dutkan	tutkinto, tutkimus	N	N
 bagadallan	ohjaus	N	N
 šiehtadallan	neuvottelu	N	N
 guorahallan	selvitys	N	N
@@ -527,17 +527,17 @@ hábmen	muotoilu	N	N
 eksámen	tentti	N	N
 plánen	suunnittelu	N	N
 investeren	investointi	N	N
-huksen	rakentaminen	N	+?
-kárten	kartoittaminen	N	+?
-birasgáhtten	ympäristösuojelu	N	+?
+huksen	rakentaminen	N	N
+kárten	kartoittaminen	N	N
+birasgáhtten	ympäristösuojelu	N	N
 sirdin	siirto	N	N
 vuovdin	myynti	N	N
 dainnalágiin	sillä tavalla	Adv	+?
 oarjin	lännessä	Adv	+?
-juohkin	jako	N	+?
+juohkin	jako	N	N
 diehtojuohkin	tiedotus	N	N
 jahkečoahkkin	vuosikokous	N	N
-girkočoahkkin	kirkkokokous	N	+?
+girkočoahkkin	kirkkokokous	N	N
 dievasčoahkkin	täysistunto	N	N
 ollesčoahkkin	täysistunto	N	N
 eallin	elämä	N	N
@@ -551,14 +551,14 @@ muhtin	muutama	Pron	Pron
 ovdanbuktin	esitys	N	N
 oastin	osto	N	N
 sihkkarastin	varmistus	N	N
-dáruiduhttin	norjalaistuminen	N	+?
+dáruiduhttin	norjalaistuminen	N	N
 davvin	pohjoisessa	Adv	+?
 miljon	miljoona	+?	Num& N
 dulkon	tulkkaus	N	N
 dálon	talollinen	N	A& N
 rihkkun	pilkku	N	N
-geasseguohtun	kesälaidun	N	+?
-dálveguohtun	talvilaidun	N	+?
+geasseguohtun	kesälaidun	N	N
+dálveguohtun	talvilaidun	N	N
 veadjemeahttun	mahdoton	A	+?
 sorjjasmeahttun	riippumaton	A	+?
 dárbbašmeahttun	tarpeeton	A	+?
@@ -576,8 +576,8 @@ vuođđo	perusta	N	N
 sihkar	varma	A	A
 registtar	rekisteri	N	N
 finánsaministtar	talousministeri	N	N
-sámeministtar	saameministeri	N	+?
-riddoministtar	rannikkoministeri	N	+?
+sámeministtar	saameministeri	N	N
+riddoministtar	rannikkoministeri	N	N
 guovloministtar	alueministeri	N	N
 kulturministtar	kulttuuriministeri	N	N
 suodjalusministtar	puolustusministeri	N	N
@@ -587,15 +587,15 @@ buhtadas	korvaus	N	N
 olgguldas	ulkoinen	A|N	A
 siskkáldas	sisäinen	A	A
 lagas	läheinen	A|N	A
-evttohas	ehdokas	N	+?
+evttohas	ehdokas	N	N
 mielas	mielestä	Adv|Po	Adv& Po
 diehttelas	tietysti	A|Adv	Adv& Pcle
 sierranas	erikseen	A	Adv
 biras	ympäristö	N	N
-fágabiras	ammattipiiri	N	+?
+fágabiras	ammattipiiri	N	N
 dutkanbiras	tutkimusalue	N	N
-kulturbiras	kulttuuripiiri	N	+?
-várreáirras	varaedustaja	N	+?
+kulturbiras	kulttuuripiiri	N	N
+várreáirras	varaedustaja	N	N
 duođas	todellinen	Adv	A
 beales	puolella	Po	+?
 soames	muutama	Pron	Pron
@@ -607,25 +607,25 @@ rievdadus	muutos	N	N
 láhkarievdadus	lakimuutos	N	N
 bagadus	ohje	N	N
 čielggadus	selitys	N	N
-giellanjuolggadus	kielisääntö	N	+?
+giellanjuolggadus	kielisääntö	N	N
 váldonjuolggadus	pääsääntö	N	N
 šiehtadus	sopimus	N	N
-váldošiehtadus	pääsopimus	N	+?
+váldošiehtadus	pääsopimus	N	N
 ovttasbargošiehtadus	yhteistyösopimus	N	N
-boazodoallošiehtadus	poronhoitosopimus	N	+?
+boazodoallošiehtadus	poronhoitosopimus	N	N
 buhtadus	korvaus	N	N
 gielddus	kielto	A|N	N
-mielddus	liite	N	+?
+mielddus	liite	N	N
 vuođđudus	säätiö	N	N
 lágádus	kustantamo	N	N
 čoahkádus	koostumus	+?	N
 eahpádus	epäily	N	N
 lohpádus	lupaus	N	N
 mearrádus	määräys	N	N
-láhkamearrádus	lakipäätös	N	+?
+láhkamearrádus	lakipäätös	N	N
 ovddasvástádus	vastuu	N	N
 hálddašanovddasvástádus	hallintovastuu	+?	+?
-boazodoallohálddahus	poronhoitohallinto	N	+?
+boazodoallohálddahus	poronhoitohallinto	N	N
 doaimmahus	toimitus	N	N
 joatkkaoahpahus	jatkokoulutus	N	N
 vuođđooahpahus	perusopetus	N	N
@@ -637,29 +637,29 @@ vásihus	kokemus	N	N
 erohus	ero	N	N
 evttohus	ehdotus	N	N
 láhkaevttohus	lakiehdotus	N	N
-listaevttohus	listaehdokas	N	+?
+listaevttohus	listaehdokas	N	N
 mearrádusevttohus	päätösehdotus	N	N
 váikkuhus	vaikutus	N	N
 eavttuhus	ehdotus	N	N
 ávžžuhus	kehotus	N	N
 mátkeealáhus	matkailuelinkeino	N	N
-boazoealáhus	poroelinkeino	N	+?
-vuođđoealáhus	peruselinkeino	N	+?
+boazoealáhus	poroelinkeino	N	N
+vuođđoealáhus	peruselinkeino	N	N
 lasáhus	lisäys	N	N
 vásáhus	elämys	N	N
-dieđáhus	tiedote	N	+?
-preassadieđáhus	lehdistötiedote	N	+?
-stuorradiggedieđáhus	hallituksen selonteko eduskunnalle	N	+?
+dieđáhus	tiedote	N	N
+preassadieđáhus	lehdistötiedote	N	N
+stuorradiggedieđáhus	hallituksen selonteko eduskunnalle	N	N
 jahkedieđáhus	vuosikertomus	N	N
 jus	jos	CS	CC
 váidalus	valitus	N	N
 mánáidsuodjalus	lastensuojelu	N	N
 hástalus	haaste	N	N
-váldohástalus	päähaaste	N	+?
+váldohástalus	päähaaste	N	N
 bálvalus	palvelu	N	N
 sosiálabálvalus	sosiaalipalvelu	N	N
 dearvvašvuođabálvalus	terveyspalvelu	N	N
-dulkonbálvalus	tulkkipalvelu	N	+?
+dulkonbálvalus	tulkkipalvelu	N	N
 láhkaárvalus	lakiehdotus	N	N
 maŋemus	viimeinen	Adv	A
 oainnus	näkyvä	A|N	A
@@ -667,12 +667,12 @@ oainnus	näköala	A|N	N
 stáhtus	status	N	N
 ovddastus	edustus	N	N
 ođastus	uudistus	N	N
-museaođastus	museouudistus	N	+?
+museaođastus	museouudistus	N	N
 vuođustus	perusta	N	N
 guolástus	kalastus	N	N
 nuppástus	muutos	N	N
 julggaštus	julistus	N	N
-eamiálbmotjulggaštus	alkuperäiskansajulistus	N	+?
+eamiálbmotjulggaštus	alkuperäiskansajulistus	N	N
 álgoálbmotjulggaštus	alkuperäiskansajulistus	+?	+?
 beroštus	huoli& kiinnostus	N	N
 ráŋggáštus	rangaistus	N	N
@@ -682,22 +682,22 @@ várás	takia	Adv|Po	Adv& Po
 eanadat	maasto	N	N
 ovttadat	yksikkö	N	N
 doalloovttadat	toimintayksikkö	N	N
-mánáidgárdefálaldat	lastentarhatarjonta	N	+?
-oahppofálaldat	opetustarjonta	N	+?
-bálvalusfálaldat	palvelutarjonta	N	+?
+mánáidgárdefálaldat	lastentarhatarjonta	N	N
+oahppofálaldat	opetustarjonta	N	N
+bálvalusfálaldat	palvelutarjonta	N	N
 viidodat	pinta-ala	N	N
 riggodat	rikkaus	N	N
-luondduriggodat	luonnonresurssi	N	+?
+luondduriggodat	luonnonresurssi	N	N
 válgaáigodat	vaalikausi	N	N
 bargiidbellodat	työväenpuolue	N	N
 opmodat	omistus	N	N
 sturrodat	suuruus	N	N
-oahpahusossodat	opetusosasto	N	+?
+oahpahusossodat	opetusosasto	N	N
 servodat	yhteiskunta	N	N
 rievdat	muuttaa& muuntaa	V	V
 dálkkádat	ilmasto	N	N
 fierpmádat	verkosto	N	N
-avádat	vyöhyke	N	+?
+avádat	vyöhyke	N	N
 čázádat	vesistö	N	N
 viggat	yrittää, pyrkiä	V	+?
 mealgat	melko	Adv|A	Pcle
@@ -721,8 +721,8 @@ digaštallat	keskustella	V	V
 digáštallat	keskustella	V	V
 biebmat	ruokia	V	+?
 ilbmat	toimeentulo	V	N
-guohtumat	laidunresurssit	N	+?
-dálveguohtumat	talvilaidun	N	+?
+guohtumat	laidunresurssit	N	N
+dálveguohtumat	talvilaidun	N	N
 soahpat	sopia	V	V
 siskkáldasat	sisäisesti	Adv	Adv
 juksat	taas	V	Pcle
@@ -763,7 +763,7 @@ goiket	kuivata	V	V
 čohkket	kerätä	V	V
 vurket	säilytä	V	+?
 hábmet	hahmota	V	+?
-stipeandaortnet	stipendijärjestelmä	N	+?
+stipeandaortnet	stipendijärjestelmä	N	N
 válgaortnet	vaalijärjestelmä	N	N
 doarjjaortnet	tukijärjestelmä	N	N
 hálddašanortnet	hallintojärjestelmä	N	N
@@ -931,7 +931,7 @@ máinnašit	mainonta	V	N
 fuomášit	huomata	V	V
 earenoamážit	erityisesti	Adv	Adv& Pcle
 dárkot	tarkistaa	V	V
-sámeálbmot	saamenkansa	N	+?
+sámeálbmot	saamenkansa	N	N
 dárkileappot	tarkempi	Adv	+?
 viidáseappot	edelleen& eteenpäin	Adv	Adv
 rahppot	avautua	V	V
@@ -952,43 +952,43 @@ soalddát	sotilas	N	N
 eaiggát	omistaja	N	N
 eanaeaiggát	maanomistaja	N	N
 eananeaiggát	maanomistaja	N	N
-boazoeaiggát	poronomistaja	N	+?
+boazoeaiggát	poronomistaja	N	N
 vahát	vahinko	N	N
 oalát	täydellinen	Adv	A
 deaddu	paino	N	N
 riddu	rannikko	N	N
-miellaguoddu	mielipide& asenne	N	+?
+miellaguoddu	mielipide& asenne	N	N
 muddu	vaihe	N	N
 olámuddu	ulottuvuus	N	N
 reaidu	työkalu	N	N
 neahttasiidu	nettisivu	N	N
-gáldu	lähde	N	+?
+gáldu	lähde	N	N
 bággu	pakko	N	N
 nággu	riita	N	N
 viessoláigu	vuokra	N	N
 čálgu	viihtyvyys& hyvinvointi	N	N
 ovdabargu	esityö	N	N
-láhkabargu	lakityö	N	+?
-giellabargu	kielityöntekijä	N	+?
+láhkabargu	lakityö	N	N
+giellabargu	kielityöntekijä	N	N
 plánabargu	suunnittelutyö	N	N
 ovddidanbargu	yhteistyö	N	N
 ovdánahttinbargu	kehitystyö	N	N
-dásseárvobargu	tasa-arvotyö	N	+?
+dásseárvobargu	tasa-arvotyö	N	N
 ovttasbargu	yhteistyö	N	N
-doaibmabidju	toimenpide	N	+?
+doaibmabidju	toimenpide	N	N
 báhčinšillju	ampumarata	N	N
-dahku	teko	N	+?
+dahku	teko	N	N
 lohku	luku	N	N
-boazolohku	poroluku& poromäärä	N	+?
+boazolohku	poroluku& poromäärä	N	N
 eanetlohku	enemmistö	N	N
 unnitlohku	vähemmistö	N	N
 olmmošlohku	asukasluku	N	N
-juohku	jako	N	+?
+juohku	jako	N	N
 vuosteháhku	vastustus	N	N
 sáhkku	sakko	N	N
-referánsajoavku	referenssiryhmä	N	+?
-sámediggejoavku	saamelaiskäräjien joukko	N	+?
-ulbmiljoavku	tavoiteryhmä	N	+?
+referánsajoavku	referenssiryhmä	N	N
+sámediggejoavku	saamelaiskäräjien joukko	N	N
+ulbmiljoavku	tavoiteryhmä	N	N
 bargojoavku	työryhmä	N	N
 álbmotjoavku	kansakunta	N	N
 doallu	toimintayksikkö	N	N
@@ -996,42 +996,42 @@ eanadoallu	maanviljely	N	N
 sisdoallu	sisältö	N	N
 rehketdoallu	tilinpito	N	N
 gollu	kulu	N	A& N
-doaibmagollu	toimikulu	N	+?
+doaibmagollu	toimikulu	N	N
 duopmostuollu	tuomioistuin	N	N
 olu	paljon	Adv|A	Adv
 giellaguovlu	kielialue	+?	N
 doaibmaguovlu	toiminta-alue	N	N
-vuotnaguovlu	vuonoalue	N	+?
+vuotnaguovlu	vuonoalue	N	N
 mearraguovlu	merialue	N	N
 sámeguovlu	saamen alue	+?	+?
-davviguovlu	pohjoinen alue	N	+?
+davviguovlu	pohjoinen alue	N	N
 hálddahanguovlu	hallintoalue	+?	N
 hálddašanguovlu	hallintoalue	N	N
-báhčinguovlu	ampuma-alue	N	+?
+báhčinguovlu	ampuma-alue	N	N
 guohtunguovlu	laidunalue	N	N
 riddoguovlu	rannikkoseutu	N	N
 boazodoalloguovlu	paliskunta& poronhoitoalue	N	N
 duopmu	tuomio	N	N
 váikkuhanfápmu	vaikutusvalta	N	N
-oaidnu	mielipide	N	+?
+oaidnu	mielipide	N	N
 ruvdnu	kruunu	N	N
 atnu	käyttö	N	N
 joatkkaoahppu	jatkokoulutus	N	N
-oahpaheaddjeoahppu	opettajanopetus	N	+?
-dárru	norjan kieli	N	+?
+oahpaheaddjeoahppu	opettajanopetus	N	N
+dárru	norjan kieli	N	N
 fárru	seurue	N	N
 máksu	maksu	N	N
 čoahkkáigeassu	yhteenveto	N	N
 sisaboahtu	ansio	N	N
-árbediehtu	perinnetieto	N	+?
+árbediehtu	perinnetieto	N	N
 vuoitu	voitto	N	N
 eaktu	ehto	N	N
 molssaeaktu	vaihtoehto	N	N
 beaktu	teho	N	N
-reantu	korko	N	+?
+reantu	korko	N	N
 áššelistu	asialista	N	N
 lahttu	jäsen	N	N
-stivralahttu	johtokunnan jäsen	N	+?
+stivralahttu	johtokunnan jäsen	N	N
 várrelahttu	varajäsen	N	N
 miellahttu	jäsen	N	N
 lihttu	liito	N	N
@@ -1161,14 +1161,14 @@ vuordámuš	odotus	N	N
 cealkámuš	lausunto	N	N
 luohttámuš	luottamus	N	N
 njunuš	kärki	N	N
-filbmaguovddáš	elokuvakeskus	N	+?
-preassaguovddáš	lehdistökeskus	N	+?
-gelbbolašvuođaguovddáš	kompetenssikeskus	N	+?
-gealboguovddáš	kompetenssikeskus	N	+?
+filbmaguovddáš	elokuvakeskus	N	N
+preassaguovddáš	lehdistökeskus	N	N
+gelbbolašvuođaguovddáš	kompetenssikeskus	N	N
+gealboguovddáš	kompetenssikeskus	N	N
 kulturguovddáš	kulttuurikeskus	N	N
 duogáš	tausta	N	N
 veaháš	vähän	Adv|Pron	Adv& Pcle
 dáláš	nykyaikainen	A|N	A
 earenoamáš	erinomainen	+?	A
 erenoamáš	erikoinen	Adv|A	A
-otnáš	tämänpäivän	A	+?
+otnáš	tämänpäivän	A	A
