@@ -15,9 +15,9 @@ foanda	rahasto	N	N
 ovddidanfoanda	kehitysrahasto	N	N
 kulturfoanda	kulttuurirahasto	N	N
 metoda	metodi	N	N
-čearda	laji&	N	N
+čearda	laji	N	N
 standárda	standardi	N	N
-miljárda	miljardi	Num	Num& N
+miljárda	miljardi	Num	Num
 stáda	valtio	N	N
 dáiddamusea	taidemuseo	N	N
 paragráfa	pykälä	N	N
@@ -42,7 +42,7 @@ teknologiija	teknologia	N	N
 energiija	energia	N	N
 ekonomiija	talous	N	N
 kopiija	moniste	N	N
-friija	vapaa	A	A& N
+friija	vapaa	A	A
 demokratiija	demokratia	N	N
 doaibmadoarjja	toimeentulotuki	N	N
 ruhtadoarjja	rahatuki	N	N
@@ -84,7 +84,7 @@ ovdamearka	esimerkki	N	N
 dovdomearka	tuntomerkki	N	N
 mobiila	kännykkä& matkapuhelin	A	N
 homofiila	homofiili	N	N
-siviila	siviili	A	A& N
+siviila	siviili	A	A
 tabealla	taulukko	N	N
 modealla	malli	N	N
 oarjelsámegiella	länsisaame	N	N
@@ -123,7 +123,7 @@ turisma	turismi	N	N
 kveana	kveeni	N	N
 rutiidna	rutiini	N	N
 regiovdna	alue	N	N
-miljovdna	miljoona	Num	Num& N
+miljovdna	miljoona	Num	Num
 elektrovdna	elektroni	N	N
 regiuvdna	alue	N	N
 delegašuvdna	valtakunta	N	N
@@ -282,7 +282,7 @@ badjebáza	ylijäämä	N	N
 badjelbáza	ylijäämä	N	N
 ruoŧa	ruotsalainen	A	A
 ruoŧŧa	ruotsalainen	N	A
-muđuid	muuten	Adv	Adv& Pcle& Interj
+muđuid	muuten	Adv	Adv
 omd	esimerkiksi	Adv	Adv
 geardde	kerran	Adv	Adv
 ovddabealde	etupuolella	Adv	Adv
@@ -297,7 +297,7 @@ guhtege	jokainen	Pron	Pron
 almmatge	kuitenkin	Adv	Pcle
 dattetge	kuitenkin	Adv	Pcle
 goabbáge	kumpikin	Pron	Pron
-dehe	tai	CC	CC& N
+dehe	tai	CC	CC
 die	tuolla	Adv	Adv
 ládje	tavalla	Po	Adv
 seammaládje	samanlainen	A	A
@@ -311,7 +311,7 @@ fuolaheapme	välinpitämätön	A	A
 biire	piiri& paliskunta	N	N
 válgabiire	vaalipiiri	N	N
 goasse	koskaan	Adv	Adv
-dihte	takia	Po	Adv& Po
+dihte	takia	Po	Po
 bakte	kautta	Po	Po
 bokte	kautta	Po	Po
 dakkaviđe	heti	Adv	Adv
@@ -365,7 +365,7 @@ dassážii	siihen asti	Adv	Adv
 dássážii	tähän asti	Adv	Adv
 mearrideaddji	määräävä	A	A
 geavaheaddji	käyttäjä	N	N
-gustojeaddji	kelvollinen&	A	A
+gustojeaddji	kelvollinen	A	A
 ovddasteaddji	edustaja	A	N
 berošteaddji	kiinnostunut	A	A
 riikarádji	valtionraja	N	N
@@ -382,7 +382,7 @@ láhki	tapa	N	N
 hearki	herkkä	A	A
 riddodorski	rannikkoturska	N	N
 lávki	sipuli	N	N
-beali	puoli	Po	Pcle& N
+beali	puoli	Po	N
 sohkabealli	sukupuoli	N	N
 boazodoalli	poronhoito	N	N
 eallindilli	elämäntilanne	N	N
@@ -457,7 +457,7 @@ válgabeaivi	vaalipäivä	N	N
 árgabeaivi	arkipäivä	N	N
 leavgabeaivi	liputuspäivä	N	N
 riikkasearvi	maanjärjestö	N	N
-davvi	pohjoinen	N	A& N
+davvi	pohjoinen	N	N
 skovvi	lomake	N	N
 sadjái	sijaan	Po	Po
 rádjái	asti	Po	Po
@@ -488,7 +488,7 @@ ohcan	hakemus	N	N
 gulaskuddan	kuulustelu	N	N
 rievdan	muutos	N	N
 dálkkádatrievdan	ilmastomuutos	N	N
-ovdan	eteen	Adv	Adv& Po
+ovdan	eteen	Adv	Adv
 lágan	sellainen	A	A
 earalágan	erilainen	Adv	A
 sierralágan	erilainen	A	A
@@ -506,7 +506,7 @@ ságastallan	keskustelu& vuoropuhelu	N	N
 digaštallan	väittely& keskustelu	N	N
 árvvoštallan	arviointi	N	N
 valáštallan	urheilu	N	N
-man	kuinka	Adv	Adv& Pron
+man	kuinka	Adv	Adv
 eanan	maa	N	N
 stáhtaeanan	valtionmaa	N	N
 guohtuneanan	laidunalue	N	N
@@ -515,7 +515,7 @@ beassan	pääsy	N	N
 oktan	yhdessä	Adv	Adv
 nuortan	idässä	Adv	Adv
 njuovvan	teurastus	N	N
-vuohččan	ensimmäinen	Adv	Num& N
+vuohččan	ensimmäinen	Adv	Num
 válljen	valinta	N	N
 merken	merkintä	N	N
 hábmen	muotoilu	N	N
@@ -550,7 +550,7 @@ dáruiduhttin	norjalaistuminen	N	N
 davvin	pohjoisessa	Adv	Adv
 miljon	miljoona	N	N
 dulkon	tulkkaus	N	N
-dálon	talollinen	N	A& N
+dálon	talollinen	N	N
 rihkkun	pilkku	N	N
 geasseguohtun	kesälaidun	N	N
 dálveguohtun	talvilaidun	N	N
@@ -559,10 +559,10 @@ sorjjasmeahttun	riippumaton	A	A
 dárbbašmeahttun	tarpeeton	A	A
 gohččun	kutsu	N	N
 dikšun	hoito	N	N
-aiddo	juuri	Adv	Pcle& N
+aiddo	juuri	Adv	Pcle
 dego	kuten	CS	Pcle
 báljo	paljon	Adv	Adv
-dakko	siinä	Adv	Adv& Pcle
+dakko	siinä	Adv	Adv
 dákko	täällä	Adv	Adv
 kruvdno	kruunu	N	N
 konto	tili	N	N
@@ -801,7 +801,7 @@ viiddidit	laajentaa	V	V
 ovddidit	edistää	V	V
 bajidit	nostaa	V	V
 guhkidit	pidentää	V	V
-dáhkidit	taata	V	N& V
+dáhkidit	taata	V	V
 vuolidit	alentaa	V	V
 unnidit	vähentää	V	V
 eahpidit	epäillä	V	V
@@ -921,7 +921,7 @@ hálddašit	hallita	V	V
 máinnašit	mainonta	V	N
 šállošit	valittaa	V	V
 fuomášit	huomata	V	V
-earenoamážit	erityisesti	Adv	Adv& Pcle
+earenoamážit	erityisesti	Adv	Adv
 dárkot	tarkistaa	V	V
 sámeálbmot	saamenkansa	N	N
 dárkileappot	tarkempi	Adv	A
@@ -987,7 +987,7 @@ doallu	toimintayksikkö	N	N
 eanadoallu	maanviljely	N	N
 sisdoallu	sisältö	N	N
 rehketdoallu	tilinpito	N	N
-gollu	kulu	N	A& N
+gollu	kulu	N	N
 doaibmagollu	toimikulu	N	N
 duopmostuollu	tuomioistuin	N	N
 olu	paljon	Adv	Adv
