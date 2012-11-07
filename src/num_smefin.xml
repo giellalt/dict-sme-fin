@@ -193,21 +193,21 @@
   </e>
   <e>
     <lg>
-      <l pos="Num">miljárda</l>
+      <l pos="num">miljárda</l>
     </lg>
     <mg>
       <tg>
-        <t pos="Num">miljardi</t>
+        <t pos="num">miljardi</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="Num">miljovdna</l>
+      <l pos="num">miljovdna</l>
     </lg>
     <mg>
       <tg>
-        <t pos="Num">miljoona</t>
+        <t pos="num">miljoona</t>
       </tg>
     </mg>
   </e>

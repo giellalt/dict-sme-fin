@@ -128,21 +128,21 @@
   </e>
   <e>
     <lg>
-      <l pos="CS">dego</l>
+      <l pos="cs">dego</l>
     </lg>
     <mg>
       <tg>
-        <t pos="Pcle">kuten</t>
+        <t pos="pcle">kuten</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="CS">jus</l>
+      <l pos="cs">jus</l>
     </lg>
     <mg>
       <tg>
-        <t pos="CC">jos</t>
+        <t pos="cs">jos</t>
       </tg>
     </mg>
   </e>

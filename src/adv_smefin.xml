@@ -5881,7 +5881,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="Pcle">melko</t>
+        <t pos="pcle">melko</t>
       </tg>
     </mg>
   </e>
@@ -5911,7 +5911,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">selkeä</t>
+        <t pos="a">selkeä</t>
       </tg>
     </mg>
   </e>
@@ -5921,7 +5921,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">suora</t>
+        <t pos="a">suora</t>
       </tg>
     </mg>
   </e>
@@ -5931,7 +5931,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">yhteinen</t>
+        <t pos="a">yhteinen</t>
       </tg>
     </mg>
   </e>
@@ -6041,7 +6041,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="Pcle">kuitenkin</t>
+        <t pos="pcle">kuitenkin</t>
       </tg>
     </mg>
   </e>
@@ -6051,7 +6051,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="Pcle">kuitenkin</t>
+        <t pos="pcle">kuitenkin</t>
       </tg>
     </mg>
   </e>
@@ -6181,7 +6181,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">lähempi</t>
+        <t pos="a">lähempi</t>
       </tg>
     </mg>
   </e>
@@ -6211,7 +6211,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="Pcle">nyt</t>
+        <t pos="pcle">nyt</t>
       </tg>
     </mg>
   </e>
@@ -6241,7 +6241,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">erilainen</t>
+        <t pos="a">erilainen</t>
       </tg>
     </mg>
   </e>
@@ -6281,7 +6281,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="Num">ensimmäinen</t>
+        <t pos="num">ensimmäinen</t>
       </tg>
     </mg>
   </e>
@@ -6321,7 +6321,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="Pcle">juuri</t>
+        <t pos="pcle">juuri</t>
       </tg>
     </mg>
   </e>
@@ -6381,7 +6381,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">todellinen</t>
+        <t pos="a">todellinen</t>
       </tg>
     </mg>
   </e>
@@ -6401,7 +6401,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">viimeinen</t>
+        <t pos="a">viimeinen</t>
       </tg>
     </mg>
   </e>
@@ -6421,7 +6421,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="Pcle">melko</t>
+        <t pos="pcle">melko</t>
       </tg>
     </mg>
   </e>
@@ -6511,7 +6511,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">kelvollinen</t>
+        <t pos="a">kelvollinen</t>
       </tg>
     </mg>
   </e>
@@ -6561,7 +6561,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">helppo</t>
+        <t pos="a">helppo</t>
       </tg>
     </mg>
   </e>
@@ -6571,7 +6571,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">täydellinen</t>
+        <t pos="a">täydellinen</t>
       </tg>
     </mg>
   </e>
@@ -6591,7 +6591,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">tarkempi</t>
+        <t pos="adv">tarkemmin</t>
       </tg>
     </mg>
   </e>
@@ -6601,7 +6601,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="V">parantaa</t>
+        <t pos="adv">paremmin</t>
       </tg>
     </mg>
   </e>
@@ -6631,7 +6631,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">täydellinen</t>
+        <t pos="a">täydellinen</t>
       </tg>
     </mg>
   </e>
@@ -6651,7 +6651,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="Pcle">melko</t>
+        <t pos="pcle">melko</t>
       </tg>
     </mg>
   </e>

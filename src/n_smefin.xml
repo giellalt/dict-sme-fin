@@ -45585,7 +45585,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="V">syyttää</t>
+        <t pos="n">syytös</t>
       </tg>
     </mg>
   </e>
@@ -45945,7 +45945,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="V">kariutua</t>
+        <t pos="n">perustuki</t>
       </tg>
     </mg>
   </e>
@@ -46541,16 +46541,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">suopma</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="A">suomalainen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">turisma</l>
     </lg>
     <mg>
@@ -46885,7 +46875,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">sotilaallinen</t>
+        <t pos="n">sotilas</t>
       </tg>
     </mg>
   </e>
@@ -48011,16 +48001,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">ruoŧŧa</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="A">ruotsalainen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">bealle</l>
     </lg>
     <mg>
@@ -48046,16 +48026,6 @@
     <mg>
       <tg>
         <t pos="n">sukupuoli</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">olle</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="Pron">kaikki</t>
       </tg>
     </mg>
   </e>
@@ -49156,16 +49126,6 @@
     <mg>
       <tg>
         <t pos="n">osallistuja</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">sihkkarasti</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="V">vahvistaa</t>
       </tg>
     </mg>
   </e>
@@ -51041,16 +51001,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">geavat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="V">käyttää</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">stipeandaortnet</l>
     </lg>
     <mg>
@@ -52065,7 +52015,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">aikuinen</t>
+        <t pos="n">aikuinen</t>
       </tg>
     </mg>
   </e>
@@ -52410,7 +52360,9 @@
     </mg>
   </e>
   <e>
-    <l pos="n">mobiila</l>
+    <lg>
+      <l pos="n">mobiila</l>
+    </lg>
     <mg>
       <tg>
         <t pos="n">kännykkä</t>

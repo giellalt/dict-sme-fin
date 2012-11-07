@@ -32565,7 +32565,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">toimeentulo</t>
+        <t pos="v">ilmestyä</t>
       </tg>
     </mg>
   </e>
@@ -32585,7 +32585,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="Pcle">taas</t>
+        <t pos="v">saada kiini</t>
       </tg>
     </mg>
   </e>
@@ -33075,7 +33075,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">sopimus</t>
+        <t pos="v">sopia</t>
       </tg>
     </mg>
   </e>
@@ -33275,7 +33275,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">valitus</t>
+        <t pos="v">valittaa</t>
       </tg>
     </mg>
   </e>
@@ -34075,7 +34075,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">kunnia</t>
+        <t pos="v">kunnioittaa</t>
       </tg>
     </mg>
   </e>
@@ -34275,7 +34275,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">mainonta</t>
+        <t pos="v">kehua</t>
       </tg>
     </mg>
   </e>
