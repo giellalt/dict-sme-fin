@@ -194,6 +194,7 @@
   <e>
     <lg>
       <l pos="Num">miljárda</l>
+    </lg>
     <mg>
       <tg>
         <t pos="Num">miljardi</t>
@@ -203,6 +204,7 @@
   <e>
     <lg>
       <l pos="Num">miljovdna</l>
+    </lg>
     <mg>
       <tg>
         <t pos="Num">miljoona</t>
