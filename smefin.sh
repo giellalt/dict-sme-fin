@@ -7,7 +7,14 @@
 # Kommando for å lage smefin.fst
 echo "LEXICON Root" > bin/smefin.lexc
 cat src/*_smefin.xml | tr '\n' '™' | sed 's/<e>/£/g;'| tr '£' '\n'| sed 's/<re>[^>]*>//g;'|tr '<' '>'| cut -d">" -f5,15| tr ' ' '_'| tr '>' ':'| grep -v '__'|sed 's/$/ # ;/g' >> bin/smefin.lexc
-xfst -e "read lexc < bin/smefin.lexc"
+#xfst -e "read lexc < bin/smefin.lexc"
+
+printf "read lexc < bin/smefin.lexc \n\
+invert net \n\
+save stack bin/smefin.fst \n\
+quit \n" > tmpfile
+xfst -utf8 < tmpfile
+rm -f tmpfile
 
 # deretter i xfst:
 # invert
