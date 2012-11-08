@@ -3200,23 +3200,7 @@
     </mg>
   </e>
   <e><lg>
-    <l pos="a">addes</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">antelias</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
     <l pos="a">addi</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">antelias</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
-    <l pos="a">addálas</l>
     </lg><mg>
       <tg>
         <t pos="a">antelias</t>
@@ -3228,14 +3212,6 @@
     </lg><mg>
       <tg>
         <t pos="a">käytteliäs</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
-    <l pos="a">ahkahaš</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">ikäinen</t>
       </tg>
     </mg>
   </e>
@@ -3304,23 +3280,7 @@
     </mg>
   </e>
   <e><lg>
-    <l pos="a">abstrákta</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">abstrakti</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
     <l pos="a">addes</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">antelias</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
-    <l pos="a">addi</l>
     </lg><mg>
       <tg>
         <t pos="a">antelias</t>
@@ -3336,82 +3296,10 @@
     </mg>
   </e>
   <e><lg>
-    <l pos="a">adni</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">käytteliäs</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
     <l pos="a">ahkahaš</l>
     </lg><mg>
       <tg>
         <t pos="a">ikäinen</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
-    <l pos="a">aiddolaš</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">täsmällinen</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
-    <l pos="a">akademalaš</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">akateeminen</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
-    <l pos="a">akustihkalaš</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">akustinen</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
-    <l pos="a">alfabehtalaš</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">aakkosellinen</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
-    <l pos="a">alladávttat</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">romuluinen</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
-    <l pos="a">alladávttálaš</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">romuluinen</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
-    <l pos="a">allamielalaš</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">ylimielinen</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
-    <l pos="a">allosaš</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">korkuinen</t>
       </tg>
     </mg>
   </e>
@@ -4424,14 +4312,6 @@
     </mg>
   </e>
   <e><lg>
-    <l pos="a">dolá</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">milloinka tulevaisuudessa tai kuluvana päivänä</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
     <l pos="a">dorvvolaš</l>
     </lg><mg>
       <tg>
@@ -5331,7 +5211,7 @@
     <l pos="a">gássái</l>
     </lg><mg>
       <tg>
-        <t pos="a">lehmästä: jonka ternimaidosta saadaan runsaasti juustoa tai jolla on runsaasti ternimaitoa</t>
+        <t pos="a">lehmästä jolla on hyvä ternimaito</t>
       </tg>
     </mg>
   </e>
@@ -8310,10 +8190,7 @@
         <t pos="a">laho</t>
       </tg>
     </mg>
-  </e>
-  <e><lg>
-    <l pos="a">suosttas</l>
-    </lg><mg>
+    <mg>
       <tg>
         <t pos="a">leväperäinen</t>
       </tg>
@@ -9441,14 +9318,6 @@
   </e>
   <e><lg>
     <l pos="a">šnjalččas</l>
-    </lg><mg>
-      <tg>
-        <t pos="a">likomärkä (nahkavaatteista)</t>
-      </tg>
-    </mg>
-  </e>
-  <e><lg>
-    <l pos="a">šnjarvvas</l>
     </lg><mg>
       <tg>
         <t pos="a">likomärkä (nahkavaatteista)</t>

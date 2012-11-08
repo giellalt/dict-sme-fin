@@ -2965,16 +2965,6 @@
   </e>
   <e>
     <lg>
-      <l pos="adv">boastut</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="adv">väärin</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="adv">buhttásit</l>
     </lg>
     <mg>
@@ -3620,16 +3610,6 @@
     <mg>
       <tg>
         <t pos="adv">useammin</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="adv">eanemusat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pcle">enintään</t>
       </tg>
     </mg>
   </e>
@@ -4605,16 +4585,6 @@
   </e>
   <e>
     <lg>
-      <l pos="adv">oktan</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="adv">yhdessä</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="adv">olgul</l>
     </lg>
     <mg>
@@ -5039,16 +5009,6 @@
     </lg>
     <mg>
       <tg>
-        <t pos="adv">pienin</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="adv">uhcimus</l>
-    </lg>
-    <mg>
-      <tg>
         <t pos="adv">vähiten</t>
       </tg>
     </mg>
@@ -5415,16 +5375,6 @@
   </e>
   <e>
     <lg>
-      <l pos="adv">álohii</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="adv">aina</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="adv">ándagassii</l>
     </lg>
     <mg>
@@ -5592,6 +5542,7 @@
       <tg>
         <t pos="adv">sitä mukaa</t>
         <t pos="adv">vähitellen</t>
+        <t pos="adv">pikku hiljaa</t>
       </tg>
     </mg>
   </e>
@@ -5897,16 +5848,6 @@
   </e>
   <e>
     <lg>
-      <l pos="adv">dađistaga</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="adv">pikku hiljaa</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="adv">čielga</l>
     </lg>
     <mg>
@@ -6127,16 +6068,6 @@
   </e>
   <e>
     <lg>
-      <l pos="adv">namalassii</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="adv">nimittäin</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="adv">ovddalgihtii</l>
     </lg>
     <mg>
@@ -6202,16 +6133,6 @@
     <mg>
       <tg>
         <t pos="adv">sitä</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="adv">dal</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pcle">nyt</t>
       </tg>
     </mg>
   </e>
