@@ -57,125 +57,125 @@
       </mg>
    </e>
   <e>
-    <lg>
-      <l pos="interj">cuš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">hoi (porotokan houkutushuuto)</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="interj">cuš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">hoi (porotokan houkutushuuto)</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-    <l pos="interj">fihcce</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">hyi</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="interj">fihcce</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">hyi</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="interj">fuoi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">hyi</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="interj">fuoi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">hyi</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-    <l pos="interj">fuos</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">hus</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="interj">fuos</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">hus</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-    <l pos="interj">hei</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">ohhoh</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="interj">hei</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">ohhoh</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="interj">hoi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">hohoi</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="interj">hoi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">hohoi</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="interj">huf</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">huh</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="interj">huf</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">huh</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="interj">hyš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">hys</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="interj">hyš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">hys</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="interj">kyš kyš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">hus hus</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="interj">kyš kyš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">hus hus</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="interj">skolle</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">kippis</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="interj">skolle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">kippis</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="interj">buorat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">päivää</t>
-        <t pos="interj"> terve</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="interj">buorat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">päivää</t>
+            <t pos="interj"> terve</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="interj">dearvva</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="interj">terve</t>
-        <t pos="interj"> moi</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="interj">dearvva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="interj">terve</t>
+            <t pos="interj"> moi</t>
+         </tg>
+      </mg>
   </e>
 </r>

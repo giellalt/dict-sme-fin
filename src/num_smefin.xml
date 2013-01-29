@@ -152,63 +152,63 @@
       </mg>
    </e>
   <e>
-    <lg>
-      <l pos="num">duhát</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="num">tuhat</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="num">duhát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">tuhat</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="num">gákcilogi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="num">kahdeksankymmentä</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="num">gákcilogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">kahdeksankymmentä</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="num">čiehččalogi</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="num">seitsemänkymmentä</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="num">čiehččalogi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">seitsemänkymmentä</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="num">čuohti</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="num">sata</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="num">čuohti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">sata</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="num">miljárda</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="num">miljardi</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="num">miljárda</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">miljardi</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="num">miljovdna</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="num">miljoona</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="num">miljovdna</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">miljoona</t>
+         </tg>
+      </mg>
   </e>
 </r>

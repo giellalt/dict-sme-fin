@@ -53,98 +53,98 @@
       </mg>
    </e>
   <e>
-    <lg>
-      <l pos="pron">dokkár</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="a">tuollainen kuin tuo tuolla kaukana</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pron">dokkár</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">tuollainen kuin tuo tuolla kaukana</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pron">giige</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">kukaan</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="pron">kukin</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pron">giige</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">kukaan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron">kukin</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pron">guhtet</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">kukin</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pron">guhtet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">kukin</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pron">juobbá</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">jompikumpi</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pron">juobbá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">jompikumpi</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pron">juobbágoabbá</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">jompikumpi</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pron">juobbágoabbá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">jompikumpi</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pron">juohkehaš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">jokainen</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pron">juohkehaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">jokainen</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pron">miijai</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">mikin</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pron">miijai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">mikin</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pron">oktahat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="num">yksi ja sama</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pron">oktahat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">yksi ja sama</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pron">olugat</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">monet ihmiset</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pron">olugat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">monet ihmiset</t>
+         </tg>
+      </mg>
   </e>
 </r>

@@ -91,33 +91,33 @@
       </mg>
    </e>
   <e>
-    <lg>
-      <l pos="cc">sihke</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="cc">sekä</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="cc">sihke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">sekä</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="cc">dehe</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="cc">tai</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="cc">dehe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">tai</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="cc">vai</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="cc">vai</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="cc">vai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">vai</t>
+         </tg>
+      </mg>
   </e>
 </r>

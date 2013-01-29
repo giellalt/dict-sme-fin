@@ -55,53 +55,53 @@
       </mg>
    </e>
   <e>
-    <lg>
-      <l pos="pcle">mis</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pcle">tosiaan</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pcle">mis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pcle">tosiaan</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pcle">na</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pcle">no</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pcle">na</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pcle">no</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pcle">no</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pcle">no</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pcle">no</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pcle">no</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pcle">nuba</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pcle">niinpä</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pcle">nuba</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pcle">niinpä</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pcle">nai</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pcle">myös</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pcle">nai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pcle">myös</t>
+         </tg>
+      </mg>
   </e>
 </r>

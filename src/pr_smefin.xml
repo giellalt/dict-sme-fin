@@ -43,23 +43,23 @@
       </mg>
    </e>
   <e>
-    <lg>
-      <l pos="pr">guovdelaš</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="adv">keskellä</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pr">guovdelaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">keskellä</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="pr">earret</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="po">paitsi</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="pr">earret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">paitsi</t>
+         </tg>
+      </mg>
   </e>
 </r>

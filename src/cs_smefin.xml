@@ -97,53 +97,53 @@
       </mg>
    </e>
   <e>
-    <lg>
-      <l pos="cs">jogo ... dahje</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="cs">joko ... tai</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="cs">jogo ... dahje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">joko ... tai</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="cs">josgo</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="cc">josko</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="cs">josgo</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">josko</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="cs">váikko</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="cc">vaikka</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="cs">váikko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cc">vaikka</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="cs">dego</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pcle">kuten</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="cs">dego</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pcle">kuten</t>
+         </tg>
+      </mg>
   </e>
   <e>
-    <lg>
-      <l pos="cs">jus</l>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="cs">jos</t>
-      </tg>
-    </mg>
+      <lg>
+         <l pos="cs">jus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="cs">jos</t>
+         </tg>
+      </mg>
   </e>
 </r>
