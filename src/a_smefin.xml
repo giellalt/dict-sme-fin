@@ -409,16 +409,6 @@
    </e>
   <e>
       <lg>
-         <l pos="a">automáhtalaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">automaattinen</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="a">badjeliiluohtehahtti</l>
       </lg>
       <mg>
@@ -481,11 +471,6 @@
             <t pos="a">ylempi</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="a">bajit</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">ylä-</t>
@@ -788,16 +773,6 @@
    </e>
   <e>
       <lg>
-         <l pos="a">berošteaddji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">kiinnostunut</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="a">bibmui</l>
       </lg>
       <mg>
@@ -854,16 +829,6 @@
          <tg>
             <t pos="a">bilateraali (äänteestä)</t>
             <t pos="a">kahdenkeskinen</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="a">biologalaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">biologinen</t>
          </tg>
       </mg>
    </e>
