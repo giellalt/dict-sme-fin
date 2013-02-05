@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
+<r id="smefin" xml:lang="sme">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
-<r>
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Kotus in Helsinki,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
   <e>
       <lg>
          <l pos="a">abstrákta</l>
@@ -1439,16 +1465,6 @@
    </e>
   <e>
       <lg>
-         <l pos="a">báikkálaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">paikallinen</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="a">báitevaš</l>
       </lg>
       <mg>
@@ -1957,31 +1973,11 @@
    </e>
   <e>
       <lg>
-         <l pos="a">dievaslaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">täydellinen</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="a">dievasmeahttun</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">epätäydellinen</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="a">dieđalaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">tieteellinen</t>
          </tg>
       </mg>
    </e>
@@ -2249,15 +2245,9 @@
             <t pos="a">pätevä</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="a">dohkálaš</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">sopiva</t>
-            <t pos="a">kelvollinen</t>
          </tg>
       </mg>
    </e>
@@ -2741,16 +2731,6 @@
       <mg>
          <tg>
             <t pos="a">houkkaava</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="a">dáiddalaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">taiteellinen</t>
          </tg>
       </mg>
    </e>
@@ -3905,16 +3885,6 @@
    </e>
   <e>
       <lg>
-         <l pos="a">gelbbolaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">kelvollinen</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="a">gelddolaš</l>
       </lg>
       <mg>
@@ -4267,16 +4237,6 @@
       <mg>
          <tg>
             <t pos="a">kylmänarka ihminen</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="a">gonagaslaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">kuninkaallinen</t>
          </tg>
       </mg>
    </e>
@@ -6515,13 +6475,8 @@
             <t pos="a">luvallinen</t>
          </tg>
       </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="a">lobálaš</l>
-      </lg>
       <mg>
-         <tg>
+         <tg re="lága mielde">
             <t pos="a">laillinen</t>
          </tg>
       </mg>
@@ -8458,16 +8413,6 @@
       <mg>
          <tg>
             <t pos="a">uskovainen</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="a">otná</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">tämänpäiväinen</t>
          </tg>
       </mg>
    </e>
@@ -11861,16 +11806,6 @@
    </e>
   <e>
       <lg>
-         <l pos="a">veadjemeahttun</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">mahdoton</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="a">veagaheapme</l>
       </lg>
       <mg>
@@ -12421,17 +12356,6 @@
    </e>
   <e>
       <lg>
-         <l pos="a">vuolit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">alhainen</t>
-            <t pos="a">ala-</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="a">vuollegaš</l>
       </lg>
       <mg>
@@ -12539,16 +12463,6 @@
       <mg>
          <tg>
             <t pos="a">matala (verkosta)</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="a">vuđolaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">perusteellinen</t>
          </tg>
       </mg>
    </e>
@@ -13000,16 +12914,6 @@
    </e>
   <e>
       <lg>
-         <l pos="a">árktalaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">arktinen</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
          <l pos="a">árpmolaš</l>
       </lg>
       <mg>
@@ -13118,16 +13022,6 @@
       <mg>
          <tg>
             <t pos="a">tylsä</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="a">ávkkálaš</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">hyödyllinen</t>
          </tg>
       </mg>
    </e>
@@ -13918,3 +13812,4 @@
       </mg>
    </e>
 </r>
+

@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="sme">
-   <e>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
+<r id="smefin" xml:lang="sme">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Kotus in Helsinki,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+  <e>
       <lg>
          <l pos="po">ala</l>
       </lg>
@@ -10,7 +37,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">alde</l>
       </lg>
@@ -21,7 +48,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">aldi</l>
       </lg>
@@ -32,7 +59,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">badjel</l>
       </lg>
@@ -42,7 +69,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">badjelis</l>
       </lg>
@@ -53,7 +80,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">bajábealde</l>
       </lg>
@@ -63,7 +90,17 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l pos="po">bakte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">kautta</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
       <lg>
          <l pos="po">beal</l>
       </lg>
@@ -74,7 +111,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">bealde</l>
       </lg>
@@ -85,7 +122,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">bealdi</l>
       </lg>
@@ -96,7 +133,37 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l pos="po">beales</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">puolella</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
+      <lg>
+         <l pos="po">beali</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">puoli</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
+      <lg>
+         <l pos="po">bealis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">puolella</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
       <lg>
          <l pos="po">beallai</l>
       </lg>
@@ -106,7 +173,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">birra</l>
       </lg>
@@ -123,7 +190,17 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l pos="po">bokte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">kautta</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
       <lg>
          <l pos="po">bokti</l>
       </lg>
@@ -133,7 +210,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">bálddas</l>
       </lg>
@@ -144,7 +221,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">báldii</l>
       </lg>
@@ -154,7 +231,17 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l pos="po">dihte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">takia</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
       <lg>
          <l pos="po">dihtii</l>
       </lg>
@@ -164,7 +251,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">duohken</l>
       </lg>
@@ -175,7 +262,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">duohkái</l>
       </lg>
@@ -185,7 +272,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">dáfus</l>
       </lg>
@@ -196,7 +283,17 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l pos="po">ektui</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">ehdolla</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
       <lg>
          <l pos="po">fárus</l>
       </lg>
@@ -206,7 +303,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">gaskii</l>
       </lg>
@@ -216,7 +313,17 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l pos="po">gaskka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">kesken</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
       <lg>
          <l pos="po">gaskkas</l>
       </lg>
@@ -227,7 +334,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">geahčai</l>
       </lg>
@@ -239,7 +346,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">geahčen</l>
       </lg>
@@ -256,7 +363,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">geažes</l>
       </lg>
@@ -267,346 +374,13 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="po">geažil</l>
       </lg>
       <mg>
          <tg>
             <t pos="po">vuoksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">guoras</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">äärellä</t>
-            <t pos="po">ääreltä</t>
-            <t pos="po">ääressä</t>
-            <t pos="po">äärestä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">guovdu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">keskellä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">gurrii</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">ääreen</t>
-            <t pos="po">laitaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">lahka</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">lähellä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">luhtte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">luona</t>
-            <t pos="po">luota</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">luhtti</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">luona</t>
-            <t pos="po">luota</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">lusa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">luokse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">maŋis</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">perässä</t>
-            <t pos="po">perästä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">maŋábealde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">takana</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">maŋábealdi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">takana</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">maŋŋel</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">jälkeen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">maŋŋá</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">jälkeen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">maŋŋái</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">perään</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">miehtá</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">pitkin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">mielde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">mukana</t>
-            <t pos="po">mukaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">olggobealde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">ulkopuolella</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">olggobealdi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">ulkopuolella</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">ovddas</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">edessä</t>
-            <t pos="po">edestä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">ovdii</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">eteen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">rastá</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">poikki</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">rádjai</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">johonkin saakka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">sajis</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">sijassa</t>
-            <t pos="po">sijalla</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">sisa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">sisään</t>
-            <t pos="po">sisälle</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">siskkobealde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">sisäpuolella</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">siste</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">sisällä</t>
-            <t pos="po">sisältä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">sisti</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">sisällä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">vulobealde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">alapuolella</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">vuolde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">alla</t>
-            <t pos="po">alta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">vuollái</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">alle</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">vuostá</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">vastaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">vuođul</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">perusteella</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">čađa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">läpi</t>
          </tg>
       </mg>
    </e>
@@ -642,6 +416,60 @@
   </e>
   <e>
       <lg>
+         <l pos="po">guoras</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">äärellä</t>
+            <t pos="po">ääreltä</t>
+            <t pos="po">ääressä</t>
+            <t pos="po">äärestä</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">guovdu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">keskellä</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">gurrii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">ääreen</t>
+            <t pos="po">laitaan</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">guvlui</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">suhteen</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
+      <lg>
+         <l pos="po">haga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">ilman</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
+      <lg>
          <l pos="po">hahttá</l>
       </lg>
       <mg>
@@ -662,6 +490,16 @@
   </e>
   <e>
       <lg>
+         <l pos="po">lahka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">lähellä</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
          <l pos="po">losu</l>
       </lg>
       <mg>
@@ -672,101 +510,43 @@
   </e>
   <e>
       <lg>
-         <l pos="po">oaidnut</l>
+         <l pos="po">luhtte</l>
       </lg>
       <mg>
          <tg>
-            <t pos="po">nähden</t>
+            <t pos="po">luona</t>
+            <t pos="po">luota</t>
          </tg>
       </mg>
-  </e>
+   </e>
   <e>
       <lg>
-         <l pos="po">viiddu</l>
+         <l pos="po">luhtti</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a">laajuinen</t>
+            <t pos="po">luona</t>
+            <t pos="po">luota</t>
          </tg>
       </mg>
-  </e>
+   </e>
   <e>
       <lg>
-         <l pos="po">vuolis</l>
+         <l pos="po">lusa</l>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">enteenä</t>
+            <t pos="po">luokse</t>
          </tg>
       </mg>
-  </e>
+   </e>
   <e>
       <lg>
-         <l pos="po">várte</l>
+         <l pos="po">ládje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="po">varten</t>
-         </tg>
-      </mg>
-  </e>
-  <e>
-      <lg>
-         <l pos="po">čieŋu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">syvyinen</t>
-         </tg>
-      </mg>
-  </e>
-  <e>
-      <lg>
-         <l pos="po">haga</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">ilman</t>
-         </tg>
-      </mg>
-  </e>
-  <e>
-      <lg>
-         <l pos="po">gaskka</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">kesken</t>
-         </tg>
-      </mg>
-  </e>
-  <e>
-      <lg>
-         <l pos="po">dihte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">takia</t>
-         </tg>
-      </mg>
-  </e>
-  <e>
-      <lg>
-         <l pos="po">bakte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">kautta</t>
-         </tg>
-      </mg>
-  </e>
-  <e>
-      <lg>
-         <l pos="po">bokte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">kautta</t>
+            <t pos="adv">tavalla</t>
          </tg>
       </mg>
   </e>
@@ -782,31 +562,194 @@
   </e>
   <e>
       <lg>
-         <l pos="po">beali</l>
+         <l pos="po">maŋis</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">puoli</t>
+            <t pos="po">perässä</t>
+            <t pos="po">perästä</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">maŋábealde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">takana</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">maŋábealdi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">takana</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">maŋŋel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">jälkeen</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">maŋŋil</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">jälkeen</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="po">guvlui</l>
+         <l pos="po">maŋŋá</l>
       </lg>
       <mg>
          <tg>
-            <t pos="po">suhteen</t>
+            <t pos="po">jälkeen</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">maŋŋái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">perään</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">miehtá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">pitkin</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">mielas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">mielestä</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="po">ektui</l>
+         <l pos="po">mielde</l>
       </lg>
       <mg>
          <tg>
-            <t pos="po">ehdolla</t>
+            <t pos="po">mukana</t>
+            <t pos="po">mukaan</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">oaidnut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">nähden</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
+      <lg>
+         <l pos="po">olggobealde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">ulkopuolella</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">olggobealdi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">ulkopuolella</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">olis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">mukaan</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
+      <lg>
+         <l pos="po">ovddas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">edessä</t>
+            <t pos="po">edestä</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">ovdii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">eteen</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">rastá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">poikki</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">rádjai</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">johonkin saakka</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">rádjái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">asti</t>
          </tg>
       </mg>
   </e>
@@ -822,11 +765,95 @@
   </e>
   <e>
       <lg>
-         <l pos="po">rádjái</l>
+         <l pos="po">sajis</l>
       </lg>
       <mg>
          <tg>
-            <t pos="po">asti</t>
+            <t pos="po">sijassa</t>
+            <t pos="po">sijalla</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">sisa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">sisään</t>
+            <t pos="po">sisälle</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">siskkobealde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">sisäpuolella</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">siste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">sisällä</t>
+            <t pos="po">sisältä</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">sisti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">sisällä</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">viiddu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">laajuinen</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
+      <lg>
+         <l pos="po">vulobealde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">alapuolella</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">vuolde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">alla</t>
+            <t pos="po">alta</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">vuolis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">enteenä</t>
          </tg>
       </mg>
   </e>
@@ -842,14 +869,24 @@
   </e>
   <e>
       <lg>
-         <l pos="po">maŋŋil</l>
+         <l pos="po">vuollái</l>
       </lg>
       <mg>
          <tg>
-            <t pos="po">jälkeen</t>
+            <t pos="po">alle</t>
          </tg>
       </mg>
-  </e>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">vuostá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">vastaan</t>
+         </tg>
+      </mg>
+   </e>
   <e>
       <lg>
          <l pos="po">vuođul</l>
@@ -859,54 +896,14 @@
             <t pos="po">perusteella</t>
          </tg>
       </mg>
-  </e>
+   </e>
   <e>
       <lg>
-         <l pos="po">ládje</l>
+         <l pos="po">várte</l>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">tavalla</t>
-         </tg>
-      </mg>
-  </e>
-  <e>
-      <lg>
-         <l pos="po">mielas</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">mielestä</t>
-         </tg>
-      </mg>
-  </e>
-  <e>
-      <lg>
-         <l pos="po">beales</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="adv">puolella</t>
-         </tg>
-      </mg>
-  </e>
-  <e>
-      <lg>
-         <l pos="po">bealis</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="adv">puolella</t>
-         </tg>
-      </mg>
-  </e>
-  <e>
-      <lg>
-         <l pos="po">olis</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">mukaan</t>
+            <t pos="po">varten</t>
          </tg>
       </mg>
   </e>
@@ -917,6 +914,26 @@
       <mg>
          <tg>
             <t pos="po">takia</t>
+         </tg>
+      </mg>
+  </e>
+  <e>
+      <lg>
+         <l pos="po">čađa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">läpi</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="po">čieŋu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">syvyinen</t>
          </tg>
       </mg>
   </e>
