@@ -28330,16 +28330,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">lávki</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">sipuli</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">lávkkis</l>
       </lg>
       <mg>
@@ -30347,18 +30337,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">maksu</t>
-            <t pos="n">vastike</t>
-            <t pos="n">kosto</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">máksu</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="n">maksu</t>
+            <t pos="n">vastike</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">kosto</t>
          </tg>
       </mg>
    </e>
@@ -32647,16 +32635,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">nuorta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">itä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">nuortalaš</l>
       </lg>
       <mg>
@@ -33744,16 +33722,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">oarji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">länsi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">oarján</l>
       </lg>
       <mg>
@@ -34339,11 +34307,6 @@ For the full license text, see the link above.</lic>
             <t pos="n">omaisuus</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">opmodat</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">omistus</t>
@@ -38952,11 +38915,6 @@ For the full license text, see the link above.</lic>
             <t pos="n">rassi</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">rássa</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">rotu</t>
@@ -48104,17 +48062,11 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="n">voitto</t>
             <t pos="n">palkinto</t>
-            <t pos="n">myyntikate</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">vuoitu</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="n">voitto</t>
+            <t pos="n">myyntikate</t>
          </tg>
       </mg>
    </e>
@@ -48588,11 +48540,6 @@ For the full license text, see the link above.</lic>
             <t pos="n">arkisto</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">vuorká</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">säilö</t>
@@ -48948,14 +48895,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">perustaminen</t>
-            <t pos="n">säätiö</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">vuođđudus</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">säätiö</t>
@@ -49185,11 +49126,6 @@ For the full license text, see the link above.</lic>
             <t pos="n">syytös</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">váidda</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">valitus</t>
@@ -49485,17 +49421,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">vaali</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">válga</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">vaalit</t>
+            <t pos="n" nr="pl">vaalit</t>
          </tg>
       </mg>
       <mg>
@@ -51255,16 +51181,14 @@ For the full license text, see the link above.</lic>
             <t pos="n">arviointi</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">árvvoštallan</l>
-      </lg>
+      <mg>
+         <tg>
+            <t pos="n">päätelmä</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="n">arvostelu</t>
-            <t pos="n">päätelmä</t>
-            <t pos="n">arviointi</t>
          </tg>
       </mg>
    </e>
@@ -51793,11 +51717,6 @@ For the full license text, see the link above.</lic>
             <t pos="n">kokemus</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">čađaheapmi</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">läpikäynti</t>
@@ -52169,11 +52088,6 @@ For the full license text, see the link above.</lic>
             <t pos="n">selitys</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">čielggadus</l>
-      </lg>
       <mg>
          <tg>
             <t pos="n">selvennys</t>
