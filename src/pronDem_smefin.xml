@@ -29,82 +29,82 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="pron" type="dem">dakkár</l>
+         <l pos="Pron" type="dem">dakkár</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">sellainen</t>
+            <t pos="Pron">sellainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">dakkáraš</l>
+         <l pos="Pron" type="dem">dakkáraš</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">sellainen</t>
+            <t pos="Pron">sellainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">diet</l>
+         <l pos="Pron" type="dem">diet</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">lähellä puhuttavaase</t>
+            <t pos="Pron">lähellä puhuttavaase</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">dot</l>
+         <l pos="Pron" type="dem">dot</l>
       </lg>
       <mg>
          <tg>
             <re>etäällä oleva</re>
-            <t pos="pron">tuo</t>
+            <t pos="Pron">tuo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">duokkáraš</l>
+         <l pos="Pron" type="dem">duokkáraš</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">tuollainen</t>
+            <t pos="Pron">tuollainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">duot</l>
+         <l pos="Pron" type="dem">duot</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">tuo</t>
+            <t pos="Pron">tuo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">dákkár</l>
+         <l pos="Pron" type="dem">dákkár</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">tällainen</t>
+            <t pos="Pron">tällainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">dát</l>
+         <l pos="Pron" type="dem">dát</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">tämä</t>
+            <t pos="Pron">tämä</t>
          </tg>
       </mg>
    </e>

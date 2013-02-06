@@ -29,212 +29,212 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="num">beannot</l>
+         <l pos="Num">beannot</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">puolitoista</t>
+            <t pos="Num">puolitoista</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">galle</l>
+         <l pos="Num">galle</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">montako</t>
+            <t pos="Num">montako</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">golbma</l>
+         <l pos="Num">golbma</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">kolme</t>
+            <t pos="Num">kolme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">guhtta</l>
+         <l pos="Num">guhtta</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">kuusi</t>
+            <t pos="Num">kuusi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">guokte</l>
+         <l pos="Num">guokte</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">kaksi</t>
+            <t pos="Num">kaksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">gávcci</l>
+         <l pos="Num">gávcci</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">kahdeksan</t>
+            <t pos="Num">kahdeksan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">logi</l>
+         <l pos="Num">logi</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">kymmenen</t>
+            <t pos="Num">kymmenen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">moadde</l>
+         <l pos="Num">moadde</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">muutama</t>
+            <t pos="Num">muutama</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">máŋga</l>
+         <l pos="Num">máŋga</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">moni</t>
-            <t pos="num">monta</t>
+            <t pos="Num">moni</t>
+            <t pos="Num">monta</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">njeallje</l>
+         <l pos="Num">njeallje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">neljä</t>
+            <t pos="Num">neljä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">okta</l>
+         <l pos="Num">okta</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">yksi</t>
+            <t pos="Num">yksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">ovcci</l>
+         <l pos="Num">ovcci</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">yhdeksän</t>
+            <t pos="Num">yhdeksän</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">vihtta</l>
+         <l pos="Num">vihtta</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">viisi</t>
+            <t pos="Num">viisi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">čieža</l>
+         <l pos="Num">čieža</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">seitsemän</t>
+            <t pos="Num">seitsemän</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">čuođi</l>
+         <l pos="Num">čuođi</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">sata</t>
+            <t pos="Num">sata</t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="num">duhát</l>
+         <l pos="Num">duhát</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">tuhat</t>
+            <t pos="Num">tuhat</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="num">gákcilogi</l>
+         <l pos="Num">gákcilogi</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">kahdeksankymmentä</t>
+            <t pos="Num">kahdeksankymmentä</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="num">čiehččalogi</l>
+         <l pos="Num">čiehččalogi</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">seitsemänkymmentä</t>
+            <t pos="Num">seitsemänkymmentä</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="num">čuohti</l>
+         <l pos="Num">čuohti</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">sata</t>
+            <t pos="Num">sata</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="num">miljárda</l>
+         <l pos="Num">miljárda</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">miljardi</t>
+            <t pos="Num">miljardi</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="num">miljovdna</l>
+         <l pos="Num">miljovdna</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">miljoona</t>
+            <t pos="Num">miljoona</t>
          </tg>
       </mg>
   </e>

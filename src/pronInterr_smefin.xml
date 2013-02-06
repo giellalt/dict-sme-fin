@@ -29,59 +29,59 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="pron" type="interr">gii</l>
+         <l pos="Pron" type="interr">gii</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">kuka</t>
+            <t pos="Pron">kuka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="interr">goabbá</l>
+         <l pos="Pron" type="interr">goabbá</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">kumpi</t>
+            <t pos="Pron">kumpi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="interr">makkár</l>
+         <l pos="Pron" type="interr">makkár</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">millainen</t>
-            <t pos="pron">minkälainen</t>
+            <t pos="Pron">millainen</t>
+            <t pos="Pron">minkälainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="interr">makkáraš</l>
+         <l pos="Pron" type="interr">makkáraš</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">millainen</t>
-            <t pos="pron">minkälainen</t>
+            <t pos="Pron">millainen</t>
+            <t pos="Pron">minkälainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="interr">mii</l>
+         <l pos="Pron" type="interr">mii</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">mikä</t>
+            <t pos="Pron">mikä</t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="pron">dokkár</l>
+         <l pos="Pron">dokkár</l>
       </lg>
       <mg>
          <tg>
@@ -91,72 +91,72 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
       <lg>
-         <l pos="pron">giige</l>
+         <l pos="Pron">giige</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">kukaan</t>
+            <t pos="Pron">kukaan</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="pron">kukin</t>
+            <t pos="Pron">kukin</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="pron">guhtet</l>
+         <l pos="Pron">guhtet</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">kukin</t>
+            <t pos="Pron">kukin</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="pron">juobbá</l>
+         <l pos="Pron">juobbá</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">jompikumpi</t>
+            <t pos="Pron">jompikumpi</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="pron">juobbágoabbá</l>
+         <l pos="Pron">juobbágoabbá</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">jompikumpi</t>
+            <t pos="Pron">jompikumpi</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="pron">juohkehaš</l>
+         <l pos="Pron">juohkehaš</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">jokainen</t>
+            <t pos="Pron">jokainen</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="pron">miijai</l>
+         <l pos="Pron">miijai</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">mikin</t>
+            <t pos="Pron">mikin</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="pron">oktahat</l>
+         <l pos="Pron">oktahat</l>
       </lg>
       <mg>
          <tg>
@@ -166,11 +166,11 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
       <lg>
-         <l pos="pron">olugat</l>
+         <l pos="Pron">olugat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">monet ihmiset</t>
+            <t pos="Pron">monet ihmiset</t>
          </tg>
       </mg>
   </e>

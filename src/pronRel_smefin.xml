@@ -29,32 +29,32 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="pron" type="rel">gii</l>
+         <l pos="Pron" type="rel">gii</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">kuka</t>
+            <t pos="Pron">kuka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="rel">guhte</l>
+         <l pos="Pron" type="rel">guhte</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">kuka</t>
-            <t pos="pron">joka</t>
+            <t pos="Pron">kuka</t>
+            <t pos="Pron">joka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="rel">mii</l>
+         <l pos="Pron" type="rel">mii</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">mikä</t>
+            <t pos="Pron">mikä</t>
          </tg>
       </mg>
    </e>

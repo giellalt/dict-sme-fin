@@ -29,21 +29,21 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="pron" type="refl">ieš</l>
+         <l pos="Pron" type="refl">ieš</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">itse</t>
+            <t pos="Pron">itse</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="refl">iežas</l>
+         <l pos="Pron" type="refl">iežas</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hänen oma</t>
+            <t pos="Pron">hänen oma</t>
          </tg>
       </mg>
    </e>

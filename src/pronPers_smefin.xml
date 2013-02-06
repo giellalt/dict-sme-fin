@@ -29,107 +29,107 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="pron" type="pers">dat</l>
+         <l pos="Pron" type="pers">dat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">se</t>
+            <t pos="Pron">se</t>
          </tg>
       </mg>
       <mg>
          <tg>
             <re>puhek.</re>
-            <t pos="pron">hän</t>
+            <t pos="Pron">hän</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="pers">dii</l>
+         <l pos="Pron" type="pers">dii</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">te</t>
+            <t pos="Pron">te</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="pers">doai</l>
+         <l pos="Pron" type="pers">doai</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">te kaksi</t>
+            <t pos="Pron">te kaksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="pers">don</l>
+         <l pos="Pron" type="pers">don</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">sinä</t>
+            <t pos="Pron">sinä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="pers">mii</l>
+         <l pos="Pron" type="pers">mii</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">me</t>
+            <t pos="Pron">me</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="pers">moai</l>
+         <l pos="Pron" type="pers">moai</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">me kaksi</t>
+            <t pos="Pron">me kaksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="pers">mun</l>
+         <l pos="Pron" type="pers">mun</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">minä</t>
+            <t pos="Pron">minä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="pers">sii</l>
+         <l pos="Pron" type="pers">sii</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">he</t>
+            <t pos="Pron">he</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="pers">soai</l>
+         <l pos="Pron" type="pers">soai</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">he</t>
+            <t pos="Pron">he</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="pers">son</l>
+         <l pos="Pron" type="pers">son</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hän</t>
+            <t pos="Pron">hän</t>
          </tg>
       </mg>
    </e>

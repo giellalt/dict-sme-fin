@@ -29,42 +29,42 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="cmp">njuolggo-</l>
+         <l pos="Cmp">njuolggo-</l>
       </lg>
       <mg>
          <tg>
-            <t pos="cmp">suora</t>
-            <t pos="cmp">suorat</t>
+            <t pos="Cmp">suora</t>
+            <t pos="Cmp">suorat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="cmp">nurke-</l>
+         <l pos="Cmp">nurke-</l>
       </lg>
       <mg>
          <tg>
-            <t pos="cmp">nurkka-</t>
+            <t pos="Cmp">nurkka-</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="cmp">smarfe-</l>
+         <l pos="Cmp">smarfe-</l>
       </lg>
       <mg>
          <tg>
-            <t pos="cmp">kiharainen</t>
+            <t pos="Cmp">kiharainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="cmp">vuoste-</l>
+         <l pos="Cmp">vuoste-</l>
       </lg>
       <mg>
          <tg>
-            <t pos="cmp">vasta-</t>
+            <t pos="Cmp">vasta-</t>
          </tg>
       </mg>
    </e>
