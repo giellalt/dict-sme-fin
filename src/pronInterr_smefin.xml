@@ -85,7 +85,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">tuollainen kuin tuo tuolla kaukana</t>
+            <t pos="A">tuollainen kuin tuo tuolla kaukana</t>
          </tg>
       </mg>
   </e>
@@ -160,7 +160,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="num">yksi ja sama</t>
+            <t pos="Num">yksi ja sama</t>
          </tg>
       </mg>
   </e>

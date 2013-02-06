@@ -4409,7 +4409,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="po">koskien</t>
+            <t pos="Po">koskien</t>
          </tg>
       </mg>
    </e>
@@ -4549,7 +4549,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="num">kuudes</t>
+            <t pos="Num">kuudes</t>
          </tg>
       </mg>
    </e>
@@ -5904,7 +5904,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">luulaja</t>
+            <t pos="A">luulaja</t>
          </tg>
       </mg>
    </e>
@@ -6054,7 +6054,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">luultavasti</t>
+            <t pos="Adv">luultavasti</t>
          </tg>
       </mg>
    </e>
@@ -7014,7 +7014,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">aamuvirkku</t>
+            <t pos="A">aamuvirkku</t>
          </tg>
       </mg>
    </e>
@@ -7024,7 +7024,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">aamunvirkku</t>
+            <t pos="A">aamunvirkku</t>
          </tg>
       </mg>
    </e>
@@ -7318,7 +7318,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">pätkä</t>
+            <t pos="A">pätkä</t>
          </tg>
       </mg>
    </e>
@@ -8452,7 +8452,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">edustaja</t>
+            <t pos="N">edustaja</t>
          </tg>
       </mg>
    </e>
@@ -8492,7 +8492,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">yksimielisesti</t>
+            <t pos="Adv">yksimielisesti</t>
          </tg>
       </mg>
    </e>
@@ -9918,7 +9918,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">erikseen</t>
+            <t pos="Adv">erikseen</t>
          </tg>
       </mg>
    </e>
@@ -10931,7 +10931,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">syntinen</t>
+            <t pos="A">syntinen</t>
          </tg>
       </mg>
    </e>
@@ -11440,7 +11440,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">toivottu</t>
+            <t pos="A">toivottu</t>
          </tg>
       </mg>
    </e>
@@ -11788,9 +11788,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">kestävä työnteossa</t>
-            <t pos="n">vaikuttava (saarnasta)</t>
-            <t pos="n">aamunvirkku</t>
+            <t pos="A">kestävä työnteossa</t>
+            <t pos="A">vaikuttava (saarnasta)</t>
+            <t pos="A">aamunvirkku</t>
          </tg>
       </mg>
    </e>
@@ -12217,7 +12217,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="num">viides</t>
+            <t pos="Num">viides</t>
          </tg>
       </mg>
    </e>
@@ -12412,7 +12412,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="num">ensimmäinen</t>
+            <t pos="Num">ensimmäinen</t>
          </tg>
       </mg>
    </e>
@@ -12422,7 +12422,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">ensisijaisesti</t>
+            <t pos="Adv">ensisijaisesti</t>
          </tg>
       </mg>
    </e>
@@ -13665,7 +13665,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">seuraaja</t>
+            <t pos="N">seuraaja</t>
          </tg>
       </mg>
    </e>

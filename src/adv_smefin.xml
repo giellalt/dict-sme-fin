@@ -73,7 +73,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">juuri</t>
+            <t pos="Pcle">juuri</t>
          </tg>
       </mg>
    </e>
@@ -174,7 +174,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">kuitenkin</t>
+            <t pos="Pcle">kuitenkin</t>
          </tg>
       </mg>
    </e>
@@ -194,7 +194,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="cc">kunpa</t>
+            <t pos="Cc">kunpa</t>
          </tg>
       </mg>
    </e>
@@ -838,7 +838,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">kuitenkin</t>
+            <t pos="Pcle">kuitenkin</t>
          </tg>
       </mg>
    </e>
@@ -1223,7 +1223,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">kelvollinen</t>
+            <t pos="A">kelvollinen</t>
          </tg>
       </mg>
    </e>
@@ -1506,7 +1506,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">tuonnempi</t>
+            <t pos="A">tuonnempi</t>
          </tg>
       </mg>
    </e>
@@ -1547,7 +1547,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">todellinen</t>
+            <t pos="A">todellinen</t>
          </tg>
       </mg>
    </e>
@@ -1681,9 +1681,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">taikaa</t>
-            <t pos="n">das ii leat dáigá</t>
-            <t pos="n">siitä ei ole taikaa</t>
+            <t pos="N">taikaa</t>
+            <t pos="N">das ii leat dáigá</t>
+            <t pos="N">siitä ei ole taikaa</t>
          </tg>
       </mg>
    </e>
@@ -1981,7 +1981,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="pron">useampi</t>
+            <t pos="Pron">useampi</t>
          </tg>
       </mg>
    </e>
@@ -2001,7 +2001,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">erilainen</t>
+            <t pos="A">erilainen</t>
          </tg>
       </mg>
    </e>
@@ -2181,7 +2181,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">valmis</t>
+            <t pos="A">valmis</t>
          </tg>
       </mg>
    </e>
@@ -2697,7 +2697,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">sujut</t>
+            <t pos="Pcle">sujut</t>
          </tg>
       </mg>
    </e>
@@ -2832,7 +2832,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">ehkä</t>
+            <t pos="Pcle">ehkä</t>
          </tg>
       </mg>
    </e>
@@ -3281,7 +3281,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">jokseenkin</t>
+            <t pos="Pcle">jokseenkin</t>
          </tg>
       </mg>
    </e>
@@ -3362,7 +3362,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">lähempi</t>
+            <t pos="A">lähempi</t>
          </tg>
       </mg>
    </e>
@@ -3720,7 +3720,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">viimeinen</t>
+            <t pos="A">viimeinen</t>
          </tg>
       </mg>
    </e>
@@ -3760,7 +3760,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">melko</t>
+            <t pos="Pcle">melko</t>
          </tg>
       </mg>
    </e>
@@ -3833,7 +3833,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">melko</t>
+            <t pos="Pcle">melko</t>
          </tg>
       </mg>
    </e>
@@ -3985,7 +3985,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">kylläkin</t>
+            <t pos="Pcle">kylläkin</t>
          </tg>
       </mg>
    </e>
@@ -4077,8 +4077,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">nimeltä</t>
-            <t pos="pcle">nimenomaan</t>
+            <t pos="Pcle">nimeltä</t>
+            <t pos="Pcle">nimenomaan</t>
          </tg>
       </mg>
    </e>
@@ -4109,7 +4109,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">entä</t>
+            <t pos="Pcle">entä</t>
          </tg>
       </mg>
    </e>
@@ -4190,7 +4190,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">nivainen (joesta)</t>
+            <t pos="A">nivainen (joesta)</t>
          </tg>
       </mg>
    </e>
@@ -4230,8 +4230,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">suorastaan</t>
-            <t pos="pcle">suoraan (kääntymättä tai pysähtymättä)</t>
+            <t pos="Pcle">suorastaan</t>
+            <t pos="Pcle">suoraan (kääntymättä tai pysähtymättä)</t>
          </tg>
       </mg>
    </e>
@@ -4241,7 +4241,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">suora</t>
+            <t pos="A">suora</t>
          </tg>
       </mg>
    </e>
@@ -4432,7 +4432,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">täydellinen</t>
+            <t pos="A">täydellinen</t>
          </tg>
       </mg>
    </e>
@@ -4495,7 +4495,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">melko</t>
+            <t pos="Pcle">melko</t>
          </tg>
       </mg>
    </e>
@@ -4714,7 +4714,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">täydellinen</t>
+            <t pos="A">täydellinen</t>
          </tg>
       </mg>
    </e>
@@ -4760,7 +4760,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">taas</t>
+            <t pos="Pcle">taas</t>
          </tg>
       </mg>
    </e>
@@ -4925,7 +4925,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">yhteinen</t>
+            <t pos="A">yhteinen</t>
          </tg>
       </mg>
    </e>
@@ -5220,7 +5220,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n">seinän puoli</t>
+            <t pos="N">seinän puoli</t>
          </tg>
       </mg>
    </e>
@@ -6000,7 +6000,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="num">ensimmäinen</t>
+            <t pos="Num">ensimmäinen</t>
          </tg>
       </mg>
    </e>
@@ -6196,7 +6196,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="po">varalta</t>
+            <t pos="Po">varalta</t>
          </tg>
       </mg>
    </e>
@@ -6238,7 +6238,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">tuskin</t>
+            <t pos="Pcle">tuskin</t>
          </tg>
       </mg>
    </e>
@@ -6360,7 +6360,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">helppo</t>
+            <t pos="A">helppo</t>
          </tg>
       </mg>
    </e>
@@ -6400,7 +6400,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="pcle">anteeksi</t>
+            <t pos="Pcle">anteeksi</t>
          </tg>
       </mg>
    </e>
@@ -6525,7 +6525,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">selkeä</t>
+            <t pos="A">selkeä</t>
          </tg>
       </mg>
    </e>
