@@ -29,121 +29,121 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="Cc">ahte</l>
+         <l pos=pos="CC">ahte</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Cc">että</t>
+            <t pos=pos="CC">että</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">dahe</l>
+         <l pos=pos="CC">dahe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Cc">taikka</t>
+            <t pos=pos="CC">taikka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">dahje</l>
+         <l pos=pos="CC">dahje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Cc">taikka</t>
+            <t pos=pos="CC">taikka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">daihe</l>
+         <l pos=pos="CC">daihe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Cc">taikka</t>
+            <t pos=pos="CC">taikka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">daikke</l>
+         <l pos=pos="CC">daikke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Cc">taikka</t>
+            <t pos=pos="CC">taikka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">ja</l>
+         <l pos=pos="CC">ja</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Cc">ja</t>
+            <t pos=pos="CC">ja</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">muhto</l>
+         <l pos=pos="CC">muhto</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Cc">mutta</t>
+            <t pos=pos="CC">mutta</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">vaikke</l>
+         <l pos=pos="CC">vaikke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Cc">vaikka</t>
+            <t pos=pos="CC">vaikka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Cc">vaikko</l>
+         <l pos=pos="CC">vaikko</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Cc">vaikka</t>
+            <t pos=pos="CC">vaikka</t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="Cc">sihke</l>
+         <l pos=pos="CC">sihke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Cc">sekä</t>
+            <t pos=pos="CC">sekä</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="Cc">dehe</l>
+         <l pos=pos="CC">dehe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Cc">tai</t>
+            <t pos=pos="CC">tai</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos="Cc">vai</l>
+         <l pos=pos="CC">vai</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Cc">vai</t>
+            <t pos=pos="CC">vai</t>
          </tg>
       </mg>
   </e>
