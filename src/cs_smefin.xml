@@ -29,113 +29,113 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos=pos="CS">ahte</l>
+         <l pos="CS">ahte</l>
       </lg>
       <mg>
          <tg>
-            <t pos=pos="CS">että</t>
+            <t pos="CS">että</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos=pos="CS">amas</l>
+         <l pos="CS">amas</l>
       </lg>
       <mg>
          <tg>
-            <t pos=pos="CS">outo</t>
+            <t pos="CS">outo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos=pos="CS">go</l>
+         <l pos="CS">go</l>
       </lg>
       <mg>
          <tg>
-            <t pos=pos="CS">kun</t>
+            <t pos="CS">kun</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos=pos="CS">kuin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos=pos="CS">jos</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos=pos="CS">jos</t>
+            <t pos="CS">kuin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos=pos="CS">juogo</l>
+         <l pos="CS">jos</l>
       </lg>
       <mg>
          <tg>
-            <t pos=pos="CS">joko</t>
+            <t pos="CS">jos</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos=pos="CS">juos</l>
+         <l pos="CS">juogo</l>
       </lg>
       <mg>
          <tg>
-            <t pos=pos="CS">jos</t>
+            <t pos="CS">joko</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos=pos="CS">nugo</l>
+         <l pos="CS">juos</l>
       </lg>
       <mg>
          <tg>
-            <t pos=pos="CS">niin kuin</t>
-            <t pos=pos="CS">kuten</t>
+            <t pos="CS">jos</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos=pos="CS">ovdalgo</l>
+         <l pos="CS">nugo</l>
       </lg>
       <mg>
          <tg>
-            <t pos=pos="CS">ennen kuin</t>
+            <t pos="CS">niin kuin</t>
+            <t pos="CS">kuten</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos=pos="CS">vaikko</l>
+         <l pos="CS">ovdalgo</l>
       </lg>
       <mg>
          <tg>
-            <t pos=pos="CS">vaikka</t>
+            <t pos="CS">ennen kuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">vaikko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="CS">vaikka</t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos=pos="CS">jogo ... dahje</l>
+         <l pos="CS">jogo ... dahje</l>
       </lg>
       <mg>
          <tg>
-            <t pos=pos="CS">joko ... tai</t>
+            <t pos="CS">joko ... tai</t>
          </tg>
       </mg>
   </e>
   <e>
       <lg>
-         <l pos=pos="CS">josgo</l>
+         <l pos="CS">josgo</l>
       </lg>
       <mg>
          <tg>
@@ -145,7 +145,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
       <lg>
-         <l pos=pos="CS">váikko</l>
+         <l pos="CS">váikko</l>
       </lg>
       <mg>
          <tg>
@@ -155,7 +155,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
       <lg>
-         <l pos=pos="CS">dego</l>
+         <l pos="CS">dego</l>
       </lg>
       <mg>
          <tg>
@@ -165,11 +165,11 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
       <lg>
-         <l pos=pos="CS">jus</l>
+         <l pos="CS">jus</l>
       </lg>
       <mg>
          <tg>
-            <t pos=pos="CS">jos</t>
+            <t pos="CS">jos</t>
          </tg>
       </mg>
   </e>
