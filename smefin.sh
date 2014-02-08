@@ -4,14 +4,13 @@
 
 # Førebels er det berre eit shellscript.
 
-echo 
-echo "Etter at dette scriptet er ferdig står du i xfst med promten"
-echo "xfst[1]"
-echo 
-echo "Gjör då dette:"
-echo "invert"
-echo "save bin/smefin.fst"
-echo "quit"
+
+echo ""
+echo "Shellscript for å lage smefin.fst"
+echo "Det skriv ei fil bin/smefin.lexc"
+echo "Deretter tar det kolonne 5 og 15 frå"
+echo "alle filene i src/ og legg dei til i lexc-fila."
+echo "Resultatet blir kompilert som smefin.fst."
 echo ""
 
 # Kommando for å lage smefin.fst
