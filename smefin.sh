@@ -5,17 +5,38 @@
 # Førebels er det berre eit shellscript.
 
 
+
 echo ""
-echo "Shellscript for å lage smefin.fst"
-echo "Det skriv ei fil bin/smefin.lexc"
-echo "Deretter tar det kolonne 5 og 15 frå"
-echo "alle filene i src/ og legg dei til i lexc-fila."
-echo "Resultatet blir kompilert som smefin.fst."
+echo ""
+echo "---------------------------------------------------"
+echo "Shellscript to make a transducer of the dictionary."
+echo ""
+echo "It writes a lexc file to bin, containing the line	 "
+echo "LEXICON Root										 "
+echo "Thereafter, it picks lemma and first translation	 "
+echo "of the dictionary, adds them to this lexc file,	 "
+echo "and compiles a transducer bin/smefin.fst		 "
+echo ""
+echo "Usage:"
+echo "lookup bin/smefin.fst"
+echo "---------------------------------------------------"
+echo ""
 echo ""
 
-# Kommando for å lage smefin.fst
 echo "LEXICON Root" > bin/smefin.lexc
-cat src/*_smefin.xml | tr '\n' '™' | sed 's/<e>/£/g;'| tr '£' '\n'| sed 's/<re>[^>]*>//g;'|tr '<' '>'| cut -d">" -f5,15| tr ' ' '_'| tr '>' ':'| grep -v '__'|sed 's/$/ # ;/g' >> bin/smefin.lexc
+cat src/*_smefin.xml | \
+grep '^ *<[lt][ >]'  | \
+sed 's/^ *//g;'      | \
+sed 's/<l /™/g;'     | \
+tr '\n' '£'          | \
+sed 's/£™/€/g;'      | \
+tr '€' '\n'          | \
+tr '<' '>'           | \
+cut -d'>' -f2,6      | \
+tr '>' ':'           | \
+tr ' ' '_'           | \
+sed 's/$/ # ;/g;'    >> bin/smefin.lexc        
+
 #xfst -e "read lexc < bin/smefin.lexc"
 
 printf "read lexc < bin/smefin.lexc \n\
@@ -24,4 +45,6 @@ save stack bin/smefin.fst \n\
 quit \n" > tmpfile
 xfst -utf8 < tmpfile
 rm -f tmpfile
+
+
 
