@@ -32,7 +32,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">buohkat</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <re>ihmisistä</re>
             <t pos="Pron">kaikki</t>
          </tg>
@@ -43,7 +43,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">buot</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">kaikki</t>
          </tg>
       </mg>
@@ -53,7 +53,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">eará</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">muu</t>
             <t pos="Pron">eri</t>
             <t pos="Pron">muuta</t>
@@ -65,7 +65,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">goabbat</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">kumpikin</t>
          </tg>
       </mg>
@@ -75,7 +75,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">guktot</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">molemmat</t>
          </tg>
       </mg>
@@ -85,7 +85,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">iešguđet</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">itsekukin</t>
          </tg>
       </mg>
@@ -95,7 +95,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">iežá</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">muut</t>
          </tg>
       </mg>
@@ -105,7 +105,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">juoga</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">jokin</t>
             <t pos="Pron">jotakin</t>
          </tg>
@@ -116,7 +116,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">juohke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">joka</t>
             <t pos="Pron">jokainen</t>
          </tg>
@@ -127,7 +127,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">juoidá</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">jotakin</t>
          </tg>
       </mg>
@@ -137,7 +137,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">makkárge</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="A">minkäänlainen</t>
             <t pos="A">ei minkäänlainen</t>
          </tg>
@@ -148,7 +148,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">maidege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <re>neg.</re>
             <t pos="Pron">mitään</t>
          </tg>
@@ -159,7 +159,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">mihkkige</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">mikään</t>
          </tg>
       </mg>
@@ -169,7 +169,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">moanat</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">useat</t>
          </tg>
       </mg>
@@ -179,7 +179,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">muhtun</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">joku</t>
          </tg>
       </mg>
@@ -189,7 +189,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">olus</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">juurikaan</t>
             <t pos="Pron">paljonkaan</t>
          </tg>
@@ -200,7 +200,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">seamma</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">sama</t>
          </tg>
       </mg>
@@ -210,7 +210,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">seammá</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">samoin</t>
          </tg>
       </mg>
@@ -220,7 +220,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">váháš</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">vähän</t>
          </tg>
       </mg>
@@ -230,7 +230,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">mihkkege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron" type="indef">mitään</t>
          </tg>
       </mg>
@@ -240,7 +240,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">guhtege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron" type="indef">jokainen</t>
          </tg>
       </mg>
@@ -250,7 +250,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">goabbáge</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron" type="indef">kumpikin</t>
          </tg>
       </mg>
@@ -260,7 +260,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">muhtin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron" type="indef">muutama</t>
          </tg>
       </mg>
@@ -270,7 +270,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">diekkár</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="A" type="indef">tällainen</t>
          </tg>
       </mg>
@@ -280,7 +280,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">soames</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron" type="indef">muutama</t>
          </tg>
       </mg>
@@ -290,7 +290,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">goappašat</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron" type="indef">molemmat</t>
          </tg>
       </mg>
@@ -300,7 +300,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">iešguhtet</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron" type="indef">jokainen</t>
          </tg>
       </mg>
@@ -310,7 +310,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">juohkehaš</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron" type="indef">jokainen</t>
          </tg>
       </mg>
@@ -320,7 +320,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="indef">goappaš</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron" type="indef">molemmat</t>
          </tg>
       </mg>

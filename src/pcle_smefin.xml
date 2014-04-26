@@ -32,7 +32,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">aitto</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pcle">-pa</t>
             <t pos="Pcle">-pä</t>
             <t pos="Pcle">-han</t>
@@ -45,7 +45,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">ammal</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pcle">juo</t>
             <t pos="Pcle">kyllä kai</t>
          </tg>
@@ -56,12 +56,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">goit</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pcle">kuitenkin</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pcle">ainakin</t>
          </tg>
       </mg>
@@ -71,12 +71,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">goittotge</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pcle">kuitenkin</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pcle">ainakin</t>
          </tg>
       </mg>
@@ -86,7 +86,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">mis</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pcle">tosiaan</t>
          </tg>
       </mg>
@@ -96,7 +96,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">na</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pcle">no</t>
          </tg>
       </mg>
@@ -106,7 +106,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">no</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pcle">no</t>
          </tg>
       </mg>
@@ -116,7 +116,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">nuba</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pcle">niinpä</t>
          </tg>
       </mg>
@@ -126,7 +126,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">nai</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pcle">myös</t>
          </tg>
       </mg>

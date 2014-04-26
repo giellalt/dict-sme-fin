@@ -32,7 +32,7 @@ For the full license text, see the link above.</lic>
          <l pos="Cmp">njuolggo-</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Cmp">suora</t>
             <t pos="Cmp">suorat</t>
          </tg>
@@ -43,7 +43,7 @@ For the full license text, see the link above.</lic>
          <l pos="Cmp">nurke-</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Cmp">nurkka-</t>
          </tg>
       </mg>
@@ -53,7 +53,7 @@ For the full license text, see the link above.</lic>
          <l pos="Cmp">smarfe-</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Cmp">kiharainen</t>
          </tg>
       </mg>
@@ -63,7 +63,7 @@ For the full license text, see the link above.</lic>
          <l pos="Cmp">vuoste-</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Cmp">vasta-</t>
          </tg>
       </mg>

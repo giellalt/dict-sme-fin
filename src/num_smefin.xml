@@ -32,7 +32,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">beannot</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">puolitoista</t>
          </tg>
       </mg>
@@ -42,7 +42,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">galle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">montako</t>
          </tg>
       </mg>
@@ -52,7 +52,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">golbma</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">kolme</t>
          </tg>
       </mg>
@@ -62,7 +62,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">guhtta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">kuusi</t>
          </tg>
       </mg>
@@ -72,7 +72,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">guokte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">kaksi</t>
          </tg>
       </mg>
@@ -82,7 +82,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">gávcci</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">kahdeksan</t>
          </tg>
       </mg>
@@ -92,7 +92,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">logi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">kymmenen</t>
          </tg>
       </mg>
@@ -102,7 +102,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">moadde</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">muutama</t>
          </tg>
       </mg>
@@ -112,7 +112,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">máŋga</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">moni</t>
             <t pos="Num">monta</t>
          </tg>
@@ -123,7 +123,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">njeallje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">neljä</t>
          </tg>
       </mg>
@@ -133,7 +133,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">okta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">yksi</t>
          </tg>
       </mg>
@@ -143,7 +143,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">ovcci</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">yhdeksän</t>
          </tg>
       </mg>
@@ -153,7 +153,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">vihtta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">viisi</t>
          </tg>
       </mg>
@@ -163,7 +163,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">čieža</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">seitsemän</t>
          </tg>
       </mg>
@@ -173,7 +173,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">čuođi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">sata</t>
          </tg>
       </mg>
@@ -183,7 +183,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">duhát</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">tuhat</t>
          </tg>
       </mg>
@@ -193,7 +193,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">gákcilogi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">kahdeksankymmentä</t>
          </tg>
       </mg>
@@ -203,7 +203,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">čiehččalogi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">seitsemänkymmentä</t>
          </tg>
       </mg>
@@ -213,7 +213,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">čuohti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">sata</t>
          </tg>
       </mg>
@@ -223,7 +223,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">miljárda</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">miljardi</t>
          </tg>
       </mg>
@@ -233,7 +233,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">miljovdna</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Num">miljoona</t>
          </tg>
       </mg>

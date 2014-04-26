@@ -32,7 +32,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="rel">gii</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">kuka</t>
          </tg>
       </mg>
@@ -42,7 +42,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="rel">guhte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">kuka</t>
             <t pos="Pron">joka</t>
          </tg>
@@ -53,7 +53,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="rel">mii</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">mikä</t>
          </tg>
       </mg>

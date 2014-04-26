@@ -32,7 +32,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="dem">dakkár</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">sellainen</t>
          </tg>
       </mg>
@@ -42,7 +42,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="dem">dakkáraš</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">sellainen</t>
          </tg>
       </mg>
@@ -52,7 +52,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="dem">diet</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">lähellä puhuttavaase</t>
          </tg>
       </mg>
@@ -62,7 +62,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="dem">dot</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <re>etäällä oleva</re>
             <t pos="Pron">tuo</t>
          </tg>
@@ -73,7 +73,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="dem">duokkáraš</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">tuollainen</t>
          </tg>
       </mg>
@@ -83,7 +83,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="dem">duot</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">tuo</t>
          </tg>
       </mg>
@@ -93,7 +93,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="dem">dákkár</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">tällainen</t>
          </tg>
       </mg>
@@ -103,7 +103,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="dem">dát</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">tämä</t>
          </tg>
       </mg>

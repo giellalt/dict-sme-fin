@@ -32,7 +32,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">amma nu</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">eikö niin</t>
             <t pos="mwe">jooko</t>
          </tg>
@@ -43,7 +43,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">atnit váivin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">pitää ikävänä</t>
          </tg>
       </mg>
@@ -53,7 +53,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">attášitgo</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">antaisitko</t>
          </tg>
       </mg>
@@ -63,7 +63,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">badjel rájáid</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">yli rajojen</t>
          </tg>
       </mg>
@@ -73,7 +73,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">bures boahtin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">tervetuloa</t>
          </tg>
       </mg>
@@ -83,7 +83,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dakko gokko</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">siitä mistä</t>
             <t pos="mwe">siinä missä</t>
          </tg>
@@ -94,7 +94,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dallege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">silloinkin</t>
          </tg>
       </mg>
@@ -104,7 +104,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dallehan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">silloinhan</t>
          </tg>
       </mg>
@@ -114,7 +114,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dallenai</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">silloinkin</t>
          </tg>
       </mg>
@@ -124,7 +124,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dan botta go</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">sillä aikaa kun</t>
          </tg>
       </mg>
@@ -134,7 +134,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dan sivas</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">siitä syystä</t>
          </tg>
       </mg>
@@ -144,7 +144,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dan vuoro</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">sillä kertaa</t>
             <t pos="mwe">sillä erää</t>
          </tg>
@@ -155,7 +155,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">danin go</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">siksi että</t>
             <t pos="mwe">siksi koska</t>
          </tg>
@@ -166,7 +166,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dieinna lágiin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">sillä tavalla</t>
          </tg>
       </mg>
@@ -176,7 +176,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">duollet dálle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">silloin tällöin</t>
          </tg>
       </mg>
@@ -186,7 +186,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">duođaige</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">todellakaan</t>
             <t pos="mwe">tosiaankaan</t>
          </tg>
@@ -197,7 +197,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">duođe eambbo</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">sen enempää</t>
          </tg>
       </mg>
@@ -207,7 +207,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">earet eará</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">muun muassa</t>
          </tg>
       </mg>
@@ -217,7 +217,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">earáge</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">muutakin</t>
          </tg>
       </mg>
@@ -227,7 +227,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">galli áigge</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">monenko aikaan</t>
          </tg>
       </mg>
@@ -237,7 +237,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">goaseai</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">lähes</t>
          </tg>
       </mg>
@@ -247,7 +247,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">gosabat</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">mihinkä</t>
             <t pos="mwe">minnekä</t>
          </tg>
@@ -258,7 +258,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">guhkkin eret</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">kaukana siitä</t>
          </tg>
       </mg>
@@ -268,7 +268,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">guovtte beale</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">kahta puolta</t>
          </tg>
       </mg>
@@ -278,7 +278,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ieš alddes</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">itse asiassa</t>
          </tg>
       </mg>
@@ -288,7 +288,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">iežas čierastan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">itsensä laskeneen</t>
          </tg>
       </mg>
@@ -298,7 +298,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">juohke báikkis</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">joka paikassa</t>
          </tg>
       </mg>
@@ -308,7 +308,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">juohke okta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">jokainen</t>
             <t pos="mwe">jokaikinen</t>
          </tg>
@@ -319,7 +319,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">leage buorre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">ole hyvä</t>
          </tg>
       </mg>
@@ -329,7 +329,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">leat fuolas</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">olla huolissaan</t>
          </tg>
       </mg>
@@ -339,7 +339,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">leat ilus</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">olla iloinen</t>
          </tg>
       </mg>
@@ -349,7 +349,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">leat oidnosis</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">olla näkyvissä</t>
          </tg>
       </mg>
@@ -359,7 +359,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">lihkku lehkos</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">onneksi olkoon</t>
          </tg>
       </mg>
@@ -369,7 +369,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">man láhkái</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">millä lailla</t>
             <t pos="mwe">tavalla</t>
          </tg>
@@ -380,7 +380,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">mii eará</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">mitä muuta</t>
             <t pos="mwe">mikä muu</t>
          </tg>
@@ -391,7 +391,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">nu gohčoduvvon</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">niin sanottu</t>
          </tg>
       </mg>
@@ -401,7 +401,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">nuge</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">niinkään</t>
          </tg>
       </mg>
@@ -411,7 +411,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">nuppe beliid</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">toisinpäin</t>
          </tg>
       </mg>
@@ -421,7 +421,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">nuppe jagi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">seuraavana vuonna</t>
          </tg>
       </mg>
@@ -431,7 +431,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">olbmo láhkái</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">kunnolla</t>
             <t pos="mwe">ihmisiksi</t>
          </tg>
@@ -442,7 +442,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">olles fártta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">täyttä vauhtia</t>
          </tg>
       </mg>
@@ -452,7 +452,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ollu giitu</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">paljon kiitoksia</t>
          </tg>
       </mg>
@@ -462,7 +462,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ollugo</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">paljonko</t>
          </tg>
       </mg>
@@ -472,7 +472,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">oppalaš govva</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">kokonaiskuva</t>
          </tg>
       </mg>
@@ -482,7 +482,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">otná beaivve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">tämän päivän</t>
             <t pos="mwe">tänä päivänä</t>
          </tg>
@@ -493,7 +493,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ovddežiid ektui</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">entisiin verrattuna</t>
          </tg>
       </mg>
@@ -503,7 +503,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ovtta eahket</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">eräänä iltana</t>
          </tg>
       </mg>
@@ -513,7 +513,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ovtta láhkai</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">eräällä tavalla</t>
          </tg>
       </mg>
@@ -523,7 +523,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ovttain báikkiin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">samoissa paikoissa</t>
          </tg>
       </mg>
@@ -533,7 +533,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">vulos guvlui</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">alaspäin</t>
          </tg>
       </mg>
@@ -543,7 +543,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">vuorddemat</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">odotahan</t>
             <t pos="mwe">odotapas</t>
          </tg>
@@ -554,7 +554,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">vuorddesmat</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">odotapas</t>
          </tg>
       </mg>
@@ -564,7 +564,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">vuos dál</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">ensin nyt</t>
          </tg>
       </mg>
@@ -574,7 +574,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">váldit oasi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">ottaa osaa</t>
          </tg>
       </mg>
@@ -584,7 +584,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">áibbas bures</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">aivan hyvin</t>
          </tg>
       </mg>
@@ -594,7 +594,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">áigá dassái</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">aikoja sitten</t>
          </tg>
       </mg>
@@ -604,7 +604,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">čađa áiggiid</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="mwe">kautta aikojen</t>
             <t pos="mwe">läpi aikojen</t>
             <t pos="mwe">halki aikojen</t>

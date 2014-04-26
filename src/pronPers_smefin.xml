@@ -32,12 +32,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="pers">dat</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">se</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <re>puhek.</re>
             <t pos="Pron">hän</t>
          </tg>
@@ -48,7 +48,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="pers">dii</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">te</t>
          </tg>
       </mg>
@@ -58,7 +58,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="pers">doai</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">te kaksi</t>
          </tg>
       </mg>
@@ -68,7 +68,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="pers">don</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">sinä</t>
          </tg>
       </mg>
@@ -78,7 +78,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="pers">mii</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">me</t>
          </tg>
       </mg>
@@ -88,7 +88,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="pers">moai</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">me kaksi</t>
          </tg>
       </mg>
@@ -98,7 +98,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="pers">mun</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">minä</t>
          </tg>
       </mg>
@@ -108,7 +108,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="pers">sii</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">he</t>
          </tg>
       </mg>
@@ -118,7 +118,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="pers">soai</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">he</t>
          </tg>
       </mg>
@@ -128,7 +128,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="pers">son</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="Pron">hän</t>
          </tg>
       </mg>

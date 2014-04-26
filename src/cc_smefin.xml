@@ -32,7 +32,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">ahte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="CC">että</t>
          </tg>
       </mg>
@@ -42,7 +42,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">dahe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="CC">taikka</t>
          </tg>
       </mg>
@@ -52,7 +52,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">dahje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="CC">taikka</t>
          </tg>
       </mg>
@@ -62,7 +62,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">daihe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="CC">taikka</t>
          </tg>
       </mg>
@@ -72,7 +72,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">daikke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="CC">taikka</t>
          </tg>
       </mg>
@@ -82,7 +82,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">ja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="CC">ja</t>
          </tg>
       </mg>
@@ -92,7 +92,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">muhto</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="CC">mutta</t>
          </tg>
       </mg>
@@ -102,7 +102,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">vaikke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="CC">vaikka</t>
          </tg>
       </mg>
@@ -112,7 +112,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">vaikko</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="CC">vaikka</t>
          </tg>
       </mg>
@@ -122,7 +122,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">sihke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="CC">sekä</t>
          </tg>
       </mg>
@@ -132,7 +132,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">dehe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="CC">tai</t>
          </tg>
       </mg>
@@ -142,7 +142,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">vai</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="CC">vai</t>
          </tg>
       </mg>
