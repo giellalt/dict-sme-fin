@@ -4160,7 +4160,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg re="boazodoalus">
+         <tg>
+            <re>boazodoalus</re>
             <t pos="N">paliskunta</t>
          </tg>
       </mg>
@@ -9366,12 +9367,14 @@ For the full license text, see the link above.</lic>
          <l pos="N">dikšun</l>
       </lg>
       <mg>
-         <tg re="dávda">
+         <tg>
+            <re>dávda</re>
             <t pos="N">hoito</t>
          </tg>
       </mg>
       <mg>
-         <tg re="reperašuvnna birra">
+         <tg>
+            <re>reperašuvnna birra</re>
             <t pos="N">huolto</t>
          </tg>
       </mg>
@@ -10968,7 +10971,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg re="gráda">
+         <tg>
+            <re>gráda</re>
             <t pos="N">tutkinto</t>
          </tg>
       </mg>
@@ -11228,7 +11232,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">dáhttu</l>
       </lg>
       <mg>
-         <tg re="áigumuš">
+         <tg>
+            <re>áigumuš</re>
             <t pos="N">tahto</t>
          </tg>
       </mg>
@@ -17231,12 +17236,14 @@ For the full license text, see the link above.</lic>
          <l pos="N">gohččun</l>
       </lg>
       <mg>
-         <tg re="gažaldat">
+         <tg>
+            <re>gažaldat</re>
             <t pos="N">kutsu</t>
          </tg>
       </mg>
       <mg>
-         <tg re="bággu">
+         <tg>
+            <re>bággu</re>
             <t pos="N">käsky</t>
          </tg>
       </mg>
@@ -22038,7 +22045,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">hástalus</l>
       </lg>
       <mg>
-         <tg re="ii juridihkálaš">
+         <tg>
+            <re>ii juridihkálaš</re>
             <t pos="N">haaste</t>
          </tg>
       </mg>
@@ -24828,7 +24836,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kruvdna</l>
       </lg>
       <mg>
-         <tg re="valtion">
+         <tg>
+            <re>valtion</re>
             <t pos="N">kruunu</t>
          </tg>
       </mg>
@@ -24838,7 +24847,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kruvdno</l>
       </lg>
       <mg>
-         <tg re="raha">
+         <tg>
+            <re>raha</re>
             <t pos="N">kruunu</t>
          </tg>
       </mg>
@@ -24848,7 +24858,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kruvdnu</l>
       </lg>
       <mg>
-         <tg re="raha">
+         <tg>
+            <re>raha</re>
             <t pos="N">kruunu</t>
          </tg>
       </mg>
