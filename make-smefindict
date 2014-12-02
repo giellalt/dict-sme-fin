@@ -1,3 +1,4 @@
+# -*- mode: Makefile -*-
 
 # Makefile to make smedict.fst
 # the fst just recognises all lemmas in the smefin dictionary
