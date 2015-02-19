@@ -1,11 +1,10 @@
-lihkkolohku	lykketall	
-jienastuslohku	manntall	
+lihkkolohku	lykketall	onnenluku
+jienastuslohku	manntall	äänestysluku
 johtolat	flyttevei	
-Riddu	Riddu	
-hárjehallan	trening	
+hárjehallan	trening	harjoitus
 ovdagoddi	formannskap	
-leansmánnekantuvra	lensmannskontor	
-ohcanáigemearri	søknadsfrist	
+leansmánnekantuvra	lensmannskontor	nimesmiestoimisto
+ohcanáigemearri	søknadsfrist	hakuaika
 lohka	lohka	
 juoigan	joiking	
 buvttadeaddji	buvttadeaddji	
@@ -15,7 +14,7 @@ Márkomeannu	Márkomeannu
 háldu	besittelse	
 Ávju	Ávju	
 Olmmáivággi	Manndalen	
-bodda	stund	
+bodda	stund	tuokio
 bievlavuodjin	barmarkskjøring	
 Báktehárji	Báktehárji	
 biebmobearráigeahčču	næringsmiddelkontroll	
@@ -35,28 +34,28 @@ guoddu	holdning
 Johkamohkki	Johkamohkki	
 fievru	framkomstmiddel	
 bázahus	rest	
-jahkebealle	halvår	
+jahkebealle	halvår	puolivuosi
 gárvi	gárvi	
-ohcanskovvi	søknadsskjema	
+ohcanskovvi	søknadsskjema	hakulomake
 heargegilvu	reinkappløp	
 čehppodat	dyktighet	
 moaitimuš	moaitimuš	
 moaitámuš	bebreidelse	
-stuorradiggeáirras	stortingsrepresentant	
+stuorradiggeáirras	stortingsrepresentant	eduskunnan edustaja
 opposišuvdna	motsetning	
 kulturmuitu	kulturminne	
 gaskkamuddu	gaskkamuddu	
 guohtoneana	beiteland	
 Fálesnuorri	Fálesnuorri	
 mohtorfievru	motorvogn	
-olgobáiki	uteplass	
+olgobáiki	uteplass	ulkopaikka
 ráđđádallan	overlegning	
 guohtuneana	beiteland	
 beaivvis	beaivvis	
 bárti	uhell	
 johtti	johtti	
 Láhpoluoppal	Láhpoluoppal	
-dovdda	sans	
+dovdda	sans	tunne
 Ávjovárri	Ávjovárri	
 čuojaheaddji	čuojaheaddji	
 diehtosiida	diehtosiida	
@@ -69,12 +68,12 @@ riikkastivra	landsstyre
 Álgu	Álgu	
 jeara	jeara	
 Goahtegearret	Goahtegearret	
-jury	jury	
+jury	jury	valamiehistö
 boazodoalloagronoma	reindriftsagronom	
 vuordát	vuordát	
 ruvkefitnodat	gruveselskap	
 gullát	begynne_å_høre	
-stivrračoahkkin	styremøte	
+stivrračoahkkin	styremøte	johtokunnan kokous
 CD-skearru	CD-skearru	
 Eanandoallodepartemeanta	Eanandoallodepartemeanta	
 veahkaválddálašvuohta	overgrep	
@@ -86,7 +85,7 @@ ovddasvástideaddji	ovddasvástideaddji
 oaggun	oaggun	
 vuosti	vuosti	
 sisabahkken	inntrenging	
-presideantaevttohas	presidentkandidat	
+presideantaevttohas	presidentkandidat	presidenttiehdokas
 Loabát	Lavangen	
 njealjejuvllat	firehjulssykkel	
 orru	orru	
@@ -94,71 +93,71 @@ orru	orru
 čoakkáldat	samling	
 čuovganeapmi	lysning	
 ráhkadeapmi	ráhkadeapmi	
-lotnolasealáhus	næringskombinasjon	
-birasgáhttenossodat	miljøvernenhet	
+lotnolasealáhus	næringskombinasjon	elinkeinoyhdistelmä
+birasgáhttenossodat	miljøvernenhet	ympäristösuojeluyksikkö
 Jiellevárri	Gällivare	
 Forum	Forum	
 goadjin	voksen_hannlaks	
 Sállan	Sørøya	
 bidjan	bidjan	
 hálddašeaddji	hálddašeaddji	
-stivrejupmi	styreform	
+stivrejupmi	styreform	johtomuoto
 skábmagovva	skábmagovva	
 endor	område_langt_unna	
-boazopolitiija	reinpoliti	
+boazopolitiija	reinpoliti	poropoliisi
 Ája	Ája	
-ráidočiekčan	seriefotball	
-giđđalodden	andejakt	
-valáštalli	valáštalli	
+ráidočiekčan	seriefotball	jalkapallon sarjapeli
+giđđalodden	andejakt	sorsametsästys
+valáštalli	valáštalli	valmentaja
 gaskaoapmi	middel	
-virgelohpi	permisjon	
+virgelohpi	permisjon	virkaloma
 jumežat	jumežat	
 goahtebeallji	goahtebeallji	
 rahčamuš	strev	
 cuiggodeapmi	tilsnakk	
-oasáš	liten_del	
+oasáš	liten_del	osanen
 Bihttá	Bihttá	
 Ofelaš	Ofelaš	
 Árran	Árran	
-olggosgollu	utgift	
+olggosgollu	utgift	kulu
 Fanasgieddi	Fanasgieddi	
-suhttu	sinne	
+suhttu	sinne	suuttumus
 movttiidahtti	movttiidahtti	
 fylkkaráđđi	fylkesråd	
 Buletjávri	Buletjávri	
-luossagonagas	laksekonge	
-dálkkodeapmi	behandling	
+luossagonagas	laksekonge	lohikuningas
+dálkkodeapmi	behandling	käsittely
 Sámemiššuvdna	Sámemiššuvdna	
-fokus	fokus	
+fokus	fokus	fokus
 Fállejohka	Fállejohka	
-giellaruhta	språkpenger	
+giellaruhta	språkpenger	kieliraha
 politiijabálvá	politibetjent	
 Ávži	Ávži	
-našunálateáhter	našunálateáhter	
+našunálateáhter	našunálateáhter	kansallisteatteri
 Várdobáiki	Várdobáiki	
-mobiilatelefovdna	mobiilatelefovdna	
+mobiilatelefovdna	mobiilatelefovdna	kännykkä
 lágamánneriekti	lagmannsrett	
-eahpesihkarvuohta	usikkerhet	
-agronoma	agronom	
+eahpesihkarvuohta	usikkerhet	epävarmuus
+agronoma	agronom	agronomi
 áššemeannudeaddji	áššemeannudeaddji	
-preassadoarjja	pressetøtte	
-ealáhussearvi	næringsforening	
+preassadoarjja	pressetøtte	lehdistötuki
+ealáhussearvi	næringsforening	elinkeinoseura
 vuostálasti	vuostálasti	
 ruhtajuolludeapmi	pengebevilgning	
 Álbmotbellodat	Álbmotbellodat	
 virgáibidjan	ansettelse	
-guovttegiella	guovttegiella	
+guovttegiella	guovttegiella	toinen kieli
 Juovlavuotna	Austertana	
 sámemiššuvdna	samemisjon	
-teknihkka	teknikk	
+teknihkka	teknikk	tekniikka
 Áitesavu	Áitesavu	
 maŋŋi	maŋŋi	
 johttisápmi	flyttsame	
 nuppástuhttinprográmma	omstillingsprogram	
-našuvdna	nasjon	
-sirkus	sirkus	
-Bissojohka	Børselv	
-amerihkálaš	amerihkálaš	
+našuvdna	nasjon	kansakunta
+sirkus	sirkus	sirkus
+Bissojohka	Børselv	Pyssyjoki
+amerihkálaš	amerihkálaš	amerikkalainen
 Team	Team	
 balddihahtti	skremmende	
 riedja	skrål	
@@ -166,12 +165,12 @@ dadjamuš	noe_å_si
 Lákkonjárga	Lákkonjárga	
 viessosadji	hustomt	
 máđidja	vei	
-miellahttuvuohta	medlemsskap	
+miellahttuvuohta	medlemsskap	jäsenyys
 Luondduhálddašandirektoráhtta	Luondduhálddašandirektoráhtta	
 Báktebohkká	Báktebohkká	
-romantihkka	romantikk	
+romantihkka	romantikk	romantiikka
 oažžun	oažžun	
-klinihkka	klinikk	
+klinihkka	klinikk	kliniikka
 justiisalávdegoddi	justiisalávdegoddi	
 hárjáneapmi	hárjáneapmi	
 Vuohčču	Vuotso	
