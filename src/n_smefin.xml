@@ -549,7 +549,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">admiraali</t>
+            <t pos="N">amiraali</t>
          </tg>
       </mg>
    </e>
@@ -4649,7 +4649,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">kiinitysnuora kodan louteen päässä keskellä ja alhaalla</t>
+            <t pos="N">kiinnitysnuora kodan louteen päässä keskellä ja alhaalla</t>
          </tg>
       </mg>
    </e>
@@ -6840,7 +6840,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">linja-autonkuljettaja</t>
-            <t pos="N">linjaautonkuljettaja</t>
          </tg>
       </mg>
    </e>
@@ -17136,7 +17135,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">tappaminen</t>
-            <t pos="N">tässä:saaminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">saaminen</t>
          </tg>
       </mg>
    </e>
@@ -17699,7 +17702,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">kuvakirja</t>
-            <t pos="N">kuvaalbumi</t>
+            <t pos="N">kuva-albumi</t>
          </tg>
       </mg>
    </e>

@@ -1378,7 +1378,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A">pierekeleväinen</t>
+            <t pos="A">piereskeleväinen</t>
          </tg>
       </mg>
    </e>
@@ -4877,7 +4877,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">ihana</t>
-            <t pos="A">hearvásin dahkat</t>
             <t pos="A">kirkastaa</t>
          </tg>
       </mg>
@@ -4960,7 +4959,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A">nirso (ruoan suhteen</t>
+            <t pos="A">nirso (ruoan suhteen)</t>
          </tg>
       </mg>
    </e>
@@ -7259,7 +7258,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A">monelainen</t>
+            <t pos="A">monenlainen</t>
          </tg>
       </mg>
    </e>
@@ -8523,7 +8522,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A">samaarvoinen</t>
+            <t pos="A">samanarvoinen</t>
          </tg>
       </mg>
    </e>
@@ -11696,7 +11695,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">viikon vanha</t>
-            <t pos="A">viikottainen</t>
+            <t pos="A">viikoittainen</t>
             <t pos="A">-viikkoinen</t>
          </tg>
       </mg>
@@ -14228,7 +14227,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="A">amerikalainen</t>
+        <t pos="A">amerikkalainen</t>
       </tg>
     </mg>
   </e>
@@ -14738,7 +14737,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="A">voitamaton</t>
+        <t pos="A">voittamaton</t>
       </tg>
     </mg>
   </e>
@@ -14758,7 +14757,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="A">tilastotietellinen</t>
+        <t pos="A">tilastotieteellinen</t>
       </tg>
     </mg>
   </e>
@@ -14948,7 +14947,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="A">symbollinen</t>
+        <t pos="A">symbolinen</t>
       </tg>
     </mg>
   </e>
@@ -15144,7 +15143,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">kulturhistorjjálaš</l>
+      <l pos="A">kultturhistorjjálaš</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -16558,7 +16557,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="A">aluellinen</t>
+        <t pos="A">alueellinen</t>
       </tg>
     </mg>
   </e>
