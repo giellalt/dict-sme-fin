@@ -8097,7 +8097,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">pitävä jalansija</t>
-            <t pos="N">(kelin pitävyys</t>
+            <t pos="N">kelin pitävyys</t>
             <t pos="N">liukueste</t>
          </tg>
       </mg>
@@ -15452,7 +15452,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">tietäjäeukko</t>
-            <t pos="N">(folkl.) kentänpään eukko</t>
+            <t pos="N" re="L_folkl.">kentänpään eukko</t>
          </tg>
       </mg>
    </e>
@@ -15463,7 +15463,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">tietäjäeukko</t>
-            <t pos="N">(folkl.) kentänpään eukko</t>
+            <t pos="N" re="L_folkl.">kentänpään eukko</t>
          </tg>
       </mg>
    </e>
@@ -19725,7 +19725,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">naarassusi</t>
-            <t pos="N">(naisesta halv.) narttu</t>
+            <t pos="N" re="L_naisesta halv.">narttu</t>
          </tg>
       </mg>
    </e>
@@ -21574,7 +21574,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">(obsol.) kahden killingin lantti</t>
+            <t pos="N" re="L_obsol.">kahden killingin lantti</t>
          </tg>
       </mg>
    </e>
@@ -22965,7 +22965,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">äänettömyys</t>
-            <t pos="N">(paha) käheys</t>
+            <t pos="N" re="L_paha">käheys</t>
             <t pos="N">vaitonaisuus</t>
          </tg>
       </mg>
@@ -30848,7 +30848,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">tyvi</t>
-            <t pos="N">(sanan) vartalo</t>
+            <t pos="N" re="L_sanan">vartalo</t>
          </tg>
       </mg>
    </e>
@@ -32045,7 +32045,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">vastasyntynyt vasa</t>
-            <t pos="N">(yhd.) vastasyntynyt</t>
+            <t pos="N" re="L_yhd.">vastasyntynyt</t>
          </tg>
       </mg>
    </e>
@@ -41896,7 +41896,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">pala (kalasta poikittain leikattu)</t>
-            <t pos="N">(maa)kaistale</t>
+            <t pos="N">kaistale</t>
+            <t pos="N">maakaistale</t>
          </tg>
       </mg>
    </e>
@@ -42346,7 +42347,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">heittonuoli</t>
-            <t pos="N">(jalkajousen) vasama</t>
+            <t pos="N" re="L_jalkajousen">vasama</t>
          </tg>
       </mg>
    </e>
@@ -43318,7 +43319,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">tuoli</t>
-            <t pos="N">(kangaspuiden) reidet</t>
+            <t pos="N" re="L_kangaspuiden">reidet</t>
          </tg>
       </mg>
    </e>
@@ -44419,7 +44420,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">kidus</t>
-            <t pos="N">(ihmisen) kita</t>
+            <t pos="N" re="L_ihmisen">kita</t>
          </tg>
       </mg>
    </e>
