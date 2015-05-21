@@ -3247,7 +3247,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A">jolla on suuri karja tai (porotokka</t>
+            <t pos="A">jolla on suuri karja tai porotokka</t>
          </tg>
       </mg>
    </e>
@@ -10505,9 +10505,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">siivetön</t>
-            <t pos="A">(liian) pienisiipinen</t>
+            <t pos="A">liian pienisiipinen</t>
             <t pos="A">hihaton</t>
-            <t pos="A">(liian) lyhythihainen</t>
+            <t pos="A">liian lyhythihainen</t>
          </tg>
       </mg>
    </e>
