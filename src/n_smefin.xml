@@ -6880,7 +6880,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">(S) putka</t>
+            <t pos="N">putka</t>
          </tg>
       </mg>
    </e>
@@ -9213,7 +9213,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">(S) tikku</t>
+            <t pos="N">tikku</t>
             <t pos="N">tulitikku</t>
          </tg>
       </mg>
@@ -32004,7 +32004,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">sääntö</t>
-            <t pos="N">säädos</t>
+            <t pos="N">säädös</t>
          </tg>
       </mg>
    </e>
@@ -39864,7 +39864,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">servetti</t>
+            <t pos="N">servietti</t>
          </tg>
       </mg>
    </e>
@@ -43420,7 +43420,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">pitkäksi (ja korkeaksi) leivottu leipä</t>
+            <t pos="N">pitkäksi ja korkeaksi leivottu leipä</t>
          </tg>
       </mg>
    </e>
@@ -43853,7 +43853,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">sula</t>
-            <t pos="A">(päälaki)aukile</t>
+            <t pos="A">päälakiaukile</t>
          </tg>
       </mg>
    </e>

@@ -940,7 +940,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">sytytellää</t>
+            <t pos="V">sytytellä</t>
          </tg>
       </mg>
    </e>
@@ -4831,7 +4831,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">jäädää ilman ruokaa</t>
+            <t pos="V">jäädä ilman ruokaa</t>
          </tg>
       </mg>
    </e>
@@ -7146,7 +7146,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">arivoida</t>
+            <t pos="V">arvioida</t>
             <t pos="V">arvostella</t>
          </tg>
       </mg>
@@ -7671,7 +7671,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">hiihdähtää</t>
+            <t pos="V">hiihdätää</t>
             <t pos="V">lähteä hiihtämään</t>
          </tg>
       </mg>
@@ -9906,7 +9906,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">palaa nopesti</t>
+            <t pos="V">palaa nopeasti</t>
          </tg>
       </mg>
   </e>
@@ -16933,7 +16933,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">laskeutua nopeasti mahalleen (eläin) tai polvilleen (ihminen)</t>
+            <t pos="V">laskeutua nopeasti mahalleen (eläin)</t>
+            <t pos="V">laskeutua nopeasti polvilleen (ihminen)</t>
          </tg>
       </mg>
   </e>
