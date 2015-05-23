@@ -123,7 +123,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="CS">jogo ... dahje</l>
       </lg>
@@ -132,8 +132,8 @@ For the full license text, see the link above.</lic>
             <t pos="CS">joko ... tai</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="CS">josgo</l>
       </lg>
@@ -142,8 +142,8 @@ For the full license text, see the link above.</lic>
             <t pos="Cc">josko</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="CS">váikko</l>
       </lg>
@@ -152,8 +152,8 @@ For the full license text, see the link above.</lic>
             <t pos="Cc">vaikka</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="CS">dego</l>
       </lg>
@@ -162,8 +162,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pcle">kuten</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="CS">jus</l>
       </lg>
@@ -172,5 +172,5 @@ For the full license text, see the link above.</lic>
             <t pos="CS">jos</t>
          </tg>
       </mg>
-  </e>
+   </e>
 </r>

@@ -83,17 +83,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Interj">cuš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Interj">hoi (porotokan houkutushuuto)</t>
+            <t pos="Interj" re="porotokan houkutushuuto">hoi</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Interj">fihcce</l>
       </lg>
@@ -102,8 +102,8 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">hyi</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Interj">fuoi</l>
       </lg>
@@ -112,8 +112,8 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">hyi</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Interj">fuos</l>
       </lg>
@@ -122,8 +122,8 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">hus</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Interj">hei</l>
       </lg>
@@ -132,8 +132,8 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">ohhoh</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Interj">hoi</l>
       </lg>
@@ -142,8 +142,8 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">hohoi</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Interj">huf</l>
       </lg>
@@ -152,8 +152,8 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">huh</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Interj">hyš</l>
       </lg>
@@ -162,8 +162,8 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">hys</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Interj">kyš kyš</l>
       </lg>
@@ -172,8 +172,8 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">hus hus</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Interj">skolle</l>
       </lg>
@@ -182,8 +182,8 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">kippis</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Interj">buorat</l>
       </lg>
@@ -193,8 +193,8 @@ For the full license text, see the link above.</lic>
             <t pos="Interj"> terve</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Interj">dearvva</l>
       </lg>
@@ -204,5 +204,5 @@ For the full license text, see the link above.</lic>
             <t pos="Interj"> moi</t>
          </tg>
       </mg>
-  </e>
+   </e>
 </r>

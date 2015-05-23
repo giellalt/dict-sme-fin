@@ -117,7 +117,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="CC">sihke</l>
       </lg>
@@ -126,8 +126,8 @@ For the full license text, see the link above.</lic>
             <t pos="CC">sekä</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="CC">dehe</l>
       </lg>
@@ -136,8 +136,8 @@ For the full license text, see the link above.</lic>
             <t pos="CC">tai</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="CC">vai</l>
       </lg>
@@ -146,5 +146,5 @@ For the full license text, see the link above.</lic>
             <t pos="CC">vai</t>
          </tg>
       </mg>
-  </e>
+   </e>
 </r>

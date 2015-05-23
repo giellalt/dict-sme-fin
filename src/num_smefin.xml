@@ -178,7 +178,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">duhát</l>
       </lg>
@@ -187,8 +187,8 @@ For the full license text, see the link above.</lic>
             <t pos="Num">tuhat</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Num">gákcilogi</l>
       </lg>
@@ -197,8 +197,8 @@ For the full license text, see the link above.</lic>
             <t pos="Num">kahdeksankymmentä</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Num">čiehččalogi</l>
       </lg>
@@ -207,8 +207,8 @@ For the full license text, see the link above.</lic>
             <t pos="Num">seitsemänkymmentä</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Num">čuohti</l>
       </lg>
@@ -217,8 +217,8 @@ For the full license text, see the link above.</lic>
             <t pos="Num">sata</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Num">miljárda</l>
       </lg>
@@ -227,8 +227,8 @@ For the full license text, see the link above.</lic>
             <t pos="Num">miljardi</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Num">miljovdna</l>
       </lg>
@@ -237,5 +237,5 @@ For the full license text, see the link above.</lic>
             <t pos="Num">miljoona</t>
          </tg>
       </mg>
-  </e>
+   </e>
 </r>

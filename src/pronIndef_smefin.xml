@@ -225,7 +225,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Pron" type="indef">mihkkege</l>
       </lg>
@@ -234,8 +234,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="indef">mitään</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron" type="indef">guhtege</l>
       </lg>
@@ -244,8 +244,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="indef">jokainen</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron" type="indef">goabbáge</l>
       </lg>
@@ -254,8 +254,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="indef">kumpikin</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron" type="indef">muhtin</l>
       </lg>
@@ -264,8 +264,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="indef">muutama</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron" type="indef">diekkár</l>
       </lg>
@@ -274,8 +274,8 @@ For the full license text, see the link above.</lic>
             <t pos="A" type="indef">tällainen</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron" type="indef">soames</l>
       </lg>
@@ -284,8 +284,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="indef">muutama</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron" type="indef">goappašat</l>
       </lg>
@@ -294,8 +294,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="indef">molemmat</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron" type="indef">iešguhtet</l>
       </lg>
@@ -304,8 +304,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="indef">jokainen</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron" type="indef">juohkehaš</l>
       </lg>
@@ -314,8 +314,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="indef">jokainen</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron" type="indef">goappaš</l>
       </lg>
@@ -324,5 +324,5 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="indef">molemmat</t>
          </tg>
       </mg>
-  </e>
+   </e>
 </r>

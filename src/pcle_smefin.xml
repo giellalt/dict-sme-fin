@@ -81,7 +81,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Pcle">mis</l>
       </lg>
@@ -90,8 +90,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pcle">tosiaan</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pcle">na</l>
       </lg>
@@ -100,8 +100,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pcle">no</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pcle">no</l>
       </lg>
@@ -110,8 +110,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pcle">no</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pcle">nuba</l>
       </lg>
@@ -120,8 +120,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pcle">niinpä</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pcle">nai</l>
       </lg>
@@ -130,5 +130,5 @@ For the full license text, see the link above.</lic>
             <t pos="Pcle">myös</t>
          </tg>
       </mg>
-  </e>
+   </e>
 </r>

@@ -69,7 +69,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Pr">guovdelaš</l>
       </lg>
@@ -78,8 +78,8 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">keskellä</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pr">earret</l>
       </lg>
@@ -88,5 +88,5 @@ For the full license text, see the link above.</lic>
             <t pos="Po">paitsi</t>
          </tg>
       </mg>
-  </e>
+   </e>
 </r>

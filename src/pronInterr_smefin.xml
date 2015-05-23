@@ -79,7 +79,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Pron">dokkár</l>
       </lg>
@@ -88,8 +88,8 @@ For the full license text, see the link above.</lic>
             <t pos="A">tuollainen kuin tuo tuolla kaukana</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron">giige</l>
       </lg>
@@ -103,8 +103,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron">kukin</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron">guhtet</l>
       </lg>
@@ -113,8 +113,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron">kukin</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron">juobbá</l>
       </lg>
@@ -123,8 +123,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron">jompikumpi</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron">juobbágoabbá</l>
       </lg>
@@ -133,8 +133,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron">jompikumpi</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron">juohkehaš</l>
       </lg>
@@ -143,8 +143,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron">jokainen</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron">miijai</l>
       </lg>
@@ -153,8 +153,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pron">mikin</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron">oktahat</l>
       </lg>
@@ -163,8 +163,8 @@ For the full license text, see the link above.</lic>
             <t pos="Num">yksi ja sama</t>
          </tg>
       </mg>
-  </e>
-  <e>
+   </e>
+   <e>
       <lg>
          <l pos="Pron">olugat</l>
       </lg>
@@ -173,5 +173,5 @@ For the full license text, see the link above.</lic>
             <t pos="Pron">monet ihmiset</t>
          </tg>
       </mg>
-  </e>
+   </e>
 </r>
