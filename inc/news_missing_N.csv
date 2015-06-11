@@ -1,12 +1,12 @@
 lihkkolohku	lykketall	onnenluku
 jienastuslohku	manntall	äänestysluku
-johtolat	flyttevei	
+johtolat	flyttevei	liikenne
 hárjehallan	trening	harjoitus
 ovdagoddi	formannskap	
 leansmánnekantuvra	lensmannskontor	nimesmiestoimisto
 ohcanáigemearri	søknadsfrist	hakuaika
 lohka	lohka	
-juoigan	joiking	
+juoigan	joiking	joikaaminen
 buvttadeaddji	buvttadeaddji	
 boahtu	boahtu	
 dálveorohat	vinterboplass	
@@ -33,7 +33,7 @@ guoddu	holdning
 čájáhusgovva	čájáhusgovva	
 Johkamohkki	Johkamohkki	
 fievru	framkomstmiddel	
-bázahus	rest	
+bázahus	rest	jäänne
 jahkebealle	halvår	puolivuosi
 gárvi	gárvi	
 ohcanskovvi	søknadsskjema	hakulomake
@@ -41,23 +41,24 @@ heargegilvu	reinkappløp
 čehppodat	dyktighet	
 moaitimuš	moaitimuš	
 moaitámuš	bebreidelse	
-stuorradiggeáirras	stortingsrepresentant	eduskunnan edustaja
-opposišuvdna	motsetning	
+stuorradiggeáirras	stortingsrepresentant	kansanedustaja
+opposišuvdna	motsetning	oppositio
 kulturmuitu	kulturminne	
-gaskkamuddu	gaskkamuddu	
+gaskkamuddu	gaskkamuddu	puoliväli
 guohtoneana	beiteland	
 Fálesnuorri	Fálesnuorri	
-mohtorfievru	motorvogn	
+mohtorfievru	motorvogn	moottoriajoneuvo
 olgobáiki	uteplass	ulkopaikka
-ráđđádallan	overlegning	
+ráđđádallan	overlegning	neuvottelu
 guohtuneana	beiteland	
 beaivvis	beaivvis	
-bárti	uhell	
+bárti	uhell	onnettomuus
 johtti	johtti	
 Láhpoluoppal	Láhpoluoppal	
 dovdda	sans	tunne
 Ávjovárri	Ávjovárri	
-čuojaheaddji	čuojaheaddji	
+čuojaheaddji	čuojaheaddji	muusikko
+čuojaheaddji	čuojaheaddji	soittaja
 diehtosiida	diehtosiida	
 bajásšaddan	oppvekst	
 čearru	vegetasjonsfattig_høyfjellsstrekning	
