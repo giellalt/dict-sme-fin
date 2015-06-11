@@ -4,7 +4,7 @@ movttiidahttit	oppmuntre
 vuoittáhallat	tape
 ákkastallat	argumentere
 vuhttot	spores
-sivahallat	anklage_for
+sivahallat	anklage_for	syytellä
 vuvdot	vuvdot	+?
 čadnot	knyttes_til
 goddot	goddot	+?
@@ -55,10 +55,10 @@ doddjot	brekke
 lihkahallat	berøre
 iđistit	dukke_opp_plustelig_eller_fort
 masttadit	masttadit	+?
-ájihit	hefte_bort
-veardádallat	veardádallat	+?
+ájihit	hefte_bort	viivyttää
+veardádallat	veardádallat	vertailla	+?
 fállot	fállot	+?
-fuolastuvvat	fuolastuvvat	+?
+fuolastuvvat	fuolastuvvat	huolestua	+?
 doaladit	holde_på_noe
 birgehallat	birgehallat	+?
 sorrot	bli_flokete
@@ -78,15 +78,15 @@ dagadit	dagadit	+?
 válddestit	válddestit	+?
 gottáhallat	gottáhallat	+?
 čukkohallat	čukkohallat	+?
-sáhkohallat	sáhkohallat	+?
-muitalastit	muitalastit	+?
+sáhkohallat	sáhkohallat	saada sakot	+?
+muitalastit	muitalastit	kertoa vähän	+?
 bonjastit	vri
 čuolastit	hogge
-viegadit	viegadit	+?
+viegadit	viegadit	juoksennella	+?
 časkilit	časkilit	+?
 gulastit	gulastit	+?
 anihit	anihit	+?
-njuikkodit	hoppe
+njuikkodit	hoppe	hypellä
 lihcohallat	lihcohallat	+?
 vuojáhallat	vuojáhallat	+?
 vuojestit	vuojestit	+?
