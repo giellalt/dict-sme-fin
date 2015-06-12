@@ -25,7 +25,7 @@
               version="4.0"
               indent="yes"/>
 
-  <xsl:param name="inDir" select="'1_sxml'"/>
+  <xsl:param name="inDir" select="'src_finsmn'"/>
   <xsl:param name="outDir" select="'2_xml'"/>
   <xsl:variable name="of" select="'xml'"/>
   <xsl:variable name="e" select="$of"/>
@@ -59,87 +59,19 @@
 	  <xsl:for-each select="./r/e[position()&gt;2]">
 	    <xsl:variable name="current_e" select="."/>
 	    <e id="{./@id}">
-	      <info>
-
-		<xsl:if test="not(normalize-space(./p[./@id='1']) ='')">
-		  <word_nr>
-		    <xsl:value-of  select="normalize-space(./p[./@id='1'])"/>
-		  </word_nr>
-		</xsl:if>
-
-		<xsl:if test="not(normalize-space(./p[./@id='2']) ='')">
-		  <page_nr>
-		    <xsl:value-of  select="normalize-space(./p[./@id='2'])"/>
-		  </page_nr>
-		</xsl:if>
-
-		<xsl:if test="not(normalize-space(./p[./@id='3']) ='')">
-		  <time>
-		    <xsl:value-of  select="normalize-space(./p[./@id='3'])"/>
-		  </time>
-		</xsl:if>
-		
-		<xsl:if test="not(normalize-space(./p[./@id='4']) ='')">
-		  <variety>
-		    <xsl:value-of  select="normalize-space(./p[./@id='4'])"/>
-		  </variety>
-		</xsl:if>
-
-		<xsl:if test="not(normalize-space(./p[./@id='5']) ='')">
-		  <informant>
-		    <xsl:value-of  select="normalize-space(./p[./@id='5'])"/>
-		  </informant>
-		</xsl:if>
-
-		<xsl:if test="not(normalize-space(./p[./@id='6']) ='')">
-		  <field_form>
-		    <xsl:value-of  select="normalize-space(./p[./@id='6'])"/>
-		  </field_form>
-		</xsl:if>
-
-		<xsl:if test="not(normalize-space(./p[./@id='12']) ='')">
-		  <comment>
-		    <xsl:value-of  select="normalize-space(./p[./@id='12'])"/>
-		  </comment>
-		</xsl:if>
-
-	      </info>
 	      <lg>
-		<l pos="{./p[./@id='8']}">
-		  <xsl:value-of select="normalize-space(./p[./@id='7'])"/>
+		<l pos="{./p[./@id='2']}">
+		  <xsl:value-of select="normalize-space(./p[./@id='1'])"/>
 		</l>
 	      </lg>
-	      <xsl:for-each  select="tokenize(normalize-space(./p[./@id='9']), ';')">
+	      <xsl:for-each  select="tokenize(normalize-space(./p[./@id='3']), ';')">
 		<mg>
-		  <tg xml:lang="swe">
+		  <tg xml:lang="smn">
 		    <xsl:for-each  select="tokenize(normalize-space(.), ',')">
-		      <t pos="{$current_e/p[./@id='8']}">
+		      <t pos="{$current_e/p[./@id='2']}">
 			<xsl:value-of  select="normalize-space(.)"/>
 		      </t>
 		    </xsl:for-each>
-		    <xsl:if test="position()=last()">
-		      <xsl:variable name="cxg">
-			<xg>
-			  <x>
-			    <xsl:value-of  select="normalize-space($current_e/p[./@id='10'])"/>
-			  </x>
-			  <xt>
-			    <xsl:value-of  select="normalize-space($current_e/p[./@id='11'])"/>
-			  </xt>
-			</xg>
-		      </xsl:variable>
-		      <xsl:if test="not($cxg='')">
-			<xsl:copy-of select="$cxg"/>
-		      </xsl:if>
-		      <xsl:variable name="csyn">
-			<syn>
-			  <xsl:value-of  select="normalize-space($current_e/p[./@id='13'])"/>
-			</syn>
-		      </xsl:variable>
-		      <xsl:if test="not($csyn='')">
-			<xsl:copy-of select="$csyn"/>
-		      </xsl:if>
-		    </xsl:if>
 		  </tg>
 		</mg>
 	      </xsl:for-each>
