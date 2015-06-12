@@ -16133,16 +16133,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">dánska</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">tanskalainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">kontroversiealla</l>
       </lg>
       <mg>
@@ -16478,16 +16468,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">säätieteellinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">davviriikalaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">pohjoismainen</t>
          </tg>
       </mg>
    </e>
