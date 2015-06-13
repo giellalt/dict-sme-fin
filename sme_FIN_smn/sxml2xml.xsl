@@ -25,7 +25,7 @@
               version="4.0"
               indent="yes"/>
 
-  <xsl:param name="inDir" select="'src_finsmn'"/>
+  <xsl:param name="inDir" select="'1_sxml'"/>
   <xsl:param name="outDir" select="'2_xml'"/>
   <xsl:variable name="of" select="'xml'"/>
   <xsl:variable name="e" select="$of"/>
@@ -58,7 +58,7 @@
         <r>
 	  <xsl:for-each select="./r/e[position()&gt;1]">
 	    <xsl:variable name="current_e" select="."/>
-	    <e id="{./@id}">
+	    <e>
 	      <lg>
 		<l pos="{./p[./@id='2']}">
 		  <xsl:value-of select="normalize-space(./p[./@id='1'])"/>
