@@ -56,7 +56,7 @@
       
       <xsl:result-document href="{$outDir}/{$file_name}.{$of}" format="{$of}">
         <r>
-	  <xsl:for-each select="./r/e[position()&gt;2]">
+	  <xsl:for-each select="./r/e[position()&gt;1]">
 	    <xsl:variable name="current_e" select="."/>
 	    <e id="{./@id}">
 	      <lg>
