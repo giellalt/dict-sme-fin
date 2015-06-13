@@ -5,7 +5,6 @@ http://giellatekno.uit.no/doc/mt/smesmn/BidixImprovementPlan.html
 
 
 1. finsmn to GT xml 
-
 1.1 csv2simple-xml
 sh csv2xml_awk.sh
 
@@ -16,6 +15,8 @@ _six sxml2xml.xsl
 _six split_file_by_pos.xsl
 
 2. unify smefin/src with ped/sme/src data
+2.1 extract smefin data from the ped/sme/src
+2.2 unify it with smefin/src data
  -TODO
 
 3. generate intersected dict
