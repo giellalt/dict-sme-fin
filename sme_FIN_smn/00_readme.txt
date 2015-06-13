@@ -13,7 +13,7 @@ sh csv2xml_awk.sh
 _six sxml2xml.xsl
 
 1.3 sort by pos
- -TODO
+_six split_file_by_pos.xsl
 
 2. unify smefin/src with ped/sme/src data
  -TODO
