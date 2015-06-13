@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e>
+      <lg>
+         <l pos="CC">eikä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">ige~ege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">(eivätkä) iäge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">että</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">et</t>
+            <t pos="CC">ete</t>
+            <t pos="CC">it</t>
+            <t pos="CC">asun ~ a'nsun</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">(syytä ilmoittamassa) vâi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">(lue läksyt</t>
+            <t pos="CC">että opit) luuVâ liävsuid</t>
+            <t pos="CC">vâi oopah</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">ja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">já~ja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">(ja niin) jeđe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">joko - ta(h)i</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">juo-uv - teikkâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">jos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">jis~jos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">mutta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">mut~mutâ</t>
+            <t pos="CC">pic</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">myös</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">meid~meiddei</t>
+            <t pos="CC">še</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">niin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">naa</t>
+            <t pos="CC">nuuvt</t>
+            <t pos="CC">te</t>
+            <t pos="CC">jite</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">(niinhän) tehân</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">(niin kuin) tego</t>
+            <t pos="CC">tegu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">(niin vain) sätinááLá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">sekä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">sehe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">sekä - että</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">sehe - já</t>
+            <t pos="CC">sehe - ete</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">sillä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">tastko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">(sillä aikaa kun) toi aaigij ko</t>
+            <t pos="CC">talle ko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">(sillä lailla) nuuvt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">vaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">pic</t>
+            <t pos="CC">váá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">vai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">vâi</t>
+            <t pos="CC">vuoi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="CC">(vai niin) jáá</t>
+         </tg>
+      </mg>
+   </e>
+</r>

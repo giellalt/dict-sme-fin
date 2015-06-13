@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e>
+      <lg>
+         <l pos="Interj">ah</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">kah</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">he</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">(kaks.) suoi sunnuu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">(mon.) sij sii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">hei (tervehdyksenä)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">tier'vâ~tiervâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">hoi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">ai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">hus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">hos</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">(poroille) kuš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">jaaha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">jáá nuuvt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">joo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">(myöntävässä vastauksessa) naa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">joo</t>
+            <t pos="Interj">joo-o</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">jukolauta (lievä kirosana)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">motjanan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">kas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">kiäh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">kippis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">skool</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">muuten, muutoin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">mudoi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">no</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">na</t>
+            <t pos="Interj">no</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">ohhoh</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">o</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">oi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">o~oo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">terve (sairaan vastakohta)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">tiervâs tier'vâs</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">(puuaineksesta) pye'ŋes puáŋŋás</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">terve (tervehdys käteltäessä)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">puurist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">terve (tervehdys)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Interj">tier'vâ~tiervâ</t>
+         </tg>
+      </mg>
+   </e>
+</r>

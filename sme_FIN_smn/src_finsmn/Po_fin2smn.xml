@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e>
+      <lg>
+         <l pos="Po">alitse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">vye'le</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">alle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">vuáLá~vuál</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">alta päin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">vyeleeld</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">edelle, eteen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">oovdân</t>
+            <t pos="Po">ovdiibel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">edelleen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">ain</t>
+            <t pos="Po">ain-uv</t>
+            <t pos="Po">vala~val</t>
+            <t pos="Po">vala-uv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">haltuun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">haaldun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">haltuunsa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">tuá'hásis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">kohden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">njeigâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">kuluessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">siste</t>
+            <t pos="Po">ääigi</t>
+            <t pos="Po">nuvâdijn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">luokse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">kiäčán</t>
+            <t pos="Po">kiäč'čá</t>
+            <t pos="Po">kuuvl</t>
+            <t pos="Po">luusâ~luus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">(luokseni</t>
+            <t pos="Po">luoksemme) luusân~luussân</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">(luoksesi</t>
+            <t pos="Po">luoksenne) luusâd~luussâd</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">(luoksensa</t>
+            <t pos="Po">luokseen) luusâs~luussâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">lähelle (jtak)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">piäl'lás</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">lähettyville</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">aldasáid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">lävitse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">čoođâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">taakse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">maŋas</t>
+            <t pos="Po">tuáhá</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">(taakseen) maŋŋaalsis</t>
+            <t pos="Po">tuá'hásis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">varten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">várás</t>
+            <t pos="Po">veerrin~verrin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vasten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">vuás'tá</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">(erit. nojallaan) njeigâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ylitse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Po">paijeel</t>
+         </tg>
+      </mg>
+   </e>
+</r>
