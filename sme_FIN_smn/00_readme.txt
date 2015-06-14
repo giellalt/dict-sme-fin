@@ -16,6 +16,8 @@ _six split_file_by_pos.xsl
 
 2. unify smefin/src with ped/sme/src data
 2.1 extract smefin data from the ped/sme/src
+_six extract_smefin_from_oahpa.xsl
+
 2.2 unify it with smefin/src data
  -TODO
 
