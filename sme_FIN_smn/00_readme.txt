@@ -18,7 +18,11 @@ _six split_file_by_pos.xsl
 2.1 extract smefin data from the ped/sme/src
 _six extract_smefin_from_oahpa.xsl
 
+2.2 extract smefin data from smefin/src
+smefin>_six extract_e_dir.xsl
+
 2.2 unify it with smefin/src data
+ - pos values are not the same: syching is necessary
  -TODO
 
 3. generate intersected dict
