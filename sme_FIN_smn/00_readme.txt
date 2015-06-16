@@ -14,7 +14,7 @@ _six sxml2xml.xsl
 1.3 sort by pos
 _six split_file_by_pos.xsl
 
-2. unify smefin/src with ped/sme/src data
+2. unify smefin/src with ped/sme/src data *)
 2.1 extract smefin data from the ped/sme/src
 _six extract_smefin_from_oahpa.xsl
 
@@ -28,3 +28,19 @@ smefin>_six extract_e_dir.xsl
 3. generate intersected dict
  -TODO
 
+
+Notes
+=====
+
+*) ped/sme/src is problematic in this context. We start out with 3645 entries>
+cat ../../../ped/sme/src/*l|grep '<l '|wc -l
+but if we remove entries that are either known, substandard or inflected forms,
+we are left with 46 ("smefin" = look the word up in the smefin dict):
+
+cat ../../../ped/sme/src/*l|grep '<l '|tr '<' '>'|cut -d">" -f3|smefin|grep '?'|grep -v '[A-ZČŠÁ ]'|cut -f1|usme|egrep '(Inf|Sg\+Nom|Adv)$'|grep -v 'Err/Orth'|cut -f1|uniq |wc -l
+
+These 46 might be better treated by manually considering adding them to smefin.
+
+For smnfin, the situation is different. Here we might have a look at 
+ped/smn/src, and see whether the smnfin entries may add to 
+the finsmn dictionary (since the smn Oahpa contains a terminology database).
