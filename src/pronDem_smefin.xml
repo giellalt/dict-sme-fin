@@ -53,7 +53,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron">lähellä puhuttavaase</t>
+            <t pos="Pron" re="lähellä puhuttavaa">se</t>
          </tg>
       </mg>
    </e>

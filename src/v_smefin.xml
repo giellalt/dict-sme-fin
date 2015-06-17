@@ -267,7 +267,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="V">välittää</t>
-            <t pos="V">välittää jstkin</t>
+            <t pos="V">välittää jostakin</t>
          </tg>
       </mg>
    </e>
@@ -1024,7 +1024,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="V">sujauttaa</t>
-            <t pos="V">panna jhkin</t>
+            <t pos="V">panna johonkin</t>
          </tg>
       </mg>
       <mg>
@@ -4161,7 +4161,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">pitää jnak</t>
+            <t pos="V">pitää jonakin</t>
          </tg>
       </mg>
    </e>
@@ -27223,7 +27223,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">saada jääkuori ylijäähtyneestä sateesta [p.o. alijäähtyneestä]</t>
+            <t pos="V">saada jääkuori alijäähtyneestä sateesta</t>
          </tg>
       </mg>
    </e>
@@ -32406,7 +32406,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">saada kiini</t>
+            <t pos="V">saada kiinni</t>
          </tg>
       </mg>
    </e>
@@ -33986,4 +33986,68 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+  <e>
+    <l pos="V">sivahallat</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">syytellä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="V">ájihit</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">viivyttää</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="V">veardádallat</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">vertailla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="V">fuolastuvvat</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">huolestua</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="V">sáhkohallat</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">saada sakot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="V">muitalastit</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">kertoa vähän</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="V">viegadit</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">juoksennella</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="V">njuikkodit</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">hypellä</t>
+      </tg>
+    </mg>
+  </e>
 </r>

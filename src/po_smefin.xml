@@ -185,8 +185,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Po">jstak asiasta</t>
-            <t pos="Po">jtak koskien</t>
+            <t pos="Po">jostakin asiasta</t>
+            <t pos="Po">jotakin koskien</t>
          </tg>
       </mg>
    </e>
@@ -278,8 +278,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Po">jkun suhteen</t>
-            <t pos="Po">jssak suhteessa</t>
+            <t pos="Po">jonkun suhteen</t>
+            <t pos="Po">jossakin suhteessa</t>
          </tg>
       </mg>
    </e>
