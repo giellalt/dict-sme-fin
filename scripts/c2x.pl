@@ -10,16 +10,17 @@ print STDOUT "<r>\n";
 while (<>) 
 {
 	chomp ;
-	my ($lemma, $trans, $lPOS, $tPOS) = split /_/ ;
+	my ($lemma, $trans) = split /\t/ ;
+#	my ($lemma, $trans, $lPOS, $tPOS) = split /_/ ;
 	my @lemma = split /, /, $lemma ;
 	my @trans = split /, /, $trans ;
-	my @lPOS = split /, /, $lPOS ;
-	my @tPOS = split /, /, $tPOS ;
+#	my @lPOS = split /, /, $lPOS ;
+#	my @tPOS = split /, /, $tPOS ;
 	print STDOUT "  <e>\n";
-	print STDOUT "    <l pos=\"$lPOS\">$lemma</l>\n";
+	print STDOUT "    <l pos=\"V\">$lemma</l>\n";
 	print STDOUT "    <mg>\n";
-	print STDOUT "      <tg>\n";
-	print STDOUT "        <t pos=\"$tPOS\">$trans</t>\n";
+	print STDOUT "      <tg xml:lang=\"fin\">\n";
+	print STDOUT "        <t pos=\"V\">$trans</t>\n";
 	print STDOUT "      </tg>\n";
 	print STDOUT "    </mg>\n";
 	print STDOUT "  </e>\n";
