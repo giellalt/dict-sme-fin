@@ -33987,7 +33987,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
   <e>
+      <lg>
     <l pos="V">sivahallat</l>
+      </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">syytellä</t>
@@ -33995,7 +33997,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+      <lg>
     <l pos="V">ájihit</l>
+      </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">viivyttää</t>
@@ -34003,7 +34007,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+      <lg>
     <l pos="V">veardádallat</l>
+      </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">vertailla</t>
@@ -34011,7 +34017,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+      <lg>
     <l pos="V">fuolastuvvat</l>
+      </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">huolestua</t>
@@ -34019,7 +34027,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+      <lg>
     <l pos="V">sáhkohallat</l>
+      </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">saada sakot</t>
@@ -34027,7 +34037,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+      <lg>
     <l pos="V">muitalastit</l>
+      </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">kertoa vähän</t>
@@ -34035,7 +34047,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+      <lg>
     <l pos="V">viegadit</l>
+      </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">juoksennella</t>
@@ -34043,7 +34057,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+      <lg>
     <l pos="V">njuikkodit</l>
+      </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">hypellä</t>
