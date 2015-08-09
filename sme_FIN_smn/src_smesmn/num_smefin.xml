@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="Num">galle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="montako" pos="Num">
+               <t pos="" wf="kale">kalle</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">guhtta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="kuusi" pos="Num">
+               <t pos="" wf="kuosâ">kuosâ</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">okta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="yksi" pos="Num">
+               <t pos="" wf="oovtâ">ohtâ</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">duhát</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="tuhat" pos="Num">
+               <t pos="">tuhháát</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">gákcilogi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="kahdeksankymmentä" pos="Num">
+               <t pos="" wf="käävcilov">kähcilov</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">čiehččalogi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="seitsemänkymmentä" pos="Num">
+               <t pos="">čiččâmlov</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">miljárda</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="miljardi" pos="Num">
+               <t pos="">miljard</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">miljovdna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="miljoona" pos="Num">
+               <t pos="">miljovn</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+</r>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="Interj">já</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="jaa" pos="Interj">
+               <t pos="">jáá</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">cuš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="hoi" pos="Interj" re="porotokan houkutushuuto">
+               <t pos="">ai</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">hei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="ohhoh" pos="Interj">
+               <t pos="">o</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">skolle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="kippis" pos="Interj">
+               <t pos="">skool</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">buorat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="terve" pos="Interj">
+               <t pos="" t_tld="~tiervâ">tiervâ</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">dearvva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="terve" pos="Interj">
+               <t pos="" t_tld="~tiervâ">tiervâ</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+</r>

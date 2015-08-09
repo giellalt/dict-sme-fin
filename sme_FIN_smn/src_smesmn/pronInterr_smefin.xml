@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="Pron">giige</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="kukaan" pos="Pron">
+               <t pos="" t_tld="~kihheen kiännân" wf="kiännán">kihheen</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">juobbá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="jompikumpi" pos="Pron">
+               <t pos="" wf="kuáb'báánii">kuábbášnii</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">juobbágoabbá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="jompikumpi" pos="Pron">
+               <t pos="" wf="kuáb'báánii">kuábbášnii</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+</r>

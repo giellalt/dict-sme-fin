@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="CS">jos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="jos" pos="CS">
+               <t pos="" t_tld="~jos">jis</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">juos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="jos" pos="CS">
+               <t pos="" t_tld="~jos">jis</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">jus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="jos" pos="CS">
+               <t pos="" t_tld="~jos">jis</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+</r>

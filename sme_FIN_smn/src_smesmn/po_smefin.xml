@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="Po">ala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="päälle" pos="Po">
+               <t pos="">oolâ</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">badjelis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="yllä" pos="Po">
+               <t pos="">pajalist</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">bajábealde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="yläpuolella" pos="Po">
+               <t pos="">paajaabeln</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">bealde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="puolella" pos="Po">
+               <t pos="">peln</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">bealdi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="puolella" pos="Po">
+               <t pos="">peln</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">beales</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="puolella" pos="Adv">
+               <t pos="">peln</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">bealis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="puolella" pos="Adv">
+               <t pos="">peln</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">beallai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="puolelle" pos="Po">
+               <t pos="">pel</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">dihte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="takia" pos="Po">
+               <t pos="">keežild</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">duohken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="takana" pos="Po">
+               <t pos="">tyehin</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">gaskii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="väliin" pos="Po">
+               <t pos="">kyevtkooskân</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">gaskkas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="välissä" pos="Po">
+               <t pos="">kooskâst</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">geažes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="kuluttua" pos="Po">
+               <t pos="">keččin</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">guoras</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="ääressä" pos="Po">
+               <t pos="">piällást</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ládje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="tavalla" pos="Adv">
+               <t pos="">naalijn</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">láhkai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="tavalla" pos="Adv">
+               <t pos="">naalijn</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">maŋis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="perässä" pos="Po">
+               <t pos="">maajeeld</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">maŋábealde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="takana" pos="Po">
+               <t pos="">tyehin</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">maŋábealdi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="takana" pos="Po">
+               <t pos="">tyehin</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">olggobealde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="ulkopuolella" pos="Po">
+               <t pos="">ulguubeln</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">olggobealdi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="ulkopuolella" pos="Po">
+               <t pos="">ulguubeln</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ovdii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="eteen" pos="Po">
+               <t pos="">oovdân</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">rádjái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="asti" pos="Po">
+               <t pos="">rääjist</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">sisa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="sisälle" pos="Po">
+               <t pos="">siisâ</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vuollái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="alle" pos="Po">
+               <t pos="" t_tld="~vuál">vuálá</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vuođul</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="perusteella" pos="Po">
+               <t pos="">vuáđuld</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">várás</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="takia" pos="Po">
+               <t pos="">keežild</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+</r>

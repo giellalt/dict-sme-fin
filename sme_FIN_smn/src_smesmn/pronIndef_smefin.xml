@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="Pron" type="indef">goabbat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="kumpikin" pos="Pron">
+               <t pos="">kuábbáš-uv kuábbáá-uv</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="indef">juoga</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="jokin" pos="Pron">
+               <t pos="" wf="monnii">miinii</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="indef">goabbáge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="kumpikin" pos="Pron" type="indef">
+               <t pos="">kuábbáš-uv kuábbáá-uv</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+</r>

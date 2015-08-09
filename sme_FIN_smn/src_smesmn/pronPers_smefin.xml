@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="Pron" type="pers">dat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="hän" pos="Pron">
+               <t pos="" wf="suu">sun</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="pers">dii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="te" pos="Pron">
+               <t pos="" wf="tunnuu">tuoi</t>
+               <t pos="" wf="tii">tij</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="pers">mun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="minä" pos="Pron">
+               <t pos="" wf="muu">mun</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="pers">son</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="hän" pos="Pron">
+               <t pos="" wf="suu">sun</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+</r>

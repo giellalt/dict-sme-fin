@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="mwe">goaseai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="lähes" pos="mwe">
+               <t pos="">aldasáid</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">man láhkái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <link fin="tavalla" pos="mwe">
+               <t pos="">naalijn</t>
+            </link>
+         </tg>
+      </mg>
+   </e>
+</r>
