@@ -44,3 +44,44 @@ These 46 might be better treated by manually considering adding them to smefin.
 For smnfin, the situation is different. Here we might have a look at 
 ped/smn/src, and see whether the smnfin entries may add to 
 the finsmn dictionary (since the smn Oahpa contains a terminology database).
+
+==========================
+Notes on bidix compilation
+==========================
+
+1. Cip's internal deadline: 01.10.2015
+   (waiting for the disambiguation of 508 strings from Miina)
+
+2. input for the intersecting script:
+   (a) main/words/dicts/smefin/src 
+   (b) main/words/dicts/finsmn/src
+       (now still in main/words/dicts/finsmn/inc/2015/2_*)
+
+3. xml format of the input file for generating apertium bidix format
+   (as we discussed earlier with CG, TT and LA)
+
+   sme_LEMMA (fin_LINKING_LEMMAS as attribute) smn_TRANSLATIONS
+
+Ex.
+
+
+   <e>
+      <lg>
+         <l pos="N">miellahttuvuohta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" links="jäsenyys">jäsenyys</t>
+         </tg>
+      </mg>
+   </e>
+
+
+4. further issues
+   4.1 linking refinements: add pos to the fin linking lemmata
+   4.2 proper nouns treatment for bidix file
+
+5. generating apertium bidix files:
+   docu, templates, scripts for generating bidix files?
+   ==> Cip has to ask Trond and/or Francis
+
