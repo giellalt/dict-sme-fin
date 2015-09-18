@@ -71,7 +71,7 @@ Ex.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="N" links="jäsenyys">jäsenyys</t>
+            <t pos="N" links="jäsenyys">jeessânvuotâ</t>
          </tg>
       </mg>
    </e>
