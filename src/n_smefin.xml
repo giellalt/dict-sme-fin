@@ -14778,8 +14778,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N"
-               re="erit. kahvipannusta tai kattilasta ylikiehumisen välttämiseksi vähennettävästä nesteestä">vähennettävä osuus</t>
+            <t pos="N" re="erit. kahvipannusta tai kattilasta ylikiehumisen välttämiseksi vähennettävästä nesteestä">vähennettävä osuus</t>
             <t pos="N">poisto</t>
          </tg>
       </mg>
