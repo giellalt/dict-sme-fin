@@ -40,8 +40,8 @@
 
 
   <!--   Input file in text format: as parameter -->
-  <xsl:param name="inFile" select="'2_xml/suoma-saami-sanikirjeversio-12012015.xml'"/>
-  <xsl:param name="outputDir" select="'src_out'"/>
+  <xsl:param name="inFile" select="'../src/x_finsmn.xml'"/>
+  <xsl:param name="outputDir" select="'_out_src_'"/>
   <xsl:variable name="lang_pair" select="'fin2smn'"/>
   <xsl:variable name="slang" select="'fin'"/>
   
