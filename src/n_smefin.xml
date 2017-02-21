@@ -13767,7 +13767,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">huomautus, idea</t>
+            <t pos="N">huomautus</t>
+            <t pos="N">idea</t>
          </tg>
       </mg>
    </e>
