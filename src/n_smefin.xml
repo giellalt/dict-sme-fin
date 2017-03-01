@@ -15881,7 +15881,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">čuohttegiella</l>
+         <l pos="N">čuohtegiella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">satakieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">čuohtegielaš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
