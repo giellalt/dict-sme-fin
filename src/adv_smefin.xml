@@ -853,7 +853,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">jonkin verran pohjoisemmas</t>
             <t pos="Adv" var="sw">jonkin verran lännemmäs</t>
-            <t pos="Adv" re="vuonossa tai ulapalla">jonkin verran ulommas</t>
+            </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>vuonossa tai ulapalla</re>
+            <t pos="Adv">jonkin verran ulommas</t>
          </tg>
       </mg>
    </e>
@@ -4243,7 +4248,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pcle">suorastaan</t>
-            <t pos="Pcle" re="kääntymättä tai pysähtymättä">suoraan</t>
+            </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>kääntymättä tai pysähtymättä</re>
+            <t pos="Pcle">suoraan</t>
          </tg>
       </mg>
    </e>
