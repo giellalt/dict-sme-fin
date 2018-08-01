@@ -10645,8 +10645,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N" re="aines">huopa</t>
-            <t pos="N" re="tila">vanutus</t>
+            <re>aines</re>
+            <t pos="N">huopa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>tila</re>
+            <t pos="N">vanutus</t>
          </tg>
       </mg>
    </e>
@@ -27848,8 +27854,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N" re="josta sarvi kasvaa">sarventyvi</t>
-            <t pos="N" re="neuleessa">kavennus</t>
+            <re>neuleessa</re>
+            <t pos="N">kavennus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>josta sarvi kasvaa</re>
+            <t pos="N">sarventyvi</t>
          </tg>
       </mg>
    </e>
@@ -32368,8 +32380,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N" re="porovaatimesta">kenosarvi</t>
-            <t pos="N" re="esine tai eläin">sutjakka olio</t>
+            <re>porovaatimesta</re>
+            <t pos="N">kenosarvi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>esine tai eläin</re>
+            <t pos="N">sutjakka olio</t>
          </tg>
       </mg>
    </e>
@@ -45446,9 +45464,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N" re="lihoineen">kylkiluu</t>
-            <t pos="N" re="louteessa">kangaskaista</t>
-            <t pos="N" re="keitettäväksi">maksasuikale</t>
+            <re>lihoineen</re>
+            <t pos="N">kylkiluu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>louteessa</re>
+            <t pos="N">kangaskaista</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>keitettäväksi</re>
+            <t pos="N">maksasuikale</t>
          </tg>
       </mg>
    </e>

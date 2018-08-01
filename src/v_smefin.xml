@@ -16987,8 +16987,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V" re="eläin">laskeutua nopeasti mahalleen</t>
-            <t pos="V" re="ihminen">laskeutua nopeasti polvilleen</t>
+            <re>eläin</re>
+            <t pos="V">laskeutua nopeasti mahalleen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>ihminen</re>
+            <t pos="V">laskeutua nopeasti polvilleen</t>
          </tg>
       </mg>
    </e>
@@ -28559,8 +28565,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V" re="usein tai useista">konttailla</t>
-            <t pos="V" re="usein tai useista">lähteä konttaamaan</t>
+            <re>usein tai useista</re>
+            <t pos="V">konttailla</t>
+            <t pos="V">lähteä konttaamaan</t>
          </tg>
       </mg>
    </e>
@@ -30669,8 +30676,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V" re="ihmisestä">saada suuri porotokka</t>
-            <t pos="V" re="seudusta">saada paljon porokyliä</t>
+            <re>seudusta</re>
+            <t pos="V">saada paljon porokyliä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>ihmisestä</re>
+            <t pos="V">saada suuri porotokka</t>
          </tg>
       </mg>
    </e>
@@ -31088,8 +31101,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V" re="ihmisestä">tulla kunnolliseksi</t>
-            <t pos="V" re="ihmisestä">tulla kunnollisemmaksi</t>
+            <re>ihmisestä</re>
+            <t pos="V">tulla kunnolliseksi</t>
+            <t pos="V">tulla kunnollisemmaksi</t>
          </tg>
       </mg>
    </e>
@@ -32251,9 +32265,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V" re="riippakoivun oksista">riippua</t>
-            <t pos="V" re="riippakoivusta">seistä riippaoksaisena</t>
-            <t pos="V" re="vaatteista">roikkua</t>
+            <re>riippakoivun oksista</re>
+            <t pos="V">riippua</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>riippakoivusta</re>
+            <t pos="V">seistä riippaoksaisena</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>vaatteista</re>
+            <t pos="V">roikkua</t>
          </tg>
       </mg>
    </e>
