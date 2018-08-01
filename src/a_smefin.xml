@@ -378,7 +378,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="litteistä esineistä">ohut</t>
+            <re>litteistä esineistä</re>
+            <t pos="A">ohut</t>
          </tg>
       </mg>
    </e>
@@ -388,7 +389,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="litteästä esineestä">paksuinen</t>
+            <re>litteästä esineestä</re>
+            <t pos="A">paksuinen</t>
          </tg>
       </mg>
    </e>
@@ -419,7 +421,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="nahasta">paksuketinen</t>
+            <re>nahasta</re>
+            <t pos="A">paksuketinen</t>
          </tg>
       </mg>
    </e>
@@ -579,7 +582,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ajanjaksosta">jossa on vähän pyhäpäiviä</t>
+            <re>ajanjaksosta</re>
+            <t pos="A">jossa on vähän pyhäpäiviä</t>
          </tg>
       </mg>
    </e>
@@ -722,7 +726,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ei vino tai vääntynyt">suora</t>
+            <re>ei vino tai vääntynyt</re>
+            <t pos="A">suora</t>
          </tg>
       </mg>
    </e>
@@ -853,7 +858,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="äänteestä">bilateraali</t>
+            <re>äänteestä</re>
+            <t pos="A">bilateraali</t>
             <t pos="A">kahdenkeskinen</t>
          </tg>
       </mg>
@@ -1418,7 +1424,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="eläimestä">helposti talutettava</t>
+            <re>eläimestä</re>
+            <t pos="A">helposti talutettava</t>
          </tg>
       </mg>
    </e>
@@ -1541,7 +1548,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="kasvoista">pöhöttynyt</t>
+            <re>kasvoista</re>
+            <t pos="A">pöhöttynyt</t>
          </tg>
       </mg>
    </e>
@@ -1581,7 +1589,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="aikuisesta pojasta">kuuliainen vanhempiaan kohtaan</t>
+            <re>aikuisesta pojasta</re>
+            <t pos="A">kuuliainen vanhempiaan kohtaan</t>
          </tg>
       </mg>
    </e>
@@ -1947,7 +1956,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="maasta">tasainen</t>
+            <re>maasta</re>
+            <t pos="A">tasainen</t>
          </tg>
       </mg>
    </e>
@@ -2298,7 +2308,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="kesälaitumesta">kulunut</t>
+            <re>kesälaitumesta</re>
+            <t pos="A">kulunut</t>
          </tg>
       </mg>
    </e>
@@ -2492,7 +2503,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="porosta">yksin viihtyvä</t>
+            <re>porosta</re>
+            <t pos="A">yksin viihtyvä</t>
          </tg>
       </mg>
    </e>
@@ -2710,7 +2722,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ajoporosta">änkyrä</t>
+            <re>ajoporosta</re>
+            <t pos="A">änkyrä</t>
          </tg>
       </mg>
    </e>
@@ -2953,7 +2966,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="kuviosta">epäsäännöllinen</t>
+            <re>kuviosta</re>
+            <t pos="A">epäsäännöllinen</t>
          </tg>
       </mg>
    </e>
@@ -3526,7 +3540,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="juhdasta">jolla on suuret ryntäät</t>
+            <re>juhdasta</re>
+            <t pos="A">jolla on suuret ryntäät</t>
          </tg>
       </mg>
    </e>
@@ -3789,7 +3804,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="yöstä">hämärä</t>
+            <re>yöstä</re>
+            <t pos="A">hämärä</t>
          </tg>
       </mg>
    </e>
@@ -3809,7 +3825,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="tilavuudeltaan">pieni</t>
+            <re>tilavuudeltaan</re>
+            <t pos="A">pieni</t>
          </tg>
       </mg>
    </e>
@@ -3819,7 +3836,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="tilavuudeltaan">pieni</t>
+            <re>tilavuudeltaan</re>
+            <t pos="A">pieni</t>
          </tg>
       </mg>
    </e>
@@ -3839,7 +3857,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ihmisestä">matalajalkainen</t>
+            <re>ihmisestä</re>
+            <t pos="A">matalajalkainen</t>
          </tg>
       </mg>
    </e>
@@ -3969,7 +3988,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="luusta">ohutseinäinen</t>
+            <re>luusta</re>
+            <t pos="A">ohutseinäinen</t>
          </tg>
       </mg>
    </e>
@@ -4317,7 +4337,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="puukosta">huono</t>
+            <re>puukosta</re>
+            <t pos="A">huono</t>
          </tg>
       </mg>
    </e>
@@ -4611,7 +4632,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="säästä">kolea</t>
+            <re>säästä</re>
+            <t pos="A">kolea</t>
          </tg>
       </mg>
    </e>
@@ -4641,7 +4663,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="savu">kitkerä</t>
+            <re>savu</re>
+            <t pos="A">kitkerä</t>
          </tg>
       </mg>
    </e>
@@ -4816,7 +4839,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="naisesta">lähentelevä</t>
+            <re>naisesta</re>
+            <t pos="A">lähentelevä</t>
          </tg>
       </mg>
    </e>
@@ -4826,7 +4850,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="naisesta">lähentelevä</t>
+            <re>naisesta</re>
+            <t pos="A">lähentelevä</t>
          </tg>
       </mg>
    </e>
@@ -4836,7 +4861,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="porohärkiä">jolla tai jossa on paljon</t>
+            <re>porohärkiä</re>
+            <t pos="A">jolla tai jossa on paljon</t>
          </tg>
       </mg>
    </e>
@@ -4917,7 +4943,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="indekl.">koko</t>
+            <re>indekl.</re>
+            <t pos="A">koko</t>
          </tg>
       </mg>
    </e>
@@ -4959,7 +4986,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ruoan suhteen">nirso</t>
+            <re>ruoan suhteen</re>
+            <t pos="A">nirso</t>
          </tg>
       </mg>
    </e>
@@ -5220,7 +5248,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ei tiheä">harva</t>
+            <re>ei tiheä</re>
+            <t pos="A">harva</t>
          </tg>
       </mg>
    </e>
@@ -5230,7 +5259,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ei usea">harva</t>
+            <re>ei usea</re>
+            <t pos="A">harva</t>
          </tg>
       </mg>
    </e>
@@ -5682,7 +5712,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="tokasta">jossa on paljon valkkoja</t>
+            <re>tokasta</re>
+            <t pos="A">jossa on paljon valkkoja</t>
          </tg>
       </mg>
    </e>
@@ -5873,7 +5904,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="maastosta">painanteinen</t>
+            <re>maastosta</re>
+            <t pos="A">painanteinen</t>
          </tg>
       </mg>
    </e>
@@ -5973,7 +6005,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="lapsesta">nopsajalkainen</t>
+            <re>lapsesta</re>
+            <t pos="A">nopsajalkainen</t>
          </tg>
       </mg>
    </e>
@@ -6125,7 +6158,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="nahasta tai nahkaisista vaatteista">kutistunut</t>
+            <re>nahasta tai nahkaisista vaatteista</re>
+            <t pos="A">kutistunut</t>
          </tg>
       </mg>
    </e>
@@ -6630,7 +6664,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ajoporosta">joka usein juroo paikoilleen</t>
+            <re>ajoporosta</re>
+            <t pos="A">joka usein juroo paikoilleen</t>
          </tg>
       </mg>
    </e>
@@ -7308,7 +7343,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="housuista">lököttävä</t>
+            <re>housuista</re>
+            <t pos="A">lököttävä</t>
          </tg>
       </mg>
    </e>
@@ -7562,7 +7598,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="nahkavaatteista">likomärkä</t>
+            <re>nahkavaatteista</re>
+            <t pos="A">likomärkä</t>
          </tg>
       </mg>
    </e>
@@ -7593,7 +7630,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="rinteestä">loivin</t>
+            <re>rinteestä</re>
+            <t pos="A">loivin</t>
          </tg>
       </mg>
    </e>
@@ -7613,7 +7651,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="taudista">erittäin tarttuva</t>
+            <re>taudista</re>
+            <t pos="A">erittäin tarttuva</t>
          </tg>
       </mg>
    </e>
@@ -7663,7 +7702,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ajokkaasta">oppivainen</t>
+            <re>ajokkaasta</re>
+            <t pos="A">oppivainen</t>
          </tg>
       </mg>
    </e>
@@ -7673,7 +7713,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="kalasta">limainen</t>
+            <re>kalasta</re>
+            <t pos="A">limainen</t>
          </tg>
       </mg>
    </e>
@@ -8030,7 +8071,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ilmasta">kuuroinen</t>
+            <re>ilmasta</re>
+            <t pos="A">kuuroinen</t>
          </tg>
       </mg>
    </e>
@@ -8154,7 +8196,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="vaatteesta">väljä</t>
+            <re>vaatteesta</re>
+            <t pos="A">väljä</t>
          </tg>
       </mg>
    </e>
@@ -8205,7 +8248,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="suosta">silmäkkeinen</t>
+            <re>suosta</re>
+            <t pos="A">silmäkkeinen</t>
          </tg>
       </mg>
    </e>
@@ -8225,7 +8269,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="käsistä">rinnushalkiossa oleva</t>
+            <re>käsistä</re>
+            <t pos="A">rinnushalkiossa oleva</t>
          </tg>
       </mg>
    </e>
@@ -8392,7 +8437,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="lapsesta">levollinen</t>
+            <re>lapsesta</re>
+            <t pos="A">levollinen</t>
          </tg>
       </mg>
    </e>
@@ -8714,7 +8760,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="naistenlakista">jonka reunassa ei ole koristenauhaa</t>
+            <re>naistenlakista</re>
+            <t pos="A">jonka reunassa ei ole koristenauhaa</t>
          </tg>
       </mg>
    </e>
@@ -8735,7 +8782,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="lyhyistä jaloista">harottava</t>
+            <re>lyhyistä jaloista</re>
+            <t pos="A">harottava</t>
          </tg>
       </mg>
    </e>
@@ -8745,7 +8793,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="lapsesta">herkkäuninen</t>
+            <re>lapsesta</re>
+            <t pos="A">herkkäuninen</t>
          </tg>
       </mg>
    </e>
@@ -8866,7 +8915,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="raskaana olevasta naisesta">vatsa pystyssä kävelevä</t>
+            <re>raskaana olevasta naisesta</re>
+            <t pos="A">vatsa pystyssä kävelevä</t>
          </tg>
       </mg>
    </e>
@@ -8997,7 +9047,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="porohirvaasta">väkevä</t>
+            <re>porohirvaasta</re>
+            <t pos="A">väkevä</t>
          </tg>
       </mg>
    </e>
@@ -9129,7 +9180,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="säästä">puuskainen</t>
+            <re>säästä</re>
+            <t pos="A">puuskainen</t>
          </tg>
       </mg>
    </e>
@@ -9139,7 +9191,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="säästä">puuskainen</t>
+            <re>säästä</re>
+            <t pos="A">puuskainen</t>
          </tg>
       </mg>
    </e>
@@ -9159,7 +9212,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="juhdasta">joka helposti saa ontumavian</t>
+            <re>juhdasta</re>
+            <t pos="A">joka helposti saa ontumavian</t>
          </tg>
       </mg>
    </e>
@@ -9219,7 +9273,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="jauhoista">paakkuinen</t>
+            <re>jauhoista</re>
+            <t pos="A">paakkuinen</t>
          </tg>
       </mg>
    </e>
@@ -9319,7 +9374,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="lapinkakusta">halkeillut</t>
+            <re>lapinkakusta</re>
+            <t pos="A">halkeillut</t>
          </tg>
       </mg>
    </e>
@@ -9329,7 +9385,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="pyyntirautoja">jolla on paljon</t>
+            <re>pyyntirautoja</re>
+            <t pos="A">jolla on paljon</t>
             <t pos="A">jossa on liikaa rautaa</t>
          </tg>
       </mg>
@@ -9340,7 +9397,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="elämistä">pieniraajainen</t>
+            <re>elämistä</re>
+            <t pos="A">pieniraajainen</t>
          </tg>
       </mg>
    </e>
@@ -9350,7 +9408,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="eläimestä">isoraajainen</t>
+            <re>eläimestä</re>
+            <t pos="A">isoraajainen</t>
          </tg>
       </mg>
    </e>
@@ -9412,7 +9471,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="veneestä">korkealaitainen</t>
+            <re>veneestä</re>
+            <t pos="A">korkealaitainen</t>
          </tg>
       </mg>
    </e>
@@ -9644,7 +9704,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="rinteestä">erittäin jyrkkä</t>
+            <re>rinteestä</re>
+            <t pos="A">erittäin jyrkkä</t>
          </tg>
       </mg>
    </e>
@@ -9746,7 +9807,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="eläimestä">jolla on iso etuselkä</t>
+            <re>eläimestä</re>
+            <t pos="A">jolla on iso etuselkä</t>
          </tg>
       </mg>
    </e>
@@ -9756,7 +9818,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="äimän kärjestä">suippo</t>
+            <re>äimän kärjestä</re>
+            <t pos="A">suippo</t>
          </tg>
       </mg>
    </e>
@@ -9766,7 +9829,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="puista">lumeton</t>
+            <re>puista</re>
+            <t pos="A">lumeton</t>
          </tg>
       </mg>
    </e>
@@ -9776,7 +9840,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="asiasta">selvä</t>
+            <re>asiasta</re>
+            <t pos="A">selvä</t>
          </tg>
       </mg>
    </e>
@@ -9786,7 +9851,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="asiasta">selvä</t>
+            <re>asiasta</re>
+            <t pos="A">selvä</t>
          </tg>
       </mg>
    </e>
@@ -9888,7 +9954,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="lapsesta">kosketuksenarka</t>
+            <re>lapsesta</re>
+            <t pos="A">kosketuksenarka</t>
          </tg>
       </mg>
    </e>
@@ -9968,7 +10035,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ihmisestä">vaativa</t>
+            <re>ihmisestä</re>
+            <t pos="A">vaativa</t>
          </tg>
       </mg>
    </e>
@@ -9978,7 +10046,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="seudusta">jossa ei ole tai on vähän porokyliä</t>
+            <re>seudusta</re>
+            <t pos="A">jossa ei ole tai on vähän porokyliä</t>
          </tg>
       </mg>
    </e>
@@ -9988,7 +10057,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="seudusta">jossa on paljon porokyliä</t>
+            <re>seudusta</re>
+            <t pos="A">jossa on paljon porokyliä</t>
          </tg>
       </mg>
    </e>
@@ -10108,7 +10178,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="maultaan">kärventynyt</t>
+            <re>maultaan</re>
+            <t pos="A">kärventynyt</t>
          </tg>
       </mg>
    </e>
@@ -10148,7 +10219,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="karvoituksesta">paakkuiseksi jäätynyt</t>
+            <re>karvoituksesta</re>
+            <t pos="A">paakkuiseksi jäätynyt</t>
          </tg>
       </mg>
    </e>
@@ -10218,7 +10290,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="koiran korvasta">pysty</t>
+            <re>koiran korvasta</re>
+            <t pos="A">pysty</t>
          </tg>
       </mg>
    </e>
@@ -10299,7 +10372,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="pellosta">mättäinen</t>
+            <re>pellosta</re>
+            <t pos="A">mättäinen</t>
          </tg>
       </mg>
    </e>
@@ -10412,7 +10486,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="puheissaan">rivo</t>
+            <re>puheissaan</re>
+            <t pos="A">rivo</t>
          </tg>
       </mg>
    </e>
@@ -10443,7 +10518,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="liian nopeasti kuivuneesta nahkavaatteesta">kurttuinen</t>
+            <re>liian nopeasti kuivuneesta nahkavaatteesta</re>
+            <t pos="A">kurttuinen</t>
          </tg>
       </mg>
    </e>
@@ -10758,7 +10834,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="koivusta">pökkelöitynyt</t>
+            <re>koivusta</re>
+            <t pos="A">pökkelöitynyt</t>
          </tg>
       </mg>
    </e>
@@ -10768,7 +10845,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="koivunpökkelöitä">jossa on paljon</t>
+            <re>koivunpökkelöitä</re>
+            <t pos="A">jossa on paljon</t>
          </tg>
       </mg>
    </e>
@@ -10911,7 +10989,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="astiasta">liian matala</t>
+            <re>astiasta</re>
+            <t pos="A">liian matala</t>
          </tg>
       </mg>
    </e>
@@ -10982,7 +11061,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="sarven sisuksesta">huokoinen</t>
+            <re>sarven sisuksesta</re>
+            <t pos="A">huokoinen</t>
          </tg>
       </mg>
    </e>
@@ -11096,7 +11176,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="lihasta">jossa on paljon toukkia</t>
+            <re>lihasta</re>
+            <t pos="A">jossa on paljon toukkia</t>
          </tg>
       </mg>
    </e>
@@ -11137,7 +11218,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="erit. ei-saamelaisista naisista">kömpelö ja isokokoinen</t>
+            <re>erit. ei-saamelaisista naisista</re>
+            <t pos="A">kömpelö ja isokokoinen</t>
          </tg>
       </mg>
    </e>
@@ -11232,7 +11314,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="veneestä">kantava</t>
+            <re>veneestä</re>
+            <t pos="A">kantava</t>
          </tg>
       </mg>
    </e>
@@ -11242,7 +11325,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="veneestä">kantava</t>
+            <re>veneestä</re>
+            <t pos="A">kantava</t>
          </tg>
       </mg>
    </e>
@@ -11777,7 +11861,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="työnteossa">kestävä</t>
+            <re>työnteossa</re>
+            <t pos="A">kestävä</t>
             <t pos="A">vaikutusvaltainen</t>
          </tg>
       </mg>
@@ -11964,7 +12049,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="lapsesta">kehittynyt</t>
+            <re>lapsesta</re>
+            <t pos="A">kehittynyt</t>
          </tg>
       </mg>
    </e>
@@ -12026,7 +12112,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="jänteistä">taipuvainen tulehtumaan</t>
+            <re>jänteistä</re>
+            <t pos="A">taipuvainen tulehtumaan</t>
          </tg>
       </mg>
    </e>
@@ -12086,7 +12173,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="hieman">joka helposti väsyy</t>
+            <re>hieman</re>
+            <t pos="A">joka helposti väsyy</t>
          </tg>
       </mg>
    </e>
@@ -12381,7 +12469,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="kankaasta">leveä</t>
+            <re>kankaasta</re>
+            <t pos="A">leveä</t>
          </tg>
       </mg>
    </e>
@@ -12462,7 +12551,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="verkosta">matala</t>
+            <re>verkosta</re>
+            <t pos="A">matala</t>
          </tg>
       </mg>
    </e>
@@ -12492,7 +12582,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="veneitä varten">jossa on paljon poukamia</t>
+            <re>veneitä varten</re>
+            <t pos="A">jossa on paljon poukamia</t>
          </tg>
       </mg>
    </e>
@@ -12756,7 +12847,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="lapsesta">ainokainen</t>
+            <re>lapsesta</re>
+            <t pos="A">ainokainen</t>
          </tg>
       </mg>
    </e>
@@ -13267,7 +13359,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ei humalassa">selvä</t>
+            <re>ei humalassa</re>
+            <t pos="A">selvä</t>
          </tg>
       </mg>
    </e>
@@ -13420,7 +13513,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="pinosta">hutera</t>
+            <re>pinosta</re>
+            <t pos="A">hutera</t>
          </tg>
       </mg>
    </e>
@@ -13524,7 +13618,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="erit. porohirvaasta rykimäajan jälkeen">löyhkäävä</t>
+            <re>erit. porohirvaasta rykimäajan jälkeen</re>
+            <t pos="A">löyhkäävä</t>
             <t pos="A">löyhkä</t>
          </tg>
       </mg>
@@ -13545,7 +13640,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="keitettävästä maidosta">juoksettunut</t>
+            <re>keitettävästä maidosta</re>
+            <t pos="A">juoksettunut</t>
          </tg>
       </mg>
    </e>
@@ -13756,7 +13852,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="ylämaasta">tasankoinen</t>
+            <re>ylämaasta</re>
+            <t pos="A">tasankoinen</t>
          </tg>
       </mg>
    </e>
@@ -13797,7 +13894,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="nahkavaatteista">likomärkä</t>
+            <re>nahkavaatteista</re>
+            <t pos="A">likomärkä</t>
          </tg>
       </mg>
    </e>
@@ -13807,7 +13905,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" re="nahkavaatteista">likomärkä</t>
+            <re>nahkavaatteista</re>
+            <t pos="A">likomärkä</t>
          </tg>
       </mg>
    </e>

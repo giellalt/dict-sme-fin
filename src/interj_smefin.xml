@@ -89,7 +89,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Interj" re="porotokan houkutushuuto">hoi</t>
+            <re>porotokan houkutushuuto</re>
+            <t pos="Interj">hoi</t>
          </tg>
       </mg>
    </e>
