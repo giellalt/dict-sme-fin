@@ -29,7 +29,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="Pron" type="pers">dat</l>
+         <l pos="Pron" type="Pers">dat</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -45,7 +45,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="pers">dii</l>
+         <l pos="Pron" type="Pers">dii</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -55,7 +55,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="pers">doai</l>
+         <l pos="Pron" type="Pers">doai</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -65,7 +65,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="pers">don</l>
+         <l pos="Pron" type="Pers">don</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -75,7 +75,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="pers">mii</l>
+         <l pos="Pron" type="Pers">mii</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -85,7 +85,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="pers">moai</l>
+         <l pos="Pron" type="Pers">moai</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -95,7 +95,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="pers">mun</l>
+         <l pos="Pron" type="Pers">mun</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -105,7 +105,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="pers">sii</l>
+         <l pos="Pron" type="Pers">sii</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -115,7 +115,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="pers">soai</l>
+         <l pos="Pron" type="Pers">soai</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -125,7 +125,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="pers">son</l>
+         <l pos="Pron" type="Pers">son</l>
       </lg>
       <mg>
          <tg xml:lang="fin">

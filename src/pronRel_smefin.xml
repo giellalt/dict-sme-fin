@@ -29,7 +29,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="Pron" type="rel">gii</l>
+         <l pos="Pron" type="Rel">gii</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -39,7 +39,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="rel">guhte</l>
+         <l pos="Pron" type="Rel">guhte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -50,7 +50,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="rel">mii</l>
+         <l pos="Pron" type="Rel">mii</l>
       </lg>
       <mg>
          <tg xml:lang="fin">

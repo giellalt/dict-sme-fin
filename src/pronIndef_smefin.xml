@@ -29,7 +29,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="Pron" type="indef">buohkat</l>
+         <l pos="Pron" type="Indef">buohkat</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -40,7 +40,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">buot</l>
+         <l pos="Pron" type="Indef">buot</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -50,7 +50,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">eará</l>
+         <l pos="Pron" type="Indef">eará</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -62,7 +62,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">goabbat</l>
+         <l pos="Pron" type="Indef">goabbat</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -72,7 +72,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">guktot</l>
+         <l pos="Pron" type="Indef">guktot</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -82,7 +82,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">iešguđet</l>
+         <l pos="Pron" type="Indef">iešguđet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -92,7 +92,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">iežá</l>
+         <l pos="Pron" type="Indef">iežá</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -102,7 +102,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">juoga</l>
+         <l pos="Pron" type="Indef">juoga</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -113,7 +113,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">juohke</l>
+         <l pos="Pron" type="Indef">juohke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -124,7 +124,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">juoidá</l>
+         <l pos="Pron" type="Indef">juoidá</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -134,7 +134,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">makkárge</l>
+         <l pos="Pron" type="Indef">makkárge</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -145,7 +145,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">maidege</l>
+         <l pos="Pron" type="Indef">maidege</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -156,7 +156,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">mihkkige</l>
+         <l pos="Pron" type="Indef">mihkkige</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -166,7 +166,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">moanat</l>
+         <l pos="Pron" type="Indef">moanat</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -176,7 +176,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">muhtun</l>
+         <l pos="Pron" type="Indef">muhtun</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -186,7 +186,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">olus</l>
+         <l pos="Pron" type="Indef">olus</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -197,7 +197,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">seamma</l>
+         <l pos="Pron" type="Indef">seamma</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -207,7 +207,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">seammá</l>
+         <l pos="Pron" type="Indef">seammá</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -217,7 +217,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">váháš</l>
+         <l pos="Pron" type="Indef">váháš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -227,101 +227,101 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">mihkkege</l>
+         <l pos="Pron" type="Indef">mihkkege</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron" type="indef">mitään</t>
+            <t pos="Pron" type="Indef">mitään</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">guhtege</l>
+         <l pos="Pron" type="Indef">guhtege</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron" type="indef">jokainen</t>
+            <t pos="Pron" type="Indef">jokainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">goabbáge</l>
+         <l pos="Pron" type="Indef">goabbáge</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron" type="indef">kumpikin</t>
+            <t pos="Pron" type="Indef">kumpikin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">muhtin</l>
+         <l pos="Pron" type="Indef">muhtin</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron" type="indef">muutama</t>
+            <t pos="Pron" type="Indef">muutama</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">diekkár</l>
+         <l pos="Pron" type="Indef">diekkár</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A" type="indef">tällainen</t>
+            <t pos="A" type="Indef">tällainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">soames</l>
+         <l pos="Pron" type="Indef">soames</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron" type="indef">muutama</t>
+            <t pos="Pron" type="Indef">muutama</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">goappašat</l>
+         <l pos="Pron" type="Indef">goappašat</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron" type="indef">molemmat</t>
+            <t pos="Pron" type="Indef">molemmat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">iešguhtet</l>
+         <l pos="Pron" type="Indef">iešguhtet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron" type="indef">jokainen</t>
+            <t pos="Pron" type="Indef">jokainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">juohkehaš</l>
+         <l pos="Pron" type="Indef">juohkehaš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron" type="indef">jokainen</t>
+            <t pos="Pron" type="Indef">jokainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="indef">goappaš</l>
+         <l pos="Pron" type="Indef">goappaš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron" type="indef">molemmat</t>
+            <t pos="Pron" type="Indef">molemmat</t>
          </tg>
       </mg>
    </e>
