@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="smefin" xml:lang="sme">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -32,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Rel">gii</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="gii 1107942c-910e-4406-b6f4-9cb54cbe5ebe">
             <t pos="Pron">kuka</t>
          </tg>
       </mg>
@@ -42,7 +41,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Rel">guhte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="guhte d732fdd9-4bca-462b-8385-b3c079a81dc2">
             <t pos="Pron">kuka</t>
             <t pos="Pron">joka</t>
          </tg>
@@ -53,7 +52,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Rel">mii</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="mii aeaca2b5-f758-466c-a982-a94472980cbb">
             <t pos="Pron">mikä</t>
          </tg>
       </mg>

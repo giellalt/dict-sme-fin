@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="smefin" xml:lang="sme">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -32,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">dakkár</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="dakkár e34284fa-3528-4217-8e17-b020f2c33ba5">
             <t pos="Pron">sellainen</t>
          </tg>
       </mg>
@@ -42,7 +41,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">dakkáraš</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="dakkáraš dc72d9bb-b1e2-44ad-91fc-d27083f14aea">
             <t pos="Pron">sellainen</t>
          </tg>
       </mg>
@@ -52,7 +51,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">diet</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="diet 6227fc6d-b407-4fba-8f47-b418aa01aca5">
             <re>lähellä puhuttavaa</re>
             <t pos="Pron">se</t>
          </tg>
@@ -63,7 +62,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">dot</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="dot 8d797c8a-cd65-4d5a-989a-519259c4deba">
             <re>etäällä oleva</re>
             <t pos="Pron">tuo</t>
          </tg>
@@ -74,7 +73,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">duokkáraš</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="duokkáraš 1c597490-b30f-42e1-80fd-5321460e1731">
             <t pos="Pron">tuollainen</t>
          </tg>
       </mg>
@@ -84,7 +83,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">duot</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="duot 42501203-e518-4e2d-b4d9-cbda8c71da6b">
             <t pos="Pron">tuo</t>
          </tg>
       </mg>
@@ -94,7 +93,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">dákkár</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="dákkár be062f89-c5f7-4461-9803-91ebe5748a61">
             <t pos="Pron">tällainen</t>
          </tg>
       </mg>
@@ -104,7 +103,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">dát</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="dát e9186fff-e07f-4402-866f-12b365b05221">
             <t pos="Pron">tämä</t>
          </tg>
       </mg>

@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="smefin" xml:lang="sme">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -32,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Cmp">njuolggo-</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="njuolggo- 7e019788-9770-4f19-b3cb-812d627c6d80">
             <t pos="Cmp">suora</t>
             <t pos="Cmp">suorat</t>
          </tg>
@@ -43,7 +42,7 @@ For the full license text, see the link above.</lic>
          <l pos="Cmp">nurke-</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="nurke- be2240e5-8569-4a9a-964b-6ac2e3c45628">
             <t pos="Cmp">nurkka-</t>
          </tg>
       </mg>
@@ -53,7 +52,7 @@ For the full license text, see the link above.</lic>
          <l pos="Cmp">smarfe-</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="smarfe- 2bc99b7d-edac-4d65-ab93-f9c7b49da744">
             <t pos="Cmp">kiharainen</t>
          </tg>
       </mg>
@@ -63,7 +62,7 @@ For the full license text, see the link above.</lic>
          <l pos="Cmp">vuoste-</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="vuoste- e978d8e7-0631-4ae2-b0a6-3681e72f3ec2">
             <t pos="Cmp">vasta-</t>
          </tg>
       </mg>

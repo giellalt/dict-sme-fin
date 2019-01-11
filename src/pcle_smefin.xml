@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="smefin" xml:lang="sme">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -32,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">aitto</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="aitto 51ae725c-6c0b-4462-92f0-4faffdb02dd6">
             <t pos="Pcle">-pa</t>
             <t pos="Pcle">-pä</t>
             <t pos="Pcle">-han</t>
@@ -45,7 +44,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">ammal</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="ammal 9451f228-a802-407a-8252-18df02b35559">
             <t pos="Pcle">juo</t>
             <t pos="Pcle">kyllä kai</t>
          </tg>
@@ -56,12 +55,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">goit</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="goit a55e18de-8976-4453-a7cf-2c896f89117f">
             <t pos="Pcle">kuitenkin</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="goit ca388ded-3a77-4d63-8da0-8e338937a646">
             <t pos="Pcle">ainakin</t>
          </tg>
       </mg>
@@ -71,12 +70,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">goittotge</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="goittotge e505adf0-5b1c-422f-b0eb-028e02a65330">
             <t pos="Pcle">kuitenkin</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="goittotge 109f315a-1e86-4879-8604-f2dc65e5708e">
             <t pos="Pcle">ainakin</t>
          </tg>
       </mg>
@@ -86,7 +85,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">mis</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="mis a9648367-ef1b-4340-8cc4-4458836d2b56">
             <t pos="Pcle">tosiaan</t>
          </tg>
       </mg>
@@ -96,7 +95,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">na</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="na c530a14b-e1c0-43e4-9329-d6c9957a99a4">
             <t pos="Pcle">no</t>
          </tg>
       </mg>
@@ -106,7 +105,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">no</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="no 3e370b7b-7016-45e1-a6d9-333152d371d0">
             <t pos="Pcle">no</t>
          </tg>
       </mg>
@@ -116,7 +115,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">nuba</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="nuba ad3ef79b-d564-4942-9d4d-362b090e173e">
             <t pos="Pcle">niinpä</t>
          </tg>
       </mg>
@@ -126,7 +125,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">nai</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="nai 206f0aa6-ddf6-4e44-ba97-78c8ab252355">
             <t pos="Pcle">myös</t>
          </tg>
       </mg>

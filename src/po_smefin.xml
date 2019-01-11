@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="smefin" xml:lang="sme">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -32,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">ala</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="ala 32d6b276-3aaa-45f7-9ed5-fb2316f06680">
             <t pos="Po">päälle</t>
          </tg>
       </mg>
@@ -42,7 +41,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">alde</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="alde 94e35b9a-9748-4d64-8798-5c35dcc45a68">
             <t pos="Po">päällä</t>
             <t pos="Po">päältä</t>
          </tg>
@@ -53,7 +52,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">aldi</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="aldi 202b159a-9d8c-4b0c-8530-25e4ff41bf84">
             <t pos="Po">päällä</t>
             <t pos="Po">päältä</t>
          </tg>
@@ -64,7 +63,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">badjel</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="badjel 0f91bed6-f28f-40b5-8d12-4866d63fe402">
             <t pos="Po">yli</t>
          </tg>
       </mg>
@@ -74,7 +73,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">badjelis</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="badjelis 71e13ad6-6223-41a6-b8e5-c2b9b3ab9f68">
             <t pos="Po">yllä</t>
             <t pos="Po">päällä</t>
          </tg>
@@ -85,7 +84,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">bajábealde</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="bajábealde b5184812-6806-46ce-b465-6bacd2d24565">
             <t pos="Po">yläpuolella</t>
          </tg>
       </mg>
@@ -95,7 +94,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">bakte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="bakte 518d0e78-f636-440a-a4ed-64ce1818afa5">
             <t pos="Po">kautta</t>
          </tg>
       </mg>
@@ -105,7 +104,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">beal</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="beal 595beb2e-38c2-4203-8225-c31ba9561300">
             <re>kellonaikaa ilmaistaessa</re>
             <t pos="Po">puoli</t>
          </tg>
@@ -116,7 +115,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">bealde</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="bealde 6dcaec14-7393-4f90-a02f-3cd6f36f908e">
             <t pos="Po">puolella</t>
             <t pos="Po">puolelta</t>
          </tg>
@@ -127,7 +126,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">bealdi</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="bealdi 636d0eb9-46e6-4a02-af29-6fa7c9e33870">
             <t pos="Po">puolella</t>
             <t pos="Po">puolelta</t>
          </tg>
@@ -138,7 +137,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">beales</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="beales c3b01b91-b6b5-4f9f-b4aa-ac75fa0f9f66">
             <t pos="Adv">puolella</t>
          </tg>
       </mg>
@@ -148,7 +147,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">beali</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="beali be7aaeb6-c167-461b-8ac5-017b43c61444">
             <t pos="N">puoli</t>
          </tg>
       </mg>
@@ -158,7 +157,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">bealis</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="bealis 59abcb48-a463-44d4-9906-ecf2f92d3206">
             <t pos="Adv">puolella</t>
          </tg>
       </mg>
@@ -168,7 +167,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">beallai</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="beallai 5e92d4ec-8a78-4ad9-ab59-72e34c8e31fa">
             <t pos="Po">puolelle</t>
          </tg>
       </mg>
@@ -178,13 +177,13 @@ For the full license text, see the link above.</lic>
          <l pos="Po">birra</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="birra bdcf2273-356a-42dd-8490-2e0260229522">
             <t pos="Po">ympärillä</t>
             <t pos="Po">ympäriltä</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="birra 44e5a5d0-6936-443b-80f8-629d1fd97d3e">
             <t pos="Po">jostakin asiasta</t>
             <t pos="Po">jotakin koskien</t>
          </tg>
@@ -195,7 +194,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">bokte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="bokte 2e710883-e467-4711-a11c-4c076c094ed6">
             <t pos="Po">kautta</t>
          </tg>
       </mg>
@@ -205,7 +204,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">bokti</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="bokti bc20024e-b521-4a31-8022-452ffc012af0">
             <t pos="Po">kautta</t>
          </tg>
       </mg>
@@ -215,7 +214,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">bálddas</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="bálddas 4708b343-1813-4d88-8ecf-3be212e0211c">
             <t pos="Po">vieressä</t>
             <t pos="Po">vierestä</t>
          </tg>
@@ -226,7 +225,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">báldii</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="báldii 2cdb3925-2484-4480-979e-6cfba29c04f6">
             <t pos="Po">viereen</t>
          </tg>
       </mg>
@@ -236,7 +235,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">dihte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="dihte 5ecbc9c4-27b4-4089-b6f9-30142c96e96c">
             <t pos="Po">takia</t>
          </tg>
       </mg>
@@ -246,7 +245,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">dihtii</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="dihtii 6fac72c3-e073-4ef2-91d0-15aab5bf4c0c">
             <t pos="Po">vuoksi</t>
          </tg>
       </mg>
@@ -256,7 +255,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">duohken</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="duohken d5f12d2f-3b02-49a9-8a22-2d42f7fc1252">
             <t pos="Po">takana</t>
             <t pos="Po">takaa</t>
          </tg>
@@ -267,7 +266,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">duohkái</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="duohkái 909b4509-a2dc-4436-ab9c-79ae895edc18">
             <t pos="Po">taakse</t>
          </tg>
       </mg>
@@ -277,7 +276,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">dáfus</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="dáfus 921741d0-71ec-4caf-9952-9ceb3f73284b">
             <t pos="Po">jonkun suhteen</t>
             <t pos="Po">jossakin suhteessa</t>
          </tg>
@@ -288,7 +287,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">ektui</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="ektui b6aec4e4-41e4-446b-b0c0-b2b0ae746c59">
             <t pos="Po">ehdolla</t>
          </tg>
       </mg>
@@ -298,7 +297,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">fárus</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="fárus 342b3632-8df5-40d9-a1d2-707fea704e4a">
             <t pos="Po">mukana</t>
          </tg>
       </mg>
@@ -308,7 +307,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">gaskii</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="gaskii 5903ca1b-f51d-483f-809f-622d08940d57">
             <t pos="Po">väliin</t>
          </tg>
       </mg>
@@ -318,7 +317,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">gaskka</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="gaskka 232779ae-6bfc-4046-aa8f-90112a29124b">
             <t pos="Po">kesken</t>
          </tg>
       </mg>
@@ -328,7 +327,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">gaskkas</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="gaskkas 1076567c-6753-45b4-b841-1b0d21d3caab">
             <t pos="Po">välissä</t>
             <t pos="Po">välistä</t>
          </tg>
@@ -339,7 +338,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">geahčai</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="geahčai bee27c1c-89f4-47b9-a435-a1a70f4fc576">
             <t pos="Po">luo</t>
             <t pos="Po">luokse</t>
             <t pos="Po">kotiin</t>
@@ -351,13 +350,13 @@ For the full license text, see the link above.</lic>
          <l pos="Po">geahčen</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="geahčen bc314093-7a0d-435e-af16-16a6c76d5be3">
             <t pos="Po">luona</t>
             <t pos="Po">kotona</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="geahčen 0e9c76bb-b450-43ba-b672-d66e1bb9b568">
             <t pos="Po">luota</t>
             <t pos="Po">kotoa</t>
          </tg>
@@ -368,7 +367,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">geažes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="geažes f4b39cd5-00ef-43d7-ae29-0d4077e36b88">
             <re>ajasta</re>
             <t pos="Po">kuluttua</t>
          </tg>
@@ -379,7 +378,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">geažil</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="geažil 16bdf87b-2233-4893-b874-f315d8ecfd0c">
             <t pos="Po">vuoksi</t>
          </tg>
       </mg>
@@ -389,7 +388,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">gievrru</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="gievrru eca9fd0d-e4c7-43a3-80b7-f8f4b366499f">
             <t pos="A">sen ja sen vahvuinen</t>
          </tg>
       </mg>
@@ -399,7 +398,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">gorrái</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="gorrái 27d7bcf7-ca6e-416c-896f-04dca21ddc51">
             <t pos="Po">suhteen</t>
          </tg>
       </mg>
@@ -409,7 +408,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">guhku</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="guhku 537e5d68-0e8e-44db-8083-37b9e57d76cf">
             <t pos="A">pituinen</t>
          </tg>
       </mg>
@@ -419,7 +418,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">guoras</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="guoras 528cb245-e7c1-4bff-a9d2-5eefafb202a9">
             <t pos="Po">äärellä</t>
             <t pos="Po">ääreltä</t>
             <t pos="Po">ääressä</t>
@@ -432,7 +431,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">guovdu</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="guovdu f78d4547-daf2-42b6-8a74-5dd36465ab01">
             <t pos="Po">keskellä</t>
          </tg>
       </mg>
@@ -442,7 +441,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">gurrii</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="gurrii 39f2ce18-7104-4a40-9e23-6a5e159fd5be">
             <t pos="Po">ääreen</t>
             <t pos="Po">laitaan</t>
          </tg>
@@ -453,7 +452,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">guvlui</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="guvlui 3613a880-4772-462c-80b6-04b53634d589">
             <t pos="Po">suhteen</t>
          </tg>
       </mg>
@@ -463,7 +462,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">haga</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="haga 851c62a7-cbb3-4cd5-8c4b-aa33bd89a401">
             <t pos="Po">ilman</t>
          </tg>
       </mg>
@@ -473,7 +472,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">hahttá</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="hahttá 053b9998-a908-4174-8c30-f9615acaae21">
             <t pos="Po">ilman</t>
          </tg>
       </mg>
@@ -483,7 +482,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">hárrái</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="hárrái c5909c1f-c17e-43c3-a5bc-146c39b18b55">
             <t pos="Po">jonkun suhteen</t>
          </tg>
       </mg>
@@ -493,7 +492,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">lahka</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="lahka 2a87ebe4-8985-41f7-8487-09996c4e5041">
             <t pos="Po">lähellä</t>
          </tg>
       </mg>
@@ -503,7 +502,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">losu</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="losu 5755bd83-4237-4faf-8164-c3087a8da39d">
             <t pos="A">painoinen</t>
          </tg>
       </mg>
@@ -513,7 +512,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">luhtte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="luhtte 17250b66-fe4b-47bf-bfaa-0fa823813fff">
             <t pos="Po">luona</t>
             <t pos="Po">luota</t>
          </tg>
@@ -524,7 +523,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">luhtti</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="luhtti e738b9c4-022c-4524-94cc-18a5d348dd58">
             <t pos="Po">luona</t>
             <t pos="Po">luota</t>
          </tg>
@@ -535,7 +534,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">lusa</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="lusa 2935e9e1-e88f-4782-91b4-faaecb0661f1">
             <t pos="Po">luokse</t>
          </tg>
       </mg>
@@ -545,7 +544,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">ládje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="ládje 7e16431e-0266-4119-baa8-879bcb4afe1e">
             <t pos="Adv">tavalla</t>
          </tg>
       </mg>
@@ -555,7 +554,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">láhkai</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="láhkai 9895ea64-7d1c-45e4-8647-12a522e6c334">
             <t pos="Adv">tavalla</t>
          </tg>
       </mg>
@@ -565,7 +564,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">maŋis</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="maŋis 50960d0f-a926-4dcf-886f-a389494f5725">
             <t pos="Po">perässä</t>
             <t pos="Po">perästä</t>
          </tg>
@@ -576,7 +575,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">maŋábealde</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="maŋábealde 51fc9fa2-8038-4407-82fd-6431870def7b">
             <t pos="Po">takana</t>
          </tg>
       </mg>
@@ -586,7 +585,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">maŋábealdi</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="maŋábealdi f119a2d3-7224-48f4-91ac-b4e53d576e3b">
             <t pos="Po">takana</t>
          </tg>
       </mg>
@@ -596,7 +595,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">maŋŋel</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="maŋŋel aad9e8c5-15c2-4c80-9d69-6d52f800ff4f">
             <t pos="Po">jälkeen</t>
          </tg>
       </mg>
@@ -606,7 +605,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">maŋŋil</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="maŋŋil 2881a2b9-c3f3-4362-ad7e-ae663ee4ecd1">
             <t pos="Po">jälkeen</t>
          </tg>
       </mg>
@@ -616,7 +615,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">maŋŋá</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="maŋŋá 512b3ad7-bfbf-4eff-9441-73c8d8b0cd36">
             <t pos="Po">jälkeen</t>
          </tg>
       </mg>
@@ -626,7 +625,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">maŋŋái</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="maŋŋái f530f984-47b1-410a-acfb-7b781e9bf67a">
             <t pos="Po">perään</t>
          </tg>
       </mg>
@@ -636,7 +635,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">miehtá</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="miehtá 37ce047a-6bae-4a1c-b4a7-648220ea6717">
             <t pos="Po">pitkin</t>
          </tg>
       </mg>
@@ -646,7 +645,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">mielas</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="mielas 0c02eccb-0ae9-4504-88f9-cf56732597c4">
             <t pos="Po">mielestä</t>
          </tg>
       </mg>
@@ -656,7 +655,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">mielde</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="mielde 2b9ad972-1aa0-41f1-81c0-2b0818e66f90">
             <t pos="Po">mukana</t>
             <t pos="Po">mukaan</t>
          </tg>
@@ -667,7 +666,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">oaidnut</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="oaidnut 9e767430-9026-4501-ab49-9c64a1745c25">
             <t pos="Po">nähden</t>
          </tg>
       </mg>
@@ -677,7 +676,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">olggobealde</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="olggobealde 9472809c-2850-4707-81bc-5b148334d3d7">
             <t pos="Po">ulkopuolella</t>
          </tg>
       </mg>
@@ -687,7 +686,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">olggobealdi</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="olggobealdi e078914d-e1a8-4cd7-9586-05b91414e86c">
             <t pos="Po">ulkopuolella</t>
          </tg>
       </mg>
@@ -697,7 +696,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">olis</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="olis 9da52723-c013-45ff-8a78-d1398297388a">
             <t pos="Po">mukaan</t>
          </tg>
       </mg>
@@ -707,7 +706,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">ovddas</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="ovddas b0001b4c-548c-41bf-822c-826267e785c0">
             <t pos="Po">edessä</t>
             <t pos="Po">edestä</t>
          </tg>
@@ -718,7 +717,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">ovdii</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="ovdii 12dfd992-308f-4f1b-8dac-5c4eff3ddf12">
             <t pos="Po">eteen</t>
          </tg>
       </mg>
@@ -728,7 +727,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">rastá</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="rastá 13697a21-6763-49ce-82c3-2ef8f64e4b96">
             <t pos="Po">poikki</t>
          </tg>
       </mg>
@@ -738,7 +737,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">rádjai</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="rádjai 3a358e6c-843b-4dd0-b4e1-773213edf706">
             <t pos="Po">johonkin saakka</t>
          </tg>
       </mg>
@@ -748,7 +747,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">rádjái</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="rádjái 6e527b42-1c9d-47ac-8235-465b04636648">
             <t pos="Po">asti</t>
          </tg>
       </mg>
@@ -758,7 +757,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">sadjái</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="sadjái 27c3dbb6-a9a5-4420-a4f3-524c41daf6fe">
             <t pos="Po">sijaan</t>
          </tg>
       </mg>
@@ -768,7 +767,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">sajis</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="sajis e81ccaf3-340d-468c-a1df-ee6b8294338c">
             <t pos="Po">sijassa</t>
             <t pos="Po">sijalla</t>
          </tg>
@@ -779,7 +778,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">sisa</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="sisa e2e6dfa8-2c77-4493-9fe2-da1eb034aecf">
             <t pos="Po">sisään</t>
             <t pos="Po">sisälle</t>
          </tg>
@@ -790,7 +789,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">siskkobealde</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="siskkobealde 38b74c5f-c306-4203-bcb7-678fad176dfe">
             <t pos="Po">sisäpuolella</t>
          </tg>
       </mg>
@@ -800,7 +799,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">siste</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="siste cfbaa410-cfdb-4c97-88f0-f7950eaae3d2">
             <t pos="Po">sisällä</t>
             <t pos="Po">sisältä</t>
          </tg>
@@ -811,7 +810,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">sisti</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="sisti a87ad760-5dec-411a-ab6f-349494731e3c">
             <t pos="Po">sisällä</t>
          </tg>
       </mg>
@@ -821,7 +820,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">viiddu</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="viiddu fea79b82-7d27-4201-a360-eef1164331ef">
             <t pos="A">laajuinen</t>
          </tg>
       </mg>
@@ -831,7 +830,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">vulobealde</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="vulobealde f822f608-9f55-4ad5-9962-c512064ce0ef">
             <t pos="Po">alapuolella</t>
          </tg>
       </mg>
@@ -841,7 +840,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">vuolde</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="vuolde 16ba0b6f-e1b0-4eb4-8669-f3c952cbc16e">
             <t pos="Po">alla</t>
             <t pos="Po">alta</t>
          </tg>
@@ -852,7 +851,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">vuolis</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="vuolis f9ba827d-c721-45b2-957b-a20fa4b9f025">
             <t pos="Adv">enteenä</t>
          </tg>
       </mg>
@@ -862,7 +861,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">vuollel</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="vuollel 8ae39283-b184-4a8f-878a-df301e753b31">
             <t pos="Po">alla</t>
          </tg>
       </mg>
@@ -872,7 +871,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">vuollái</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="vuollái 100e7dbe-318b-4c14-bee5-4d0b27a996e5">
             <t pos="Po">alle</t>
          </tg>
       </mg>
@@ -882,7 +881,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">vuostá</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="vuostá 05ecfae9-4716-4815-b60d-83bd4cd06b37">
             <t pos="Po">vastaan</t>
          </tg>
       </mg>
@@ -892,7 +891,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">vuođul</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="vuođul 9adf8282-6383-4882-8183-784efe6f9963">
             <t pos="Po">perusteella</t>
          </tg>
       </mg>
@@ -902,7 +901,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">várte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="várte 1ed00781-6fd0-40e1-9777-74ae9efa45c4">
             <t pos="Po">varten</t>
          </tg>
       </mg>
@@ -912,7 +911,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">várás</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="várás e32f6991-59a5-416d-be08-733e5f7f2b4f">
             <t pos="Po">takia</t>
          </tg>
       </mg>
@@ -922,7 +921,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">čađa</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="čađa 76f60fbb-b769-484f-a678-0305794e45cf">
             <t pos="Po">läpi</t>
          </tg>
       </mg>
@@ -932,7 +931,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">čieŋu</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="čieŋu f59b89bf-5f3e-4e4b-bb74-77d9197066ca">
             <t pos="A">syvyinen</t>
          </tg>
       </mg>

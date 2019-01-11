@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="smefin" xml:lang="sme">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -32,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">buohkat</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="buohkat 784267c0-719b-4c12-9efb-7c60e9a2bd6e">
             <re>ihmisistä</re>
             <t pos="Pron">kaikki</t>
          </tg>
@@ -43,7 +42,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">buot</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="buot a0932e7e-a946-4932-8ddb-c7c841ae4425">
             <t pos="Pron">kaikki</t>
          </tg>
       </mg>
@@ -53,7 +52,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">eará</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="eará bf479536-3afc-4b0a-9e42-3a1c1a175793">
             <t pos="Pron">muu</t>
             <t pos="Pron">eri</t>
             <t pos="Pron">muuta</t>
@@ -65,7 +64,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">goabbat</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="goabbat 3d53dd30-bfc3-47b2-a8f6-e008031af959">
             <t pos="Pron">kumpikin</t>
          </tg>
       </mg>
@@ -75,7 +74,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">guktot</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="guktot ba131ae9-437f-4b1a-80f4-fddf9053048d">
             <t pos="Pron">molemmat</t>
          </tg>
       </mg>
@@ -85,7 +84,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">iešguđet</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="iešguđet 32536211-a0fc-4eb1-8e42-d385ae5eeaa9">
             <t pos="Pron">itsekukin</t>
          </tg>
       </mg>
@@ -95,7 +94,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">iežá</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="iežá ca8f6bfe-7043-486c-9c9c-632c88aaa4d2">
             <t pos="Pron">muut</t>
          </tg>
       </mg>
@@ -105,7 +104,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">juoga</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="juoga e1512484-32e5-4e24-ad37-15d570c782a7">
             <t pos="Pron">jokin</t>
             <t pos="Pron">jotakin</t>
          </tg>
@@ -116,7 +115,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">juohke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="juohke fbc9b6b4-4102-48ac-8345-0e75c5f93b05">
             <t pos="Pron">joka</t>
             <t pos="Pron">jokainen</t>
          </tg>
@@ -127,7 +126,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">juoidá</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="juoidá 8e613b05-914b-454b-8c71-2874b204129c">
             <t pos="Pron">jotakin</t>
          </tg>
       </mg>
@@ -137,7 +136,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">makkárge</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="makkárge 5f3a6292-6bd6-43df-8999-044992a24a44">
             <t pos="A">minkäänlainen</t>
             <t pos="A">ei minkäänlainen</t>
          </tg>
@@ -148,7 +147,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">maidege</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="maidege 82ae70e1-b107-478a-b2ae-bc97c633a187">
             <re>neg.</re>
             <t pos="Pron">mitään</t>
          </tg>
@@ -159,7 +158,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">mihkkige</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="mihkkige 14ee6fd7-394d-4adb-be99-4707bcd5a9f9">
             <t pos="Pron">mikään</t>
          </tg>
       </mg>
@@ -169,7 +168,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">moanat</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="moanat d8b40d7e-fce5-415f-bcad-4165fa106030">
             <t pos="Pron">useat</t>
          </tg>
       </mg>
@@ -179,7 +178,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">muhtun</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="muhtun 10270aa9-24fd-4217-9a60-f0756f5f36b5">
             <t pos="Pron">joku</t>
          </tg>
       </mg>
@@ -189,7 +188,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">olus</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="olus 30ff113a-afb3-43c3-8f98-e3441e8a74df">
             <t pos="Pron">juurikaan</t>
             <t pos="Pron">paljonkaan</t>
          </tg>
@@ -200,7 +199,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">seamma</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="seamma 8586ea40-2117-4811-934e-cf75156998d2">
             <t pos="Pron">sama</t>
          </tg>
       </mg>
@@ -210,7 +209,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">seammá</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="seammá df15c616-17d2-4cd7-b7b4-a21994b2b3d8">
             <t pos="Pron">samoin</t>
          </tg>
       </mg>
@@ -220,7 +219,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">váháš</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="váháš 2cd54120-da09-415d-8839-bfe3e8169d06">
             <t pos="Pron">vähän</t>
          </tg>
       </mg>
@@ -230,7 +229,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">mihkkege</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="mihkkege c17c546a-b4d3-466f-9332-52557ca224a8">
             <t pos="Pron" type="Indef">mitään</t>
          </tg>
       </mg>
@@ -240,7 +239,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">guhtege</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="guhtege 6bbf358f-b1e7-48c8-938e-e556c2e4245c">
             <t pos="Pron" type="Indef">jokainen</t>
          </tg>
       </mg>
@@ -250,7 +249,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">goabbáge</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="goabbáge ae9c9fe5-b30f-4d4e-8d7a-a749ea8789a5">
             <t pos="Pron" type="Indef">kumpikin</t>
          </tg>
       </mg>
@@ -260,7 +259,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">muhtin</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="muhtin 99cecef3-8fd4-45a5-a55e-f89f4987788f">
             <t pos="Pron" type="Indef">muutama</t>
          </tg>
       </mg>
@@ -270,7 +269,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">diekkár</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="diekkár 35065bda-2e79-44d9-8220-932ed51f818b">
             <t pos="A" type="Indef">tällainen</t>
          </tg>
       </mg>
@@ -280,7 +279,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">soames</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="soames 54550ac6-f0b8-46dd-89e8-015e6cef8d4c">
             <t pos="Pron" type="Indef">muutama</t>
          </tg>
       </mg>
@@ -290,7 +289,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">goappašat</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="goappašat a37c7eba-3b1f-48f4-af5a-dcea08eae8f6">
             <t pos="Pron" type="Indef">molemmat</t>
          </tg>
       </mg>
@@ -300,7 +299,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">iešguhtet</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="iešguhtet db27a8d2-b211-4b6e-83f1-0f2f4695dec4">
             <t pos="Pron" type="Indef">jokainen</t>
          </tg>
       </mg>
@@ -310,7 +309,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">juohkehaš</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="juohkehaš a7bc8d20-e79c-448b-ae6e-e6f8a4108a7b">
             <t pos="Pron" type="Indef">jokainen</t>
          </tg>
       </mg>
@@ -320,7 +319,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Indef">goappaš</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="goappaš 98e8663a-ccd2-450b-aa36-bc38efe951fc">
             <t pos="Pron" type="Indef">molemmat</t>
          </tg>
       </mg>

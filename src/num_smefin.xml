@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="smefin" xml:lang="sme">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -32,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">beannot</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="beannot 5141f5b6-b64a-4a49-aaa4-a59fb8143e6c">
             <t pos="Num">puolitoista</t>
          </tg>
       </mg>
@@ -42,7 +41,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">galle</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="galle bba999cf-5b43-48d2-ac14-295849de607a">
             <t pos="Num">montako</t>
          </tg>
       </mg>
@@ -52,7 +51,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">golbma</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="golbma b365d67f-6633-4c35-9fc0-e82a1936ab81">
             <t pos="Num">kolme</t>
          </tg>
       </mg>
@@ -62,7 +61,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">guhtta</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="guhtta 8030b027-9a1f-4b8a-8a79-3df8afa1d00e">
             <t pos="Num">kuusi</t>
          </tg>
       </mg>
@@ -72,7 +71,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">guokte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="guokte 27467fb1-c718-4703-9c4e-807d93c4a9b1">
             <t pos="Num">kaksi</t>
          </tg>
       </mg>
@@ -82,7 +81,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">gávcci</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="gávcci a9d124a5-f66d-41b6-87a0-b9c5994a382a">
             <t pos="Num">kahdeksan</t>
          </tg>
       </mg>
@@ -92,7 +91,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">logi</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="logi 533f0f02-08f8-4a36-95ee-68251cad21e3">
             <t pos="Num">kymmenen</t>
          </tg>
       </mg>
@@ -102,7 +101,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">moadde</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="moadde 6c8fa151-d9b8-4436-bfc3-996b81930a90">
             <t pos="Num">muutama</t>
          </tg>
       </mg>
@@ -112,7 +111,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">máŋga</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="máŋga 8a37ec14-bd46-4a1a-8158-1f18ae0e4569">
             <t pos="Num">moni</t>
             <t pos="Num">monta</t>
          </tg>
@@ -123,7 +122,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">njeallje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="njeallje ff29f427-ebba-41ae-b9e9-a4eb05cdef94">
             <t pos="Num">neljä</t>
          </tg>
       </mg>
@@ -133,7 +132,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">okta</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="okta da59a473-fada-40f2-9fd8-b03b4bd4082f">
             <t pos="Num">yksi</t>
          </tg>
       </mg>
@@ -143,7 +142,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">ovcci</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="ovcci 8bfd0675-5394-47e3-a985-46d5dfeb591c">
             <t pos="Num">yhdeksän</t>
          </tg>
       </mg>
@@ -153,7 +152,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">vihtta</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="vihtta e0d2dff9-5177-4b62-9682-f1bc8ff7f4e4">
             <t pos="Num">viisi</t>
          </tg>
       </mg>
@@ -163,7 +162,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">čieža</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="čieža af342da8-6615-43c8-ae8c-7c9dba25746e">
             <t pos="Num">seitsemän</t>
          </tg>
       </mg>
@@ -173,7 +172,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">čuođi</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="čuođi 12933e33-0bb2-45f1-a9e9-8ed67b3e83b3">
             <t pos="Num">sata</t>
          </tg>
       </mg>
@@ -183,7 +182,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">duhát</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="duhát 2d7ebbfe-2355-47b2-9099-90e8ec1ddac1">
             <t pos="Num">tuhat</t>
          </tg>
       </mg>
@@ -193,7 +192,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">gákcilogi</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="gákcilogi 5cbb4366-9fa4-4894-a635-1a0fe036d5ef">
             <t pos="Num">kahdeksankymmentä</t>
          </tg>
       </mg>
@@ -203,7 +202,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">čiehččalogi</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="čiehččalogi 3039fc3b-f4b2-4b10-bd57-51f80a9dfba2">
             <t pos="Num">seitsemänkymmentä</t>
          </tg>
       </mg>
@@ -213,7 +212,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">čuohti</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="čuohti 3f940299-a42e-42ff-9aac-8c155426939c">
             <t pos="Num">sata</t>
          </tg>
       </mg>
@@ -223,7 +222,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">miljárda</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="miljárda 5a8ea977-e598-4d9e-aa7b-f4633d17a392">
             <t pos="Num">miljardi</t>
          </tg>
       </mg>
@@ -233,7 +232,7 @@ For the full license text, see the link above.</lic>
          <l pos="Num">miljovdna</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="miljovdna 5b3c2354-795b-49a3-8625-47caef4288fc">
             <t pos="Num">miljoona</t>
          </tg>
       </mg>
