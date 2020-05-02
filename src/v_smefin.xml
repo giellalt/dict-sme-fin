@@ -5700,8 +5700,11 @@ For the full license text, see the link above.</lic>
          <l pos="V">roggat</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="roggat be96b99a-b5ea-4727-a9ec-9c0e7804886d">
-            <t pos="V">kaivata</t>
+         <tg xml:lang="fin">
+            <t pos="V">kaivaa</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">tonkia</t>
          </tg>
       </mg>
    </e>
