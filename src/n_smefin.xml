@@ -55563,4 +55563,34 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N">kálla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lastakálla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lehtikaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kiinnakálla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kiinankaali</t>
+         </tg>
+      </mg>
+   </e>
 </r>
