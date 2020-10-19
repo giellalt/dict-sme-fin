@@ -223,9 +223,11 @@ For the full license text, see the link above.</lic>
          <l pos="V">bearráigeahččat</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="bearráigeahččat b4518521-c0cd-4ff3-b1e4-e8ee878ae490">
-            <t pos="V">katsoa perässä</t>
-            <t pos="V">tarkistaa</t>
+         <tg xml:lang="fin">
+            <t pos="V">valvoa</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">holhota</t>
          </tg>
       </mg>
    </e>
