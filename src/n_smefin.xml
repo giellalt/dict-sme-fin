@@ -760,7 +760,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="alesgahcin 29315c44-5bd0-4a90-9025-2017abc7716a">
-            <t pos="N">takakaihdin sarvessa</t>
+            <re>sarvessa</re>
+            <t pos="N">takakaihdin</t>
+            <t t_type="expl">mohkkisuorgi, suorgi čoarvvi maŋábealde aitto mohki bakte</t>
          </tg>
       </mg>
    </e>
