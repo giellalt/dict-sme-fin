@@ -18127,7 +18127,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="gullevašvuohta ca8e55ef-3865-4877-a8d0-12b2e584b5d4">
-            <t pos="N">kuuluisuus</t>
+            <t pos="N">kuuluvuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">oktiigullevašvuohta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin" tw_id="">
+            <t pos="N">yhteenkuuluvuus</t>
          </tg>
       </mg>
    </e>
