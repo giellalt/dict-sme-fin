@@ -513,7 +513,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">addi</l>
+         <l pos="N" type="NomAg">addi</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="addi 5b201d11-ff74-4eb0-b41d-8ebc4e32862a">
@@ -1671,7 +1671,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">badjeliigeahčči</l>
+         <l pos="N"##>badjeliigeahčči</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="badjeliigeahčči 427a342a-9e37-4acb-83fe-790602ed946b">
@@ -1713,7 +1713,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">badni</l>
+         <l pos="N"##>badni</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="badni b9a0cbca-facd-45fb-b5b1-9a47235b56a9">
@@ -1733,7 +1733,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bagadalli</l>
+         <l pos="N"##>bagadalli</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bagadalli 93bc74a1-99f9-477f-a8d4-39547e99d70d">
@@ -1753,7 +1753,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bagadeaddji</l>
+         <l pos="N"##>bagadeaddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bagadeaddji 996492fd-e696-4a0f-8242-63c4b1aed665">
@@ -1836,7 +1836,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bahčči</l>
+         <l pos="N"##>bahčči</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bahčči 7f8fab41-a3ad-4f51-b47d-58f829ab5ab8">
@@ -2152,7 +2152,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bargi</l>
+         <l pos="N"##>bargi</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bargi ce9767a1-a8d1-430b-91c8-6848200e5ac8">
@@ -2173,7 +2173,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bargoaddi</l>
+         <l pos="N"##>bargoaddi</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bargoaddi 36f852ae-eee9-4d96-a0d0-735000cb6978">
@@ -2923,7 +2923,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bealušteaddji</l>
+         <l pos="N"##>bealušteaddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bealušteaddji 448e2502-8b4d-43b3-a1fc-b0717e6a29fd">
@@ -3140,6 +3140,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin" tw_id="beassi e1fb4718-94ad-43a1-9687-1c7624448147">
             <t pos="N">pesä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="G3">beassi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin" tw_id="beassi e1fb4718-94ad-43a1-9687-1c7624448147">
             <t pos="N">tuohi</t>
          </tg>
       </mg>
@@ -4136,7 +4145,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">biilavuoddji</l>
+         <l pos="N"##>biilavuoddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="biilavuoddji 5fde7875-d4b1-4e33-b28a-c0535ec7fab5">
@@ -4193,7 +4202,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bilkideaddji</l>
+         <l pos="N"##>bilkideaddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bilkideaddji 2deba0aa-6b39-42e8-be63-0c18632c615d">
