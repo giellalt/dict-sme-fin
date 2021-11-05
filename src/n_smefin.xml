@@ -28,7 +28,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="N" type="actor">bassi</l>
+         <l pos="N" type="NomAg">bassi</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bassi 68974fcc-1dbf-41a7-b9a5-ab430606feb3">
@@ -38,7 +38,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="actor">lohkki</l>
+         <l pos="N" type="NomAg">lohkki</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="lohkki 8a6f6c1d-401c-4c76-950e-227a48f99e69">
@@ -48,7 +48,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="actor">vuovdi</l>
+         <l pos="N" type="NomAg">vuovdi</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="vuovdi cbb2ec53-7d40-4877-b1c4-938dd5419717">
