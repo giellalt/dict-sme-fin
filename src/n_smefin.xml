@@ -5070,7 +5070,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">boazodoalli</l>
+         <l pos="N" type="NomAg">boazodoalli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin" tw_id="boazodoalli a855dd93-9087-4f80-ad00-52a1777f8977">
+            <t pos="N">poronhoitaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">boazodoallu</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="boazodoalli a855dd93-9087-4f80-ad00-52a1777f8977">
@@ -5833,7 +5843,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bossu</l>
+         <l pos="N" type="G3">bossu</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bossu 207d3a87-ff7e-4df2-b05d-818c38d278b2">
@@ -6398,7 +6408,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">buohccidikšu</l>
+         <l pos="N" type="NomAg">buohccedikšu</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="buohccidikšu 32bdc537-7009-46c0-bfab-e95ed1287b78">
@@ -6628,7 +6638,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">buorráneaddji</l>
+         <l pos="N" type="NomAg">buorráneaddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="buorráneaddji 23b4141c-b130-40c5-9f28-ebec33d453d2">
@@ -6856,7 +6866,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bussevuoddji</l>
+         <l pos="N" type="NomAg">bussevuoddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bussevuoddji e03ee58e-1ce5-4240-83cc-b433e9097003">
@@ -6978,7 +6988,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">buđaldeaddji</l>
+         <l pos="N" type="NomAg">buđaldeaddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="buđaldeaddji 3d802c72-3ab1-4da8-8fb3-2b7dca5d5816">
@@ -7175,7 +7185,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">báhtareaddji</l>
+         <l pos="N" type="NomAg">báhtareaddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="báhtareaddji 3b41ec70-b38b-408d-a384-a0de9eab9848">
@@ -7226,7 +7236,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">báhčči</l>
+         <l pos="N" type="NomAg">báhčči</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="báhčči 357ba067-786a-40ca-93d6-44ee3616428f">
@@ -7479,7 +7489,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bálvaleaddji</l>
+         <l pos="N" type="NomAg">bálvaleaddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bálvaleaddji c98e6844-e079-46f6-8515-e95e22b9c781">
@@ -8338,7 +8348,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">dahkki</l>
+         <l pos="N" type="NomAg">dahkki</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="dahkki 5d7c4a54-7a9f-4d55-8f07-3e7650e6d21c">
@@ -8716,7 +8726,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">dearvvašvuođabargi</l>
+         <l pos="N" type="NomAg">dearvvašvuođabargi</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="dearvvašvuođabargi 1d09ed40-16fc-424c-bb37-0a71a9433cb1">
@@ -9061,7 +9071,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">diehtti</l>
+         <l pos="N" type="NomAg">diehtti</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="diehtti 6b89df3c-0908-42b7-9e18-77a66cce93c1">
@@ -9373,13 +9383,18 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">dikšu</l>
+         <l pos="N" type="NomAg">dikšu</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="dikšu 34045b08-4ad5-42ca-be64-9ee9fd2fce01">
             <t pos="N">hoitaja</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">dikšu</l>
+      </lg>
       <mg>
          <tg xml:lang="fin" tw_id="dikšu 444386d7-37cf-4d64-88fc-3490410a8545">
             <t pos="N">hoito</t>
@@ -9640,7 +9655,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">diđošteaddji</l>
+         <l pos="N" type="NomAg">diđošteaddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="diđošteaddji 55f3b0da-02f0-4a67-a2e4-a6fa16d56449">
@@ -9660,7 +9675,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">diŋgojeaddji</l>
+         <l pos="N" type="NomAg">diŋgojeaddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="diŋgojeaddji c60e9811-d207-4e66-a860-37cb0f3683fd">
@@ -9851,7 +9866,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">doalli</l>
+         <l pos="N" type="NomAg">doalli</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="doalli 17a0bb15-0aab-4910-a03b-ef32a493b58f">
@@ -9892,7 +9907,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">doalvu</l>
+         <l pos="N" type="NomAg">doalvu</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="doalvu 5ae0542c-f86f-4563-a8cd-beab6bbb686b">
@@ -9974,7 +9989,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">doarrideaddji</l>
+         <l pos="N" type="NomAg">doarrideaddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="doarrideaddji 63c039aa-fbc6-4f8a-9c2e-6689ae37f55f">
@@ -10357,7 +10372,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">duhkaraddi</l>
+         <l pos="N" type="NomAg">duhkaraddi</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="duhkaraddi f165253f-7514-4bc0-833c-c37f673ee25b">
@@ -10387,7 +10402,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">duhkoraddi</l>
+         <l pos="N" type="NomAg">duhkoraddi</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="duhkoraddi d6332686-66a7-466d-9cd3-d33bce67ba5c">
@@ -10904,7 +10919,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">duođašteaddji</l>
+         <l pos="N" type="NomAg">duođašteaddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="duođašteaddji 78b52d76-0c2e-469e-bdcb-4fb59ed9f8c8">
@@ -11071,7 +11086,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">dutki</l>
+         <l pos="N" type="NomAg">dutki</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="dutki 352fdd8e-c6e9-44b2-83b0-86efa02a2fa7">
@@ -11176,7 +11191,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">dáddju</l>
+         <l pos="N" type="NomAg">dáddju</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="dáddju 3c48cc72-b9ca-41f3-af10-e8d74a650f19">
@@ -11382,7 +11397,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">dáksevuoddji</l>
+         <l pos="N" type="NomAg">dáksevuoddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="dáksevuoddji b8c39489-49b6-45f0-969c-127867d496fc">
@@ -11453,7 +11468,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">dálkunlášmmodahtti</l>
+         <l pos="N" type="NomAg">dálkunlášmmodahtti</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="dálkunlášmmodahtti 0faed939-26ce-4549-a565-53dca0a468f7">
@@ -11665,7 +11680,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">dánsu</l>
+         <l pos="N" type="NomAg">dánsu</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="dánsu 12cd6456-bbd8-4fc7-af0f-8b1572e14aaf">
@@ -11716,11 +11731,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">dáppeorru</l>
+         <l pos="N" type="NomAg">dáppeorru</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="dáppeorru 243fcd05-9ee3-4672-99b7-979934505ac9">
             <t pos="N">täälläasuja</t>
+            <t pos="N">paikallinen</t>
          </tg>
       </mg>
    </e>
