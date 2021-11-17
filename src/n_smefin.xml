@@ -554,11 +554,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">adreassa</l>
+         <l pos="N" type="G3">adreassa</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="adreassa debd6949-724c-4a5c-945c-9f252605173e">
-            <t pos="N"  type="G3">osoite</t>
+            <t pos="N">osoite</t>
          </tg>
       </mg>
    </e>
