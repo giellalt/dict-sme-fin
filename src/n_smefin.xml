@@ -503,7 +503,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">abskissa</l>
+         <l pos="N" type="G3">abskissa</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="abskissa 90aa3c96-cdb8-4117-9f72-72e4f4eb66d9">
@@ -558,7 +558,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="adreassa debd6949-724c-4a5c-945c-9f252605173e">
-            <t pos="N">osoite</t>
+            <t pos="N"  type="G3">osoite</t>
          </tg>
       </mg>
    </e>
@@ -2445,7 +2445,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">basilla</l>
+         <l pos="N" type="G3">basilla</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="basilla 1aea087c-7928-4443-8fb9-54b7ca2d797d">
@@ -3362,7 +3362,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">beavvi</l>
+         <l pos="N" type="G3">beavvi</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="beavvi 64e5291c-be1a-4815-935a-ed2d07951fa5">
@@ -3483,7 +3483,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">benne</l>
+         <l pos="N" type="G3">benne</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="benne 7a09cbe7-138f-4ccd-b6b7-5e2d3825a8e8">
@@ -3790,7 +3790,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">biellu</l>
+         <l pos="N" type="G3">biellu</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="biellu 6e060a7e-7ec3-4ef2-8013-f89b181131e9">
@@ -3931,7 +3931,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">biffa</l>
+         <l pos="N" type="G3">biffa</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="biffa 05697750-3956-4088-b732-1c7ae2694107">
@@ -4011,7 +4011,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bihpporbiffa</l>
+         <l pos="N" type="G3">bihpporbiffa</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bihpporbiffa 4bfc29f1-bad5-4c89-9d81-a72e1c653450">
@@ -4263,7 +4263,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">binná</l>
+         <l pos="N" type="G3">binná</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="binná db394dde-aa8d-4b89-9bd3-c5e40f38f6d1">
@@ -4483,7 +4483,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bissu</l>
+         <l pos="N" type="G3">bissu</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="bissu fce473bc-1963-4849-be72-7e604e3ea425">
@@ -5312,7 +5312,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">boaššu</l>
+         <l pos="N" stype="G3">boaššu</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="boaššu 60692fe9-924b-4f1a-b1f9-e66b80e6dd71">
@@ -36354,7 +36354,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">restoráŋŋa</l>
+         <l pos="N" type="G3">restoráŋŋa</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="restoráŋŋa 55985f8b-604a-4fb3-aa9c-688b0bf87539">
