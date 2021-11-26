@@ -3547,7 +3547,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">betoŋga</l>
+         <l pos="N" type="G3">betoŋŋa</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="betoŋga e0e730e5-8a47-46b6-bff4-64eeb180f5b9">
@@ -4069,6 +4069,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin" tw_id="biibbal c49ba695-f055-4a0c-af75-0009c5a82ce4">
             <t pos="N">raamattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="G3">balloŋŋa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ilmapallo</t>
          </tg>
       </mg>
    </e>
@@ -20781,7 +20791,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">heaibu</l>
+         <l pos="N" type="NomAg">heaibu</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="heaibu b62aed05-a324-4528-9d9d-e99203c76b68">
@@ -22659,7 +22669,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">iskkadeaddji</l>
+         <l pos="N" type="NomAg">iskkadeaddji</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="iskkadeaddji 655ebe80-14db-4e69-97ff-cdcbfc1e21b1">
@@ -55630,6 +55640,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">kiinankaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">baittohat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">paitsio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="G3">basseaŋŋa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">uima-allas</t>
          </tg>
       </mg>
    </e>
