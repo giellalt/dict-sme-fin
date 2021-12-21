@@ -5322,7 +5322,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" stype="G3">boaššu</l>
+         <l pos="N" type="G3">boaššu</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="boaššu 60692fe9-924b-4f1a-b1f9-e66b80e6dd71">
@@ -53818,7 +53818,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-	      <t pos="N">kirjoittaja</t>
+         <tg xml:lang="fin">
+	         <t pos="N">kirjoittaja</t>
+         </tg>
 	  </mg>
    </e>
    <e>
