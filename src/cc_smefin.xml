@@ -31,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">ahte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ahte 01056cb2-4119-4589-b46e-2879f4e67f98">
+         <tg xml:lang="fin">
             <t pos="CC">että</t>
          </tg>
       </mg>
@@ -41,7 +41,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">dahe</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dahe c68ccc36-9188-426e-b361-8122f24761a8">
+         <tg xml:lang="fin">
             <t pos="CC">taikka</t>
          </tg>
       </mg>
@@ -51,7 +51,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">dahje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dahje 6cdd94d1-90db-4e2c-9fd9-ff606526a63d">
+         <tg xml:lang="fin">
             <t pos="CC">taikka</t>
          </tg>
       </mg>
@@ -61,7 +61,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">daihe</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="daihe dc0a6522-0397-4bea-81f3-1d17ef386b71">
+         <tg xml:lang="fin">
             <t pos="CC">taikka</t>
          </tg>
       </mg>
@@ -71,7 +71,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">daikke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="daikke f9b8934d-37e6-4975-be2e-c74213a161bb">
+         <tg xml:lang="fin">
             <t pos="CC">taikka</t>
          </tg>
       </mg>
@@ -81,7 +81,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">ja</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ja 1fa0baf2-2e2b-45e6-819a-50a2c0af6e8f">
+         <tg xml:lang="fin">
             <t pos="CC">ja</t>
          </tg>
       </mg>
@@ -91,7 +91,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">muhto</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="muhto a18437be-2ad6-4367-b551-4a657caa6a23">
+         <tg xml:lang="fin">
             <t pos="CC">mutta</t>
          </tg>
       </mg>
@@ -101,7 +101,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">vaikke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vaikke e4864dc4-1445-44fe-9dca-426981925271">
+         <tg xml:lang="fin">
             <t pos="CC">vaikka</t>
          </tg>
       </mg>
@@ -111,7 +111,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">vaikko</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vaikko 5ea150ca-a3dc-48f1-9df4-8a5be97488d9">
+         <tg xml:lang="fin">
             <t pos="CC">vaikka</t>
          </tg>
       </mg>
@@ -121,7 +121,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">sihke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="sihke 554f6aa9-2362-45ca-bfb0-3cf982e0b83b">
+         <tg xml:lang="fin">
             <t pos="CC">sekä</t>
          </tg>
       </mg>
@@ -131,7 +131,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">dehe</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dehe 4d45b48a-6267-4f84-98ad-e98f153895ea">
+         <tg xml:lang="fin">
             <t pos="CC">tai</t>
          </tg>
       </mg>
@@ -141,7 +141,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">vai</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vai 1684f750-1d47-4588-b844-26b662a9fe14">
+         <tg xml:lang="fin">
             <t pos="CC">vai</t>
          </tg>
       </mg>

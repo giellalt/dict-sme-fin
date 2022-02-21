@@ -31,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Cmp">njuolggo-</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="njuolggo- 7e019788-9770-4f19-b3cb-812d627c6d80">
+         <tg xml:lang="fin">
             <t pos="Cmp">suora</t>
             <t pos="Cmp">suorat</t>
          </tg>
@@ -42,7 +42,7 @@ For the full license text, see the link above.</lic>
          <l pos="Cmp">nurke-</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="nurke- be2240e5-8569-4a9a-964b-6ac2e3c45628">
+         <tg xml:lang="fin">
             <t pos="Cmp">nurkka-</t>
          </tg>
       </mg>
@@ -52,7 +52,7 @@ For the full license text, see the link above.</lic>
          <l pos="Cmp">smarfe-</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="smarfe- 2bc99b7d-edac-4d65-ab93-f9c7b49da744">
+         <tg xml:lang="fin">
             <t pos="Cmp">kiharainen</t>
          </tg>
       </mg>
@@ -62,7 +62,7 @@ For the full license text, see the link above.</lic>
          <l pos="Cmp">vuoste-</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vuoste- e978d8e7-0631-4ae2-b0a6-3681e72f3ec2">
+         <tg xml:lang="fin">
             <t pos="Cmp">vasta-</t>
          </tg>
       </mg>

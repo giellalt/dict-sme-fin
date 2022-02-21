@@ -31,12 +31,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Pers">dat</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dat 3416d12a-4ff0-4681-a2e8-237d410258c6">
+         <tg xml:lang="fin">
             <t pos="Pron">se</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" tw_id="dat 61a90c35-b071-4d4b-b298-19d91f57a55a">
+         <tg xml:lang="fin">
             <re>puhek.</re>
             <t pos="Pron">hän</t>
          </tg>
@@ -47,7 +47,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Pers">dii</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dii 381e4011-b54e-4c07-98ee-30f963efb9b9">
+         <tg xml:lang="fin">
             <t pos="Pron">te</t>
          </tg>
       </mg>
@@ -57,7 +57,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Pers">doai</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="doai 33cd739a-1a03-4213-991a-081e6275b135">
+         <tg xml:lang="fin">
             <t pos="Pron">te kaksi</t>
          </tg>
       </mg>
@@ -67,7 +67,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Pers">don</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="don 2b43d172-63dd-4648-8e3d-793eb93a4f3a">
+         <tg xml:lang="fin">
             <t pos="Pron">sinä</t>
          </tg>
       </mg>
@@ -77,7 +77,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Pers">mii</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="mii 8d6bd346-796d-4ea2-a8b8-d688055ecd18">
+         <tg xml:lang="fin">
             <t pos="Pron">me</t>
          </tg>
       </mg>
@@ -87,7 +87,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Pers">moai</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="moai 72db0fc4-f877-49a8-927f-829246220768">
+         <tg xml:lang="fin">
             <t pos="Pron">me kaksi</t>
          </tg>
       </mg>
@@ -97,7 +97,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Pers">mun</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="mun 9aab91aa-cd51-4c41-aad7-6a8e540b682d">
+         <tg xml:lang="fin">
             <t pos="Pron">minä</t>
          </tg>
       </mg>
@@ -107,7 +107,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Pers">sii</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="sii 6f34eb45-b1a8-4dbc-8cc7-575d7934dd3e">
+         <tg xml:lang="fin">
             <t pos="Pron">he</t>
          </tg>
       </mg>
@@ -117,7 +117,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Pers">soai</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="soai 4824798d-d426-4411-b05d-c18b221504bf">
+         <tg xml:lang="fin">
             <t pos="Pron">he</t>
          </tg>
       </mg>
@@ -127,7 +127,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Pers">son</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="son dc34d176-5a93-4116-9f37-622ba297ab02">
+         <tg xml:lang="fin">
             <t pos="Pron">hän</t>
          </tg>
       </mg>

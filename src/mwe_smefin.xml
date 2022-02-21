@@ -31,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">amma nu</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="amma nu fa2bdf29-d050-41b3-bb53-b840e0c050e1">
+         <tg xml:lang="fin">
             <t pos="mwe">eikö niin</t>
             <t pos="mwe">jooko</t>
          </tg>
@@ -42,7 +42,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">atnit váivin</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="atnit váivin 774125fa-40ad-401c-b290-42717af34ba9">
+         <tg xml:lang="fin">
             <t pos="mwe">pitää ikävänä</t>
          </tg>
       </mg>
@@ -52,7 +52,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">attášitgo</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="attášitgo 93d31bd6-057b-4dec-a2b2-278c06a9c3f9">
+         <tg xml:lang="fin">
             <t pos="mwe">antaisitko</t>
          </tg>
       </mg>
@@ -62,7 +62,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">badjel rájáid</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="badjel rájáid 1f513824-cda5-4241-a7f2-0dc5ee5904f0">
+         <tg xml:lang="fin">
             <t pos="mwe">yli rajojen</t>
          </tg>
       </mg>
@@ -72,7 +72,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">bures boahtin</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="bures boahtin 3ecfdf05-c4db-410b-a6ef-50cbf3153f60">
+         <tg xml:lang="fin">
             <t pos="mwe">tervetuloa</t>
          </tg>
       </mg>
@@ -82,7 +82,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dakko gokko</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dakko gokko 4f441368-d26c-4e5d-b89a-20436b5b4714">
+         <tg xml:lang="fin">
             <t pos="mwe">siitä mistä</t>
             <t pos="mwe">siinä missä</t>
          </tg>
@@ -93,7 +93,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dallege</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dallege 9561740f-ab66-4a5a-9df3-f1c45f20d559">
+         <tg xml:lang="fin">
             <t pos="mwe">silloinkin</t>
          </tg>
       </mg>
@@ -103,7 +103,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dallehan</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dallehan cbd9cc74-5093-41a1-9e40-b257e3f51465">
+         <tg xml:lang="fin">
             <t pos="mwe">silloinhan</t>
          </tg>
       </mg>
@@ -113,7 +113,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dallenai</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dallenai 0d74727f-a8c8-456a-a828-dfc1fe131a9f">
+         <tg xml:lang="fin">
             <t pos="mwe">silloinkin</t>
          </tg>
       </mg>
@@ -123,7 +123,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dan botta go</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dan botta go 3447672e-103c-4f3d-afd8-d983fc5a9a01">
+         <tg xml:lang="fin">
             <t pos="mwe">sillä aikaa kun</t>
          </tg>
       </mg>
@@ -133,7 +133,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dan sivas</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dan sivas 6517cbb3-a5fd-442f-9467-536cdc85f8b7">
+         <tg xml:lang="fin">
             <t pos="mwe">siitä syystä</t>
          </tg>
       </mg>
@@ -143,7 +143,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dan vuoro</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dan vuoro 43eb8f2c-1d33-42b1-a42e-01a6d4d76fc5">
+         <tg xml:lang="fin">
             <t pos="mwe">sillä kertaa</t>
             <t pos="mwe">sillä erää</t>
          </tg>
@@ -154,7 +154,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">danin go</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="danin go e0635f6f-33c0-4714-a204-18d486fcf711">
+         <tg xml:lang="fin">
             <t pos="mwe">siksi että</t>
             <t pos="mwe">siksi koska</t>
          </tg>
@@ -165,7 +165,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">dieinna lágiin</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dieinna lágiin e2b07aa3-40f1-4019-9577-e28b800be979">
+         <tg xml:lang="fin">
             <t pos="mwe">sillä tavalla</t>
          </tg>
       </mg>
@@ -175,7 +175,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">duollet dálle</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="duollet dálle 63f1ec77-e48e-46ff-abca-4f5c153ac799">
+         <tg xml:lang="fin">
             <t pos="mwe">silloin tällöin</t>
          </tg>
       </mg>
@@ -185,7 +185,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">duođaige</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="duođaige b1f36e96-539e-499a-b32e-a36a1bc81205">
+         <tg xml:lang="fin">
             <t pos="mwe">todellakaan</t>
             <t pos="mwe">tosiaankaan</t>
          </tg>
@@ -196,7 +196,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">duođe eambbo</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="duođe eambbo 4a3c6439-ad6b-4d5e-a411-f07a4cc71fb0">
+         <tg xml:lang="fin">
             <t pos="mwe">sen enempää</t>
          </tg>
       </mg>
@@ -206,7 +206,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">earet eará</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="earet eará 2629a87c-d904-44f7-9335-94790646bd32">
+         <tg xml:lang="fin">
             <t pos="mwe">muun muassa</t>
          </tg>
       </mg>
@@ -216,7 +216,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">earáge</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="earáge 9c0aba9c-b939-4ccf-9d08-999fea1006f5">
+         <tg xml:lang="fin">
             <t pos="mwe">muutakin</t>
          </tg>
       </mg>
@@ -226,7 +226,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">galli áigge</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="galli áigge fb16fe4b-3963-4be7-bf4e-c07d195794f8">
+         <tg xml:lang="fin">
             <t pos="mwe">monenko aikaan</t>
          </tg>
       </mg>
@@ -236,7 +236,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">goaseai</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="goaseai a6f8526a-94b0-4130-a37c-181d33862af2">
+         <tg xml:lang="fin">
             <t pos="mwe">lähes</t>
          </tg>
       </mg>
@@ -246,7 +246,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">gosabat</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gosabat dcd542da-5172-40c7-89b6-b953405616fc">
+         <tg xml:lang="fin">
             <t pos="mwe">mihinkä</t>
             <t pos="mwe">minnekä</t>
          </tg>
@@ -257,7 +257,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">guhkkin eret</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="guhkkin eret 6b6e4cec-80c3-4867-a65e-815f4d96dd45">
+         <tg xml:lang="fin">
             <t pos="mwe">kaukana siitä</t>
          </tg>
       </mg>
@@ -267,7 +267,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">guovtte beale</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="guovtte beale 17229f77-3bb6-4bbb-a631-81be948a2745">
+         <tg xml:lang="fin">
             <t pos="mwe">kahta puolta</t>
          </tg>
       </mg>
@@ -277,7 +277,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ieš alddes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ieš alddes 56f60699-2608-428d-abd5-6ea61f34a498">
+         <tg xml:lang="fin">
             <t pos="mwe">itse asiassa</t>
          </tg>
       </mg>
@@ -287,7 +287,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">iežas čierastan</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="iežas čierastan 8698e42c-018e-42e9-b959-b82be88ad3cd">
+         <tg xml:lang="fin">
             <t pos="mwe">itsensä laskeneen</t>
          </tg>
       </mg>
@@ -297,7 +297,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">juohke báikkis</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="juohke báikkis a3a6326a-8ba8-4d5e-96f9-fb2213d5e375">
+         <tg xml:lang="fin">
             <t pos="mwe">joka paikassa</t>
          </tg>
       </mg>
@@ -307,7 +307,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">juohke okta</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="juohke okta 0e496d88-2b20-4d44-aa99-e5bde7936fef">
+         <tg xml:lang="fin">
             <t pos="mwe">jokainen</t>
             <t pos="mwe">jokaikinen</t>
          </tg>
@@ -318,7 +318,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">leage buorre</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="leage buorre d529d00e-4642-42fd-8146-f07c170fffb6">
+         <tg xml:lang="fin">
             <t pos="mwe">ole hyvä</t>
          </tg>
       </mg>
@@ -328,7 +328,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">leat fuolas</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="leat fuolas e5bbcdca-2c93-4224-965a-4a164b4b66b2">
+         <tg xml:lang="fin">
             <t pos="mwe">olla huolissaan</t>
          </tg>
       </mg>
@@ -338,7 +338,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">leat ilus</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="leat ilus 26f75f20-a606-4bf0-8d09-fe88811d07a6">
+         <tg xml:lang="fin">
             <t pos="mwe">olla iloinen</t>
          </tg>
       </mg>
@@ -348,7 +348,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">leat oidnosis</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="leat oidnosis 149882fd-ee6b-4011-a138-7b31b5882c90">
+         <tg xml:lang="fin">
             <t pos="mwe">olla näkyvissä</t>
          </tg>
       </mg>
@@ -358,7 +358,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">lihkku lehkos</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="lihkku lehkos 7ff58132-7a2d-493c-b4dc-62ba44955660">
+         <tg xml:lang="fin">
             <t pos="mwe">onneksi olkoon</t>
          </tg>
       </mg>
@@ -368,7 +368,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">man láhkái</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="man láhkái 3b3db958-a0e8-4a31-b019-882ecb2d5443">
+         <tg xml:lang="fin">
             <t pos="mwe">millä lailla</t>
             <t pos="mwe">tavalla</t>
          </tg>
@@ -379,7 +379,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">mii eará</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="mii eará d76cb55a-bbd3-4939-970a-ce227600be3c">
+         <tg xml:lang="fin">
             <t pos="mwe">mitä muuta</t>
             <t pos="mwe">mikä muu</t>
          </tg>
@@ -390,7 +390,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">nu gohčoduvvon</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="nu gohčoduvvon c90714d8-2ada-41db-82e0-d72b96468458">
+         <tg xml:lang="fin">
             <t pos="mwe">niin sanottu</t>
          </tg>
       </mg>
@@ -400,7 +400,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">nuge</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="nuge 2acbd750-e65d-4ea3-9da7-37bf4ad4f53c">
+         <tg xml:lang="fin">
             <t pos="mwe">niinkään</t>
          </tg>
       </mg>
@@ -410,7 +410,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">nuppe beliid</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="nuppe beliid 0c3a9263-c446-4558-b635-493906cd87b2">
+         <tg xml:lang="fin">
             <t pos="mwe">toisinpäin</t>
          </tg>
       </mg>
@@ -420,7 +420,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">nuppe jagi</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="nuppe jagi 9f07f0b0-d413-4027-952e-de0558eb1690">
+         <tg xml:lang="fin">
             <t pos="mwe">seuraavana vuonna</t>
          </tg>
       </mg>
@@ -430,7 +430,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">olbmo láhkái</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="olbmo láhkái a6c870fc-7f9e-47ec-87f2-640b68f51ff8">
+         <tg xml:lang="fin">
             <t pos="mwe">kunnolla</t>
             <t pos="mwe">ihmisiksi</t>
          </tg>
@@ -441,7 +441,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">olles fártta</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="olles fártta 32b202a7-da20-4683-a6c7-109612d3672d">
+         <tg xml:lang="fin">
             <t pos="mwe">täyttä vauhtia</t>
          </tg>
       </mg>
@@ -451,7 +451,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ollu giitu</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ollu giitu eeb41b9b-e4a3-46bf-9390-a95925b8a8b2">
+         <tg xml:lang="fin">
             <t pos="mwe">paljon kiitoksia</t>
          </tg>
       </mg>
@@ -461,7 +461,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ollugo</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ollugo c86cd1c8-8170-4cfa-a755-ee5b57e44c1a">
+         <tg xml:lang="fin">
             <t pos="mwe">paljonko</t>
          </tg>
       </mg>
@@ -471,7 +471,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">oppalaš govva</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="oppalaš govva 13c0c611-fda7-49b4-9cdc-91127123d0a1">
+         <tg xml:lang="fin">
             <t pos="mwe">kokonaiskuva</t>
          </tg>
       </mg>
@@ -481,7 +481,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">otná beaivve</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="otná beaivve b0d84304-5b81-4c4c-8850-096562efc63b">
+         <tg xml:lang="fin">
             <t pos="mwe">tämän päivän</t>
             <t pos="mwe">tänä päivänä</t>
          </tg>
@@ -492,7 +492,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ovddežiid ektui</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ovddežiid ektui b55aa2dc-90e2-4138-99a4-0045022d9719">
+         <tg xml:lang="fin">
             <t pos="mwe">entisiin verrattuna</t>
          </tg>
       </mg>
@@ -502,7 +502,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ovtta eahket</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ovtta eahket 23ecccf3-cddc-425c-9f55-7fdb702be092">
+         <tg xml:lang="fin">
             <t pos="mwe">eräänä iltana</t>
          </tg>
       </mg>
@@ -512,7 +512,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ovtta láhkai</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ovtta láhkai e9f0c949-8630-4638-92e4-29e859a16a64">
+         <tg xml:lang="fin">
             <t pos="mwe">eräällä tavalla</t>
          </tg>
       </mg>
@@ -522,7 +522,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">ovttain báikkiin</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ovttain báikkiin 0e6b6fa6-1950-4ad1-be95-3ef646fbfb58">
+         <tg xml:lang="fin">
             <t pos="mwe">samoissa paikoissa</t>
          </tg>
       </mg>
@@ -532,7 +532,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">vulos guvlui</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vulos guvlui c1f9762b-0558-4472-ade4-ffccbb07472c">
+         <tg xml:lang="fin">
             <t pos="mwe">alaspäin</t>
          </tg>
       </mg>
@@ -542,7 +542,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">vuorddemat</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vuorddemat a6075a59-9413-49c9-8fa7-eed3c34a4c60">
+         <tg xml:lang="fin">
             <t pos="mwe">odotahan</t>
             <t pos="mwe">odotapas</t>
          </tg>
@@ -553,7 +553,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">vuorddesmat</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vuorddesmat 8352ff8e-32b1-4b87-ace1-4b08e2a08d34">
+         <tg xml:lang="fin">
             <t pos="mwe">odotapas</t>
          </tg>
       </mg>
@@ -563,7 +563,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">vuos dál</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vuos dál 4df8c429-bf38-4344-8838-cfeb73d8c5f4">
+         <tg xml:lang="fin">
             <t pos="mwe">ensin nyt</t>
          </tg>
       </mg>
@@ -573,7 +573,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">váldit oasi</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="váldit oasi 674e13ba-31e0-4c9e-b7be-9578e7a3b2e0">
+         <tg xml:lang="fin">
             <t pos="mwe">ottaa osaa</t>
          </tg>
       </mg>
@@ -583,7 +583,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">áibbas bures</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="áibbas bures 8a4acf84-5d81-4506-9834-3daf7be02547">
+         <tg xml:lang="fin">
             <t pos="mwe">aivan hyvin</t>
          </tg>
       </mg>
@@ -593,7 +593,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">áigá dassái</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="áigá dassái abec2188-9336-48a7-86f5-4b73a6d04735">
+         <tg xml:lang="fin">
             <t pos="mwe">aikoja sitten</t>
          </tg>
       </mg>
@@ -603,7 +603,7 @@ For the full license text, see the link above.</lic>
          <l pos="mwe">čađa áiggiid</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="čađa áiggiid b779456c-b00b-4562-b40e-34dea1338d54">
+         <tg xml:lang="fin">
             <t pos="mwe">kautta aikojen</t>
             <t pos="mwe">läpi aikojen</t>
             <t pos="mwe">halki aikojen</t>

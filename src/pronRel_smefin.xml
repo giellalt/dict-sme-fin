@@ -31,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Rel">gii</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gii 1107942c-910e-4406-b6f4-9cb54cbe5ebe">
+         <tg xml:lang="fin">
             <t pos="Pron">kuka</t>
          </tg>
       </mg>
@@ -41,7 +41,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Rel">guhte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="guhte d732fdd9-4bca-462b-8385-b3c079a81dc2">
+         <tg xml:lang="fin">
             <t pos="Pron">kuka</t>
             <t pos="Pron">joka</t>
          </tg>
@@ -52,7 +52,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Rel">mii</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="mii aeaca2b5-f758-466c-a982-a94472980cbb">
+         <tg xml:lang="fin">
             <t pos="Pron">mikä</t>
          </tg>
       </mg>

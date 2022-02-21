@@ -31,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">ahte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ahte 77745364-1973-4f28-99c3-55e822c1634d">
+         <tg xml:lang="fin">
             <t pos="CS">että</t>
          </tg>
       </mg>
@@ -41,7 +41,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">amas</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="amas 7d8b56c4-2977-4c5c-8833-df811e96d856">
+         <tg xml:lang="fin">
             <t pos="CS">outo</t>
          </tg>
       </mg>
@@ -51,12 +51,12 @@ For the full license text, see the link above.</lic>
          <l pos="CS">go</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="go e30e6788-351e-4067-bd09-5f6de48814ce">
+         <tg xml:lang="fin">
             <t pos="CS">kun</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" tw_id="go ef04baf7-9514-4f26-b45f-0af122f3a44b">
+         <tg xml:lang="fin">
             <t pos="CS">kuin</t>
          </tg>
       </mg>
@@ -66,7 +66,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">jos</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="jos 561973bc-76b0-48eb-9ee9-d37c7003b354">
+         <tg xml:lang="fin">
             <t pos="CS">jos</t>
          </tg>
       </mg>
@@ -76,7 +76,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">juogo</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="juogo 13313722-4502-4c98-8074-a64a3effa7ce">
+         <tg xml:lang="fin">
             <t pos="CS">joko</t>
          </tg>
       </mg>
@@ -86,7 +86,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">juos</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="juos 9985b81c-e99f-42a6-a044-9a02a161e45c">
+         <tg xml:lang="fin">
             <t pos="CS">jos</t>
          </tg>
       </mg>
@@ -96,7 +96,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">nugo</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="nugo 53879c17-49de-4424-9f41-5f01ddfbe9d5">
+         <tg xml:lang="fin">
             <t pos="CS">niin kuin</t>
             <t pos="CS">kuten</t>
          </tg>
@@ -107,7 +107,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">ovdalgo</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ovdalgo d65556c5-df04-4a4b-9404-3561e94b096e">
+         <tg xml:lang="fin">
             <t pos="CS">ennen kuin</t>
          </tg>
       </mg>
@@ -117,7 +117,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">vaikko</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vaikko e18b3cfc-e8c6-48b0-be27-d3b58f1ad15e">
+         <tg xml:lang="fin">
             <t pos="CS">vaikka</t>
          </tg>
       </mg>
@@ -127,7 +127,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">jogo ... dahje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="jogo ... dahje e83ded66-79ec-4412-8cb2-0d4a1725b584">
+         <tg xml:lang="fin">
             <t pos="CS">joko ... tai</t>
          </tg>
       </mg>
@@ -137,7 +137,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">josgo</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="josgo 974b360e-04c8-4e56-83cf-ac7a9f9267f9">
+         <tg xml:lang="fin">
             <t pos="CC">josko</t>
          </tg>
       </mg>
@@ -147,7 +147,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">váikko</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="váikko e22c87db-d5fa-4dc0-b45d-a9e88cd7456b">
+         <tg xml:lang="fin">
             <t pos="CC">vaikka</t>
          </tg>
       </mg>
@@ -157,7 +157,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">dego</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dego de69c747-fc00-416f-90d7-e111f1932df1">
+         <tg xml:lang="fin">
             <t pos="Pcle">kuten</t>
          </tg>
       </mg>
@@ -167,7 +167,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">jus</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="jus 8f639c1f-0ffb-4ac4-a759-811610464f5d">
+         <tg xml:lang="fin">
             <t pos="CS">jos</t>
          </tg>
       </mg>
