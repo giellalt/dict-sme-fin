@@ -58,7 +58,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">rišša</l>
+         <l type="G3" pos="N">rišša</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -503,7 +503,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">abskissa</l>
+         <l pos="N" >abskissa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -554,7 +554,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">adreassa</l>
+         <l pos="N" >adreassa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2445,7 +2445,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">basilla</l>
+         <l pos="N" >basilla</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3145,7 +3145,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">beassi</l>
+         <l type="G3" pos="N">beassi</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3362,7 +3362,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">beavvi</l>
+         <l pos="N" >beavvi</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3483,7 +3483,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">benne</l>
+         <l pos="N" >benne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3547,7 +3547,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">betoŋŋa</l>
+         <l pos="N" >betoŋŋa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3790,7 +3790,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">biellu</l>
+         <l pos="N" >biellu</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3931,7 +3931,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">biffa</l>
+         <l pos="N" >biffa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4011,7 +4011,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">bihpporbiffa</l>
+         <l pos="N" >bihpporbiffa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4074,7 +4074,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">balloŋŋa</l>
+         <l pos="N" >balloŋŋa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4273,7 +4273,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">binná</l>
+         <l pos="N" >binná</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4493,7 +4493,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">bissu</l>
+         <l pos="N" >bissu</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5322,7 +5322,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">boaššu</l>
+         <l pos="N" >boaššu</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5853,7 +5853,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">bossu</l>
+         <l pos="N" >bossu</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19966,7 +19966,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">gállu</l>
+         <l type="G3" pos="N">gállu</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21968,16 +21968,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">ruokki</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">hálla</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">puhe</t>
          </tg>
       </mg>
    </e>
@@ -24605,7 +24595,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">klássa</l>
+         <l type="G3" pos="N">klássa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -36364,7 +36354,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">restoráŋŋa</l>
+         <l pos="N" >restoráŋŋa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -48701,7 +48691,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">vuoncáfálli</l>
+         <l pos="N" >vuoncáfálli</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -55657,7 +55647,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="G3">basseaŋŋa</l>
+         <l pos="N" >basseaŋŋa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
