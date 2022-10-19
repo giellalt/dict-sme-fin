@@ -1,9 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
-   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+<r id="smefin" xml:lang="sme">
+   <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -38,7 +34,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">agálaččat</l>
+         <l ader="agálaš" pos="Adv">agálaččat</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -129,7 +125,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">aktiivvalaččat</l>
+         <l ader="aktiivvalaš" pos="Adv">aktiivvalaččat</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -521,7 +517,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">buoremusat</l>
+         <l ader="buorre" pos="Adv">buoremusat</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1645,7 +1641,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">dábálaččat</l>
+         <l ader="dábálaš" pos="Adv">dábálaččat</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1817,7 +1813,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">dárkilit</l>
+         <l ader="dárkil" pos="Adv">dárkilit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2014,7 +2010,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">earenoamážit</l>
+         <l ader="erenoamáš" pos="Adv">earenoamážit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2087,7 +2083,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">erenoamážit</l>
+         <l ader="erenoamáš" pos="Adv">erenoamážit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2650,7 +2646,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">guhkit</l>
+         <l ader="guhkki" pos="Adv">guhkit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2908,7 +2904,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">hihtásit</l>
+         <l ader="hiđis" pos="Adv">hihtásit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2928,7 +2924,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">hirbmadit</l>
+         <l ader="hirbmat" pos="Adv">hirbmadit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3277,7 +3273,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">johtilit</l>
+         <l ader="johtil" pos="Adv">johtilit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3297,7 +3293,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">jođánit</l>
+         <l ader="jođán" pos="Adv">jođánit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3534,7 +3530,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">lunddolaččat</l>
+         <l ader="lunddolaš" pos="Adv">lunddolaččat</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4097,7 +4093,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">nannosit</l>
+         <l ader="nanus" pos="Adv">nannosit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4222,7 +4218,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">njoazit</l>
+         <l ader="njoahci" pos="Adv">njoazit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5290,7 +5286,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">sihkkarit</l>
+         <l ader="sihkar" pos="Adv">sihkkarit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5890,7 +5886,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">viidáseappot</l>
+         <l ader="viiddis" pos="Adv">viidáseappot</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5921,7 +5917,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">viidát</l>
+         <l ader="viiddis" pos="Adv">viidát</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6244,7 +6240,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">várrugasat</l>
+         <l ader="várrugas" pos="Adv">várrugasat</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6386,7 +6382,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">álkit</l>
+         <l ader="álki" pos="Adv">álkit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6623,7 +6619,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">čábbát</l>
+         <l ader="čáppat" pos="Adv">čábbát</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
