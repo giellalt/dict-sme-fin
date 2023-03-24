@@ -59069,7 +59069,7 @@ For the full license text, see the link above.</lic>
     <l pos="N">čuđđi</l>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">tšuudi (esim. "ryssän tšuudi")</t>
+        <t pos="N">tšuudi</t>
       </tg>
     </mg>
   </e>
@@ -59085,7 +59085,7 @@ For the full license text, see the link above.</lic>
     <l pos="N">čuhti</l>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">tšuudi (esim. "ryssän tšuudi")</t>
+        <t pos="N">tšuudi</t>
       </tg>
     </mg>
   </e>
@@ -59349,12 +59349,7 @@ For the full license text, see the link above.</lic>
     <l pos="N">dahkamuš</l>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">"</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">tehtävä"</t>
+        <t pos="N">tehtävä</t>
       </tg>
     </mg>
   </e>
@@ -60898,7 +60893,7 @@ For the full license text, see the link above.</lic>
     <l pos="N">fiila</l>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">tiedosto ("file")</t>
+        <t pos="N">tiedosto</t>
       </tg>
     </mg>
   </e>
@@ -62762,7 +62757,7 @@ For the full license text, see the link above.</lic>
     <l pos="N">idioma</l>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">idiomi ("luonteenomainen ilmaisu")</t>
+        <t pos="N">idiomi</t>
       </tg>
     </mg>
   </e>
@@ -69266,7 +69261,7 @@ For the full license text, see the link above.</lic>
     <l pos="N">vieljažat</l>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">eri sukupuolta olevat sisarukset: oappážat vieljážat</t>
+        <t pos="N">eri sukupuolta olevat sisarukset</t>
       </tg>
     </mg>
   </e>

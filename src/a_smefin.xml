@@ -17552,11 +17552,6 @@ For the full license text, see the link above.</lic>
     <l pos="A">bahánihkkán</l>
     <mg>
       <tg xml:lang="fin">
-        <t pos="A">"</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
         <t pos="A">ilkeä</t>
       </tg>
     </mg>
@@ -18658,8 +18653,11 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
     <mg>
+	    <re>esim. pronomini</re>
       <tg xml:lang="fin">
-        <t pos="A">(esim. pronomini: osoittava, selittävä, selventävä)</t>
+        <t pos="A">osoittava</t>
+        <t pos="A">selittävä</t>
+        <t pos="A">selventävä</t>
       </tg>
     </mg>
   </e>
@@ -21023,8 +21021,9 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
     <mg>
+	    <re>maasta, vedestä</re>
       <tg xml:lang="fin">
-        <t pos="A">(maasta, vedestä:) karu</t>
+        <t pos="A">karu</t>
       </tg>
     </mg>
     <mg>
@@ -27091,8 +27090,9 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
     <mg>
+	    <re>talvivaatteista</re>
       <tg xml:lang="fin">
-        <t pos="A">(talvivaatteista:) lämmin</t>
+        <t pos="A">lämmin</t>
       </tg>
     </mg>
   </e>
