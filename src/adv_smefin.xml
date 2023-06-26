@@ -815,16 +815,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">dasttá</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">heti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">datte</l>
       </lg>
       <mg>
@@ -1787,16 +1777,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">dárbahassii</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">tarpeeksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">dárbbašmeahttumit</l>
       </lg>
       <mg>
@@ -1934,16 +1914,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">yleensä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">eanaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">enimmäkseen</t>
          </tg>
       </mg>
    </e>
@@ -2505,16 +2475,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kolmannen kerran</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">goappos</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">kumpaalle</t>
          </tg>
       </mg>
    </e>
@@ -4608,16 +4568,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">yhdessä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">oktanaga</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">yhtä aikaa</t>
          </tg>
       </mg>
    </e>
@@ -10606,36 +10556,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
   <lg>
-    <l pos="Adv">davveleappos</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">pohjoisempana</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">pohjoisempaa</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">lännempänä (R)</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">lännempää (R)</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">ulompana</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
     <l pos="Adv">davvelebbui</l>
   </lg>
     <mg>
@@ -14370,21 +14290,6 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">harvoin</t>
       </tg>
     </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">harvaan</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">harvakseltaan</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
-    <l pos="Adv">hárvvit</l>
-  </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">harvaan</t>
@@ -19952,16 +19857,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kokonaisesti</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
-    <l pos="Adv">oppalohkái</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">kokonaan</t>
       </tg>
     </mg>
   </e>
