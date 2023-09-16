@@ -1,1 +1,8 @@
 čilgehus	N	selitys	tulkinta (esim unen)	tilitys	raportti
+coahkut	V	madaltua	laskea (vedestä)	laskea	madaltaa	laantua (vihasta)	vähetä, vähentyä (esim turhanylpeydestä)	vähetä, pienentyä (kovasti)	huveta (omaisuudesta)
+gálgalit	V	selvittää	irrottaa	päästää nopeasti	gálgalit čoddaga= rykäistä, köhäistä
+olles	A	täysi	kokonainen	täydellinen	kokonaista- (olles mihtus= täysimittainen, täydessä mitassa) 
+áŋkkur	N	ankkuri	koukku (vieheessä, erit kolmihaarainen)	ongenkoukku
+luoddanit	V	haljeta	aueta (silmuista)
+luoddanit	V	läkähtyä	pakahtua (ajoporosta)
+sorrot	V	sotkeutua	takertua (johonkin, esim köyteen)	sotkeutua (puheisiinsa tms)	saada sikiönsä väärään asentoon (jolloin synnytys ei onnistu, porovaatimesta)
