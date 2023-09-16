@@ -1,0 +1,1048 @@
+agibeaivái	Adv	eliniäksi	iäksi
+agibeaivve	Adv	ikinä	ikäpäivänä	ikänään	elinkautena
+agibeaivvi	Adv	ikinä	ikäpäivänä	ikänään	elinkautena
+agibeaivvis	Adv	ikänään	ikäpäivänä
+agibeaivvisge	Adv	ikänään	ikäpäivänä
+áhkkorat	Adv	tarkasti	täsmällisesti
+áibba	Adv	aivan	täysin	kokonaan
+aiddobáliid	Adv	äskettäin
+áigalii	Adv	aikaan	toimeen
+áigálii	Adv	aikaan	toimeen
+ainjuo	Adv	ainakin	edes
+aisttan	Adv	lainatakseni jkn sanoja	kuten jku sanoo
+aistton	Adv	lainatakseni jkn sanoja	kuten jku sanoo
+aitosaččat	Adv	varsinaisesti
+aittonassii	Adv	varsinaisesti
+aivve	Adv	aivan	pelkästään	poikkeuksetta	täysin	vain	pelkästään	juuri	täsmälleen
+aivvestassii	Adv	juuri	täsmälleen	pelkästään
+aktan	Adv	yhdessä
+aktanaga	Adv	yhtä aikaa	yhtenä
+aktanis	Adv	yhtä aikaa
+akte	Adv	kerran
+aktege	Adv	kertaakaan
+aktii	Adv	kerran
+akto	Adv	yksin
+alás	Adv	korkealle	ylhäälle	ylös (maastossa) 	tunturiin
+álásin	Adv	alastomana
+álásjulggiid	Adv	paljasjalkaisena	paljain jaloin
+álbmogassii	Adv	joukolla	porukalla	kaikki yhdessä
+albmohaga	Adv	julkisesti	kaikkien nähden
+albmosii	Adv	julki	julkisesti	näkyvästi	kaikkien näkyville
+albmosis	Adv	kaikkien näkyvillä	-näkyviltä
+albmosit	Adv	avoimesti	julkisesti	näkyvästi	ilmi	julki
+álfárot	Adv	kokonaan	täysin
+álgáge	Adv	alkuunkaan	läheskään
+álggage	Adv	alkuunkaan	läheskään
+álggogeahčai	Adv	alkupäähän	alkupuolelle (ajanjakson)
+álggogeahčen	Adv	alkupäässä	alkupuolella (ajanjakson)
+álgoálggus	Adv	alun perin
+álgočalbmái	Adv	ensinäkemältä
+alias	Adv	alias	toiselta nimeltään
+álkibut	Adv	helpommin
+álkimusat	Adv	helpoimmin
+allagasas	Adv	korkealla	korkealta	korkeuksissa	korkeuksista	korkeudessa	korkeuksissa
+allagassii	Adv	korkealle	korkeuksiin	korkeuteen
+allin	Adv	ylhäällä	ylhäältä	korkealla	korkealta	tunturissa	tunturissa
+állut	Adv	kallellaan	vinossa
+almmolaččat	Adv	yleisesti	julkisesti
+almmotge	Adv	silti
+anne	Adv	sen kun	vain	anna	jotta
+anonymalaččat	Adv	nimettömästi	anonymiteetti säilyttäen
+aŋkke	Adv	silti	sittenkin	kuitenkin	vähintään	ainakin
+apmasit	Adv	oudosti	naurettavasti	omituisella tavalla
+árabuš	Adv	vähän aiemmin	vähän varhemmin
+árabut	Adv	aikaisemmin	varhemmin
+áramus	Adv	aikaisimmin	varhimmin
+áramusat	Adv	aikaisimmin	varhimmin	aikaisintaan
+áramustá	Adv	aikaisintaan
+árat	Adv	aamun virkku	aikainen	varhainen
+árbevirolaččat	Adv	perinteisesti
+árvalusas	Adv	arvattavasti
+árvideames	Adv	arvattavasti
+árvideamis	Adv	arvattavasti
+áššálaččat	Adv	asiallisesti
+assát	Adv	paksulti
+atti	Adv	antakoon (Ipmẹl atti: Jumala antakoon)
+ávccá	Adv	aivan ilman	osattomaksi	(jur ávccá: kokonaan pois, puhtaaksi)
+bábirhámis	Adv	paperimuodossa
+badjálaga	Adv	päällekkäin	päälletysten	 (aivan) peräkkäin (ajallisesti)
+badjálagaid	Adv	päällekkäin	päälletysten	 (aivan) peräkkäin (ajallisesti)
+badjelabbos	Adv	vähän ylemmäs	vähän ylempänä	vähän ylempää
+badjelabbui	Adv	ylemmäksi	ylemmäs
+badjelaš	Adv	vähän enemmän kuin	vähän yli
+badjeleappos	Adv	vähän ylemmäs	vähän ylempänä	vähän ylempää
+badjelebbui	Adv	ylemmäksi	ylemmäs
+badjeliidda	Adv	jonkin verran ylemmäs	jonkin verran korkeammalle
+badjelmearálaččat	Adv	kohtuuttomasti	ylettömästi	ylimääräisesti	ylen määrin
+badjelmeare	Adv	kohtuuttomasti	ylettömästi	ylimääräisesti	ylen määrin
+badjelmeari	Adv	kohtuuttomasti	ylettömästi	ylimääräisesti	ylen määrin
+badjelmeriid	Adv	ylenmääriä
+badjeloivviid	Adv	kokonaan	yltä päältä
+badjin	Adv	ylhäällä	ylhäältä	yläjuoksulla	ylävirralla	ylävirralta	jalkeilla
+bahábut	Adv	pahemmin	pahemmasti
+bahámusat	Adv	pahimmoilleen
+bahás	Adv	pahasti
+bahát	Adv	pahasti	pahoin
+bahččagit	Adv	kitkerästi	katkerasti
+bahkka	Adv	tupaten täynnä	täpötäynnä
+bahkkadievva	Adv	täpötäynnä	tupaten täynnä	tiukassa
+báhtarusas	Adv	pakosalla	paossa
+báhtarussii	Adv	pakoon	karkuun	pakosalle
+báhtui	Adv	pakoon	karkuun
+bahui	Adv	pahasti	pahoin
+bahuid	Adv	pahasti	pahoin
+baica	Adv	pikemminkin	paremminkin
+baicca	Adv	pikemminkin	paremminkin
+báifáhkka	Adv	yhtäkkiä
+bajá	Adv	ylä-
+bajábeale	Adv	yläpuolitse	yläpuolta (ohi, yli, myöten)
+bajábeallai	Adv	yläpuolelle	ylle
+bajágeahčen	Adv	yläpäässä	yläpäästä
+bajásguvlui	Adv	ylöspäin
+bajiloaivvi	Adv	ulkoa (osaten)
+bajimusas	Adv	ylimpänä	ylinnä
+bajimussii	Adv	ylimmäs
+báldalaga	Adv	rinnakkain	vierekkäin	rinnan	vieretysten
+báldalagaid	Adv	rinnakkain	vierekkäin	rinnan	vieretysten
+bálddal	Adv	rinnakkain	vierekkäin
+bálddalaga	Adv	rinnakkain	vierekkäin	rinnan	vieretysten
+bálddalagaid	Adv	rinnakkain	vierekkäin	rinnan	vieretysten
+bálddalasat	Adv	rinnakkain	vierekkäin
+bálggesráigge	Adv	polkua myöten
+baljo	Adv	paljon	juuri	tuskin	melkein (negatiivisessa mielessä) 	paljonkaan	juurikaan
+báljo	Adv	paljon	juuri	tuskin	melkein (negatiivisessa mielessä) 	paljonkaan	juurikaan
+bálljo	Adv	paljon	juuri	tuskin	melkein (negatiivisessa mielessä) 	paljonkaan	juurikaan
+balus	Adv	peloissaan	pelossa
+bárrahii	Adv	parahiksi
+bárrahiin	Adv	parasta aikaa
+bárrahis	Adv	sopivasti	vastikään	parhaillaan
+bárralagaid	Adv	pareittain	pareina
+bárrásiidda	Adv	parahiksi
+bárrásiin	Adv	parasta aikaa
+bárrásis	Adv	parhaillaan
+bátnegáskki	Adv	hammasta purren	hammasta kiristellen	kaikin voimin
+beaiveguovdil	Adv	keskellä päivää	puolilta päivin	keskipäivällä
+beaivvebeale	Adv	päivän puolen
+bealátkeahttá	Adv	puolueettomasti
+bealjevuollái	Adv	korvan alle
+beallalaga	Adv	samaa porukkaa	porukassa	samaa maata	kompuksessa	eri paria (kengät tms.)
+beallálaga	Adv	samaa porukkaa	porukassa	samaa maata	kompuksessa	eri paria (kengät tms.)
+bealleálásin	Adv	puolialastomana
+bealleheggii	Adv	henkihieveriin	puolikuoliaaksi
+beallejámas	Adv	puolikuoliaaksi
+beallemuddui	Adv	puoleenväliin
+beallemuttus	Adv	puolessa välissä
+beallenuvttá	Adv	puoli-ilmaiseksi
+beallestággui	Adv	puolitankoon
+beallestákkus	Adv	puolitangossa
+beare	Adv	ainoastaan	yksinomaan	poikkeuksetta	kovin	perin	liian	kunhan vain	kunpa	vain	sen kun vain	vain	tahansa
+bearehaga	Adv	kovasti	kovin	liiallisesti	liiemmin
+bearrái	Adv	perään	(geahččat/jearrat bearrái: katsoa/kysyä perään)
+beavžžabealde	Adv	itäpuolella	itäpuolelta
+biđgolagaid	Adv	hajallaan	hajalleen
+bieđgguid	Adv	hajallaan	hajalleen
+bienasta bitnii	Adv	yksityiskohtaisesti
+bihkkagárremiin	Adv	umpihumalassa	kännissä
+binnánaš	Adv	vähän	hieman
+birrajagi	Adv	ympäri vuoden	ympärivuotisesti
+birralis	Adv	ympäri
+birrarat	Adv	yltympäri	ympäriinsä
+birrasiid	Adv	osapuilleen	suunnilleen
+birrat-birra	Adv	ympäri (pyörien) 	ylt'ympäri
+boaittobealde	Adv	syrjäseudulla	syrjäseudulta	laitamilla
+boaittobeale	Adv	laitapuolitse	laitapuolta (myöten) 	syrjäseudun kautta
+bođuid	Adv	irti	irrallaan	irralleen	erillään	erilleen
+botnjut	Adv	kierossa	kieroon	kierteellä	kierteelle	väännyksissä	väännyksiin	väärin
+buohta	Adv	kohdalla	kohdalle	vastapäätä
+buohtalaga	Adv	kohdakkain	vastapäätä toisiaan
+buohtalagaid	Adv	kohdakkain	vastapäätä toisiaan
+buohtalasat	Adv	vastakkainen	toisiinsa nähden kohdakkain olevat	toisiaan vastapäätä olevat	rinnakkainen	rinnasteinen
+buoragit	Adv	hyvin
+buoremuddui	Adv	hyvälle tasolle	paremmalle tasolle
+buoril	Adv	hevillä	hevin	hyvällä
+buorimuddui	Adv	hyvälle tasolle	paremmalle tasolle
+buorremealgadii	Adv	koko lailla	käytännöllisesti katsoen
+caggut	Adv	ammollaan	 (apposen) auki (esim. ovi)
+čalbmehálgui	Adv	suoraan silmiin
+čalmmát	Adv	silmin jhk tai jkhun	silmät jhk tai jkhun käännettynä	päistikkaa
+čárvvočalmmiid	Adv	silmiä kiinni puristaen
+čavččabealde	Adv	syyspuolella	syyspuolelta
+čavga	Adv	kireälle	-llä	tiukasti
+čázevuolde	Adv	veden alalla
+ceaggut	Adv	pystyyn	pystyssä	seisaallaan	seisaalleen
+čeavládit	Adv	ylpeästi	turhanylpeästi	koppavasti
+čeavlájit	Adv	koppavasti	ylpeästi
+ceavzilit	Adv	sinnikkäästi	hellittämättömästi	kilpailukykyisesti	kestävästi
+čehpet	Adv	taitavasti
+čielgasit	Adv	selvästi
+čieročalbmái	Adv	kyynelsilmin
+čieručalmmiid	Adv	kyynelsilmin
+čihkosii	Adv	piiloon
+čihkosis	Adv	piilossa	piilosta
+čikŋagasas	Adv	koristeltuna	koristautuneena	hienosti pukeutuneena
+coahkásit	Adv	pinnallisesti
+čohkkut	Adv	istuallaan	istualleen
+čohkut	Adv	istuallaan	istualleen
+čomil	Adv	kuperana	kukkuroillaan
+čorga	Adv	siististi	siivosti	huolellisesti	kunnolla
+čorpmadievva	Adv	kourallinen (myös: čorbma dievva)
+čuččot	Adv	jatkuvasti seisoskelemassa (jssak)
+čuođenáre	Adv	satakunta	noin sata
+čuohtemađe	Adv	sadan verran	noin sata	satakunta
+čuohtenar	Adv	satakunta
+čuohtenár	Adv	satakunta
+čuohtenáre	Adv	satakunta
+čuohteveardde	Adv	satakunta
+čurbbet	Adv	taitamattomasti	tökerösti
+dađe	Adv	sitä (+ komp., es. dađe buorebut: sitä paremmin/parempi)
+dađibahábut	Adv	valitettavasti	harmi kyllä
+dagakeahttá	Adv	tekemättä
+dáhtul	Adv	tieten tahtoen		tarkoituksella	vasiten
+dákkaviđe	Adv	(nyt) heti	oitis	välittömästi
+dakkaviđi	Adv	(nyt) heti	oitis	välittömästi
+dále	Adv	tässä	tässä näin
+dallánaga	Adv	heti (silloin) 	oitis
+dállánaga	Adv	heti	oitis
+dálle	Adv	tällöin
+dálveguovdil	Adv	keskellä talvea
+daninassii	Adv	niikseen	sikseen
+dánne	Adv	tämän vuoksi
+dáno	Adv	näin
+dánu	Adv	näin
+dáppil	Adv	täällä	täältä	täällä näin	täältä näin
+dárbahassii	Adv	tarpeeksi	kylliksi
+dárbbahassii	Adv	tarpeeksi	kylliksi
+dárkket	Adv	tarkoin
+dárkkit	Adv	tarkasti
+dassá	Adv	siihen (ajankohtaan) 	siihen astinen	siitä
+dassái	Adv	siihen (ajankohtaan) 	siihen astinen	siitä
+dássálaga	Adv	tasan	sujut	kuitit (keskenään) 	jonkin tasalla	tasavertaisesti	yhdenvertaisina
+dássálagaid	Adv	tasan	sujut	kuitit (keskenään) 	jonkin tasalla	tasavertaisesti	yhdenvertaisina
+dássebealagit	Adv	tasapuolisesti
+dássidit	Adv	tasaisesti	säännöllisesti
+dastán	Adv	juuri siinä	juuri siitä
+daste	Adv	sitten	sittenpä	siinä tapauksessa
+dasto	Adv	sitten	sittenpä	siinä tapauksessa
+dasttá	Adv	heti
+dasttán	Adv	juuri siinä	- siitä	siinä paikassa	siitä paikasta
+dasttánaga	Adv	juuri siinä	juuri siitä	siinä paikassa	siitä paikasta
+datte	Adv	silti	sittenkin
+davágeahčai	Adv	pohjoispäähän	länsipäähän (R)
+davágeahčen	Adv	pohjoispäässä	pohjoispäästä	 länsipäässä (R)	länsipäästä (R)
+davásguovlluid	Adv	pohjoiseen päin
+davásguvlui	Adv	pohjoiseen päin
+davil	Adv	pohjoisessa	pohjoisesta päin	lännessä (R)	lännestä päin (R)	ulkona	ulkoa päin (vuonossa) 	ulapalla	ulapalta päin
+dávjábut	Adv	useammin
+dávjjemus	Adv	useimmin
+dávjjemusat	Adv	useimmin
+dávjjemustá	Adv	korkeintaan (niin ja niin useasti) 	useimmin
+dávjjibut	Adv	useammin
+dávjjimus	Adv	useimmin
+dávjjimusat	Adv	useimmin
+dávjjimustá	Adv	korkeintaan (niin ja niin useasti) 	useimmin
+davvelabbos	Adv	pohjoisempana	pohjoisempaa	 lännempänä (R)	lännempää(R)	ulompana	ulompaa (vuonossa, ulapalla)
+davveleamos	Adv	pohjoisimpana	pohjoisimmasta
+davveleappos	Adv	pohjoisempana	pohjoisempaa	lännempänä (R)	lännempää (R)	ulompana	ulompaa (vuonossa, ulapalla)
+davveleappos	Adv	pohjoisempana	pohjoisempaa	lännempänä (R)	lännempää (R)	ulompana	ulompaa (vuonossa, ulapalla)
+davvelebbui	Adv	pohjoisemmas	lännemmäs (R)	ulommas (vuonossa, ulapalla)
+davvelii	Adv	pohjoisemmas	lännemmäs (R)	ulommas (vuonossa, ulapalla)
+davvelis	Adv	pohjoisempana	pohjoisempaa	lännempänä (R)	lännempää (R)	ulompana	ulompaa (vuonossa, ulapalla)
+davvenuortin	Adv	koillisessa	koillisesta
+davvenuorttas	Adv	koilliseen
+davvenuorttin	Adv	koillisessa	koillisesta
+davveoarjin	Adv	luoteessa	luoteesta
+davviriikkalaččat	Adv	pohjoismaalaisesti	pohjoismaisesti
+deaivása	Adv	paikkansa
+dearvvašlaččat	Adv	terveellisesti
+deatnoráigge	Adv	jokea myöten	tenoa myöten	virtaa myöten
+degomat	Adv	kuten	kuten esimerkiksi
+delle	Adv	silloin
+desto	Adv	sitten	sittenpä	siinä tapauksessa
+dette	Adv	silti	sittenkin
+diehtevassii	Adv	tietoon	tiedoksi	tiettävästi
+diehttalasat	Adv	itsestään selvästi	tietysti
+diehttavassii	Adv	tietoon	tiedoksi	tiettävästi
+diehttelasas	Adv	tiettävästi
+diehttelasat	Adv	itsestään selvästi	tietysti
+dienu	Adv	noin (kuin puhuteltava tekee)
+digitálalaččat	Adv	digitaalisesti
+divdna	Adv	kaikki tyynni	tarkkaan	tyystin
+divrasit	Adv	kalliisti (esim. ostettu)
+doama-doama	Adv	kipin kapin	kiireen vilkkaa
+doaresbealde	Adv	syrjässä	syrjästä
+doaresbeale	Adv	syrjätietä	syrjäkautta
+doaresbeallai	Adv	syrjään
+dobbelaččas	Adv	vähän kauempana	vähän kauempaa
+dobbelažžii	Adv	vähän kauemmas
+dobbeleappos	Adv	sinnempänä	sinnempää
+dobbelebbui	Adv	sinnemmäs	kauemmas
+dobbelis	Adv	sinnempänä	sinnempää
+dohkkemeahttumit	Adv	kelvottomasti	ala-arvoisesti
+doppil	Adv	siltä taholta	sieltä käsin
+doppimus	Adv	kauimmainen	tuonnimmainen
+doppimuš	Adv	kauimmainen	tuonnimmainen
+dovdomassii	Adv	tuntuvasti	tunnettavana
+dovle	Adv	ennen	muinoin
+dugo	Adv	kuten	niin kuin	ikään kuin	niin kuin
+duhátnáre	Adv	tuhatkunta
+duođalaččat	Adv	totisesti	vakavasti
+duođasin	Adv	tosissaan	vakavissaan	vakavasti
+duogábealde	Adv	taustalla	taustalta	takapuolella	takapuolelta	taustatukena
+duohkin	Adv	takana, takaa	luona, -lla/-llä	etäisyydellä	päässä, päästä	hallussa, hallusta	vallassa, vallasta	perillä (määränpäässä) 	kiinni jstak, (jnk) varassa	itsessä	mielessä
+duohtaváimmus	Adv	sydämen pohjasta
+duojážassii	Adv	aina vain	alati	lakkaamatta	tavan takaa
+duokko	Adv	tuota kautta	tuolta (ohi) 	tuolla (noin) 	tuossa (noin)
+duolbut	Adv	lappeellaan	lappeelleen	latteana	latteaksi	vaakasuoraan
+duoppe	Adv	tuolla	tuolta
+duos	Adv	tuossa	tuosta
+duosttán	Adv	tuossa paikassa	juuri tuossa	tuossa aivan lähellä
+duosttáš	Adv	suositeltava	jonka rohkenee tehdä
+duppalit	Adv	kaksinkertaisesti
+duššái	Adv	hukkaan	turhaan	suotta
+duššás	Adv	hukkaan	turhaan
+duššebeare	Adv	vain	ainoastaan
+duššefal	Adv	vain	ainoastaan
+duššiid	Adv	turhaan	turhan takia
+eadneviđá	Adv	koskematon (tytöstä)
+eahketbeallái	Adv	iltapuoleen	illansuussa
+eahpenjuolga	Adv	epäsuoraan
+eahpenjuolgga	Adv	epäsuoraan
+eahpitkeahttá	Adv	epäilemättä
+eaktodáhtolaččat	Adv	vapaaehtoisesti
+eaktodáhtos	Adv	vapaaehtoisesti	omaehtoisesti	tahallaan	tarkoituksella	vasiten	varta vasten
+eallinaga	Adv	elävältä	elävänä
+eanas	Adv	enimmäkseen
+eanaš	Adv	enimmäkseen
+eanasin	Adv	enimmäkseen
+eanašin	Adv	enimmäkseen
+eandalii	Adv	ehdottomasti	välttämättä	erittäinkin	varsinkin
+eanebu	Adv	enemmän (kuin) 	muuta (kuin)
+eanebuš	Adv	enemmän	kunnolla	reilusti
+eanebut	Adv	useammat
+eareliiggánit	Adv	erityinen	erikoislaatuinen
+earenomážit	Adv	ennen muuta	erityisesti	erinomaisesti	etenkin	vallankin	nimenomaan
+earotbealde	Adv	syrjässä (kaukana kulkureiteistä)
+earotbeallai	Adv	syrjään (kauas kulkureiteistä) 	muualle
+earránassii	Adv	erilleen	eroon
+easkabáliid	Adv	äskettäin
+eatnoráigge	Adv	jokea pitkin
+eatnoráiggi	Adv	jokea pitkin
+eiddo	Adv	juuri
+eisege	Adv	ensinkään	lainkaan	yhtään	alkuunkaan
+eisige	Adv	ensinkään	lainkaan	yhtään	alkuunkaan
+eivve	Adv	aivan
+ekonomalaččat	Adv	taloudellisesti
+eksplisihtalaččat	Adv	ekspisiittisesti	selvästi	julkilausutusti
+ereliiggán	Adv	erityinen	erikoislaatuinen
+erenamážit	Adv	ennen muuta	erityisesti	erinomaisesti	etenkin	vallankin	nimenomaan
+erenoamážit	Adv	ennen muuta	erityisesti	erinomaisesti	etenkin	vallankin	nimenomaan
+erenomážit	Adv	ennen muuta	erityisesti	erinomaisesti	etenkin	vallankin	nimenomaan
+erenomážit	Adv	ennen muuta	erityisesti	erinomaisesti
+eskke	Adv	äsken	vasta
+fáhkka	Adv	äkkiä	yhtäkkiä	jyrkkä	äkkijyrkkä (mutka, parras) 	äkkinäinen
+fámolaččat	Adv	voimakkaasti
+farggabáliid	Adv	piakkoin	kohta puoliin
+farggamus	Adv	pikimmin
+farggamusat	Adv	pikimmin (ajallisesti) 	niin pian kuin mahdollista
+fárrolaga	Adv	yhtä	samaa matkaa	toistensa seurassa
+fárrolagaid	Adv	yhtä	samaa matkaa	toistensa seurassa
+fárrui	Adv	matkaan	mukaan
+fast-ain	Adv	taasen
+fasttain	Adv	taasen
+fastten	Adv	taasen
+fasttet	Adv	rumasti	vastenmielisesti
+fasttit	Adv	rumasti	vastenmielisesti
+fávlelii	Adv	ulommas (rannasta katsottuna)
+fávlelis	Adv	ulompana	ulompaa (rannasta katsottuna)
+feara	Adv	tahansa	vain
+fiidnát	Adv	hienosti	hienotunteisesti	hiljaa	hiljakseen
+fitnjut	Adv	vinossa	vinoon	vinottain (väliaikaisesti) 	viistossa (ei suorassa tai suorassa kulmassa)
+formálalaččat	Adv	formaalisesti	muodollisesti	väkinäisesti
+fuolakeahttá	Adv	huolimatta
+fuolalaččat	Adv	huolellisesti	tarkasti
+fuolameahttumit	Adv	huolimattomasti	varomattomasti
+fuollameahttumit	Adv	huolimattomasti	varomattomasti
+fysalaččat	Adv	fyysisesti
+gahperahttá	Adv	avopäin	lakitta (päin)
+gáhttaráigge	Adv	katua pitkin
+gait	Adv	kaikki	kokonaan	kaikkein
+gaitin	Adv	kaikkein
+gaittin	Adv	kaikkein
+galles	Adv	mihin kellonaikaan	moneltako?
+gallii	Adv	monesti	vaikka kuinka monesti	monestikaan	kuinka monesti	kuinka monta kertaa
+gallis	Adv	mihin kellonaikaan	moneltako?
+gárremiidda	Adv	humalaan
+gárremiin	Adv	humalassa
+gárrenoaivvis	Adv	humalapäissä(än)
+gáržásis	Adv	ahtaalla	tiukassa paikassa	puun ja parkin välissä
+gáržžit	Adv	ahtaasti	niukasti	suppeasti
+gaskaboddosaččat	Adv	tilapäisesti
+gaskamuddui	Adv	välivaiheeseen	keskimäärälle
+gaskamuttus	Adv	keskivaiheessa	keskivaiheesta		välivaiheessa	välivaiheesta	keskivälissä
+gaskat	Adv	(taittuneesta tai leikatusta esineestä:) poikki	 (korvamerkistä:) nokka poikki
+gaskkaid	Adv	välistä	toisinaan
+gával	Adv	(loivalla) mutkalla	kaarella
+gávdnamassii	Adv	löydettävänä
+gávdnamis	Adv	löydettävissä
+gávotgaccaid	Adv	selällään	selälleen
+gávvut	Adv	ylössuin	selällään	pohja alaspäin
+gazzalaga	Adv	toistensa kimpussa
+gazzalagaid	Adv	toistensa kimpussa
+geabbilit	Adv	ketterästi
+geahppaseappot	Adv	kepeämmin
+geahppasit	Adv	kepeästi
+geaidnoráigge	Adv	tietä pitkin
+gearddi	Adv	(kun) kerran	koska	joskus	 (erään) kerran	muinoin
+geasseguovdil	Adv	keskellä kesää	keskikesällä
+geavadis	Adv	käytännössä	käytännöstä
+geavatlaččat	Adv	käytännöllisesti
+giehpanaga	Adv	noessa	nokeen tahrautuneena	nokisena
+giehtalaga	Adv	käsikkäin	käsitysten
+giehtalagaid	Adv	käsikkäin	käsitysten
+giellagassii	Adv	vireeseen	viritetyksi
+gilvvu	Adv	kilpaa
+girjjálaččat	Adv	kirjallisesti
+gittalaga	Adv	kiinnikkäin	kiinni toisissaan
+gittalagaid	Adv	kiinnikkäin	kiinni toisissaan
+gittauvssaid	Adv	suljetuin ovin
+globálalaččat	Adv	globaalisti	maailmanlaajuisesti
+goabbelii	Adv	kumpaalle	kumpaallekin
+goabbil	Adv	kumpaakin kautta (vuorollaan) 	kumpaakin puolta	kummallakin puolen	kumpaaltakin		kumpaakin kautta (vuorollaan)	kumpaakin puolta	kummallakin puolen
+goabbil	Adv	josta (kahdesta mahdollisesta)	jota kautta (kahdesta mahdollisesta)	kumpaalta	kumpaa kautta	kumpaa puolta	kummalla puolen
+goahtun	Adv	kotona	kotoa
+goal	Adv	oikein	oikeastaan	varsinaisesti 
+goalmmádassii	Adv	kolmanneksi (lueteltavista asioista) 	kolmannen kerran
+goappil	Adv	kumpaakin kautta (vuorollaan) 	kumpaakin puolta	kummallakin puolen	kumpaaltakin		kumpaakin kautta (vuorollaan)	kumpaakin puolta	kummallakin puolen
+goappil	Adv	josta (kahdesta mahdollisesta)	jota kautta (kahdesta mahdollisesta)	kumpaalta	kumpaa kautta	kumpaa puolta	kummalla puolen
+goappos	Adv	kumpaalle
+goase	Adv	melkein	miltei
+goassážii	Adv	mihin mennessä (ajallisesti)
+goavkkil	Adv	raollaan	raolleen (pysyvästi)
+goavkut	Adv	raollaan	raolleen
+goggo	Adv	josta	mistä	mitä kautta	jota kautta	missä (osapuilleen) 	millä seuduin	millä kohdin	missäkin kohdin
+goittot	Adv	kuitenkin	kuitenkaan	ainakin	ainakaan	ainakin	vähintään
+gokko	Adv	josta	mistä	mitä kautta	jota kautta	missä (osapuilleen) 	millä seuduin	millä kohdin	missäkin kohdin 
+gokte	Adv	miten
+golbmii	Adv	kolme kertaa	kolmesti
+golggus		ill.: heitteille, kulkeille	lok.: heitteillä, kulkeilla
+golgosis	Adv	ill.: heitteille, kulkeille	lok.: heitteillä, kulkeilla
+gonne	Adv	missä	mistä (R)
+gopmut	Adv	kumossa	kumoon	alassuin	suullaan	suulleen	vatsallaan
+goppos	Adv	kumpaalle
+gosii	Adv	melkein
+goste	Adv	missään	mistään	jossain	jossakin	jostain	jostakin
+gostege	Adv	missään	mistään	jossain	jossakin	jostain	jostakin
+gostige	Adv	missään	mistään	jossain	jossakin	jostain	jostakin
+govdadit	Adv	leveästi	laveasti	mahtaillen	mahtavasti
+govt	Adv	kuinka	miten	mitenkin	milläkin tavoin
+grammatihkalaččat	Adv	kieliopillisesti
+groavvát	Adv	karheasti
+guhkebuš	Adv	vähän kauemmin	vähän pidempään 
+guhket	Adv	pitkään	pitkästi
+guhkibui	Adv	kauemmas	edemmäs	etäämmäs	melko kauas	suhteellisen kauas
+guhkibuidda	Adv	(jonkin verran) kauemmas
+guhkibus	Adv	kauempana	kauempaa	suhteellisen kaukana	suhteellisen kaukaa	edempänä	edempää
+guhkibut	Adv	pidemmästi	pidempään
+guhkimus	Adv	pisin
+guhkimusat	Adv	pisimpään	pisimmin	kauimmin
+guhkimustá	Adv	kauimmin	enintään (ajasta)	kauimmillaan
+guhkkálagaid	Adv	kaukana toisistaan
+guhkkelabbos	Adv	kauempana/kauempaa	etäämpänä/etäämpää	edempänä/edempää
+guhkkelabbui	Adv	kauemmas	edemmäs	etäämmäs
+guhkkeleappos	Adv	kauempana	kauempaa	etäämpänä	etäämpää	edempänä	edempää
+guhkkelebbui	Adv	kauemmas	edemmäs	etäämmäs
+guhkkelepmosii	Adv	pisimmälle	kauimmas
+guhkkelii	Adv	kauemmaksi	edemmäksi	etäämmälle
+guhkkeliidda	Adv	(jonkin verran) kauemmas	 (jonkin verran) edemmäs	 (jonkin verran) etäämmäs
+guhkkelis	Adv	kauempana	kauempaa	etäämpänä	etäämpää	edempänä	edempää
+guhttii	Adv	kuudesti	kuusi kertaa
+guittot	Adv	kuitenkin	kuitenkaan	ainakin	ainakaan	ainakin	vähintään
+gululdaga	Adv	vitkaan	vähitellen
+guođát	Adv	iäksi
+guora	Adv	vierestä	vieritse	ohi	juuresta
+guorosnaga	Adv	tyhjänä	ilman kantamusta
+guossis	Adv	vieraisilla	kylässä	jonkun luona vieraana
+guovdat	Adv	halki	kahtia	puoliksi	tasan
+guovdil	Adv	keskellä (esim. kesää tai talvea)
+guovttegávdnái	Adv	umpimähkään	tietämättä tarkkaan mihin
+hain	Adv	yhä
+hállut	Adv	kallellaan	vinossa
+hárvvet	Adv	harvoin	harvaan	harvakseltaan
+hárvvibut	Adv	harvemmin
+hárvvimusat	Adv	harvimmin
+hárvvit	Adv	harvoin	harvaan	harvakseltaan
+hárvvit	Adv	harvaan	harvakseltaan
+háválassii	Adv	kerrallaan	kerralla	tällä kertaa	tällä kerralla
+hávális	Adv	kerrallaa	kerralla	tällä kertaa	tällä kerralla
+heahkka	Adv	äkkiä	odottamatta	yllättäen
+heahkkadaga	Adv	yhtäkkiä
+heahkkat	Adv	äkkiä	odottamatta
+heaŋgasii	Adv	riipuksiin	riippumaan
+heaŋgasis	Adv	riipuksissa	riippumassa
+heaŋggas	Adv	riipuksissa	riippumassa
+heaŋggasis	Adv	riipuksissa	riippumassa
+hede	Adv	heti	oitis	pian	aivan kohta
+hiljážit	Adv	hiljakseen
+hiljit	Adv	hiljaa	hitaasti	levollisesti
+hirbmosit	Adv	hirveästi	todella paljon	suuressa määrin	suuresti
+hoahpohoahpus	Adv	hopun hoppua
+iđđesárrat	Adv	aamuvarhaisella
+iehčanassii	Adv	itsenäinen	itsekseen	omin päin
+iešalddán	Adv	minulla itselläni
+iešalddát	Adv	sinulla itselläsi
+iešalddes	Adv	itsessään	itsestään	sinänsä
+iešalddis	Adv	itsessään	itsestään	sinänsä
+iešalddiset	Adv	heillä itsellään
+iešdáhtos	Adv	tahallaan	tieten tahtoen
+iešdáhtus	Adv	tahallaan	tieten tahtoen
+iešheanalaččat	Adv	itsenäisesti	omin päin
+iešheanalis	Adv	itsenäisesti	omin päin
+iešmielaid	Adv	tahallaan	tieten tahtoen
+iešmielas	Adv	tahallaan	tieten tahtoen	itsestään
+iešmielat	Adv	tahallaan	tieten tahtoen
+ihán	Adv	ihan	täysin	aivan
+ihána	Adv	että	sentään	täysin	aivan	tosi	suorastaan
+ihcalis	Adv	itsekseen	itsestään	turhaan
+ihkenas	Adv	tahansa	hyvänsä
+ihkinassii	Adv	tahansa	hyvänsä
+ihttánaga	Adv	huomenna	heti huomenna
+ijatbeaivái	Adv	yötäpäivää
+illáveaje	Adv	huonovointisena	pahoinvoivana
+illávejiid	Adv	huonovointisena	pahoinvoivana
+ille	Adv	tuskin	vaivoin
+ilus	Adv	iloissaan
+imašlaččat	Adv	ihmeellisesti	oudosti	merkittävästi
+implisihtalaččat	Adv	implisiittisesti (julkilausumattomasti, mutta asiayhteydestä pääteltävissä olevasti)
+inta	Adv	ehdottomasti	kokonaan	täysin
+ipmašit	Adv	kummempi	ihmeellisempi
+ipmilmeahttumit	Adv	jumalattomasti
+ipmilviđá	Adv	koskematon (maasta, laitumesta, tytöstä)
+issorasat	Adv	hirveästi	kauheasti
+jahkeviissaid	Adv	vuosikausia
+jáhkkimis	Adv	luultavasti
+jámma	Adv	jatkuvasti	säännöllisesti	säännönmukaisesti	yhtenään	aina vain	yhtä pitkät (keskenään) 	tasan
+jámmat	Adv	jatkuvasti	säännöllisesti	säännönmukaisesti	yhtenään	aina vain	yhtä pitkät (keskenään) 	tasan
+jaska	Adv	hiljaa	vaiti
+jávkosis	Adv	näkymättömissä
+jávohaga	Adv	ääneti	vaiti
+jeavda	Adv	suorassa	suoraan (reunasta) 	tasaisesti	tasaiseen tahtiin
+jeavddalaččat	Adv	säännöllisesti
+jienajávohaga	Adv	vaiti
+jierbmájit	Adv	järkevästi
+jierrásit	Adv	hanakasti	innostuen	kärkkäästi	hätäisesti
+jitnoseabbot	Adv	äänekkäämmin
+jitnoseappot	Adv	äänekkäämmin
+jitnosepmosit	Adv	äänekkäimmin
+joba	Adv	jopa
+jođáneappot	Adv	nopeammin
+jođánepmosit	Adv	nopeimmin	mahdollisimman nopeasti
+jogo	Adv	joko (jogo - dahje = joko - tai)
+johtileappot	Adv	nopeammin
+jolga	Adv	julkisesti	avoimesti	julkeasti
+jorggotbeliid	Adv	nurin (vaatteista)
+jorggotgežiid	Adv	päinvastoin
+juoba	Adv	ainakin	edes	jopa
+juobe	Adv	ainakin	edes	vähintään	jopa, 
+jura	Adv	juuri	aivan
+jurá	Adv	juuri	aivan
+kánske	Adv	ehkä
+kreatiivvalaččat	Adv	luovasti	tuottavasti
+kvalitatiivvalaččat	Adv	kvalitatiivisesti	laadullisesti
+lagabuidda	Adv	jonkin verran lähemmäs
+lagabus	Adv	lähempänä	lähempää
+lagabut	Adv	lähemmin
+lágalaččat	Adv	laillisesti
+lagamustá	Adv	lähinnä	lähimpänä	lähimpää
+lagat	Adv	läheisempi	lähempi
+lahkalaga	Adv	lähekkäin	lähetysten
+lahkalagaid	Adv	lähekkäin	lähetysten
+láigumassii	Adv	vuokrattavana
+láitemeahttumit	Adv	moitteettomasti	hyvämaineisesti	nuhteettomasti
+largo	Adv	largo (mus.)
+láseráigge	Adv	ikkunasta (sisään tai ulos)
+láskut	Adv	lappeellaan	lappeelleen	syrjin (syrjä jhk päin käännettynä; litteästä esineestä) 	vaakasuoraan
+lášmadit	Adv	aktiivisesti	ketterästi
+lassin	Adv	lisänä	lisäksi	oheen	ohella
+latnjalaga	Adv	limittäin	lomittain
+latnjalagaid	Adv	limittäin	lomittain
+latnjalassii	Adv	limittäin	vastakkaisiin suuntiin	ristikkäin	 (kuv.) sukupuoliyhteydessä
+lávga	Adv	tiiviisti	tiukkaan	tiuhaan
+lávgalaga	Adv	lähekkäin	tiiviisti
+lávgalagaid	Adv	lähekkäin	tiiviisti
+leaikkal	Adv	hevin	vähällä	leikillä	helposti
+leaikkas	Adv	leikillä (leikilläni, leikilläsi jne)
+lihkka	Adv	kuitenkin	silti	jostain huolimatta
+lihkká	Adv	kuitenkin	silti	jostain huolimatta
+lihkus	Adv	onneksi
+liige	Adv	liika	lisäke	ylijäämä	kasvannainen
+liiggás	Adv	liiaksi	liian	yli tarpeen
+liikka	Adv	yhtä (liikka buorre = yhtä hyvä)
+litnásit	Adv	pehmeästi	hellästi	kevyellä otteella
+loahpabealde	Adv	loppupuolella	loppupuolelta
+loahpageahčai	Adv	loppua kohden	loppupuolelle
+loahpageahčen	Adv	loppupuolella	loppupuolelta
+loahpaloahpalaččat	Adv	loppujen lopuksi	loppujen lopullisesti
+loaittul	Adv	maltillisesti	rauhallisesti
+loanas	Adv	lainaksi (hupenevasta, esim. rahasta t. jauhoista)
+loažža	Adv	löyhässä	löysällä
+lobiheamet	Adv	luvatta	ilman lupaa
+lobiheamit	Adv	luvatta	ilman lupaa
+lobihemiid	Adv	luvatta	ilman lupaa
+logemađe	Adv	kymmenkunta
+logenar	Adv	kymmenkunta
+logenár	Adv	kymmenkunta
+logenáre	Adv	kymmenkunta
+logináre	Adv	kymmenkunta
+lohkamassii	Adv	luetuksi	lasketuksi	luettavana
+lossadit	Adv	raskaasti	hitaasti	vakavasti
+lotnolaga	Adv	vastavuoroisesti
+lotnolagaid	Adv	vastavuoroisesti
+lotnolassii	Adv	vastavuoroisesti	kierrättäen	vuoron perään	vuorollaan	vuorotellen
+lulágeahčen	Adv	eteläpäässä	eteläpäästä	itäpäässä/itäpäästä/kaakkoispäässä/kaakkoispäästä (R)
+lulásguvlui	Adv	etelän suuntaan	idän/kaakon suuntaan (R)
+lulil	Adv	jostakin etelästä	jossakin etelässä	jostakin idästä (R)	jossakin idässä (R)
+lullebealde	Adv	eteläpuolelta	eteläpuolella	itäpuolella/kaakkoispuolella/-puolelta (R)
+lullelii	Adv	etelämmäs	idemmäs (R)
+lullelis	Adv	etelämpänä	etelämpää	idempänä (R)	idempää (R)
+lullin	Adv	etelässä	etelästä	idässä (R)	idästä (R)
+lullinuortan	Adv	kaakossa
+luoddaráigge	Adv	tietä myöten
+luohtta	Adv	päittäin	sujut	niin ettei velkaa jää	kuitit	selvät	tasan
+luoikkas	Adv	lainaksi	lainassa
+luondduviđá	Adv	luonnontilainen	luonnontilassa
+luovosnaga	Adv	irtonaisena
+lupmosit	Adv	avarasti	vapaasti
+mađđása	Adv	terää	vaikutuksen	 (dahká mađđása = tekee terää / vaikutuksen)
+máddelabbos	Adv	etelämpänä	etelämpää
+máddelabbui	Adv	etelämmäs
+máddeleabbos	Adv	etelämpänä	etelämpää
+máddeleamos	Adv	eteläisimpänä	eteläisimmästä
+máddeleappos	Adv	etelämpänä	etelämpää
+máddelebbui	Adv	etelämmäs
+máddelis	Adv	etelämpänä	etelämpää
+máddin	Adv	etelässä	etelästä
+mađe	Adv	verran (dan mađe: sen verran; kokoinen) 	mitä, minkä (mađe mielde: minkä mukaan, sen mukaan kuin, jonka mukaan)	mađe – dađe (mitä – sitä) 	mađe árat, dađe buorẹt (mitä aikaisemmin, sitä parempi) 	-kunta (logimáđe = kymmenkunta)
+mađi	Adv	verran (dan mađe: sen verran; kokoinen) 	mitä, minkä (mađe mielde: minkä mukaan, sen mukaan kuin, jonka mukaan)	mađe – dađe (mitä – sitä) 	mađe árat, dađe buorẹt (mitä aikaisemmin, sitä parempi) 	-kunta (logimáđe = kymmenkunta)
+mahká	Adv	muka	mukamas
+maiddá	Adv	myöskin	myöskään
+máilmme	Adv	maailman (máilmmeloga = kaiken maailman)
+máilmmiviidosaččat	Adv	maailmanlaajuisesti
+málanaga	Adv	maalisena
+mallesge	Adv	jonkinlainen	jonkinmoinen
+mallesge	Adv	missään nimessä	millään muotoa	jonkinlainen	nimeksikään	jonkinmoinen
+mallosge	Adv	missään nimessä	millään muotoa	jonkinlainen	nimeksikään	jonkinmoinen
+maná	Adv	oikein (kysymyksissä)
+mannes	Adv	miksikäs	minkäs tähden	takia
+maŋágeahčen	Adv	jälkipäässä	jälkipäästä
+maŋálgihtii	Adv	jälkikäteen	takautuvasti
+maŋás	Adv	jälkeensä	taakseen	perälle	perällepäin	taakse	taaksepäin	 (jostakin) eteenpäin/lähtien (ajallisesti) 	 (jnk) jälkeen	tuonnempana
+maŋásguvlui	Adv	taaksepäin	perällepäin
+maŋážassii	Adv	vihdoin	viimein	lopulta
+maŋemusat	Adv	viimeksi	viimeiseksi	viimeisimmin
+máŋggabealagiid	Adv	monipuolisesti
+máŋggabealagit	Adv	monipuolisesti
+máŋggabeallásaččat	Adv	monipuolisesti
+maŋibut	Adv	taaempi
+maŋil	Adv	jäljessä	jäljestä (päin) 	perässä	perästä (päin) 	takaapäin	takanapäin	alla (korvamerkissä)
+maŋimuččas	Adv	viimeisimmässä	viimeisimmällä
+maŋimusas	Adv	viimeisenä	jälkimmäisenä	perimmäisenä	takimmaisena
+maŋimusat	Adv	viimeksi	viimeiseksi	viimeisimmin
+maŋimussii	Adv	viimeiseksi	jälkimmäiseksi	perimmäiseksi	takimmaiseksi
+maŋimustá	Adv	viimein	lopulta	viimeistää	viimeksi
+maŋimuštá	Adv	viimein	lopulta	viimeistää	viimeksi
+maŋimužžii	Adv	viimeiseksi	jälkimmäiseksi	perimmäiseksi	takimmaiseksi
+maŋistaga	Adv	pikku hiljaa	vähitellen
+maŋŋálaga	Adv	peräkkäin	perätysten
+maŋŋálagaid	Adv	peräkkäin	perätysten
+maŋŋe		jälki-	perä-	taka-
+maŋŋegeahčen	Adv	takapäässä	peräpäässä
+maŋŋeleappos	Adv	myöhemmin	perempänä	perempää	taaempana	taaempaa	vähän jäljempänä
+maŋŋelebbui	Adv	myöhemmäksi	peremmäs	taaemmas	jäljemmäs
+maŋŋelii	Adv	myöhemmäksi	peremmäs	taaemmas	jäljemmäs	kauemmas jälkipuolelle	kauemmas jälkeen
+maŋŋelis	Adv	myöhemmin	perempänä	perempää	taaempana	taaempaa	jäljempänä
+maŋŋiteahket	Adv	myöhään illalla
+maŋos	Adv	perälle	perällepäin	taakse	taaksepäin	jälkeen	jälkeensä
+maŋosguvlui	Adv	taaksepäin	perällepäin
+máttabealde	Adv	eteläpuolella	eteläpuolelta
+máttabeallai	Adv	eteläpuolelle
+máttageahčai	Adv	eteläpäähän
+máttageahčen	Adv	eteläpäässä	eteläpäästä
+máttásguvlui	Adv	etelänsuuntaan
+meaddel	Adv	ohi	ohitse
+meaddil	Adv	ohi	ohitse
+meahcceráigge	Adv	metsään (sinne kadoten)
+mealgadaš	Adv	melko paljon	melkoisesti	 (melko) pitkään
+mealgadii	Adv	melko kauas	suurin piirtein	melkeinpä
+mealgadis	Adv	melko kaukana	melko kaukaa
+mealgadit	Adv	melko kaukaisesti
+mearabealde	Adv	merenpuolelta	merenpuolella
+mearehis	Adv	kohtuuton	yletön	suunnaton
+mearihis	Adv	kohtuuton	yletön	suunnaton
+mieđabealde	Adv	tuulen alapuolella	tuulen alapuolelta	suojan puolella	suojan puolelta (tuulen)
+mieđás	Adv	myötätuuleen	myötävirtaan
+miehtásit	Adv	antaa periksi	myödätä (jollekin) 	tulla myöntyväiseksi
+miehtebeaivái	Adv	myötäpäivään
+miehtegulgii	Adv	myötäkarvaan	myötätaljaan
+mielalaččat	Adv	mielellään
+mielalis	Adv	mielellään
+mieldálagaid	Adv	peräkkäin	perätysten
+miellasepmosit	Adv	mieluimmin
+millosabbot	Adv	mieluummin
+milloseabbot	Adv	mieluummin
+milloseappot	Adv	mieluummin
+millosepmosit	Adv	mieluimmin	mieluiten
+millosit	Adv	mielellään	mieluusti	kernaasti	mielihyvin
+minddar	Adv	muuten
+mojonjálmmiid	Adv	hymyssä suin
+mojunjálmmiid	Adv	hymyssä suin
+moktege	Adv	mitenkään
+movtta	Adv	innoissaan	reippaana	hyvällä tuulella
+movttegit	Adv	innokkaasti	reippaasti	hyväntuulisesti	suruttomasti
+muđolassii	Adv	naamalleen	naamallaan	nenällään	nenälleen
+muhtomin	Adv	joskus
+muhtumassii	Adv	osittain
+muohtanaga	Adv	lumisena	lumessa
+muttágit	Adv	sopivasti
+nabai	Adv	entä
+nabe	Adv	entä
+naga	Adv	(vain) nimeksi maisteessa	lievässä humalassa
+nago	Adv	jospa (nago... de: jospa)
+nala	Adv	päälle	ylle (= ala)
+nalde	Adv	päällä	päältä	yllä	yltä (vaatteesta)
+namakeahttá	Adv	nimettömästi	nimettä
+nannoseappot	Adv	voimakkaammin	lujemmin	varmemmin
+nappot	Adv	siis	vastaavasti	toisin sanoen	eli
+negatiivvalaččat	Adv	negatiivisesti	kielteisesti
+netto	Adv	netto
+njahkut	Adv	etukenossa	eteen päin taipuneena	kumarassa (hetkellisesti)
+njálmmedievva	Adv	suuntäysi
+njealjádis	Adv	neljännen kerran
+njelljii	Adv	neljä kertaa	neljästi
+njoazebut	Adv	hitaammin	hitaammassa määrin
+njunális	Adv	nenälleen	nenällään
+njunnálaga	Adv	kasvotusten
+njunnálagaid	Adv	kasvotusten
+njuolganaga	Adv	suorana
+njuolggá	Adv	suoraa tietä	heti	oitis
+njuolggabut	Adv	suoremmin
+njuolggát	Adv	suoraa tietä	heti	oitis
+njuolgguslaččat	Adv	johdonmukaisesti
+njuoskkasnaga	Adv	(aivan, vielä) märkänä	 (ruoasta:) (aivan, vielä) raakana
+njuovžilit	Adv	sujuvasti	jouhevasti
+numo	Adv	siten	kuten esimerkiksi
+numot	Adv	kuten esimerkiksi
+nuortadavágeahčen	Adv	koillispäässä
+nuortadavvelis	Adv	koillisempana	koillisempaa	luoteisempana (R)	luoteisempaa (R)
+nuortaleamos	Adv	itäisimpänä	itäisimmästä	pohjoisimpana (R)	pohjoisimmasta (R)
+nuortalebbui	Adv	idemmäs	pohjoisemmas (R)
+nuortalis	Adv	idempänä	idempää	pohjoisempana (R)	pohjoisempaa
+nuortalit	Adv	itäisemmästi
+nuortalulágeahčen	Adv	kaakkoispäässä	koillispäässä (R)
+nuortandavvin	Adv	itäpohjoisessa	koillisessa
+nuortasdavás	Adv	koilliseen	luoteeseen (R)
+nuortin	Adv	idässä
+nuorttabealde	Adv	itäpuolella	itäpuolelta	pohjoispuolella (R)	pohjoispuolelta (R)
+nuorttabeallai	Adv	itäpuolelle	pohjoispuolelle (R)
+nuorttal	Adv	idässä	idästä	pohjoisessa (R)	pohjoisesta(R)
+nuorttasdavás	Adv	koilliseen
+nuorttasguvlui	Adv	idän suuntaan	pohjoisen suuntaan(R)
+nuorttaslulás	Adv	kaakkoon
+nuorttil	Adv	idästä	idässä (päin) 	pohjoisessa	pohjoisesta (R)
+nuppádassii	Adv	toiseksi	toisen kerran	toisekseen
+nuppádis	Adv	toisen kerran
+nuppes	Adv	toisen kerran
+nuvt	Adv	niin	sillä tavalla	juuri niin
+nuvván	Adv	ilman muuta	sellaisenaan	noin vain
+oaba	Adv	koko	melko	aika
+oabanassii	Adv	ylipäänsä	ylipäätään
+oabanassiige	Adv	lainkaan	ollenkaan
+oaidnemassii	Adv	näkyville	nähtäville
+oaidnimassii	Adv	näkyville	nähtäville
+oainna	Adv	näet
+oaivvát	Adv	pää käännettynä kohti	päin	päittäin
+oaivveheamet	Adv	päättömästi	tolkuttomasti
+oaivvesnaga	Adv	päissään	päihtyneenä
+oaivvis	Adv	päässä-
+oaláhii	Adv	kokonaan	kerrassaan	täysin
+oanehaččat	Adv	lyhyesti	pienin askelin
+oanehassii	Adv	hetkeksi	lyhyeksi aikaa	hetken	lyhyen aikaa
+oarjedavábealde	Adv	luoteispuolella	luoteispuolelta
+oarjedavágeahčen	Adv	luoteispäässä
+oarjeleamos	Adv	läntisimpänä	läntisimmästä
+oarjelii	Adv	lännemmäs	etelämmäs (R)
+oarjelis	Adv	lännempää	lännempänä	etelämpää (R)	etelämpänä (R)
+oarjelit	Adv	läntisesti
+oarjelulábealde	Adv	luoteispuolella	luoteispuolelta
+oarjemáttageahčen	Adv	luoteispäässä
+oarjjábealde	Adv	länsipuolella	länsipuolelta	eteläpuolella (R)	eteläpuolelta (R)
+oarjjabeallai	Adv	länsipuolelle	eteläpuolelle (R)
+oarjjás	Adv	länteen	etelään (R)
+oarjjásdavás	Adv	luoteeseen	lounaaseen (R)
+oarjjásguvlui	Adv	lännen suuntaan	etelän suuntaan (R)
+oarjjáslulás	Adv	lounaaseen	kaakkoon (R)
+oarjjil	Adv	lännessä	lännestä	etelässä(R)	etelästä (R)
+ 	Adv	kokonaan
+obanassii	Adv	ylipäänsä	ylipäätään
+obanassiige	Adv	lainkaan	ollenkaan
+obba	Adv	koko	melko	aika	edes	sangen
+obbaáigge	Adv	koko aikaa	koko ajan
+obbalohkái	Adv	kokonaan
+obban	Adv	kokonaisena	kokonaiseksi	täysinäisenä	täysinäiseksi	vaatteet päällä
+obbanassii	Adv	ylipäänsä	ylipäätään
+obbanassiige	Adv	lainkaan	ollenkaan
+ođasnaga	Adv	(aivan) uutena	uutukaisena
+ohpihii	Adv	aina vain	jatkuvasti
+oinnolaččat	Adv	näkyvästi	avoimesti
+oktanaga	Adv	yhtä aikaa	yhtenä
+oktanis	Adv	samassa	paikalla	kerralla	yhtä aikaa
+oktasaččat	Adv	yhdessä	yhteisesti
+okte	Adv	kerran
+oktege	Adv	kertaakaan
+oktiigait	Adv	yhteensä
+oktiige	Adv	kertaakaan
+oktilaččat	Adv	yhtenäisesti	jatkuvasti	ilman keskeytystä	vakaasti	tasaiseen tahtiin
+oktilassii	Adv	alituiseen	jatkuvasti
+oktilit	Adv	yhtenäisesti
+oktonassii	Adv	yksikseen	erillään
+olahahttin	Adv	saavutettavissa	saatavilla
+olámuddui	Adv	ulottuville
+olámuttos	Adv	ulottuvilla	ulottuvilta
+olatmeahttumii	Adv	ulottumattomiin
+olatmeahttumis	Adv	ulottumattomissa
+olggobeale	Adv	ulkopuolta	ulkopuolen
+olggobeallai	Adv	ulkopuolelle
+olggosguvlui	Adv	ulospäin
+olggul	Adv	ulkopuolelta	ulkopuolella	 (jnk toisen vaatekappaleen) päälle	ulkoa (osaten)
+olgguldasat	Adv	ulkoisesti	päällisin puolin	ulkopuolisesti	katsottuna ulkopuolelta
+olgolii	Adv	ulommas
+olgolis	Adv	ulompana	ulompaa
+olgoráigge	Adv	ulos (talosta tms)
+oljonaga	Adv	öljyinen	öljyissään	öljyyn tahriintuneena
+ollásii	Adv	peräti	täysin	kaikkiaan
+ollenge	Adv	lainkaan	ollenkaan
+oppalaččat	Adv	kokonaisuudessaan	kokonaisesti
+oppalohkái	Adv	kokonaan
+oppalohkái	Adv	kerta kaikkiaan	kokonaan	kokonaisuudessaan
+oppanassii	Adv	ylipäänsä	ylipäätään
+oppanassiige	Adv	lainkaan	ollenkaan
+orot	Adv	alinoma	 jatkuvasti	vakituisesti (jssak)
+oskkáldasat	Adv	luotettavasti	uskollisesti
+osohahkii	Adv	osaksi	osittain
+otnážii	Adv	täksi päiväksi	tähän päivään mennessä	tähän päivään asti
+ovdalabbui	Adv	edemmäs	edelle
+ovdalačča	Adv	vähän edempää (ohi) 	vähän aiemmin	vähän aikaisemmin	äkkiä pian	lyhyessä ajassa
+ovdalaččas	Adv	vähän edellä	vähän edeltä	vähän edempänä	vähän aiemmin	vähän aikaisemmalta ajalta	ennalta	aikaisemmasta yhteydestä	ennestään
+ovdalaččat	Adv	aikaisemmasti	edeltävästi	ennakoivasti
+ovdaleappos	Adv	edempänä	edempää	edellä	edeltä	aiemmin
+ovdalebbui	Adv	edemmäs	edelle
+ovdalis	Adv	edempänä	edempää	edellä	edeltä	aiemmin
+ovddageahčen	Adv	etupäässä	etupäästä	enimmäkseen
+ovddal	Adv	vastassa	edeltä	edestä päin	vastaan	 (korvamerkin sanasta, teosta:) päällä
+ovddasguvlui	Adv	eteenpäin
+ovddemuččas	Adv	ensimmäisenä
+ovddemusas	Adv	ensimmäisenä	kärjessä	alkupäässä	alkupäästä
+ovddemusat	Adv	ensimmäiseksi	ensin
+ovddemussii	Adv	ensimmäiseksi	ensimmäiselle	kärkeen	alkupäähän
+ovddemustá	Adv	pikimmin	aikaisintaan	pääasiassa
+ovddežis	Adv	ennallaan
+ovddibui	Adv	edemmäs
+ovddibus	Adv	edempänä	edempää
+ovddimus	Adv	etummainen	ensimmäinen
+ovddimustá	Adv	pikimmin	aikaisintaan	pääasiassa
+ovddos	Adv	eteenpäin	keulapainossa	kokkapainossa (veneestä)
+ovttaárvosaččat	Adv	samanarvoisesti	tasa-arvoisesti	yhdenarvoisesti
+ovttamađe	Adv	yhden verran
+ovttamielalaččat	Adv	yksimielisesti
+ovttasráđálaččat	Adv	yksituumaisesti	yksineuvoisesti
+ovttasráđiid	Adv	yhteistuumin
+ovttatmano	Adv	kerralla	samantien	oitis
+ovttatmanu	Adv	kerralla	samantien	oitis
+ovttatmanus	Adv	oitis	suorastaan
+ovttaveardásaččat	Adv	tasavertaisesti	yhdenvertaisesti
+ovtto	Adv	aina	alituiseen
+ovttohii	Adv	aina	alituiseen
+praktihkalaččat	Adv	käytännöllisesti
+raddálaga	Adv	rinnakkain	rinnatusten	rinta rintaa vasten
+ráđđálaga	Adv	neuvottelussa	neuvotteluna	yhteistyössä
+raddálagaid	Adv	rinnakkain	rinnatusten	rinta rintaa vasten
+ráđđálagaid	Adv	neuvottelussa	neuvotteluna	yhteistyössä
+ráfálaččat	Adv	rauhallisesti
+ráidnasit	Adv	puhtaasti
+ráigeráigge	Adv	reiästä (sisään tai ulos)
+ráigge	Adv	läpi	myöten	kautta
+ráiggil	Adv	puhki	rikki
+rájes	Adv	(jstak) asti	 (jstak) lähtien	 (jstak, jssak) saakka
+rattát	Adv	rinta jhk päin	rinnakkain
+regionálalaččat	Adv	paikallisesti	alueellisesti
+riđus	Adv	vimmatusti	vinhasti
+rievttuid	Adv	oikein	oikeudenmukaisesti	totisesti
+riikkaidgaskasaččat	Adv	valtioidenvälisesti
+riikkaviidosaččat	Adv	valtionlaajuisesti	valtakunnanlaajuisesti	valtakunnallisesti
+roahkka	Adv	rohki	suoraan	reilusti	epäilyksettä	pelottomasti	epäröimättä
+romet	Adv	rumasti
+ruđalaččat	Adv	rahallisesti
+ruoktotguvlui	Adv	takaisinpäin	paluusuuntaan	kotiinpäin
+ruossalaga	Adv	ristinä
+ruossalassii	Adv	ristissä	ristiin	ristikkäin	ristiriidassa (keskenään)
+ruovttoguvlui	Adv	takaperin
+sadjagasas	Adv	käsillä	saatavilla
+sáhkalaga	Adv	 keskustelussa	keskusteluun	keskenään	puheissa	puheisiin keskenään
+sáhkalagaid	Adv	 keskustelussa	keskusteluun keskenään	puheissa	puheisiin keskenään
+sahte	Adv	saati	kunhan (ei) 	tahansa	vain
+šahten	Adv	enää
+sakkabut	Adv	enemmän	kovemmin
+sakkarat	Adv	kovasti	 (sangen) paljon
+sallalaga	Adv	sylikkäin	sylitysten
+sallalagaid	Adv	sylikkäin	sylitysten
+sávvamis	Adv	toivon mukaan	toivottavasti
+seahká	Adv	sekaan	seassa
+seahkalaga	Adv	sekaisin	toisiinsa sekaantuneina
+seahkálaga	Adv	sekaisin	toisiinsa sekaantuneina
+seahkalagaid	Adv	sekaisin	toisiinsa sekaantuneina
+seahkálagaid	Adv	sekaisin	toisiinsa sekaantuneina
+sealggabealde	Adv	selkäpuolella	selkäpuolelta
+sealggát	Adv	selin	selkä käännettynä
+sealggebealde	Adv	selkäpuolella	selkäpuolelta
+seammamađe	Adv	saman verran
+searválaga	Adv	yhteistoimin	yhteistuumin	joukolla
+searválagaid	Adv	yhteistoimin	yhteistuumin	joukolla
+seksuálalaččat	Adv	seksuaalisesti
+sekundáralaččat	Adv	toisijaisesti	sekundaarisesti
+selggos	Adv	selkä edellä	takaperin	selälleen
+sierralaga	Adv	itselleen	erikseen
+sierralagaid	Adv	itselleen	erikseen
+sierranassii	Adv	erikseen	erilleen	erityisesti
+sihttát	Adv	sentään
+siivot	Adv	siivosti	kiltisti	rauhassa
+siivvožit	Adv	siivosti	kiltisti	rauhassa	hiljaisesti
+siivvut	Adv	siivosti	kiltisti	rauhassa
+sisaguvlui	Adv	sisälle päin	sisäänpäin
+siskálaga	Adv	sisäkkäin	sisätysten
+siskálagaid	Adv	sisäkkäin	sisätysten
+siskelebbui	Adv	sisemmäs	peremmäs
+siskelii	Adv	sisemmäs	peremmäs
+siskeliidda	Adv	jonkin verran sisemmäs	jonkin verran peremmäs
+siskelis	Adv	sisempänä	sisempää	peremmällä	peremmältä
+siskil	Adv	sisempää (kautta) 	perempää (kautta)
+siskkil	Adv	sisältä	sisäpuolelta
+siskkimus	Adv	sisimmäinen	perimmäinen
+siskkimusas	Adv	sisimmäinen	perimmäinen
+siskko	Adv	sisä-
+skavát	Adv	viistäen	hipoen	sivuten
+skuvlafriddja	Adv	kouluvapaana	kouluvapaaksi
+skužil	Adv	vinossa	kierossa (vääntyneestä, pudonneesta esineestä)
+snáhppát	Adv	vikkelästi
+snoagga	Adv	niukasti	kitsaasti
+soaittáhagas	Adv	sattumalta	sattumoisin
+somát	Adv	mukavalla tavalla	hauskasti	mukavasti	hassusti
+sorjankeahttá	Adv	riippumatta
+sorjjakeahttá	Adv	riippumatta
+spagga	Adv	pullollaan	pullolleen
+sparrolaga	Adv	parittain	samaan hihnaan sidottuina
+sporádalaččat	Adv	sporadisesti	satunnaisesti	sattumanvaraisesti
+stáđđásit	Adv	vakaasti	tasaisesti
+starga	Adv	jämäkästi	vakaasti	tukevasti	jäykästi
+stuoribut	Adv	suuremmin	isommin
+stuorrát	Adv	isosti	isommin	 (kovinkaan) paljon	suuresti, suuremmin
+suige	Adv	suinkin	suinkaan
+sullalaga	Adv	lähekkäin (kosketusetäisyydellä) 	toistensa kaltaiset (pl.)
+sullalagaid	Adv	lähekkäin (kosketusetäisyydellä) 	toistensa kaltaiset (pl.)
+summal	Adv	umpimähkään	summassa
+suohkadit	Adv	tiheässä	lähekkäin
+suolggaid	Adv	hitaasti	verkkaan	hiljakseen	hiljaa
+suollemasat	Adv	salaisesti
+teahtta	Adv	tiheään	tiheässä	tiuhaan	tiuhassa	taajaan
+uhccánaččaid	Adv	vähitellen	vähittäin
+uhccánaš	Adv	vähäinen	vähä
+uhccánii	Adv	vähällä	vähästä	hevin
+uhcimusat	Adv	vähäisimmässä määrin	vähimmin	vähiten	vähintään	vähintäänkin
+uhcimustá	Adv	vähintään	vähintäänkin
+uhtes	Adv	melkein	pianaikaa
+uksaráigge	Adv	ovesta sisään tai ulos	oven kautta
+unnánaččaid	Adv	vähitellen	vähittäin
+unnánaš	Adv	hiukkasen	vähäsen
+unnibut	Adv	vähäisemmässä määrin	vähemmän
+unnimus	Adv	vähimmin	vähiten
+unnimustá	Adv	vähintään	vähintäänkin
+vácci	Adv	jalan	jalkaisin
+váilevaččat	Adv	vajavaisesti	puutteellisesti
+váimmolaččat	Adv	sydämellisesti
+vajos	Adv	oikopäätä	oitis
+vajot	Adv	oikopäätä	oitis
+valaid	Adv	kontallaan	kontalleen
+valjis	Adv	runsaasti	yltäkylläisesti
+válljemassii	Adv	valittavana
+valljugasat	Adv	ylenmääräisesti	yltäkylläisesti
+vánet	Adv	niukasti
+vánis	Adv	niukasti	vähän
+vára	Adv	vaarin	opikseen (vára váldit = ottaa vaarin)
+várálaččat	Adv	vaarallisesti
+vare	Adv	jospa	kunpa	varalta
+varranaga	Adv	veressä	verillä	verisenä
+veahážiid	Adv	vähitellen	vähittäin
+veahkájo	Adv	väkipakolla	väkisin	väkivalloin
+veahkkálaga	Adv	toinen toistaan auttaen	vastavuoroisesti	yhteistyössä	yhteisvoimin
+veahkkálagaid	Adv	toinen toistaan auttaen	vastavuoroisesti	yhteistyössä	yhteisvoimin
+veaiddalis	Adv	paimentamattomana	vapaana, vapaaksi (eläin)
+veaittalassii	Adv	paimentamattomana	vapaana, vapaaksi (eläin)
+veallut	Adv	makuulla	makuulle	vaakasuorassa
+vealtameahttumit	Adv	välttämättä
+vearrábut	Adv	huonommin
+vearrámusat	Adv	huonoimmin
+vearrát	Adv	huonommin
+vearrut	Adv	väärin	väärässä
+vehá	Adv	vähä	vähän	muutama	harva
+vehážiid	Adv	vähitellen	vähittäin
+viidábut	Adv	laajemmin
+viidásut	Adv	eteenpäin
+viidnanaga	Adv	humalassa	humalaan	viinaan ryvettyneenä
+viimma	Adv	viimein	vihdoin	lopulta
+villa	Adv	hyvin kauas	etäälle
+viššaleappot	Adv	ahkerammin	viitseliäämmin
+viššalit	Adv	ahkerasti	viitseliäästi
+vissásii	Adv	varmasti	varmaan
+vissát	Adv	varmasti
+vitnjut	Adv	vinossa	vinottain
+vuđolaččat	Adv	perusteellisesti	perin juuri	perin pohjin
+vuđoleappot	Adv	perusteellisemmin
+vuigestaga	Adv	suoranaisesti	suorastaan
+vulobeallai	Adv	alapuolelle
+vulogeahčen	Adv	alapäässä
+vulosguvlui	Adv	alaspäin	alasuuntaan
+vuodjanaga	Adv	voissa	rasvassa	voihin	rasvaan tahriintuneena
+vuogálaččat	Adv	taitavasti	asiantuntijan tavalla
+vuohkkasit	Adv	sopivasti	soveltuvasti	tyylikkäästi	miellyttävästi
+vuohon	Adv	taas
+vuohten	Adv	taas kerran
+vuoiddasnaga	Adv	voiteen tahraama	voiteessa
+vuoiga	Adv	oikein	suoraan	todella
+vuoigatmeahttumit	Adv	oikeudettomasti	petollisesti	vilpillisesti
+vuolá	Adv	ala-
+vuolábeallai	Adv	alapuolelle
+vuolágeahčen	Adv	alapäässä
+vuolil	Adv	alapuolelta	alhaalta	alaosastaan
+vuolimusas	Adv	alimmaisena
+vuolimussii	Adv	alimmaiseksi	alimmaksi
+vuollai	Adv	alle
+vuollálagaid	Adv	alekkain	allekkain
+vuollegaččat	Adv	hiljaa	hiljaisella äänellä	piano (mus.)
+vuollelaš	Adv	vähän alempaa (ohi)
+vuolleleappos	Adv	alempana	alempaa
+vuollelebbui	Adv	alemmas	alemmaksi
+vuollelii	Adv	alemmas	alemmaksi
+vuollelis	Adv	alempana	alempaa
+vuollil	Adv	alapuolitse	alempaa (kautta) 	alle (lukumäärästä)
+vuollugit	Adv	alhaalta	tyvestä
+vuostálaga	Adv	vastakkain
+vuostálagaid	Adv	vastakkain
+vuoste	Adv	vastainen (esim. tuuli)
+vuostebeaivái	Adv	vastapäivään
+vuostegulgii	Adv	vastakarvaan
+vuosti	Adv	vastainen (esim. tuuli)
+vuosttabealde	Adv	vastapuolella	vastapuolelta
+vuosttain	Adv	vielä
+vuosttamustá	Adv	ensinnä	ensimmäiseksi
+vuosttamužžan	Adv	ensimmäisenä
+vuostten	Adv	vielä
+vurrolaga	Adv	vuorotellen
+vurrolagaid	Adv	vuorotellen

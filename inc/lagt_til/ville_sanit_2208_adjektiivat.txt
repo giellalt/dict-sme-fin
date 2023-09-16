@@ -1,0 +1,994 @@
+13-jahkásaš	A	13-vuotias				
+4-juvllat	A	nelipyöräinen				
+ábas	A	joutuisa				
+ábas	A	pystyvä	aikaansaapa	tehokas
+absoluhtta	A	absoluuttinen
+addevaš	A	antoisa
+adnominála	A	adnominaalinen
+adversatiiva	A	adversatiivi	vastakohta
+affektiiva	A	affektiivi	affektiivinen	tunnepitoinen
+agat	A	-ikäinen
+ahkemearálaš	A	ikämääräinen	ikäkautinen	ikäluokkainen
+áidalas	A	koskematon (seudusta)	laaja (laitumesta) 
+áidnalunddot	A	ainutlaatuinen
+áigahaš	A	entinen	vanha	ikivanha	tiettyyn aikaan kuuluva	-aikainen
+áiggeheapme	A	sopimaton (ajasta
+áitatvuloš	A	uhanalainen (esim. laji)
+aitosaš	A	varsinainen
+akademihkalaš	A	akateeminen
+áktánas	A	(ei) minkään arvoinen	kaksinen
+aktasaš	A	yhteinen	yleinen
+aktonas	A	yksinäinen
+akuhtta	A	akuutti
+álbmogiidgaskasaš	A	kansainvälinen
+álbmotválljejuvvon	A	demokraattisesti valittu	edustuksellinen
+álbmotválljen	A	demokraattisesti valittu	edustuksellinen
+álgoálgosaš	A	alkuperäinen
+álgosaš	A	-alkuinen	-peräinen
+álgovuolggalaš	A	alkuperäinen
+alladásat	A	korkeatasoinen
+alladássásaš	A	korkeatasoinen
+almmolašrievttálaš	A	julkisoikeudellinen
+amasgielat	A	vieraskielinen
+analogalaš	A	analoginen
+analyhtalaš	A	analyyttinen
+anolaš	A	hyödyllinen	käytännöllinen	käyttökelpoinen	kätevä	tarpeellinen
+antirasisttalaš	A	antirasistinen
+antropologalaš	A	antropologinen
+árat	A	aamun virkku	aikainen	varhainen
+árbmugas	A	armelias	armollinen	suopea
+árgabeaivválaš	A	arkipäiväinen
+árjjálaš	A	jämerä	ponteva	tarmokas
+arkitektonalaš	A	arkkitehtooninen
+árpmuheapme	A	armoton	säälimätön
+árvitmeahttun	A	arvaamaton	selittämätön	epäselvä
+árvvas	A	antelias	avokätinen	vieraanvarainen
+árvvuheapme	A	arvoton
+árvvus	A	arvostettu
+ásahuslaš	A	instituutiomainen	laitosmainen
+aspektuála	A	aspektuaalinen
+áššáiguoskevaš	A	asiaakoskeva	asiaankuuluva	asianomainen
+áššáiguoski	A	asiaakoskeva	asiaankuuluva	asianomainen
+ássanhistorjjálaš	A	asutushistoriallinen
+audiovisuála	A	audiovisuaalinen
+autenttalaš	A	autenttinen
+automatiiva	A	automatiivinen
+autonomalaš	A	autonominen
+ávkkeheapme	A	hyödytön
+badjelgeahččalas	A	ylenkatsova	halveksuva	halventava
+badjellunddolaš	A	yliluonnollinen
+bahánihkkán	A	"	ilkeä	kuriton
+báhkinlaš	A	pakanallinen
+balahahtti	A	pelottava	pelättävissä oleva (tapahtuma tms.)
+balddehahtti	A	pelättävä	pelottava
+báljis	A	paljas	kalju
+bálkkáheapme	A	palkaton
+bárahisstávval	A	paritontavuinen
+barggán	A	työteliäs	työkkyri
+bargiidpolitihkalaš	A	henkilöstöpoliittinen
+bargonávccaheapme	A	työkyvytön
+báris	A	joka on ylimpänä (esim. joukossa)	ylimmillään (esim. vasonta, vasanmerkintä)	joka on ylempänä muita	paras(kin)
+bárrastávval	A	parillistavuinen
+bealát	A	epätasapainossa	toispuolinen	puolueellinen
+bealeheapme	A	puolueeton	neutraali
+bearašvuđot	A	perhepohjainen	perheperustainen	perhelähtöinen
+berošmeahttun	A	piittaamaton	välinpitämätön	yliolkainen
+beroštahtti	A	kiinnostava
+bieđggus	A	hajanainen	hajallaan oleva	rikkonainen
+biehtadahkes	A	kielteinen	kiistävä
+biográfalaš	A	biograafinen
+bioteknologalaš	A	bioteknologinen
+birasseasti	A	ympäristönsäästäjä
+birasustitlaš	A	ympäristöystävällinen
+birgenvejolaš	A	selviydyttävä	selviydyttävissä oleva
+birgetmeahttun	A	pärjäämätön
+bisovaš	A	pysyvä	jatkuva	kestävä	vakio
+boahtteáigásaš	A	tuleva	tulevaisuuden
+boahtteáiggediđolaš	A	tulevaisuustietoinen
+boaresmállet	A	vanhanmallinen
+boaresvirot	A	vanhatapainen
+boazodoallofágalaš	A	porotalousammatillinen
+borahahtti	A	syötävä	syötäväksi kelpaava
+buhtismeahttun	A	epäpuhdas
+buolvvaidgaskasaš	A	polvien välinen	sukupolvien välinen
+buolvvat	A	polveileva
+buotbeallásaš	A	kaikinpuolinen	yleinen
+buotdiehtti	A	kaikkitietävä
+buresbirgejeaddji	A	hyvinvointi
+buresboahtán	A	tervetullut
+čađačuovgameahttun	A	läpinäkymätön	läpivalaisematon
+čađačuovgi	A	läpikuultava	läpinäkyvä
+čađačuovvu	A	läpiseuraava	läpitalutettava
+čađamanni	A	läpäisevä (esim. oppiaine)
+čaffat	A	rehvakas	ylpeä	mahtava	mallikas	ylväs
+čáhcejeahkki	A	vedenpitävä
+čáhket	A	pienikokoinen	vähän tilaa vievä	seurallinen	sosiaalinen
+čáhppes-vielgat	A	mustavalkoinen
+čálakultuvrralaš	A	kirjoituskulttuurillinen	kirjalliskulttuurinen
+čálamáhtolaš	A	kirjoitustaitoinen
+čalbmáičuohcci	A	huomiotaherättävä	silmiinpistävä	esiinpistävä	huomattava	näkyvä
+čalmmus	A	suonsilmäke	ilmiselvä	silminnähtävä	kiistaton
+čáppagirjjálaš	A	kaunokirjallinen
+ceaggái	A	itsepäinen	jääräpäinen	uppiniskainen
+cealkemeahttun	A	sanomaton
+ceavzil	A	hellittämätön	sinnikäs	kilpailukykyinen
+čiežajahkásaš	A	seitsenvuotias
+čuoddjil	A	(äänestä) heleä	kirkas	soinnillinen
+čuojoheapme	A	soinniton	huonosointinen
+čuorgat	A	hallava	harmaa (hiuksista, karvoista)
+čuožžovaš	A	pätevä	voimassaoleva
+čuvgehuslaš	A	sivistyksellinen	kulturelli
+čuvgesruoksat	A	vaaleanpunainen
+dáhtolaš	A	halukas	aulis	myöntyväinen
+dáiddačeahppi	A	taiteilija
+dáiddafágalaš	A	taideammatillinen
+dáiddolaš	A	lahjakas	taidokas	taitava
+dáidemeahttun	A	ymmärtämätön	perehtymätön	taitamaton
+dálááigásaš	A	nykyaikainen
+daláš	A	silloinen
+dálkkádatpolitihkalaš	A	ilmastopoliittinen
+dánjagáš	A	tämänvuotinen
+dánska-norgga	A	tanskalais-norjalainen
+dánsullasaš	A	tämänkaltainen	tämäntapainen
+dárogielalaš	A	norjankielinen
+dásseárvopolitihkalaš	A	tasa-arvopoliittinen
+dássedettolaš	A	tasapainoinen
+dássit	A	tasainen	vakaa	levollinen	vakaa
+dávggas	A	joustava	kimmoisa	(suksesta) jalkava	sitkas
+davimuš	A	pohjoisin	(R) läntisin	uloin	ulommainen (vuonossa, ulapalla)
+dávji	A	tiheä	taaja	tiuha	toistuva
+davvilaš	A	pohjoisessa asuva	pohjoislainen
+deaddil	A	painava (kokoonsa nähden)	raskas
+dearvvašvuođafágalaš	A	terveysammatillinen
+dearvvašvuođalaš	A	terveydellinen
+dearvvašvuođapolitihkalaš	A	terveyspoliittinen
+deattoheapme	A	painoton
+definihtta	A	definiittinen	määräävä (esim. artikkeli kieliopissa)
+demeanta	A	dementoitunut
+demográfalaš	A	demografinen	väestötieteellinen
+demonstratiiva	A	demonstratiivinen	(esim. pronomini: osoittava, selittävä, selventävä)
+departemeanttaidgaskasaš	A	osastojenvälinen
+deskriptiiva	A	deskriptiivinen
+deverbála	A	deverbaalinen
+diakronalaš	A	diakroninen
+didákttalaš	A	didaktinen
+dieđateorehtalaš	A	tiedeteoreettinen
+diehtomielalaš	A	tiedonhaluinen, opinhaluinen
+diehttevaš	A	tietävä	tietäväinen	tietoinen
+digitálalaš	A	digitaalinen
+dihtorčeahppi	A	tietokoneosaaja
+diibmosaš	A	tunneittainen	-tuntinen
+diimmáš	A	viimevuotinen	ylivuotinen
+diliheapme	A	levoton	kiireinen	varattu	joku, jolla ei ole aikaa
+dilsi	A	haluton	nirso	kesäteräinen
+diskursiiva	A	diskursiivinen - loogisesti etenevä
+distributiiva	A	distributiivinen - adverbisija, joka kuvaa toistuvaa tai kaikkiin kohdistuvaa toimintoa
+doaibmahehttejuvvon	A	vammainen	liikuntavammainen
+doaibmavádjet	A	vammainen	liikuntavammainen
+doaibmavuđot	A	toimilähtöinen	toimiperustainen
+doaibmevaš	A	toimelias
+doaibmil	A	luotettava	asianmukainen	tehokas
+doaimmahuslaš	A	toimituksellinen
+doaimmashehttejuvvon	A	vammainen
+doallevaš	A	paikkansapitävä	yhtäpitävä jonkun kanssa	pitävä	voimassapysyvä	sitova
+doaresfágalaš	A	poikkiammatillinen
+doarespolitihkalaš	A	poikkipoliittinen	parlamentaarinen
+doaris	A	poikittainen	poikittais-	poikki-	lohipadon poikittainen osa	 poikkipato
+dohkkehahtti	A	välttävä
+dolkadahtti	A	ikävystyttävä	pitkästyttävä
+dološmállet	A	vanhanmallinen
+dominánta	A	dominoiva
+dorvvoheapme	A	turvaton
+dovdomearkkalaš	A	tuntomerkillinen
+dovduičuohcci	A	liikuttava	satuttava
+duddjojeaddji	A	luova	tuottava
+duhtadahtti	A	tyydyttävä
+duhtadeaddji	A	tyydyttävä
+duhtatmeahttun	A	tyydyttämätön
+duodjefágalaš	A	käsityöala	käsityötoimiala
+duollet	A	tasapohjainen	vakaa (veneestä)
+duššadeaddji	A	tuhoava
+duššálaš	A	turha	mitäänsanomaton	turhanpäiväinen	turhamainen
+dutkanehtalaš	A	tutkimuseettinen
+dutkanetihkalaš	A	tutkimuseettinen
+dutkanvuđot	A	tutkimuspohjainen	tutkimusperustainen	tutkimuslähtöinen
+dynámalaš	A	dynaaminen
+eahpealmmolaš	A	epäinhimillinen
+eahpeávnnaslaš	A	epäaineellinen
+eahpeduhtavaš	A	epätyytyväinen
+eahpeduođalaš	A	epätodellinen
+eahpeformála	A	epämuodollinen
+eahpegovttolaš	A	epäkelpo
+eahpeintentionála	A	epätarkoituksellinen
+eahpelihkostuvvan	A	epäonnistunut
+eahpenjuolgat	A	epäsuora	välillinen
+eahpenjuolggaduslaš	A	epäsäännöllinen
+eahpeoiddolaš	A	epäsuotuisa	epäsuosiollinen
+eahpeoskkolaš	A	epäuskoinen
+eahpevirggálaš	A	epävirallinen
+eahpevissis	A	epäviisas
+eahpevuoiggalaš	A	epäoikeudenmukainen
+eahpideaddji	A	epäilevä
+eakti	A	aito
+ealáhuspolitihkalaš	A	elinkeinopoliittinen
+ealáhusvuđot	A	elinkeinopohjainen	elikeinoperustainen	elinkeinolähtöinen
+ealaskas	A	eloisa	vilkas	pirteä (esim. hyvin kehittyneestä vasasta)	elinvoimainen
+eallái	A	elinvoimainen
+eallinfámolaš	A	elinvoimainen
+eanadoallopolitihkalaš	A	maatalouspoliittinen
+eaŋgalasgielat	A	englanninkielinen
+eaŋgalsgielat	A	englanninkielinen
+earágielat	A	muunkielinen
+easkaálgi	A	tulokas	vasta-alkaja
+eastadeaddji	A	ehkäisevä
+eatnandieđalaš	A	maantieteellinen
+eatnigielat	A	äidinkielinen
+eavttuheapme	A	ehdoton	varaukseton
+ebmui	A	uhkea	upea
+effektiiva	A	effektiivi	efektiivinen
+egyptalaš	A	egyptiläinen
+einnostahtti	A	ennustettava	ennustettavissa oleva
+einnostanvejolaš	A	ennustettava	ennustettavissa oleva
+einnostuvvi	A	ennustettava	ennustettavissa oleva
+eksistentiála	A	eksistentiaalinen	olemassaoloon liittyvä
+eksklusiiva	A	eksklusiivinen	poissulkeva	valikoiva	rajoittava	suljettu
+eksplisihtta	A	eksplisiittinen - suoraan tai selvästi ilmaistu
+ekspressiiva	A	ekspressiivinen	ilmaisuvoimainen
+ekstrema	A	äärimmäinen
+ekumenalaš	A	ekumeeninen
+elektralaš	A	sähköinen
+elliptalaš	A	elliptinen
+empiralaš	A	kokeellinen
+eŋgelasgielat	A	englanninkielinen
+epeksegehtalaš	A	epeksegeettinen
+epistemologalaš	A	epistemologinen	tietoteoriaan kuuluva
+ereliiggán	A	erityinen	erikoislaatuinen
+erohtalaš	A	eroottinen
+etnográfalaš	A	etnografinen	kansantieteellinen
+etnolingvisttalaš	A	etnolingvistinen
+etymologalaš	A	etymologinen
+evangelalaš-luteralaš	A	evankelisluterilainen
+fágačeahppi	A	ammattiosaaja	ammattitaituri
+fágagirjjálaš	A	ammattikirjallinen
+fágaidgaskasaš	A	ammattienvälinen
+fágaidrasttideaddji	A	ammatit ylittävä	poikkiammatillinen
+fágaidrasttildeaddji	A	ammatit ylittävä	poikkiammatillinen
+fágapolitihkalaš	A	ammattipoliittinen
+fágarelevánta	A	ammatillisesti merkityksellinen	ammattirelevantti
+fáhkkat	A	äkillinen	yhtäkkinen	äkki-	äkkijyrkkä
+fáhkkatlaš	A	äkillinen	yhtäkkinen
+fámoheapme	A	voimaton	uupunut
+fámuheapme	A	voimaton
+fávdnát	A	hääppönen	kaksinen	kaseva	kelpo
+feminiidna	A	feminiini
+feministtalaš	A	feministinen
+fidnofágalaš	A	yrtysammatillinen
+fiktiiva	A	fiktiivinen	kuvitteellinen
+finihtta	A	finiittinen - persoonamuodoissa taipuva
+fitnodatekonomalaš	A	yritystaloudellinen
+fitnolaš	A	ammatillinen
+fleksibel	A	joustava
+fonehtalaš	A	äänteellinen
+fonologalaš	A	fonologinen	äänneopillinen
+fonotávttalaš	A	äännetahdillinen
+fránskalaš	A	ranskalainen
+frekveanta	A	usein toistuva
+frisalaš	A	friisiläinen
+funktionála	A	funktionaalinen	toimiva
+fuomášahtti	A	merkittävä	huomattava
+fuopmášahtti	A	merkittävä	huomattava
+fylkkagielddalaš	A	lääninhallinnollinen	maakuntahallinnollinen
+fylkkalaš	A	läänillinen	maakunnallinen
+fylkkasuohkanlaš	A	maakuntahallinnollinen
+fysiologalaš	A	fysiologinen
+gáhttenárvosaš	A	suojelunarvoinen
+gáibidahkes	A	vaatelias	vaativainen
+gáibideaddji	A	vaativa	vaatelias
+gáiddus	A	kaukainen 
+gáiggas	A	typerä	hupsu
+galbmavarat	A	kylmäverinen
+gálmmas	A	kalmanhajuinen
+gámis	A	tummaihoinen	ahavoitunut
+gaskaáigásaš	A	keskiaikainen
+gaskageardán	A	keskinkertainen	kohtalainen	keskikokoinen
+gaskasturrosaš	A	keskikokoinen
+gaskkamuš	A	keskimmäinen
+gažaldatvuloš	A	kyseinen	kyseessä oleva
+gážžár	A	vastahakoinen		penseä	ynseä
+geahčemeahttun	A	loputon
+geainnoheapme	A	tietön	neuvoton	keinoton	joku, jolla on vähän keinoja
+gealbboheapme	A	joutava	kelvoton
+geardásaš	A	-kertainen
+geasiáigásaš	A	kesäaikainen
+geassái	A	kesäinen
+geatnegahttojuvvon	A	pakotettu	velvoitettu
+geatnegahtton	A	pakollinen	velvoittava
+geatnegas	A	velvollinen	asiaankuuluva	sopimuksenmukainen
+generatiiva	A	generatiivinen	lisääntymiskykyinen	produktiivinen
+generealla	A	yleinen
+genetihkalaš	A	geneettinen
+geometralaš	A	geometrinen
+germánalaš	A	germaaninen
+giddat	A	kiinteä	paikallaan oleva	tiukka	nihkeä	kankea (esim. sakset)	visu	kitsas
+gielat	A	-kielinen
+gielddaidgaskasaš	A	kuntienvälinen
+gielddalaš	A	kunnallinen
+giellačeahppi	A	kielitaituri
+gielladieđalaš	A	kielitieteellinen
+giellafágalaš	A	kieliammatillinen
+giellahistorjjálaš	A	kielihistoriallinen
+giellaoahpalaš	A	kieliopillinen
+giellasosiologalaš	A	kielisosiologinen
+giellateknologalaš	A	kieliteknologinen
+gierdameahttun	A	kärsimätön	kestämätön	sietämätön
+gierdevaš	A	kärsivällinen
+gieskadaš	A	äskettäinen	hiljattainen
+gilvonávccalaš	A	kilpailukykyinen
+girkuidgaskasaš	A	kirkkojenvälinen
+goabbatbealat	A	kummankinpuoleinen
+goabbatbeallásaš	A	kummankinpuoleinen
+goalus	A	pelottava	synkkä	tuikea	tuima (ulkonäöltään)
+goargat	A	mahtaileva	ylimielinen
+goavvi	A	ankara (olosuhteista)	kova (säästä, vuodenajoista)	häikäilemätön	kova
+goiddas	A	laiha (kahvi tms.)	laimea (saarna jne.)	hapan	vetämätön (ihminen)
+gokčevaš	A	kattava	riittävä (ehto tms.)
+golmmageardásaš	A	kolminkertainen
+golmmajahkásaš	A	kolmivuotinen
+golmmaoasat	A	kolmiosainen
+golmmastávval	A	kolmitavuinen
+gorálaš	A	suhteellinen
+gorutlaš	A	kehollinen	ruumiillinen
+govdosaš	A	levyinen
+govttoheapme	A	kohtuuton
+govvačeahppi	A	kuvataituri	kuvataiteilija	taidemaalari
+govvideaddji	A	kuvaava
+grammáhtalaš	A	kieliopillinen
+grámmasaš	A	-grammainen
+grammatihkalaš	A	kieliopillinen
+gregoriánalaš	A	gregoriaaninen
+greikalaš	A	kreikkalainen
+guđajahkásaš	A	kuusivuotinen
+gudneáŋgir	A	kunnianhimoinen	ahdasmielinen	suvaitsematon	kunnianarka
+guhkálmas	A	pitkällinen
+guhkebuš	A	vähän pidempi
+guhkilmas	A	pitkällinen
+guhkitáigásaš	A	pitkäaikainen
+guluheapme	A	huonokuuloinen	kuulovammainen
+gulus	A	jonka voi kuulla (tai havaita muuten)	joka kuuluu
+guoddevaš	A	kestävä
+guoddil	A	kantava (lautta, hanki)	kantava	kauas ampuva (ase)
+guoibmái	A	joku/jokin, josta on seuraa	seurallinen	ystävällinen	kodikas
+guoimmuheaddji	A	viihdyttäjä
+guolástuspolitihkalaš	A	kalastuspoliittinen
+guollái	A	kalaisa	kalava
+guorbbas	A	karvakulu	(karvattomaksi) kulunut	(maasta, vedestä:) karu	tuottamaton
+guoskameahttun	A	koskematon
+guovddášgirkolaš	A	keskuskirkollinen
+guovddášlaš	A	keskeinen
+guovdil	A	keskeinen
+guovgat	A	hallava	haalistunut	kauhtunut
+guovlluguovdasaš	A	alueittainen	alueellinen
+guovlupolitihkalaš	A	aluepoliittinen
+guovttebeaivásaš	A	kaksipäiväinen
+guovttebealat	A	kaksipuolinen	molemminpuolinen
+guovttegeardán	A	kaksinkertainen
+guovttegeardásaš	A	kaksinkertainen
+guovttejahkásaš	A	kaksivuotinen
+guovttejuvllat	A	kaksipyöräinen
+guovtteoaivvat	A	kaksipäinen
+guovtteoasat	A	kaksiosainen
+guovttestávval	A	kaksitavuinen
+guovttesuorat	A	kaksihaarainen (kaksihaarainen kieli = epärehellinen puheissaan)
+guvllolaš	A	-suuntainen	alueellinen
+háhppil	A	nopea	nopealiikkeinen	vikkelä	rivakka
+hálddatlaš	A	hallinnollinen
+hámálaš	A	sorja	komea
+hámat	A	-hahmoinen	-muotoinen
+hápmásaš	A	-hahmoinen	-muotoinen	-näköinen
+harmonalaš	A	harmooninen	harmoninen
+hárvenaš	A	harvinainen
+hástaleaddji	A	haastava	haastellinen
+heahkas	A	hauska (kuulla, nähdä jne.)	miellyttävä ja odottamaton	yllättävä (ja odottamaton)
+heakkaheapme	A	eloton	ylettömän
+heakkaváralaš	A	hengenvaarallinen
+heakkavárálaš	A	hengenvaarallinen
+heiveheaddji	A	sovittaja
+hermeneuhtalaš	A	hermeneuttinen
+heterogena	A	heterogeeninen
+heteronormatiiva	A	heteronormatiivinen
+heteroseksuála	A	heteroseksuaalinen
+hierárkkalaš	A	hierarkkinen
+hirbmatlaš	A	hirmuinen	kammottava
+hohppui	A	hoppuileva	kiireinen	kärkäs
+holisttalaš	A	holistinen
+homogena	A	homogeeninen
+homonymalaš	A	homonyyminen
+homoseksuála	A	homoseksuaali
+huksejeaddji	A	talonrakentaja
+humána	A	humaani	inhimillinen
+humanitára	A	humanitäärinen
+huššái	A	touhottava	hätäilevä
+hypotehtalaš	A	hypoteettinen
+idealisttalaš	A	idealistinen
+ideanttalaš	A	identtinen
+ideologalaš	A	ideolooginen
+idiomáhtalaš	A	idiomaattinen
+iešbirgejeaddji	A	omavarainen
+iešbuorre	A	omahyväinen	itsekäs
+iešbuvttaduvvon	A	itsetuotettu	omaa tuotantoa oleva
+iešoaivválaš	A	omaehtoinen	omapäinen	omatoiminen
+iešráđálaš	A	riippumaton
+iešráhkaduvvon	A	omatekoinen
+iešstivrejeaddji	A	itsenäinen	riippumaton
+ievttáš	A	eilinen
+iežasgielat	A	omankielinen
+iežasráhkaduvvon	A	omavalmiste	itse valmistettu	omatekoinen
+ihtáš	A	huominen
+ihttáš	A	huominen
+ii-finihtta	A	ei-finiitti	infiniitti
+ijaheapme	A	yötön
+ilgat	A	vastenmielinen	ilkeänoloinen
+illudahtti	A	ilahduttava
+ilolaš	A	iloinen	ihastunut
+immateriála	A	immateriaalinen
+immateriálalaš	A	immateriaalinen
+imperfektiiva	A	imperfektiivinen
+impersonála	A	impersonaalinen
+implisihtta	A	implisiittinen
+impulsiiva	A	impulsiivinen
+indefinihtta	A	indefiniittinen (esim artikkeli)	määräämätön	epämääräinen
+individuálalaš	A	yksilöllinen	individualistinen
+indoeurohpálaš	A	indoeurooppalainen
+induktiiva	A	induktiivinen		induktion avulla johdettava tai tapahtuva
+industriála	A	teollinen
+industriijalaš	A	teollinen
+infinihtta	A	infiniittinen
+innovatiiva	A	innovatiivinen
+instrumentála	A	instrumentaalinen
+intellektuála	A	intellektuelli
+intensiiva	A	intensiivinen
+intentionála	A	intentionaalinen	tarkoituksellinen
+interaktiiva	A	interaktiivinen	vuorovaikutteinen
+interaktiivvalaš	A	interaktiivinen	vuorovaikutteinen
+intrakultuvrralaš	A	kulttuurinsisäinen
+intransitiiva	A	intransitiivinen
+ipmilbalolaš	A	jumalaapelkäävä
+ipmillaš	A	jumalallinen	erittäin hyvä
+ipmilmeahttun	A	jumalaton
+israellaš	A	israelilainen
+ivdnásaš	A	-värinen
+ivnnat	A	-värinen
+jahkebeallásaš	A	puolivuosittainen	puolivuotias	puolivuotinen
+jalgat	A	avoin	paljas	tasainen
+jámmis	A	tasainen (pituudeltaan)	tasapitkä	työnteossa tasainen
+jávohisvuođageatnegas	A	vaitiolovelvollinen
+jearaldatvuloš	A	kyseenalainen	kyseinen
+jeavddalaš	A	säännöllinen	toistuva
+jegolaš	A	tottelevainen	kuuliainen (jklle)
+jiekŋagalmmas	A	jääkylmä
+jietnadatlaš	A	äänteellinen
+jietnavuoigadahtton	A	äänioikeutettu
+jievjjas	A	valkko	valkoisenharmaa	valkoturkkinen (ei albiino)
+joatkevaš	A	jatkuva	jatkava
+jotkkolaš	A	jatkuva
+journalisttalaš	A	journalistinen
+juovvái	A	kivikkoinen	louhikkoinen	rakkainen
+jurdilmeahttun	A	ajattelematon (erit. ihmisestä)
+juvdu	A	tyly	ynseä
+juvvii	A	kivikkoinen	louhikkoinen	rakkainen
+kanádalaš	A	kanadalainen
+karmosinruoksat	A	karmosiininpunainen
+katolalaš	A	katolinen
+katolihkalaš	A	katolinen
+kemihkalaš	A	kemiallinen
+kemiijalaš	A	kemiallinen
+kirkolaš	A	kirkollinen
+kognitiiva	A	kognitiivinen	tiedollinen	tiedon käsittelyyn liittyvä
+kognitiivvalaš	A	kognitiivinen	tiedollinen	tiedon käsittelyyn liittyvä
+koloniála	A	kolonialistinen
+kolonialisttalaš	A	kolonialistinen
+kommersiála	A	kaupallinen
+kommunikatiiva	A	kommunikatiivinen	viestinnällinen
+komparatiiva	A	komparatiivinen
+kompleaksa	A	kompleksinen	monimutkainen
+konsekveanta	A	johdonmukainen
+konstitušuvnnalaš	A	perustuslaillinen
+konstitutionála	A	perustuslaillinen
+kontekstuála	A	kontekstuaalinen
+kontinentála	A	mannermainen
+kontrastiiva	A	kontrastiivinen
+kriminála	A	rikollinen
+kronologalaš	A	kronologinen	aikajärjestyksessä oleva
+kruvdnosaš	A	kruunuinen (rahasta, hinnasta)
+kula	A	viileä
+kulturfágalaš	A	kulttuuriammatillinen
+kulturhistorjjálaš	A	kulttuurihistoriallinen
+kulturvuđot	A	kulttuuriperustainen	kulttuurilähtöinen	kulttuuripohjainen
+kulturvuođđuduvvon	A	kulttuuriperustainen
+kumulatiiva	A	kumulatiivinen	sellainen, joka kertyy tai kasautuu
+kursiiva	A	kursiivi(-teksti)
+kvalitatiiva	A	laadullinen	kvalitatiivinen
+kvalitatiivvalaš	A	laadullinen	kvalitatiivinen
+kvantitatiiva	A	määrällinen	kvantitatiivinen
+kvantitatiivvalaš	A	määrällinen	kvantitatiivinen
+kyrillalaš	A	kyrillinen
+láđas	A	täysi (kuu)
+láddan	A	kypsä	ladattu
+lágaheapme	A	laiton
+lágasmearriduvvon	A	lakimääräinen	laissa määrätty
+lagat	A	läheisempi	lähempi
+láhkačeahppi	A	lakitaitaja
+láitemeahttun	A	moitteeton	laittamaton
+lámis	A	(liikunta)vammainen	raajarikkoinen	rampa
+latiinnalaš	A	latinalainen
+lávga	A	tiiviisti	tiukkaan	tiuhaan
+lavttis	A	löyhä	väljä
+leabuheapme	A	levoton
+leaikái	A	leikkisä
+legitiibma	A	legitiimi	laillinen
+leksikála	A	leksikaalinen	sanakirjassa esiintyvä	sanakirjan mukainen
+leksikálalaš	A	leksikaalinen	sanakirjassa esiintyvä	sanakirjan mukainen
+leksikográfalaš	A	leksikografinen	sanakirjatyön-
+lestadialaš	A	lestadiolainen
+lieggavarat	A	lämminverinen
+lihkadanlámis	A	liikuntavammainen
+lihkadeaddji	A	liikkuva
+lihkkoš	A	hyväonninen	onnekas
+lihkostuvvan	A	onnistunut
+lingvisttalaš	A	lingvistinen	kielitieteellinen
+loahppameahttun	A	loputon	loppumaton
+loahppasaš	A	lopullinen	loppuinen
+logalaš	A	looginen
+logihkalaš	A	looginen
+logijahkásaš	A	kymmenvuotinen
+loikkas	A	haalea	laimea (into)	innoton (ihminen)
+lojála	A	lojaali	uskollinen
+lokála	A	lokaali	paikallinen
+lossagulot	A	huonokuuloinen	kuulovammainen
+lotkat	A	rento	vapautunut
+lotnolas	A	vastavuoroinen	vuoroittainen	kierrätyskäytössä oleva	kierto-	 vuoro-
+luđolaš	A	vapaa
+lullisámegielat	A	eteläsaamenkielinen
+luohkkálaš	A	-luokkalainen
+luomus	A	avara	väljä	ilmava (tiloista)	vapaa
+luonddudieđalaš	A	luonnontieteellinen
+luonddudilálaš	A	luonnontilainen	luonnonvarainen
+luondduvuđot	A	luontopohjainen	luontoperustainen	luontolähtöinen
+luotkkus	A	upottava, löysä lumi	upottava, löysä, pehmeä (lumesta)	pehmeäluminen	kuohkea
+lusttuheapme	A	(erit. ruoasta) maistumaton, maittamaton, mauton, vastenmielinen	haluton
+luteránalaš	A	luterilainen
+máđoheapme	A	mahdoton	mahdottoman iso	valtava	valtaisa
+máhtolaš	A	oppivainen	taitava
+máhttovuđot	A	taitopohjainen	osaamispohjainen	osaamisperustainen
+máilmmibeakkán	A	maailmankuulu
+máilmmidovddus	A	maailmankuulu	maailman laajuisesti tunnettu
+majestehtalaš	A	majesteetillinen
+majoritehtagielat	A	enemmistökielinen
+maksimála	A	maksimaalinen	mahdollisimman suuri
+mánáidpsykiátralaš	A	lastenpsykiatrinen
+mannosaš	A	kuukausittainen
+máŋggabealálaš	A	monipuolinen
+máŋggabeallásaš	A	monipuolinen
+máŋggadáfot	A	monipuolinen	monitahoinen
+máŋggafágalaš	A	moniammatillinen
+máŋggageardán	A	moninkertainen
+máŋggageardásaš	A	moninkertainen
+máŋggagielalaš	A	monikielinen
+máŋggajagaš	A	monivuotinen
+máŋggajahkásaš	A	monivuotinen
+máŋggasuorggat	A	monipuolinen	monihaarainen
+maŋŋásaš	A	jälkeinen
+marginála	A	marginaalinen
+mariidna	A	merellinen
+maritiibma	A	merenkulullinen	merellinen
+maritiima	A	merenkulullinen	merellinen
+máškit	A	notkea	taipuisa
+maskuliidna	A	maskuliininen	miehekäs
+materiálalaš	A	materiaalinen
+materialisttalaš	A	materialistinen
+materiealla	A	materiaalinen
+máttasámegielat	A	eteläsaamenkielinen
+meahccái	A	metsäinen
+mearálaš	A	kohtuullinen	maltillinen
+mearkkašeaddji	A	merkitsevä
+mearkkašmeahttun	A	merkityksetön	vähäarvoinen
+mearreáigásaš	A	määräaikainen
+mearrediđolaš	A	määrätietoinen	päättäväinen
+mearridanválddálaš	A	päätösvaltainen
+mentála	A	mentaalinen
+mentálalaš	A	mentaalinen
+metaforalaš	A	metaforallinen	vertauskuvallinen
+metodalaš	A	metodinen	menetelmällinen
+metodologalaš	A	menetelmällinen	metodinen
+metonymalaš	A	metonyminen
+mieđamánas	A	helposti hallittava	lauhkea
+mieđđamánas	A	helposti hallittava	lauhkea
+mieđis	A	valmis	myöntyväinen (jhk)	myötämielinen	suosiollinen	taipuvainen	altis	valmis (jhk tai tekemään jtak)
+miehtemielalaš	A	myönteinen	myötämielinen
+mielalaš	A	halukas	-mielinen	henkinen
+mielčuovvu	A	oheinen	mukana seuraava
+mieldásaš	A	mukainen	jostakin seuraava
+mieskkas	A	laho	mätä	reikäinen (hampaista)
+miessái	A	runsas vasojen suhteen (vuosi, tokka, leiri)
+mihtilmas	A	helposti tunnistettava	erikoinen	poikkeava	ominainen,	tyypillinen
+mihtus	A	(R) helposti erottuva	tunnistettava	erikoinen	poikkeava
+militearalaš	A	sotilaallinen
+miljovdnasaš	A	miljoonainen
+minimála	A	minimaalinen	mahdollisimman pieni
+minoritehtagielat	A	vähemmistökielinen
+minoritehtapolitihkalaš	A	vähemmistöpoliittinen
+minuhtasaš	A	minuuttinen
+moaittehahtti	A	moitittavaa	vastenmielistä
+moalas	A	hauras	mureneva
+moalkái	A	koukkuinen	mutkainen	mutkikas
+modála	A	modaalinen
+moddjái	A	hymyilevä	hymyinen
+modeardna	A	moderni	nykyaikainen
+mohkkái	A	mutkikas	mutkallinen
+molsašuddi	A	muuttuja
+molssaektosaš	A	vaihtoehtoinen
+molssaevttot	A	vaihtoehdot
+momentána	A	momenttinen	hetkellinen
+moralalaš	A	moraalinen
+morfofonologalaš	A	morfofonologinen
+morfologalaš	A	morfologinen
+morfosyntávssalaš	A	morfosynteesinen
+movttiidahtti	A	innostava	motivoiva	kannustava
+muitil	A	hyvämuistinen	muistavainen
+muittoheapme	A	huonomuistinen	hajamielinen
+multifunktionála	A	monikäyttöinen	monitoiminen
+multilaterála	A	multilateraalinen
+museafágalaš	A	museotoimialallinen
+musihkkačeahppi	A	musiikkitaituri
+náitalan	A	naimisissa oleva
+nákkuvuloš	A	kiistanalainen
+nammafágalaš	A	nimellinen	nimialallinen
+nanaguoddevaš	A	kestävä
+narratiiva	A	narratiivinen
+narratologalaš	A	narratologinen	kertomusteoreettinen
+nasála	A	nasaalinen
+naššuvnnalaš	A	kansallinen
+nationálalaš	A	kansallinen	nationaalinen
+nationalisttalaš	A	kansallismielinen	nationalistinen
+nautalaš	A	nauttinen	merenkulkuun liittyvä
+návccalaš	A	kyvykäs	voimakas
+neahtis	A	näppärä	kätevä	nätti
+neahttavuđot	A	nettilähtöinen	verkkopohjainen	verkkoperustainen
+nissonlaš	A	naisellinen
+njáigu	A	nahjus	vätys
+njálggahájat	A	tuoksuva	hyvänhajuinen
+njealjejahkásaš	A	nelivuotinen
+njealjejuolggat	A	nelijalkainen
+njealjejuvllat	A	nelipyöräinen
+njealjestávval	A	nelitavuinen
+njuolggaduslaš	A	säännöllinen
+njuolggočoalat	A	suorapuheinen	suorasukainen		estoton (puheissaan)
+njuoras	A	heiveröinen (lapsesta tms.)	hento (kasvista, sarvesta tms.)	heikko	pehmeä	hellä	lempeä	sydämellinen	hellyttävä	hempeä	herkkä
+njuovžil	A	sujuva	luistava	juoheva
+nohkameahttun	A	loppumaton	loputon
+nohkavaš	A	katoavainen (esine)	rajallinen (esim. resurssit, ymmärrys)
+nominála	A	nominaalinen
+norgalaš-ruoššalaš	A	norjalaisvenäläinen
+normatiiva	A	normatiivinen
+norrøna	A	norjalainen
+nubbingielat	A	toisenkielinen
+nuorttimus	A	itäisin	(R) pohjoisin
+nuppát	A	moniahta - yksi ja toinen(kin)
+nuppelotjahkásaš	A	toistvuotias	teini-ikäinen
+oahpaheapme	A	opetukseton
+oahpahuspolitihkalaš	A	opetuspoliittinen
+oahppováillat	A	vajavaisesti koulutettu	täyttä peruskoulutusta vaille jäänyt
+oaivveheapme	A	päätön	hölmö	houkka
+oanehisáigásaš	A	lyhytaikainen
+oarjemáilmmálaš	A	länsimainen
+oassálas	A	osittainen
+oasseáigásaš	A	osa-aikainen
+obbamáilmmálaš	A	koko maailmaa koskeva
+objektiiva	A	objektiivi(muoto)
+ođasmuvvi	A	uusiutuva
+offensiiva	A	offensiivinen	hyökkäyksellinen
+offensiivvalaš	A	hyökkäyksellinen
+ohcanvuđot	A	hakemuspohjainen	hakemusperustainen	hakupohjainen
+oiddolaš	A	suotuisa	suosiollinen
+oktagaslaš	A	yksilöllinen
+oktalaš	A	yhtenäinen	yhteinen
+oktiigullevaš	A	yhteenkuuluva
+oktilaš	A	alituinen	taukoamaton	yhtenäinen	tasainen	jatkuva (ajallisesti)
+olbmuidgaskasaš	A	ihmistenvälinen
+ollesáigásaš	A	kokoaikainen
+ollesárvosaš	A	täysiarvoinen
+olmmošmeahttun	A	häijy	ilkeä	tunnoton	paha	epäinhimillinen
+olmmošrievttálaš	A	ihmisoikeudellinen
+olmmošvuoigatvuođalaš	A	ihmisoikeudellinen
+operatiiva	A	operatiivinen
+operatiivvalaš	A	operatiivinen
+oppamáilmmálaš	A	koko maailmaa koskeva	kokomaailmallinen
+oppas	A	umpinainen	halkaisematon	pyöreä	suljettu (kehä, piiri tms.)	pilvinen, täysin pilvessä oleva (taivas)	umpilumi	umpinen
+optimála	A	optimaalinen	mahdollisimman hyvä (johonkin)
+optimisttalaš	A	optimistinen
+orgánalaš	A	orgaaninen	eloperäinen
+organisatuvrralaš	A	organisatorinen
+ornitologalaš	A	ornitologinen
+ortodoksa	A	ortodoksi
+ortográfalaš	A	ortografinen
+oskkáldas	A	uskollinen	luotettava
+oskkáldasmeahttun	A	uskoton	epäluotettava
+oskkoldatlaš	A	uskonnollinen
+ovála	A	ovaali	ellipsi
+ovdahistorjjálaš	A	esihistoriallinen
+ovdáneaddji	A	etenevä	kehittyvä
+ovddastuslaš	A	edustuksellinen
+ovddasvástideaddji	A	vastuullinen	vastaava	vastuuhenkilö
+ovddet	A	edellinen	aikaisempi	ensimmäinen (kahdesta pyhästä)
+ovddimus	A	etummainen	ensimmäinen
+ovddimuš	A	etummainen	ensimmäinen
+ovddolaš	A	ihana	ihmeellinen	arvoituksellinen	edullinen
+ovttaahkásaš	A	samanikäinen (jonkun kanssa)
+ovttabealat	A	yksipuolinen
+ovttabeallásaš	A	yksipuolinen
+ovttačilggolaš	A	yksiselitteinen	yksikäsitteinen
+ovttadássásaš	A	tasavertainen	yhdenvertainen
+ovttageardásaš	A	yksinkertainen	yksikerroksinen
+ovttagielalaš	A	yksikielinen
+ovttaoasat	A	yksiosainen
+ovttaráđálaš	A	yksituumainen	yksineuvoinen
+ovttastávval	A	yksitavuinen
+ovttastuvvon	A	yhdistetty	yhdys-
+ovttaveardásaš	A	yhdenvertainen	tasavertainen
+parallealla	A	samansuuntainen suora	yhdensuuntainen
+passiivvalaš	A	passiivinen
+patriarkála	A	patriarkaalinen
+pedagogalaš-psykologalaš	A	pedagogis-psykologinen
+perbmelaš	A	permiläinen (kieli, kansa)
+perfektiiva	A	perfektiivinen
+permissiiva	A	permissiivinen
+personála	A	personaalinen	henkilöstöllinen
+persuasiiva	A	persuasiivi
+polára	A	polaarinen
+polskalaš	A	puolalainen
+populára	A	kansanomainen	kansantajuinen	yleistajuinen
+potentiála	A	potentiaali	mahdollinen	potentiaali	mahtotapa
+pragmáhtalaš	A	pragmaattinen	käytännönläheinen
+pragmatihkalaš	A	pragmaattinen	käytännönläheinen
+praktihkalaš-pedagogalaš	A	käytännöllis-pedagoginen
+preassaetihkalaš	A	lehdistöeettinen
+primára	A	primääri	ensisijainen
+primitiivvalaš	A	primitiivinen	alkukantainen
+priváhtarievttálaš	A	yksityisoikeudellinen
+problemáhtalaš	A	ongelmallinen
+produktiiva	A	produktiivinen	tuottava
+produktiivvalaš	A	tuottava	produktiivinen
+profehtalaš	A	profeetallinen	ennustava
+professionála	A	ammatillinen
+progressiiva	A	progressiivinen	edistyksellinen
+proksimatiiva	A	proksimatiivinen
+propositionála	A	propositionaalinen
+prosessuála	A	prosessuaalinen - menettelytapoihin liittyvä
+prototiippalaš	A	prototyyppinen	ihmisen tyypillisin mielikuva tietyn sanan merkityksestä (kielitieteessä)
+psykihkalaš	A	psyykkinen
+psykohtalaš	A	psykoottinen
+psykososiála	A	psykososiaali
+psykososiálalaš	A	psykososiaalinen
+punktuála	A	punktuaalinen	hetkellinen
+purpurruoksat	A	purppuranpunainen
+rádioaktiiva	A	radioaktiivi
+rádioaktiivvalaš	A	radioaktiivinen
+ráđis	A	hehkuva	hehkuvan kuuma	paahtava	tulikuuma
+rádjarasttideaddji	A	rajanylittäjä
+rádjarasttildeaddji	A	rajanylittäjä
+rádjerasttideaddji	A	rajanylittäjä
+rádjerasttildeaddji	A	rajanylittäjä
+ráhkaduslaš	A	rakenteellinen
+ráhkislaš	A	lempeä	hellä	armas
+ráhkkanahtti	A	varustautuja
+rahpas	A	ylöspäin väljenevä	suuhun päin väljenevä (esim kattilasta, peskistä, kauluksesta)	reunaa kohti väljenevä
+ráhpat	A	reilu	runsas	rapea (mitaltaan)	hääppöinen	rapea
+rájaheapme	A	tallentamaton
+rájáheapme	A	rajaton
+rájáidrasttideaddji	A	rajojen ylittäjä
+rájáidrasttildeaddji	A	rajojen ylittäjä
+rájárasttideaddji	A	rajanylittäjä
+rájeheapme	A	rajaton
+rájiidrasttideaddji	A	kokonaanylittäjä
+ránto	A	kranttu	turhantarkka	ranttu
+rastásaš	A	poikkinainen	poikittainen	ylittävä
+rationála	A	rationaalinen
+ravddamus	A	äärimmäinen	reunimmainen
+ravddamuš	A	äärimmäinen	reunimmainen
+rávvejeaddji	A	ohjaava
+reála	A	reaalinen
+redakšuvnnalaš	A	toimituksellinen
+refleksiiva	A	refleksiivinen
+regionálapolitihkalaš	A	aluepoliittinen
+regiovdnapolitihkalaš	A	aluepoliittinen
+relatiiva	A	relatiivi
+relatiivvalaš	A	relatiivinen	suhteellinen
+representatiiva	A	edustaja
+reseptiiva	A	reseptiivinen	 - (kielen) ymmärrykseen liittyvä
+retoralaš	A	retorinen
+riektehistorjjálaš	A	oikeushistoriallinen
+riektepolitihkalaš	A	oikeuspoliittinen
+rihkolaš	A	rikollinen
+riidoeastadeaddji	A	konfliktien estäjä	riitojen estäjä
+riikkagottálaš	A	valtakunnallinen
+riikkapolitihkalaš	A	valtakunnanpoliittinen
+roavis	A	karhea	karkea
+romalaš	A	roomalainen
+romis	A	ruma
+ruivvas	A	roskainen	samea (vedestä)	sotkuinen	tuhruinen
+ruksesruoná	A	punavihreä
+ruoššagielat	A	venäjänkielinen
+ruošša-ortodoksa	A	venäjän ortodoksi
+ruosttas	A	ruosteinen	ruostunut
+ruoŧagielat	A	ruotsinkielinen
+rusá	A	ruusa	roosa	valkoinen lehmä, jossa on pieniä punaisia pilkkuja
+sáhkat	A	sakea	sankka	tiheä (heinästä)
+sáhkkii	A	utelias	pitkäpuheinen	puhelias
+sáhkkái	A	utelias
+sáhkkit	A	utelias	tiedonhaluinen
+šamanisttalaš	A	shamanistinen
+sámerievttálaš	A	saamelaisoikeuksiin liittyvä
+sámiguoskevaš	A	saamelaisia koskeva
+sámiguoski	A	saamelaisia koskeva
+sáneheapme	A	sanaton	vähäsanainen	leikoton	vähäleikkoinen (poron korvasta)
+sátneálgosaš	A	sana-alkuinen	sananalkuinen
+sátnerikkis	A	sanarikas
+šattoheapme	A	hedelmätön	karu
+seađáhusvuđđosaš	A	säädöspohjainen
+seađas	A	samea	sumea (kirkkaasta esineestä)	käheä
+seagas	A	sekava	epäselvä	sotkuinen
+seammaahkásaš	A	samanikäinen (jonkun kanssa)
+seammaárvosaš	A	samanarvoinen
+seammadássásaš	A	samantasoinen
+searalaš	A	kyvykäs	tarmokas	kehittynyt (lapsesta)
+searra	A	kyvykäs	pystyvä	topakka	tekijämies	taituri 
+sekundára	A	sekundaari
+semantihkalaš	A	semanttinen	merkitysopillinen
+semanttalaš	A	semanttinen	merkitysopillinen
+semánttalaš	A	semanttinen	merkitysopillinen
+sensitiiva	A	sensitiivi
+servodatávkkálaš	A	yleishyödyllinen	yhteiskunnalle hyödyllinen
+servodatdieđalaš	A	yhteiskuntatieteellinen
+servodatekonomalaš	A	yhteisötaloudellinen
+servodatfágalaš	A	yhteiskunta-alallinen	yhteiskunnallinen
+signifikánta	A	merkittävä
+siidosaš	A	-sivuinen
+silbačeahppi	A	hopeaseppä	hopeataituri	hopeaosaaja
+silolaš	A	sielullinen	henkinen
+sirkumpolára	A	sirkumpolaarinen	maapallon napa-alueita koskeva	taivaalla (pohjois- tai etelä-) navanympärysalue
+siskkáldasrievttálaš	A	sisältöoikeudellinen
+siskkit	A	sisempi	perempi
+sitkat	A	sitkeä	sitkas	verkkainen
+skandinávalaš	A	skandinaavinen
+skuvlaahkásaš	A	kouluaikainen
+skuvlafágalaš	A	koulutoimialallinen	kouluammatillinen
+skuvlarelevánta	A	kouluakoskeva
+šliettas	A	uninen	raukea	veltto
+šlundi	A	alakuloinen	apea
+snáhpis	A	sukkela	vikkelä
+soahpameahttun	A	sopimaton	soveltumaton	sovittamaton
+soahppevaš	A	sopiva	sovelias
+soaiggus	A	kaamea	kamala	kauhistuttava
+soameheapme	A	soveltumaton	epämukava	kiusallinen
+šođbat	A	siro, (langasta, köydestä)	hoikka (ja tasainen)
+soddjil	A	taipuisa	notkea (äänestä)	taipuvainen	altis	myöntyväinen
+solidáralaš	A	solidaarinen
+somáhtalaš	A	somaattinen
+sonas	A	näivettynyt	surkastunut
+sorttat	A	lajiteltu
+sosiálademokráhtalaš	A	sosiaalidemokraattinen
+sosiálapolitihkalaš	A	sosiaalipoliittinen
+sosioekonomalaš	A	sosiotaloudellinen	sosioekonominen
+sosiokultuvrralaš	A	sosiokulttuurillinen
+sosiolingvisttalaš	A	sosiolingvistinen	sosiokielitieteellinen
+spatiála	A	spatiaalinen - tilallinen
+spesiála	A	erikois-	erikoinen 
+spiehkkaseaddji	A	poikkeava
+spontána	A	spontaani
+stábat	A	-juovainen	raitainen
+stádalaš	A	valtiollinen
+stáđismeahttun	A	epävakainen	arvaamaton	vakiintumaton
+stáhtaidgaskasaš	A	valtioidenvälinen
+stáhtavuođđudeaddji	A	valtionperustaja
+starggas	A	jämäkkä	vakaa	tukeva	jäykkä
+statihkalaš	A	staattinen
+statistalaš	A	statistinen	tilastollinen
+stereotiippalaš	A	stereotyyppinen
+steriila	A	steriilinen
+streaŋggis	A	ankara	vaikea
+strukturalisttalaš	A	strukturalistinen	rakenteen merkitystä korostava
+struktuvrralaš	A	strukturalistinen	rakenteen merkitystä korostava
+studerenráhkkanahtti	A	opiskeluun valmistautuva
+stuorebuš	A	hieman suurempi
+subjektiiva	A	subjektiivinen	tekijä
+suohkaniidgaskasaš	A	kuntienvälinen	pitäjienvälinen
+suojis	A	suojaisa	(talvivaatteista:) lämmin
+suomaugralaš	A	suomenugrilainen
+suopmelaš-ugralaš	A	suomalais-ugrilainen
+suorgái	A	haarakas	haarova
+sustentiiva	A	sustentiivinen
+suverena	A	suvereeninen
+synkronalaš	A	synkroninen	yhdenaikainen
+syntávssalaš	A	syntaktinen
+syntehtalaš	A	synteettinen	keinotekoinen
+teknalaš	A	tekninen
+temáhtalaš	A	temaattinen
+territoriála	A	alueellinen
+tibehtalaš	A	tiibettiläinen
+toleránta	A	toleranttinen	suvaitsevainen
+topográfalaš	A	topograafinen	maantieteellinen
+toponymalaš	A	toponyminen
+transitiiva	A	transitiivi
+transitiivvalaš	A	transitiivinen
+transseksuála	A	transseksuaali
+traumáhtalaš	A	traumaattinen
+trohpalaš	A	trooppinen
+tuvalaš	A	tuuvalainen
+typihkalaš	A	tyypillinen
+typologalaš	A	typologinen
+tøffa	A	kova
+uhccánaš	A	vähäinen	vähä-
+ulbmildiđolaš	A	päämäärätietoinen
+universála	A	universaalinen	yleismaailmallinen
+unnitlogugielat	A	vähemmistökielinen
+urálalaš	A	uralilainen
+utnolaš	A	hyvänsuopa	suopea	aulis
+vaháteastadeaddji	A	vahingonestäjä
+váibmoláđis	A	laupias	lempeä
+váikkuhanfámolaš	A	vaikutusvaltainen
+váivváš	A	vaivainen	viheliäinen	köyhä
+válddálaš	A	mahtava	vaikutusvaltainen
+váldegottálaš	A	valtakunnallinen
+váldosaš	A	valtaosa
+valljugas	A	runsas	yltäkylläinen
+vánhurskkis	A	vanhurskas	oikeamielinen	oikeudenmukainen
+vánis	A	niukka	riittämätön	vähäinen
+várddus	A	aukea	avara (näköalaltaan)
+varrái	A	verinen	verevä	verekäs
+vártnuheapme	A	kurja	surkea
+vásáhusvuđot	A	elämyspohjainen	elämysperustainen	elämyslähtöinen
+vašán	A	vihainen
+vásihusvuđot	A	kokemuspohjainen	kokemusperustainen	kokemuslähtöinen
+vástevaš	A	vastuullinen	vastaava
+vástideaddji	A	vastaava	vastaaja
+vásttolaš	A	vastuullinen	vastaava
+vávjálas	A	epäluuloinen	epäilevä(inen)
+veagalaš	A	väkevä	voimakas (mausteista, kahvipavuista)	jokin, jossa on paljon työväkeä
+veardásaš	A	verrannollinen	verrattavissa oleva
+vearrogeatnegas	A	verovelvollinen
+vehádatgielat	A	vähemmistökielinen
+vehkkii	A	voimakas	potentiaalia omaava (ruoka, juoma, tupakka, lääke)	vahva	hyvin hoidettu	hyvin lannoitettu
+vepsalaš	A	vepsäläinen
+vepselaš	A	vepsäläinen
+verbála	A	verbaalinen
+vierisgielat	A	vieraskielinen
+vierrogielat	A	vieraskielinen
+vieruiduvvan	A	perinteellinen	tavanomainen
+viktig	A	tärkeä
+virolaš	A	säännöllinen	tavanomainen
+virtuála	A	virtuaalinen
+virtuálalaš	A	virtuaalinen
+viso	A	kaikki
+vuddjii	A	rasvainen, jossa on paljon voita, rasvaa
+vuoddjái	A	rasvainen, jossa on paljon voita, rasvaa
+vuođđolágalaš	A	perustuslaillinen
+vuogádatlaš	A	järjestelmällinen
+vuogálaš	A	tarkoituksenmukainen	kätevä	näppärä
+vuoibmái	A	väkevä	voimakas	vaikutusvaltainen
+vuoigaduvvon	A	oikeutettu
+vuoigat	A	oikea	rehellinen	vilpitön
+vuoigatlaš	A	luotettava	oikeamielinen	oikeudellinen
+vuoigatmeahttun	A	paikkansapitämätön	petollinen	vilpillinen
+vuoigatvuođalaš	A	oikeudellinen	oikeudenmukainen
+vuoimmeheapme	A	voimaton	heikko
+vuollánmeahttun	A	lannistumaton
+vuolleahkahaš	A	alaikäinen
+vuolleahkásaš	A	alaikäinen
+vuoŋis	A	levännyt (joka ei ole ollut töissä)	virkeä
+vuorddehahtti	A	todennäköinen	odotettavissa oleva
+vuorji	A	harva	harvassa oleva	harvinainen
+vuostásaš	A	vastainen
+vuostehágolaš	A	hangoitteleva	vastahakoinen
+vuosttašgielat	A	ensikielinen	ensimmäistä kieltä puhuva
+vuovdnái	A	vallanhimoinen	hyökkäävä	ylimielinen	tarmokas	uljas
+vuovttat	A	-hiuksinen	-tukkainen

@@ -1,0 +1,2239 @@
+áddehaddat	V	ymmärtää toisiansa
+áddehaddat	V	tulla ymmärretyksi
+áddehaddat	V	kuulla toisiaan
+áddestaddat	V	jäljitellä
+áddestaddat	V	matkia
+áddestallat	V	jäljitellä
+áddestallat	V	matkia
+áđđestallat	V	jäljitellä
+áđđestallat	V	matkia
+áddestuvvat	V	saada selvää
+áddestuvvat	V	ruveta ymmärtämään
+ahttohallat	V	peittyä lumeen (pahaksi onnekseen)
+áibbašit	V	ikävöidä
+áibbašit	V	kaivata
+áiccadit	V	havainnoida
+áiccahallat	V	tulla havaituksi
+áiccahallat	V	joutua jkn havaitsemaksi
+ájáhallat	V	tulla ajetuksi pois
+ájáhallat	V	tulla karkotetuksi
+ájáhallat	V	viivytellä
+ájáhallat	V	(R) ajatella
+ákkastaddat	V	perustella
+ákkastaddat	V	argumentoida
+ákkastaddat	V	ajaa asiaa
+állestit	V	kallistaa (nopeasti tai vähän)
+állestit	V	käydä kyljelleen
+állestit	V	nukkua vähän aikaa
+állestit	V	nukahtaa
+állestit	V	panna (nopeasti tai vähän) kallelleen
+álohallat	V	kallistella
+anihit	V	panna pitämään
+anihit	V	panna käyttämään
+anihit	V	kelvata pidettäväksi
+anihit	V	kelvata
+anihit	V	nussittaa itsensä
+anihit	V	nussittaa itseään
+anistit	V	käyttää
+anistit	V	pitää (vähän)
+anistit	V	tarvita (vähän)
+anistit	V	naida (kerran, vähän)
+ánostit	V	anoa (vähän)
+ánostit	V	pyytää (jtak vähän)
+ánuhallat	V	anoa (kovasti ja usein)
+ánustit	V	anoa (kerran)
+ánustit	V	pyytää (jtak kerran)
+áráhallat	V	joutua jkun viivyttämäksi
+áráhallat	V	myöhästyä (viivytyksen vuoksi)
+áráhallat	V	tulla hätistellyksi
+árpmoštallat	V	ilmaista myötätuntoa (jkta kohtaan)
+árvádaddat	V	arvailla
+árvaladdat	V	arvella
+árvaladdat	V	keskustella
+árvalastit	V	arvella (ohimennen, nopeasti)
+árvvoštaddat	V	arvioida
+árvvoštaddat	V	arvostella
+ásadit	V	asuskella
+ásadit	V	asustella
+ásadit	V	oleskella
+attistit	V	antaa (rehentelevästi)
+attistit	V	antaa (kunnolla selkään, korvapuusti tms.)
+attistit	V	pyyhältää
+attistit	V	painaltaa
+ávaštallat	V	"	aavistella"
+ávaštallat	V	uumoilla
+ávkkohallat	V	hyödyttää (usein)
+ávkkohallat	V	hyödyttää itseään
+ávvudallat	V	juhlia
+ávvudallat	V	juhliskella
+ávvudallat	V	iloita
+azistit	V	nousta vähän (vesi, tulva)
+badjánaddat	V	nouseskella
+badjánaddat	V	nousta (usein tai useista)
+bagadastit	V	kurittaa (vähän)
+bággehaddat	V	joutua tekemään jotain
+bággehaddat	V	joutua pakotetuksi
+bággehallat	V	joutua (tekemään jtak)
+bággehallat	V	joutua pakotetuksi
+bággestallat	V	yrittää pakottaa
+báhcahaddat	V	lauoskella
+báhcahaddat	V	napsautella (esim sormiaan)
+báhcahallat	V	laukoa
+báhcahallat	V	napsautella (pois vireestä)
+báhcahallat	V	napsutella (sormiaan)
+báhcahallat	V	näppäillä
+bahkkedit	V	sulloa
+bahkkedit	V	tunkea (jatkuvasti)
+bahkkedit	V	työntyä
+bahkkedit	V	tunkeilla
+bahkkedit	V	olla tunkeileva
+bahkkedit	V	puuttua jhnkin
+bahkkedit	V	työntyillä
+bahkkehallat	V	"	tungeksia"
+bahkkehit	V	ahtaa
+bahkkehit	V	tunkea (joku jhkin)
+bahkkestit	V	tunkeutua
+bahkkestit	V	ahtautua
+bahkkestit	V	työntyä (nopeasti)
+báhkkodit	V	"	lausua"
+báhkkodit	V	ilmaista
+báhkkodit	V	ilmentää
+baikkáhallat	V	tahrautua (ulosteeseen)
+baikkáhallat	V	(+ ill.) joutua jakamaan hyöty (jkn kanssa)
+baikkihit	V	auttaa ulostamaan
+baikkihit	V	auttaa kakkaamaan ("kakattaa")
+báitilit	V	paistaa
+báitilit	V	loistaa (vähän aikaa)
+báittestit	V	paistaa (vähän tai vähän aikaa)
+báittestit	V	välähtää
+bajádallat	V	kohotella
+bajádallat	V	nostella
+balddáhaddat	V	pelotella
+balddáhaddat	V	saada pelkäämään (leikillään tms)
+bálgalit	V	(poroista) ruveta palkimaan
+bálgalit	V	ruveta liikkumaan (kesälaitumella)
+bálggadit	V	palkia (pitkään)
+bálggadit	V	liikuskella rauhattomasti (erit. sääskien ja helteen takia)
+bálkestallat	V	heittelehtiä
+bálkestallat	V	piehtaroida
+bálkkastallat	V	heitellä
+bálkkastallat	V	nakella
+bálkkodit	V	heitellä
+bálkkodit	V	nakella
+bálkulit	V	heitellä
+bálkulit	V	nakella
+bálkulit	V	nakkoa
+bálkulit	V	viskoa (nopeasti)
+banihit	V	kehräyttää
+banihit	V	kehruuttaa
+banihit	V	soveltua kehrättäväksi
+báŋadit	V	maikkua (pitkään)
+báŋadit	V	hyppiä (kalat)
+barddestit	V	latoa
+barddestit	V	pinota (vähän)
+bárddestit	V	puistaa (paheksuen päätään, vähän)
+bardilit	V	latoa
+bardilit	V	pinota (nopeasti)
+barggadit	V	työskennellä (pitkään)
+barggadit	V	olla sukupuoliyhteydessä
+barggadit	V	(vulg.) köyriä
+barggastallat	V	työskennellä (vähän silloin tällöin)
+barggastit	V	työskennellä (tovin, vähän)
+bártádaddat	V	joutua onnettomuuteen (usein)
+bártádallat	V	joutua onnettomuuteen (usein)
+basástallat	V	paistella vähin erin (uunissa tai tulella)
+basistit	V	paistaa (vähän tulella t. nuotiolla)
+basistit	V	paistaa (kunnolla, esim. kalaa nuotiolla)
+bassalit	V	pesaista
+bassalit	V	pestä vaatteita
+bázahaddat	V	jäädä jälkeen henkisesti
+bázahaddat	V	jäädä muista jälkeen
+bázahaddat	V	jäädä taka-alalle
+bázahaddat	V	tulla laiminlyödyksi
+bázahaddat	V	yrittää jättää jälkeen
+bázahallat	V	jäädä jälkeen (myös henkisesti)
+bážáhallat	V	joutua ammutuksi
+bážáhallat	V	joutua jkn ampumaksi
+bažihit	V	lypsättää
+bažihit	V	suostua lypsettäväksi
+bažihit	V	soveltua lypsettäväksi
+bažihit	V	kelvata lypsettäväksi
+bealkkestuvvat	V	ruveta haukkumaan
+bealkkestuvvat	V	ruveta sättimään (+kom.)
+bealkkestuvvat	V	ruveta riitelemään jonkun kanssa
+bealkkihit	V	haukkua
+bealkkihit	V	sättiä (kovasti)
+beasadaddat	V	esittää verukkeita jstak pääsemiseksi (jatkuvasti)
+beasadallat	V	esittää verukkeita jstak pääsemiseksi (jatkuvasti)
+beasadit	V	päästä irti (useasta)
+beasadit	V	lähteä irti
+beasadit	V	irrota (useasta esineestä)
+beasadit	V	irtaantua (jatkuvasti)
+beasadit	V	yrittää päästä esim. velvollisuudesta tai tekemästä jtak
+beasahallat	V	sadatella
+beloštallat	V	(+akk.) puolustella jotakin
+biđgedit	V	hajotella
+biđgedit	V	levitellä
+biđgehit	V	levityttää
+biđgehit	V	päästää hajalle
+biđgehit	V	päästää leviämään
+biđgehit	V	särjettää
+biđgehit	V	saada rikkoontumaan
+biđgehit	V	saada särkymään
+biđgestit	V	hajottaa
+biđgestit	V	levittää (vähän)
+biđgestit	V	särkeä
+biđgestit	V	rikkoa (vähän)
+bidjalastit	V	panna
+bidjalastit	V	asettaa (nopeasti)
+bidjalastit	V	pujauttaa
+bidjalit	V	panna
+bidjalit	V	asettaa (nopeasti)
+bidjalit	V	pujauttaa
+bieđđalit	V	alkaa houria
+bieđđalit	V	tulla hulluksi
+bieđganaddat	V	hajaantua (vähin erin tai useista)
+bieđganaddat	V	särkyä (vähin erin tai useista)
+bieđganaddat	V	hajota
+biehkuladdat	V	nurista (useaan kertaan, kovasti)
+biehkuladdat	V	valitella (kovasti)
+biepmadit	V	ruokkia (useita tai usein)
+biepmadit	V	paapotella
+biepmadit	V	sylkytellä
+bievlladit	V	pälvetä (vähin erin)
+bievlladit	V	paljastua lumen alta (vähin erin)
+biggehaddat	V	joutua (kovan) tuulen pidättelemäksi
+biggehaddat	V	joutua tuulen yllättämäksi
+biggehaddat	V	joutua tuulen mukana jonnekin
+biggehallat	V	joutua (kovan) tuulen pidättelemäksi
+biggehallat	V	joutua tuulen yllättämäksi
+biggehallat	V	joutua tuulen mukana jonnekin
+bigohallat	V	kinailla
+bigohallat	V	riidellä
+bijadit	V	panna
+bijadit	V	asettaa (usein)
+bijadit	V	laitella
+bijahallat	V	tulla tai joutua pannuksi (pois, työhön jne.)
+bijahallat	V	joutua (jhk tai tekemään jtak)
+bijastit	V	panna
+bijastit	V	asettaa
+bijastit	V	laittaa (kerran)
+birgehaddat	V	pärjätä
+birgehaddat	V	tulla toimeen jnk tai jkn kanssa
+birgehaddat	V	yrittää tulla toimeen
+birgehaddat	V	päästä yhteisymmärrykseen
+birgehaddat	V	(+kom.) suoriutua jostakin
+birgehallat	V	pärjätä
+birgehallat	V	tulla toimeen jnk tai jkn kanssa
+birgehallat	V	yrittää tulla toimeen
+birgehallat	V	päästä yhteisymmärrykseen
+birgehallat	V	(+kom.) suoriutua jostakin
+birgehit	V	huolehtia (jstak)
+birgehit	V	pitää (jtak) yllä
+birgehit	V	kunnossa
+birgestuvvat	V	ruveta selviytymään
+birgestuvvat	V	tahtoa selviytyä (neg.)
+birgestuvvat	V	ruveta (vaivoin) tulemaan toimeen
+bisánaddat	V	pysähdellä
+bisohallat	V	tasapainoilla
+bisohallat	V	pysytellä pystyssä
+bisohallat	V	pysytellä mukana, rinnalla
+bissehastit	V	pysähdyttää
+bissehastit	V	seisauttaa (äkkiä tai nopeasti)
+bissostallat	V	käytellä pyssyä
+bissostallat	V	käytellä ampuma-asetta
+bissostallat	V	"pyssytellä"
+bivdaladdat	V	pyydellä (jatkuvasti)
+bivdaladdat	V	yrittää (jatkuvasti) pyytää
+bivddihit	V	panna pyydystämään
+bivddihit	V	olla pyydystettävissä
+bivddihit	V	soveltua tai kelvata pyydystettäväksi
+bivdilit	V	pyytää (vähän tai nopeasti)
+bivdilit	V	pyydystää (vähän tai nopeasti)
+bivttastallat	V	vaatetella
+bláđedit	V	selailla
+boađestit	V	tulla vähän (esim. kaloja pyydykseen)
+boagustallat	V	naureskella (kovasti)
+boahkkulit	V	kuivahtaa
+boahkkulit	V	kuivua (nopeasti vähän t. puolikuivaksi erit. lihasta ja kalasta)
+boaibmulit	V	nokkaista
+boaibmulit	V	napata (nopeasti)
+boakčánaddat	V	saada (ruokaa) väärään kurkkuun
+boakčánaddat	V	(lähes) tukehtua (ruokaan)
+boakkostit	V	kulkea länkisäärisenä
+boakkostit	V	vääräsäärisenä (vähän matkaa tai lyhyen aikaa)
+boalbasaddat	V	kangerrella
+boalbasaddat	V	takerrella
+boalddestit	V	polttaa (vähän)
+boalddihit	V	poltattaa
+boalddihit	V	soveltua poltettavaksi
+boalddihit	V	pyyhältää
+boalddihit	V	kiitää
+boccáhaddat	V	puistella itseään
+boccáhaddat	V	puistatella
+boccáhaddat	V	ravistautua (hereille)
+boccáhallat	V	puistella itseään
+boccáhallat	V	puistatella
+boccáhallat	V	ravistautua (hereille)
+bođastit	V	muodostaa suppoa
+bođastit	V	muodostaa hyhmää (jäätymättömässä joessa)
+bohkosaddat	V	naurahdella
+boktilit	V	herättä (nopeasti)
+boltasaddat	V	nousta (vähin erin vuoteesta)
+boltasaddat	V	hytkyä
+boltasaddat	V	hetkua
+bonjahallat	V	joutua väännetyksi
+bonjastit	V	vääntää (kerran, nopeasti)
+bonjastit	V	väännähyttää
+bonjastit	V	väännältää
+borahaddat	V	syötellä
+borahaddat	V	tulla syödyksi
+borahaddat	V	syötättää itsensä
+borahaddat	V	syötätellä
+borahaddat	V	kuolla t. riutua jonkun taikakeinojen vuoksi
+borahaddat	V	kuolla t. riutua jonkun taikakeinojen vuoksi
+borahallat	V	syötellä
+borahallat	V	tulla syödyksi
+borahallat	V	syötättää itsensä
+borahallat	V	syötätellä
+borastit	V	syödä (vähän)
+borastit	V	syöpäistä
+borastuvvat	V	haluta syödä (jtak)
+borastuvvat	V	olla nälkäinen
+borastuvvat	V	yrittää vahingoittaa jkta
+borddestit	V	latoa
+borddestit	V	pinota vähän
+bordilit	V	latoa
+bordilit	V	pinota (nopeasti)
+borggahallat	V	joutua pyryn yllättämäksi
+borggistit	V	tupruta
+borggistit	V	pöllytä
+borggistit	V	höyrytä (sakeana)
+borgostit	V	peittyä (vähän) lumeen
+borgostit	V	pyryttyä (vähän)
+borralit	V	syödä (nopeasti tai vähän)
+borralit	V	haukata
+borralit	V	hotkaista
+borrohallat	V	joutua jnk syömäksi
+borššodit	V	kuohua
+borššodit	V	pärskyä (pitkään)
+bossulit	V	puhaltaa (nopeasti)
+bostohallat	V	pöhöttyä
+bostohallat	V	saada ihottuma
+bosttahallat	V	pöhöttyä (ihosta)
+bosttahallat	V	saada ihottuma
+botkehit	V	päästää jk katkeamaan
+botkehit	V	soveltua katkaistavaksi
+botkehit	V	saada jku erottamaan
+botkehit	V	lohkaisemaan osa (esim. tokasta)
+botkehit	V	soveltua lohkaistavaksi
+botkehit	V	vieroittaa (lapsi, vasa)
+botnjalastit	V	väännähyttää
+botnjalastit	V	väännältää
+botnjalastit	V	vääntää (nopeasti)
+botnjalit	V	väännähyttää
+botnjalit	V	väännältää
+botnjalit	V	vääntää (nopeasti)
+botnjasaddat	V	vääntelehtiä
+botnjasaddat	V	tuskailla
+bovdehit	V	kutsuttaa
+bovdestit	V	kutsua (jhk; rehvastelevasti)
+bovttáhallat	V	joutua herätetyksi
+bovttáhallat	V	joutua (jkun) herättämäksi
+božihit	V	pumppauttaa
+božihit	V	lypsäyttää
+božihit	V	soveltua lypsettäväksi
+božistit	V	pumppauttaa
+božistit	V	lypsäistä
+buktilit	V	tuoda (nopeasti; myös kohteliaasti pyydettäessä)
+buođđulit	V	padota
+buođđulit	V	tukkia (nopeasti)
+buohccádit	V	sairastua (monesta)
+buohccáhit	V	sairastuttaa
+buohccáhit	V	saada tai panna sairastamaan
+buokčaladdat	V	sukellella (tarmokkaasti)
+buokčalastit	V	sukeltaa (äkkiä)
+buokčalit	V	sukeltaa (kerran)
+buolvvastallat	V	polvistella
+buonjostit	V	kastahuttaa jssak
+buonjostit	V	kastaa (nopeasti jssak)
+buonjostit	V	kostuttaa (nopeasti jssak)
+buorádaddat	V	parannella
+buorádallat	V	parannella
+buovvalit	V	arvella
+buovvalit	V	virkkaa (sanoa lyhyesti)
+buozastit	V	sairastaa (vähän aikaa)
+burggihit	V	pengottaa
+burggihit	V	mullistuttaa
+burggihit	V	panna penkomaan
+burggihit	V	soveltua pengottavaksi
+burggihit	V	soveltua purettavaksi
+buváhaddat	V	kuristua
+buváhaddat	V	(+ill) joutua jkun kuristamaksi
+buváhaddat	V	yrittää kuristaa
+buváhallat	V	kuristua
+buváhallat	V	(+ill) joutua jkun kuristamaksi
+buváhallat	V	yrittää kuristaa
+čabadit	V	kohentaa
+čabadit	V	ehostaa (asuaan, ulkonäköään)
+cábastit	V	leikata (pieniksi: vähän, nopeasti)
+čábbudallat	V	kaunistella (myös asioita)
+cábmohallat	V	joutua jkn pieksämäksi
+čádjádaddat	V	harhailla
+čádjádaddat	V	olla harhateillä
+čádjádallat	V	harhailla
+čádjádallat	V	olla harhateillä
+čáhkkedit	V	tehdä tilaa
+čáhkkedit	V	väistää
+čáhkkedit	V	väistyä (vähin erin)
+čáhkkedit	V	väistyillä jonkin tieltä
+čáhkkehit	V	mahduttaa
+čáhkkehit	V	saada mahtumaan
+čahpalit	V	ehostaa
+čahpalit	V	kohentaa (ulkonäköään, nopeasti)
+čáhppádit	V	näkyä mustana jsskin
+čáhppádit	V	mustettaa (pitemmän aikaa)
+čaimmadit	V	naureskella
+čaimmadit	V	naurella
+čájáhaddat	V	esitellä
+čájáhaddat	V	näytellä (es. teatterissa)
+čájáhaddat	V	osoitella (suuntaa tms)
+čájehastit	V	näyttää nopeasti
+čájehastit	V	vilauttaa
+čájehastit	V	näyttää (osoittaa)
+čájehastit	V	vivahtaa (jhnkin)
+cakkadit	V	pingotella
+cakkadit	V	pitää auki (usein t. useita esineitä)
+cakkadit	V	pidätellä
+cakkadit	V	estellä
+cakkastallat	V	pidätellä
+cakkastallat	V	estellä
+cakkastit	V	avata (ammolleen)
+cakkastit	V	tukea (vähän)
+cakkastit	V	työnnältää
+cakkastit	V	jarruttaa
+cakkastit	V	pidättää (jtak vähän)
+cakkastit	V	pitää paikoillaan
+cakkastit	V	estää
+cakkastit	V	häätää
+cakkastit	V	hätistää
+čaladit	V	huitoa sarvillaan (keloamismielessä)
+čaladit	V	(+kom) koetella voimiaan (jnkun kanssa)
+čaladit	V	mitellä
+čáláhallat	V	joutua (tahtomattaan) kirjatuksi
+čálástallat	V	"	kirjoitella (vähän kerrallaan)"
+čálástallat	V	viillellä
+čalastit	V	(porosta) keloa sarviaan (vähän)
+čalastit	V	mitellä voimiaan
+čálestit	V	kirjoittaa (vähän tai nopeasti)
+čalgalit	V	"	läpäistä"
+čalgalit	V	mennä lävitse
+čálgalit	V	varttua
+čálgalit	V	kehittyä (fyysisesti; vähän t. nopeasti)
+čálgalit	V	(ihmisestä, eläimestä:) voimistua (vähän t. nopeasti)
+čalggadit	V	mennä esim. jään läpi (usein)
+čalggadit	V	putoilla
+čalggadit	V	vajoilla
+čalggadit	V	päästä (varresta, usein t. useista esineistä)
+čálistit	V	kirjoittaa (vähän tai nopeasti)
+čálláladdat	V	kirjoitella (tarmokkaasti)
+čálláladdat	V	viillellä (tarmokkaasti)
+čállilit	V	kirjoittaa (nopeasti)
+čanadit	V	sidoskella (vars. poroja hihnaan jhk vietäväksi)
+čanastit	V	sitaista
+canccodit	V	sitoa (vähän)
+čáŋadit	V	tulla sisään
+čáŋadit	V	kömpiä (usein jhk)
+čáŋadit	V	käväistä
+čáŋadit	V	pistäytyä (jssak)
+čáŋadit	V	tarttua (verkkoon, ansaan)
+cápmáhallat	V	tulla pieksetyksi
+cápmáhallat	V	saada selkäänsä
+čárvulit	V	puristaa (nopeasti)
+čárvvohallat	V	joutua jkn puristelemaksi
+časkilit	V	iskeä (nopeasti)
+časkilit	V	leikata (nopeasti)
+časkilit	V	tarkistaa (käymällä nopeasti jssak)
+čáskkadit	V	sammua
+čáskkadit	V	hiipua (vähin erin)
+čáskkadit	V	vaimeta (vähin erin)
+časkkáhallat	V	etsiä (vars. porojen jälkiä)
+časkkáhallat	V	kontrolloida (porojen kulkua jälkien perusteella)
+časkkestit	V	iskeä (vähän)
+časkkestit	V	leikata (pala t. viipale)
+časkkihit	V	iskettää
+časkkihit	V	soveltua iskettäväksi
+časkkihit	V	kolauttaa (esim. vene jtak vasten)
+časkkihit	V	leikkauttaa
+časkkihit	V	soveltua leikattavaksi
+čatnalit	V	sitaista
+čatnalit	V	sitoa (nopeasti)
+čavgestit	V	tiukentaa
+čavgestit	V	kiristää
+čavgestit	V	pingottaa (äkkiä tai vähän)
+čavggadit	V	kiristellä
+čavggadit	V	ponnistella
+čavggadit	V	rehkiä
+cavggestit	V	nykäistä
+cavggestit	V	nyhjäistä
+cavgilastit	V	nykäistä (nopeasti jtkn es. hihasta huomion herättämiseksi)
+cavgilastit	V	nykäistä ajoporoa hihnasta
+cavgilastit	V	huomauttaa tai ilmoittaa (ohimennen)
+cavgilit	V	nykäistä (jkta esim. hihasta, ajoporoa hihnasta tms.)
+ceaggádit	V	törröttää (pitkään tai useista esineistä)
+ceaggádit	V	olla pystyasennossa (pitkään tai useista esineistä)
+ceaggáhit	V	pitää pystyssä tai pystyasennossa
+ceagganaddat	V	nousta pystyyn (usein t. useista esineistä)
+cealkilit	V	lausahtaa
+cealkkestit	V	lausahtaa kunnioittavasti
+cealkkihit	V	panna t. saada sanomaan
+ceggestit	V	nostaa (äkkiä) pystyyn tai pystyasentoon
+ceggestit	V	perustaa (vaivattomasti t. nopeasti)
+ceggestit	V	pystyttää (nopeasti)
+čegŋestit	V	kyykistyä
+čegŋestit	V	kyyristyä (nopeasti)
+čegŋestit	V	niiata
+čiđistit	V	"	karata"
+čiđistit	V	livahtaa
+čiehkádaddat	V	piileskellä
+čiehkádaddat	V	piillä
+čiehkádaddat	V	piiloutua (silloin tällöin)
+čiehkalit	V	kätkeä
+čiehkalit	V	piilottaa (nopeasti)
+čiekčalit	V	potkaista
+ciekkadit	V	vajota (usein, esim. lumeen)
+ciekkastit	V	iskostua
+ciekkastit	V	pinttyä (vähän)
+ciekkastit	V	vajota (vähän, esim. lumeen)
+cielahallat	V	panna haukkumaan (usein)
+cielahallat	V	joutua jkn haukkumaksi
+čielgadallat	V	selvennellä
+čierastaddat	V	lasketella mäkeä
+čierastaddat	V	kelkkailla mäkeä alas
+čierostuvvat	V	tehdä itkua
+čierostuvvat	V	ruveta itkemään
+čievččadit	V	potkiskella
+čievččadit	V	potkia (toisiaan)
+čievččahallat	V	joutua potkituksi
+čievččahallat	V	joutua jnk potkimaksi
+čievččastit	V	potkaista
+čievččastit	V	vanuttaa (sarkaa, vähän)
+čilgedit	V	selitellä
+čilgedit	V	selvitellä
+čilgestallat	V	selitellä (monivaiheisesti)
+čilgestallat	V	selvittää (monivaiheisesti)
+čilgestallat	V	tulkita (monivaiheisesti)
+čilgestit	V	selittää nopeasti
+čilgestit	V	selvittää nopeasti
+čiŋkkodit	V	kinkata (yhdellä jalalla)
+čiŋkkodit	V	linkata (jatkuvasti)
+čippostaddat	V	polvistella
+čippostaddat	V	olla polvillaan
+čippostallat	V	polvistella
+čippostallat	V	olla polvillaan
+čirodit	V	itkeskellä
+čirohallat	V	itketellä
+čirrostit	V	itkeä (vähän)
+cissadit	V	pissailla
+cissadit	V	kastella vuoteensa
+cissastit	V	pissata
+cissastit	V	virtsata (vähän)
+cissastuvvat	V	ruveta tuntemaan pissaamisen tarvetta
+čoagganaddat	V	kokoontua (usein t. vähitellen)
+čoaggilit	V	poimia
+čoaggilit	V	kerätä
+čoaggilit	V	koota (nopeasti)
+čoahkkanaddat	V	kokoontua (vähin erin)
+čoahkkanaddat	V	kerääntyä (vähin erin)
+čoakkestit	V	poimia
+čoakkestit	V	kerätä
+čoakkestit	V	koota (vähän)
+čoakkistit	V	poimia
+čoakkistit	V	kerätä
+čoakkistit	V	koota (muka vähän)
+čoaskudaddat	V	jäähdytellä (tarmokkaasti)
+čoaskudaddat	V	yrittää jäähdyttää
+čoaskudaddat	V	vilvoitella
+čoaskulit	V	jäähtyä
+čoaskulit	V	kylmetä (nopeasti)
+čoaskulit	V	viiletä (tunteista, suhteista nopeasti)
+čoavddihit	V	panna avaamaan (solmu tms.)
+čoavddihit	V	panna päästämään (siteistä tms.)
+čoavddihit	V	jäsennyttää
+čoavddihit	V	panna jäsentämään (lause)
+čoavdilit	V	avata (solmu tms. nopeasti)
+čoavdilit	V	päästää (siteistä tms. nopeasti)
+čođđulit	V	saada nopeasti jääkuori alijäähtyneestä sateesta
+čogadit	V	teroitella (kärkeä)
+čogastit	V	teroittaa (vähän)
+coggaladdat	V	panna
+coggaladdat	V	pistää (nopeasti, usein t. useita esineitä
+coggaladdat	V	pukea päälleen
+coggaladdat	V	ylleen (nopeasti, usein)
+coggalastit	V	pujauttaa
+coggalastit	V	sujauttaa
+coggalit	V	panna
+coggalit	V	pistää (nopeasti)
+coggalit	V	tuikata
+coggalit	V	pukea nopeasti ylleen
+coggalit	V	pistäytyä
+čohkánaddat	V	istuutua (monista)
+čohkkádit	V	istuskella
+čohkkáhit	V	"	istuttaa"
+čohkkáhit	V	pitää istumassa
+čohkkedeastit	V	istahtaa (hetkeksi)
+čohkkehit	V	saada tai panna kokoamaan
+čohkkehit	V	panna istumaan
+čohkkehit	V	saada istuutumaan
+čohkkestallat	V	kokoilla
+čohkkestit	V	koota (nopeasti)
+čohkkestit	V	kerätä (nopeasti)
+čohkulit	V	kammata
+čohkulit	V	sukia (nopeasti t. vähän)
+cokkadit	V	paneskella
+cokkadit	V	pistellä
+cokkadit	V	pukea päälleen (usein t. useita vaatekappaleita)
+cokkadit	V	selvitellä (vyyhtiä, sykkyrää)
+čolggahallat	V	joutua syljetyksi
+čolggahallat	V	saada sylkeä päälleen
+čolggahallat	V	löytyä (piilosilla olossa)
+čorgehit	V	panna t. saada siistimään
+čorgehit	V	laittaa siivoamaan
+čorgehit	V	panna t. saada huolehtimaan
+čorgehit	V	laittaa huoltamaan
+čorgestit	V	siivostella tai siivoilla
+čorpmadit	V	lyödä (nyrkillä, usein)
+čorpmadit	V	hakata (nyrkeillä)
+čorpmadit	V	hakata, lyödä (toisiaan nyrkeillä)
+čorpmahallat	V	joutua (jkn nyrkein) hakkaamaksi
+čorpmahallat	V	saada nyrkinisku (jklta)
+čuggestallat	V	pistellä
+čuggestit	V	pistää (äkkiä)
+čuggestit	V	nokkaista
+čukkodit	V	pistää itseään
+čukkodit	V	pistellä (pitkään)
+čukkohallat	V	joutua (jkun) pistelemäksi
+cummástallat	V	suudella
+cummástallat	V	suukotella
+cummestit	V	suudella (kerran)
+cummestit	V	antaa suukko
+čuodjalit	V	"	soinnahtaa"
+čuodjalit	V	soida (äkkiä)
+čuodjalit	V	helähtää
+čuogastuvvat	V	ruveta latkimaan
+čuogastuvvat	V	haluta latkia
+čuoggulit	V	pistellä (nopeasti)
+čuohcalit	V	(useista kaloista:) tarttua verkkoon
+čuohpadit	V	leikata
+čuohpadit	V	viiltää (itseään)
+čuohpadit	V	satuttaa itseään (teräaseella)
+čuohpadit	V	leikellä
+čuohpadit	V	tehdä leikkaus
+čuohpadit	V	kaadella (puita)
+čuohpastit	V	leikata (kerran)
+čuoibmuladdat	V	sauvoa (tarmokkaasti)
+čuoibmulit	V	sauvoa (nopeasti)
+čuoibmulit	V	lähteä sauvomaan
+čuoiggastit	V	hiihtää (lyhyen matkaa)
+čuojadit	V	soida (kauan)
+čuojahallat	V	soitella
+čuoladit	V	hakata (kauan)
+čuoladit	V	iskeä
+čuoladit	V	lyödä (itseään, esim. kirveellä)
+čuolastit	V	iskeä (esim. kirveellä)
+čuolastit	V	lyödä (hakatessa)
+čuolddáhallat	V	joutua erilleen
+čuolddáhallat	V	joutua torjutuksi, käännytetyksi (rippikoululaisten konfirmaatiosta)
+čuoldilit	V	erottaa (muista, nopeasti)
+čuoldilit	V	kutoa koristenauhaa (nopeasti)
+čuorvuladdat	V	huudella (tarmokkaasti)
+čuoskulit	V	ruveta ryntäilemään
+čuoskulit	V	säntäilemään
+čuovggáhallat	V	välähdellä
+čuovggáhallat	V	välkähdellä
+čuožžáladdat	V	nousta seisomaan (toinen toisensa perään)
+cuskilit	V	tuhahtaa
+cuskilit	V	tuhahtaa (esim. hämmästyneenä)
+cuskkestit	V	tuhahtaa
+cuskkestit	V	tuhauttaa
+čuskkodit	V	kilostella
+čuskkodit	V	ryntäillä
+čuskkodit	V	säntäillä
+cuvccastit	V	tarinoida
+cuvkehit	V	rikottaa
+cuvkehit	V	särjettää
+cuvkehit	V	soveltua rikottavaksi
+cuvkehit	V	särjettäväksi
+cuvkkodit	V	särkeä
+cuvkkodit	V	rikkoa (usein tai useita esineitä)
+dadjalastit	V	sanoa
+dadjalastit	V	virkkaa (lyhyesti)
+dadjalastit	V	tokaista
+dagadit	V	olla tekevinään
+dagadit	V	naida
+dagadit	V	olla sukupuoliyhteydessä keskenään
+dagahallat	V	yrittää saada jk jhk
+dagahallat	V	(+ ill.) joutua jnk naimaksi (vulg.)
+dahkalit	V	tekaista
+dáhpehallat	V	hävitä (kilpailussa)
+dáhpehallat	V	kärsiä tappio
+dáhppohallat	V	hävitä (ottelussa)
+dáhtostuvvat	V	tahtoa
+dáhtostuvvat	V	haluta pyytää (vaivoin)
+dajadit	V	lausua
+dajadit	V	lukea (esim.uskontunnustus, runo)
+dajadit	V	laususkella
+dálledit	V	pengoskella (tavaroita tms)
+dálledit	V	pöyhiskellä (erit. kenkäheiniä tai villoja)
+dámadit	V	kesytellä
+dámadit	V	kesyttää (pitkään)
+dámadit	V	taamoskella
+dánccadit	V	poljeskella (jalkaa)
+dánccadit	V	tömistellä (jalkojaan)
+dánccastit	V	polkaista (jalkaa)
+dánccastit	V	tömähdyttää (jalkojaan)
+dánsestallat	V	tanssahdella
+dárkkodit	V	tarkastella
+darvánaddat	V	tartuskella
+darvánaddat	V	juutuskella
+dássádaddat	V	rinnastaa
+dássádallat	V	rinnastaa (jotakin johonkin)
+dássádallat	V	tasapainoilla
+dassalit	V	kohentaa (tulta, nopeasti)
+dassalit	V	tuupata (nopeasti)
+deaivvahaddat	V	saada osuma
+deaivvahaddat	V	(+kom) tapailla (jotakuta)
+deaivvahaddat	V	(+ill.) osua johonkin
+deaivvahallat	V	saada osuma
+deaivvahallat	V	(+kom) tapailla (jotakuta)
+deaivvahallat	V	(+ill.) osua johonkin
+deampulit	V	lähteä lampsimaan
+dearpalit	V	huitaista
+dearpalit	V	iskeä
+dearpalit	V	kolkata
+dearppastit	V	kopauttaa
+dearvvahaddat	V	(toistensa) tervehtiminen
+dearvvahaddat	V	(useiden) tervehtiminen
+deattihit	V	painattaa
+deattihit	V	antaa painaa
+deattihit	V	antaa pitää allaan
+deattihit	V	lähteä painaltamaan
+deavddihit	V	täytättää
+deddohallat	V	nähdä painajaisia
+devččodit	V	likistellä
+devččodit	V	puristella (kokoon, yhteen)
+devččodit	V	rusennella
+devdohallat	V	tulla täyteen vettä (esim. vene koskessa)
+devdohallat	V	saada vene täyteen vettä (ja joutua veden varaan)
+digaštaddat	V	tivailla
+digaštaddat	V	kinastella
+digaštaddat	V	kiistellä (keskustelussa)
+dihkkedit	V	etsiä täitä (esim. päästä, pitkään)
+dihkkedit	V	täidellä (itseään)
+dihkkedit	V	etsiä täitä itsestään
+dihtoštallat	V	tiedustella
+diiddastallat	V	harjoittaa noituutta
+diiddastallat	V	tehdä taikoja
+diládit	V	tilata (nopeasti)
+divustit	V	korjata (vähän tai nopeasti)
+divustit	V	korjailla
+divustit	V	järjestellä, asetella (nopeasti)
+doadjilit	V	taittaa
+doadjilit	V	katkaista (nopeasti)
+doahpulit	V	nappailla
+doahpulit	V	sieppailla
+doahpulit	V	napsia
+doahpulit	V	näpsiä (nopeasti)
+doajestit	V	taittaa
+doajestit	V	katkaista (nopeasti)
+doaladit	V	pidätellä
+doaladit	V	pidellä
+doaladit	V	pitää hallussaan
+doalahaddat	V	pidätellä
+doalahaddat	V	pidätellä tai hillitä (es. tunteitaan)
+doalahaddat	V	(+ill) joutua jnk pidättämäksi
+doalahaddat	V	viivyttämäksi
+doalahaddat	V	pysytellä (jonakin tai erillään)
+doalahallat	V	pidätellä
+doalahallat	V	pidätellä tai hillitä (es. tunteitaan)
+doalahallat	V	(+ill) joutua jnk pidättämäksi
+doalahallat	V	viivyttämäksi
+doalahallat	V	pysytellä (jonakin tai erillään)
+doalvulit	V	viedä (johonkin nopeasti)
+doamahallat	V	kiiruhtaa
+doamahallat	V	rientää (sinne tänne)
+doarrádallat	V	ahdistella
+doarrádallat	V	ajaa takaa (jatkuvasti)
+doarrádallat	V	vainota
+dobadit	V	ryvettyä
+dobadit	V	ryvettää
+dobadit	V	sotkea itsensä
+doddjostaddat	V	taituskella
+doddjostaddat	V	taittuilla
+doddjostaddat	V	lohkeilla
+doddjostallat	V	taituskella
+doddjostallat	V	taittuilla
+doddjostallat	V	lohkeilla
+dohkkestuvvat	V	ruveta kelpaamaan
+dohkkestuvvat	V	(ei) tahtoa kelvata
+dohppehallat	V	joutua jnk nappaamaksi
+dohppehallat	V	joutua jnk sieppaamaksi
+dohppehallat	V	saada (taudin)kohtaus
+dohppehit	V	saada (kala) nappaamaan
+dohppehit	V	saada tärppi
+dohppehit	V	tartuttaa (kala)
+dohppestallat	V	nappailla
+dohppestallat	V	sieppailla (vähän tai nopeasti)
+dohppestallat	V	napsia
+doiddestit	V	huuhtaista (vähän)
+doidilit	V	huuhtaista
+doivvodit	V	toivoa (pitkään)
+doivvodit	V	toivotella
+doivvodit	V	elätellä toivoa
+dollehit	V	lähteä (ajamaan, ajelemaan)
+dolvvodit	V	kuljetella (sinne tänne tai jatkuvasti)
+dolvvodit	V	viedä (usein t. useita)
+dolvvodit	V	käyttää (jtak jssak)
+dolvvohallat	V	kuljetella (sinne tänne tai jatkuvasti)
+dolvvohallat	V	vietellä
+dolvvohallat	V	johtaa harhaan
+dolvvohallat	V	joutua viedyksi tai jnk viemäksi
+dorjestit	V	ottaa tukea (nopeasti)
+dorjjodit	V	tukea (usein)
+dorjjodit	V	tukeutua (jatkuvasti jhk)
+dorjjodit	V	ottaa (jatkuvasti) tukea (jstak)
+dorodit	V	tapella (jatkuvasti)
+dorodit	V	nahistella
+dorodit	V	puskea (vähin erin)
+dorodit	V	puskea toisiaan
+dorohallat	V	joutua jnk puskemaksi
+doškestit	V	läimäyttää
+doškestit	V	läpsäyttää
+doškestit	V	lämäyttää (äkkiä)
+doškkodit	V	läimäytellä
+doškkodit	V	lätkiä
+doškkodit	V	läpsytellä
+doškkohallat	V	joutua jnk läimäyttämäksi
+doškkohallat	V	joutua jnk läpsäyttämäksi
+dovdáhit	V	opettaa tuntemaan
+dovdáhit	V	opettaa tunnistamaan
+dovdáhit	V	opettaa määrittämään
+dubmehaddat	V	tulla tai joutua tuomituksi
+dubmehaddat	V	joutua jkun tuomitsemaksi
+dubmehallat	V	tulla tai joutua tuomituksi
+dubmehallat	V	joutua jkun tuomitsemaksi
+duddjostallat	V	tehdä käsitöitä (vähin erin)
+duhkoštallat	V	tukistaa
+duhkoštallat	V	retuutella
+duhkuštallat	V	tukistaa
+duhkuštallat	V	retuutella
+duhppestit	V	vaivata (taikinaa nopeasti)
+duhppestit	V	alustaa (taikinaa nopeasti)
+duhppestit	V	työntää (johonkin äkkiä)
+dulbestit	V	tasoittaa (päältä, nopeasti)
+dulbestit	V	jyrätä (päältä, nopeasti)
+dulbestit	V	latistaa
+duldehastit	V	kiehauttaa
+duldehit	V	kiehauttaa
+dulmmohaddat	V	(+ill.) joutua (jkun) polkemaksi
+dulmmohaddat	V	jäädä (jkun) jalkoihin
+dulmmohallat	V	(+ill.) joutua (jkun) polkemaksi
+dulmmohallat	V	jäädä (jkun) jalkoihin
+dulvvastit	V	tulvia vähän
+dulvvastit	V	ruveta tulvimaan
+duobadit	V	lappaa (köyttä sisään, jatkuvasti)
+duobadit	V	kelata, haalata (edestakaisin)
+duobahallat	V	tulla lapetuksi (sisään; köysi)
+duobahallat	V	menettää etumatkansa
+duobahallat	V	joutua (juostessa jkun) tavoittamaksi
+duođaštallat	V	todistella (oikeaksi)
+duohpalit	V	kiskoa
+duohpalit	V	lappaa (köyttä sisään, nopeasti)
+duohpalit	V	vetää itseään (köyttä tms myöten nopeasti)
+duohtadallat	V	kajota t. koskea (usein johonkin t. useaan esineeseen tms.)
+duohtadallat	V	peukaloida t. sormeilla (usein jtkn t. useaa esinettä tms.)
+duokŋadit	V	paikkailla (esim. vaatetta)
+duolbmalit	V	polkea t. tallata (nopeasti)
+duolbmalit	V	lähteä polkemaan t. tallaamaan
+duolbmalit	V	lähteä ajamaan (polkupyörällä)
+duolbmalit	V	painaltaa
+duolbmalit	V	lähteä painaltamaan
+duoldalit	V	kiehahtaa
+duoldalit	V	kuohahtaa
+duolddadit	V	kiehua (hiljakseen)
+duolmmadit	V	poljeskella
+duolmmadit	V	tarpoa
+duolmmadit	V	tallata (jaloilla)
+duolmmadit	V	käväistä jssakn polkupyörällä ajaen
+duolmmahaddat	V	joutua jkun jalkoihin
+duolmmahaddat	V	joutua jkun polkemaksi tai tallaamaksi
+duolmmahallat	V	joutua jkun jalkoihin
+duolmmahallat	V	joutua jkun polkemaksi tai tallaamaksi
+duolmmastit	V	polkaista
+duolmmastit	V	tallata
+duoradit	V	niittailla
+duoradit	V	poimutella (vaatetta, kangasta)
+duosttastuvvat	V	ruveta uskaltamaan
+duosttastuvvat	V	uskaltautua
+duottostuvvat	V	ruveta sietämään
+duottostuvvat	V	tahtoa sietää
+duottostuvvat	V	ruveta uskaltamaan
+duottostuvvat	V	uskaltautua
+duššastuvvat	V	menehtyä (melkein)
+duššastuvvat	V	ruveta menehtymään
+dusttodit	V	ottaa vastaan (epäystävällisesti, usein t. useita)
+dusttodit	V	torjua
+dusttohallat	V	joutua piiritetyksi
+dusttohallat	V	joutua torjutuksi
+dutkkadit	V	tutkiskella
+dutkkadit	V	kuulustella
+duvdilit	V	tuupata
+duvdilit	V	pukata
+duvdilit	V	sysätä (nopeasti)
+duvdilit	V	tukea (vähän)
+eahpádallat	V	epäillä
+eahpádallat	V	epäröidä (jnk verran)
+eahpelihkostuvvat	V	epäonnistua
+eaiggádastit	V	esiintyä jnk haltijana
+eaiggádastit	V	esiintyä jnk omistajana
+ealáhallat	V	elätellä
+ealáhallat	V	eleskellä
+ealláhit	V	elvyttää
+ealláhit	V	virvoittaa
+earuhallat	V	erotella (kunnolla)
+eastalit	V	estellä
+easttadit	V	estellä
+erohallat	V	erotella
+evttohaddat	V	ehdotella
+evttohallat	V	ehdotella
+fággádallat	V	painiskella
+fággádallat	V	kamppailla
+fáhtehaddat	V	joutua kiinni
+fáhtehaddat	V	jäädä kiinni
+fáhtehaddat	V	joutua (jnk kynsiin, yllättämäksi)
+fáhtehallat	V	joutua kiinni
+fáhtehallat	V	jäädä kiinni
+fáhtehallat	V	joutua (jnk kynsiin, yllättämäksi)
+fáktestallat	V	vilkuilla (tarkkaillen)
+fállalit	V	tarjota (nopeasti, äkkiä)
+fanadit	V	venyä (erisuuntiin tai jatkuvasti)
+fanadit	V	venyskellä
+fanadit	V	loikoilla
+fanadit	V	vetelehtiä
+fanadit	V	lojua (pitkin pituuttaan)
+fanahallat	V	venytellä
+fanahallat	V	pitkitellä
+fanahallat	V	kiskotella
+fanahallat	V	venytellä (itseään)
+fárrehit	V	panna muuttamaan
+fárrehit	V	auttaa muutossa
+fárrehit	V	auttaa muuttamaan
+fárrestaddat	V	muuttaa (asuinpaikkaa; useista)
+fárrestaddat	V	valmistautua muuttamaan
+fárrestaddat	V	aikoa muuttaa (asuinpaikkaa)
+fárrestallat	V	muuttaa (asuinpaikkaa; useista)
+fárrestallat	V	valmistautua muuttamaan
+fárrestallat	V	aikoa muuttaa (asuinpaikkaa)
+fárrestit	V	muuttaa (asuinpaikkaa, nopeasti t. vaivattomasti)
+fáškasaddat	V	hyöriä
+faskulit	V	kaapia
+faskulit	V	raapia (nopeasti)
+fatnalit	V	venähtää
+fatnalit	V	revähtää (kudoksesta)
+fidnehit	V	saada (jkin jhnkin mukaan)
+fidnehit	V	saada (joku tekemään jtkn)
+fieradit	V	heittelehtiä
+fieradit	V	kieriskellä
+fieradit	V	olla heitteillä
+fieradit	V	kulkeilla
+fierahallat	V	pyöritellä(es. hirsiä johonkin)
+fierpmástallat	V	verkostella
+fierpmástallat	V	pyytää verkolla
+fierralit	V	vierähtää
+fierralit	V	kierähtää
+fierralit	V	pudota (reunan yli)
+fievrrádallat	V	kuljetella
+fiinnohallat	V	hienostella
+fiinnohallat	V	keikailla
+fiinnohallat	V	olla hienotunteinen
+fiinnohallat	V	huomaavainen
+fillehaddat	V	joutua jkn viekoittelemaksi
+fillehaddat	V	joutua jkn villitsemäksi
+fillehaddat	V	joutua jkn viettelemäksi
+fillehallat	V	joutua jkn viekoittelemaksi
+fillehallat	V	joutua jkn villitsemäksi
+fillehallat	V	joutua jkn viettelemäksi
+fillestit	V	narrata t. puijata (vähän tai äkkiä)
+fillestit	V	viekoitella, villitä, vietellä (vähän tai äkkiä)
+firodit	V	hämmennellä
+firodit	V	sekoitella
+firodit	V	vatkailla
+firrehaddat	V	kieriskellä
+firrehaddat	V	kääntyillä
+firrehaddat	V	piehtaroida
+firrehallat	V	kieriskellä
+firrehallat	V	kääntyillä
+firrehallat	V	piehtaroida
+fiskkáhallat	V	liikkua (sinne tänne) keltaisena
+fuoladit	V	vuoleskella
+furkkodit	V	talletella
+gaccodit	V	kynsiä
+gaccodit	V	raapia (toisiaan)
+gaccohaddat	V	joutua raavituksi
+gahčadit	V	putoilla
+gahčadit	V	kaatuilla
+gahčadit	V	lysähdellä
+gahčadit	V	pyörtyillä
+gahčadit	V	pudottaa
+gahčalit	V	kysäistä
+gaikkodit	V	raadella
+gaikkodit	V	raastaa
+gaikkodit	V	repiä (hajalle, rikki)
+gaikkodit	V	tempoa
+gaikkodit	V	nykiä
+gaikodit	V	repeillä
+gaikodit	V	repeytyä (monesta kohtaa tai monesta esineestä)
+gaikodit	V	lohkeilla (esim. kirveen, puukon terä)
+gáimmadit	V	kaveerata
+gáimmadit	V	viihtyä yhdessä
+gakculit	V	lähteä kapuamaan
+gakculit	V	lähteä kiipeämään
+gakculit	V	lähteä kipuamaan
+gákkastit	V	väännähyttää
+gákkastit	V	väännältää (ylös)
+gákkastit	V	suistaa (sijaltaan)
+gákkastit	V	hankkia, ostaa (jtak näennäisen helposti)
+gákkastit	V	alkaa etoa
+gákkastit	V	kuvottaa
+galbmodit	V	palelluttaa (ihminen, eläin)
+gálgalit	V	irroittaa
+gálgalit	V	päästää (nopeasti)
+gálggadit	V	selvitellä
+gálggadit	V	irrotella
+galkkadit	V	kimmahdella
+galkkadit	V	kimpoilla
+galkkadit	V	ponnahdella
+galkkadit	V	poukkoilla
+galkkadit	V	töyssyillä
+gallehit	V	ravita (joku) kylläiseksi
+gallehit	V	tyydyttää
+gallehit	V	olla täyttävää (ruoasta)
+gallehit	V	tehdä kylläiseksi
+garadit	V	koveta
+garadit	V	kovettua (vähin erin)
+garadit	V	kinastella (keskenään)
+garastaddat	V	tuntua kovalta
+garastaddat	V	kovistella (jkta)
+garastaddat	V	komennella (kovalla äänellä)
+garastallat	V	tuntua kovalta
+garastallat	V	kovistella (jkta)
+garastallat	V	komennella (kovalla äänellä)
+gárastit	V	kaaristaa
+gárastit	V	sitoa (kuorma tms.)
+garcestit	V	sitaista
+garcestit	V	kietaista (jhnkn kiinni nopeasti)
+gárddodit	V	ansoa
+gárddodit	V	pyytää ansalla (pitkään tai vähin erin)
+gárgedit	V	kehittää
+gárgehit	V	kehittää
+garggistit	V	kipinöidä
+garggistit	V	kipunoida
+garggistit	V	säkenöidä
+gárostuvvat	V	saada (tehdyksi jtak)
+gárostuvvat	V	kehdata (tehdä jtak)
+garrodallat	V	kiroilla
+garrudallat	V	kiroilla
+garrudallat	V	kirota
+garrudallat	V	manata
+garrudallat	V	noitua (kovasti)
+garrudastit	V	kiroilla
+garrudastit	V	kirota
+garrudastit	V	manata
+garrudastit	V	noitua (vähän t. nopeasti)
+garvvihit	V	ajaa kiertäen (väistäen)
+garvvihit	V	väistää (ajaessa)
+gáskkáhallat	V	joutua jnk puremaksi
+gáskkáhallat	V	puretella
+gáskkistit	V	puraista
+gáskkistit	V	haukata
+gávastallat	V	haukotella
+gávččastit	V	peittää (nopeasti tai vähän)
+gavccodit	V	kiipeillä
+gavihit	V	kiskottaa
+gavihit	V	nypittää
+gavihit	V	pälkähtää
+gavistit	V	kiskaista (irti)
+gavistit	V	nykäistä
+gavistit	V	nypätä
+gávnnadit	V	tavata
+gávnnadit	V	löytää (useita esineitä tai usein)
+gávnnadit	V	kohdata
+gávnnahaddat	V	paljastua
+gávnnahaddat	V	 joutua ilmi
+gávnnahaddat	V	 joutua yllätetyksi
+gávnnahaddat	V	 jäädä kiinni
+gávnnahaddat	V	palaa (esim. rikoksesta)
+gávnnahallat	V	paljastua
+gávnnahallat	V	 joutua ilmi
+gávnnahallat	V	 joutua yllätetyksi
+gávnnahallat	V	 jäädä kiinni
+gávnnahallat	V	palaa (esim. rikoksesta)
+geahcalit	V	sonnustautua (nopeasti)
+geahcalit	V	pinnistää (tekemään jtak)
+geahcalit	V	koota rohkeutensa (ja tehdä jtak tai jtak varten)
+geahčastaddat	V	katsahdella
+geahčastaddat	V	silmäillä
+geahčastaddat	V	katsella
+geahčastaddat	V	tähyillä
+geahčastaddat	V	puolailla (lankaa käpyyn)
+geahčastallat	V	katsahdella
+geahčastallat	V	silmäillä
+geahčastallat	V	katsella
+geahčastallat	V	tähyillä
+geahpadallat	V	puolailla (lankaa käpyyn)
+gearadit	V	lainehtia (rantaan, jatkuvasti)
+gearadit	V	(aalloista:) lyödä (jatkuvasti)
+gearahallat	V	ajautua
+gearahallat	V	huuhtoutua rannalle (aaltojen mukana)
+geasáhallat	V	vedätellä
+geasáhallat	V	ajella jtak tai jkuta ympäriinsä
+geasáhallat	V	joutua jnk t. jkn vetämäksi
+geasihit	V	vedättää
+geasihit	V	panna vetämään
+geasihit	V	soveltua tai kelvata vedettäväksi
+geasihit	V	puhua hitaasti
+geažádallat	V	vihjailla
+geažidastit	V	vihjaista
+gergehit	V	ehdityttää
+gergehit	V	saattaa valmiiksi
+gevrehallat	V	joutua jonkun häätämäksi
+gevrehallat	V	joutua jonkun komentamana jhnkin
+gieimmastuvvat	V	lemmistyä
+gieimmastuvvat	V	haluta paritella
+gieimmastuvvat	V	ruveta parittelemaan (eläimistä)
+gielástallat	V	valehdella
+gielddihit	V	kiellättää
+gielddihit	V	panna kieltämään
+gielddihit	V	kiellellä (painokkaasti)
+gierddahallat	V	sinnitellä
+gierddahallat	V	pinnistellä
+gierddahallat	V	ponnistella
+gierddastuvvat	V	kyetä sietämään
+gierddastuvvat	V	sietää vaivoin
+giessasaddat	V	kiemurrella
+giessasaddat	V	luikerrella
+giessasaddat	V	käpristyä
+giinnahallat	V	sinnitellä
+giinnahallat	V	yrittää selviytyä
+giinnahallat	V	kitkutella
+giinnahallat	V	elää kituutella (erit. kitsaasta ihmisestä)
+gilgedit	V	makailla kyljellään
+gilgedit	V	syrjätä
+gillestuvvat	V	viitsiä vaivoin
+gillestuvvat	V	ruveta viitsimään
+gilvvohaddat	V	kilpailla
+gilvvohaddat	V	otella
+gilvvohaddat	V	kilvoitella
+gimastuvvat	V	(lehmästä, lampaasta, vuohesta:) härkiä
+gimastuvvat	V	haluta paritella
+girddáhallat	V	lennätellä
+girddáhallat	V	ajaa takaa (sinne tänne juosten t. ajaen)
+girddáhallat	V	ajella (vauhdilla sinne tänne)
+gizzulit	V	lähteä kapuamaan
+gizzulit	V	kiipeämään
+goaivuladdat	V	kaivella
+goaivuladdat	V	ammentaa (tarmokkaasti)
+goaivuladdat	V	kauhoa (tarmokkaasti)
+goalŋŋadit	V	vastailla (tokan reunaa paimennettaessa)
+goantulit	V	lähteä köntystämään
+goantulit	V	köpöttämään
+goarbmulit	V	kapsahtaa
+goarbmulit	V	kavuta
+goarbmulit	V	kiivetä (nopeasti)
+goarddestit	V	paahtaa (vähän t. nopeasti)
+goarddestit	V	ampua
+goarddestit	V	posauttaa
+goardilit	V	paahtaa (nopeasti)
+goargŋulit	V	kiivetä
+goargŋulit	V	kavuta (nopeasti)
+goargŋulit	V	sauvoa (nopeasti)
+goargŋulit	V	lähteä sauvomaan
+goazastit	V	jarruttaa (äkkiä)
+gohčohaddat	V	saada käsky jhk tai tekemään jtak
+gohčohaddat	V	saada kutsu jhk
+gohčohaddat	V	tulla kutsutuksi jhk
+gohčohallat	V	saada käsky jhk tai tekemään jtak
+gohčohallat	V	saada kutsu jhk
+gohčohallat	V	tulla kutsutuksi jhk
+goivvodit	V	ammennella
+goivvodit	V	kauhoa (nestettä)
+goivvodit	V	kaivella
+golahallat	V	kuluttaa
+golahallat	V	kulutella (esim. aikaa)
+golggadit	V	virtailla
+golggadit	V	kuljeskella
+golggadit	V	vaellella
+golggadit	V	soljua
+golggadit	V	juosta (pitkään, nesteestä)
+golggahallat	V	kuljetella (jtkn)
+golggahallat	V	uitella tukkeja
+gollehit	V	kullata
+gollehit	V	kultauttaa
+gopmárdaddat	V	kumarrella
+gopmárdaddat	V	palvoa
+gopmárdallat	V	kumarrella
+gopmárdallat	V	palvoa
+gopmirdastit	V	kumartaa (nopeasti)
+gopmirdastit	V	nyökätä
+gorggohallat	V	kopeilla
+gorggohallat	V	mahtailla
+gorggohallat	V	pöyhkeillä
+gorgŋehit	V	kuljettaa sauvomalla
+gorgŋestit	V	kiivetä (äkkiä, nopeasti)
+gorodit	V	ommella (pitkään)
+gorodit	V	neuloskella
+gorpmodit	V	kiipeillä
+gorpmodit	V	sauvoskella
+gosadit	V	yskiä
+gosadit	V	köhiä
+gottáhallat	V	joutua jnk tappamaksi
+gottihit	V	tapattaa
+gottihit	V	antaa kalvaa
+gottihit	V	kalvattaa
+govddodit	V	kelluskella
+guččastit	V	kusaista
+guččastit	V	lirauttaa (vähän)
+guččastit	V	pissata
+guččastit	V	virtsata (vähän t. nopeasti)
+gulahaddat	V	voida kuulla toisiaan (etäisyydestä huolimatta)
+gulahaddat	V	ymmärtää toisiaan
+gulahaddat	V	saada selvää toistensa puheesta
+gulahaddat	V	keskustella
+gulahaddat	V	viestiä
+gulahaddat	V	kuulla toisiltaan
+gulastit	V	kuulla (äkkiä tai vähän)
+gulastuvvat	V	tahtoa kuulla
+gulastuvvat	V	alkaa kuulemaan
+guldalastit	V	koettaa (kädellä)
+gullostallat	V	kuulua (vähän silloin tällöin)
+gullostit	V	kuulua (vähän tai hetken)
+gullostit	V	tuntua (kehossa, vähän tai hetken)
+guođahaddat	V	yrittää jättää (jäljelle jkta varten, esim. jaettavia tavaroita)
+guođahaddat	V	joutua jnk jättämäksi
+guođahaddat	V	tulla jätetyksi
+guođahallat	V	yrittää jättää (jäljelle jkta varten, esim. jaettavia tavaroita)
+guođáhallat	V	joutua jnk jättämäksi
+guođáhallat	V	tulla jätetyksi
+guođđilit	V	jättää (nopeasti t. äkkiä)
+guođihit	V	panna t. saada jättämään
+guođihit	V	jätättää
+guođostuvvat	V	haluta laiduntaa
+guođostuvvat	V	syödä
+guođostuvvat	V	laiduntaa
+guođostuvvat	V	syödä vaivoin (laitumella)
+guolástallat	V	kalastella
+guoradit	V	seurailla (esim. polkua, puroa)
+guoradit	V	myötäillä (mielipidettä tms)
+guoradit	V	myödätä
+guorastit	V	lähteä seuraamaan (polkua)
+guorastit	V	alkaa jäljittää
+guorastit	V	vainuta (koirasta)
+guosadit	V	kompastella
+guoskkahallat	V	kosketella
+guoskkahallat	V	sormeilla
+guossalit	V	kompastua
+guottihit	V	kannattaa
+guottihit	V	panna kantamaan
+guottihit	V	pitää kantamassa
+guottihit	V	hyödyttää
+guottihit	V	puoltaa
+guovlladit	V	kurkistella
+guovlladit	V	kurkkia
+guovlladit	V	silmäillä
+guovlladit	V	tirkistellä
+guovlladit	V	kurkata
+guovlladit	V	pistäytyä
+guovlladit	V	käväistä
+guovlladit	V	pilkahtaa
+guovlladit	V	pilkistää
+gurrehallat	V	tyhjennyttää (monta kertaa)
+gurrehallat	V	väsyttää (kalaa)
+gurrehit	V	tyhjennyttää
+gurrehit	V	pidättää
+gurrehit	V	jarruttaa
+gurrestit	V	tyhjentää (nopeasti)
+gussostaddat	V	kestitä (usein)
+gussostaddat	V	olla (jkn luona) vieraana
+gussostaddat	V	vieraisilla (monessa paikassa t. pitkään)
+gussostaddat	V	vierailla
+gussostallat	V	kestitä (usein)
+gussostallat	V	olla (jkn luona) vieraana
+gussostallat	V	vieraisilla (monessa paikassa t. pitkään)
+gussostallat	V	vierailla
+gustohit	V	soveltaa
+háhkásaddat	V	jumittua
+háhkásaddat	V	juuttua (monta kertaa)
+haksilit	V	haistaa (nopeasti)
+haksilit	V	nuuhkaista
+haksostit	V	tuoksahtaa
+haksostit	V	haiskahtaa
+háladit	V	keskustella
+háladit	V	puhella
+hárddáhallat	V	kiusoitella
+hárddáhallat	V	härnäillä
+hárjehaddat	V	harjoitella
+hávddodit	V	hautoa (pitkään, hauteella tms)
+hávskkohallat	V	pitää hauskaa
+hávskkohallat	V	huvitella
+havssestit	V	nuuhkaista
+heaŋgáhit	V	riiputtaa
+hehppehit	V	saada häpeämään
+hehppehit	V	hävetyttää
+heillodit	V	heilahdella
+heillodit	V	keinahdella
+heivedit	V	sopia yhteen
+heivedit	V	sopia toisilleen
+heivehaddat	V	sovitella
+heivehaddat	V	valmistautua
+heivehaddat	V	kokeilla
+heivehaddat	V	säännöstellä
+heivehallat	V	sovitella
+heivehallat	V	valmistautua
+heivehallat	V	kokeilla
+heivehallat	V	säännöstellä
+heŋgostit	V	ripustautua
+hilggodit	V	hyljeksiä
+hilggodit	V	hylkiä
+hilggodit	V	karttaa
+himáhaddat	V	hymähdellä
+himáhaddat	V	hihitellä
+himáhallat	V	hymähdellä
+himáhallat	V	hihitellä
+hivvehallat	V	kaavailla
+hoahkalit	V	hokaista
+hoaladit	V	keskustella
+hohkahallat	V	houkutella
+hohkahallat	V	joutua houkutelluksi tekemään jotakin
+hohpohaddat	V	hoputella
+hohpohaddat	V	hoppuilla
+hohpohallat	V	hoputella
+hohpohallat	V	hoppuilla
+hoiggadit	V	lykkiä
+hoiggadit	V	työnnellä
+hoiggadit	V	tyrkkiä
+hoiggadit	V	töniä (toisiaan)
+huksehit	V	rakennuttaa
+huksestallat	V	rakennella
+humahallat	V	puhutella
+humahallat	V	taivutella (puhumalla)
+huškkohaddat	V	pieksätellä
+huškkohaddat	V	(+ill) joutua piestyksi
+huškkohaddat	V	joutua (jkn) pieksämäksi
+huškkohallat	V	pieksätellä
+huškkohallat	V	(+ill) joutua piestyksi
+huškkohallat	V	joutua (jkn) pieksämäksi
+iđistit	V	ilmaantua
+iđistit	V	ilmestyä
+iđistit	V	näyttäytyä (nopeasti)
+iđistit	V	tulla tupsahtaa
+ihttohallat	V	joutua lumotuksi
+ihttohallat	V	tulla lumotuksi
+ihttohallat	V	joutua noidutuksi
+ihttohallat	V	taikoa (näkyviin)
+ijastaddat	V	yöpyä
+ijastaddat	V	olla yötä
+ijastaddat	V	yövyskellä
+illudallat	V	iloita
+imaštaddat	V	ihmetellä
+imaštaddat	V	hämmästellä (useaan kertaan tai useaa kohdetta)
+jáhkestuvvat	V	(neg.) tahtoa uskoa
+jáhkestuvvat	V	ruveta uskomaan
+jalahastit	V	tulla pilvetön sää
+jalahastit	V	kirkastua
+jalahastit	V	seestyä (pilvettömäksi; taivaasta)
+jámestit	V	kuolla (äkkiä, ilman tuskia)
+jámestuvvat	V	haluta kuolla
+jámestuvvat	V	tahtoa kuolla
+jámestuvvat	V	olla kuolemaisillaan
+jearadit	V	kysellä (usean kerran)
+jearahaddat	V	haastatella
+jeđđedit	V	lohdututtaa
+jeđđestit	V	lohduttaa (nopeasti)
+jietnadallat	V	äännellä
+jietnadallat	V	sanoa jotain useaan kertaan
+jievžžadit	V	apinoida
+jievžžadit	V	matkia
+jievžžadit	V	toistella (toisen sanomaa)
+jođáhaddat	V	kuljetella
+jođáhaddat	V	ohjailla
+jođáhaddat	V	yrittää saada jotain kaupaksi
+jođáhaddat	V	kaupitella
+jođáhaddat	V	yrittää saada jotain kulumaan (es. päiviä)
+johtáladdat	V	liikkua
+johtáladdat	V	liikuskella
+jolggadit	V	juljeta
+jolggadit	V	kehdata
+jorahaddat	V	pyöritellä
+jorahaddat	V	käännellä (eri suuntiin)
+jorahaddat	V	pyöriä (jonkun luona)
+jorahallat	V	pyöritellä
+jorahallat	V	käännellä (eri suuntiin)
+jorahallat	V	pyöriä (jonkun luona)
+jorgaladdat	V	käännellä
+jorgalastit	V	kääntää (nopeasti)
+jorggáhallat	V	kääntelehtiä
+jorggáhallat	V	kääntyillä
+jorggáhallat	V	pyörähdellä
+jorggohallat	V	käännellä
+jorralit	V	kompastua
+jorralit	V	langeta
+jorralit	V	kaatua
+jorralit	V	pyörähtää
+jovssahallat	V	tulla saavutetuksi
+jovssahallat	V	tavoitetuksi
+jugadit	V	juopotella
+jugahallat	V	tulla juoduksi
+jugahallat	V	juotella
+jugahallat	V	juotella (metallia)
+jugástallat	V	ryypiskellä
+jugástallat	V	ryyppäillä
+jugastuvvat	V	ruveta janoamaan
+jugastuvvat	V	haluta juoda
+jugastuvvat	V	tulla janoiseksi
+juoiggadit	V	joikailla
+juoiggastallat	V	joikailla (silloin tällöin, usein)
+juoŋastit	V	kalastaa verkoilla jään alta
+jusset	V	pieraista
+lábmehit	V	päästää (ruumiinosa) loukkaantumaan
+lábmehit	V	päästää jku vahingoittamaan
+lábmehit	V	antaa jkn vahingoittaa (ruumiinosaansa)
+lađastallat	V	leikellä teuraan ruho nivelten kohdalta sopiviksi palasiksi
+lađastallat	V	jäsennellä
+lađastit	V	katkaista (nivelestä)
+lađastit	V	paloitella (nivelten kohdalta)
+lađastit	V	jäsentää
+lágastallat	V	käräjöidä (silloin tällöin)
+lágastallat	V	käydä oikeutta (silloin tällöin)
+lágastit	V	käydä oikeutta
+lágastit	V	käräjöidä
+lahkonišgoahtit	V	alkaa lähestyä
+láhpáhallat	V	eksyä toisistaan
+láhpáhallat	V	kadottaa toinen toisensa
+láhpáhallat	V	kadottaa yhteys toisiinsa
+láhpihit	V	hukata
+láhpihit	V	panna hukkaamaan
+lahppasaddat	V	haukkoa henkeä
+láhttestit	V	lausahtaa
+láhttestit	V	virkkaa
+láhttestit	V	tokaista
+láidehallat	V	talua
+láidehallat	V	olla talutettavissa
+laiggadit	V	lohkeilla
+lamadit	V	lymyillä
+lanjastit	V	niloittaa (nopeasti)
+lanjastit	V	kiskottaa (päreitä)
+lanjastit	V	kelvata kiskottavaksi (puusta, josta pitäisi kiskoa päreitä)
+lanjastit	V	pujahtaa (esim. tullimiehen ohi)
+lánjodit	V	vesoittua (nuoria koivuja kasvavaksi, vähitellen)
+lapmalit	V	lymytä (nopeasti jhk)
+lasáhallat	V	lisäillä
+lássestit	V	lukita (nopeasti)
+latnjalastit	V	olla limittäin
+latnjalastit	V	limittyä (jonkin kanssa)
+láttadit	V	kypsyä vähitellen (marjat, ajatukset)
+lávddadit	V	laajeta
+lávddadit	V	levitä (vähin erin laajalle)
+lávddadit	V	hajaantua
+lávddadit	V	hajautua (vähin erin laajalle)
+lávggadit	V	sovitella
+lávggadit	V	sovittaa (tiiviisti, useita esineitä)
+lávkkodit	V	astella (tarmokkaasti)
+lávkkodit	V	harppoa
+lávllastit	V	laulaa vähän tai vähän aikaa
+lávllastit	V	"laulaisepas" (kohteliaassa pyynnössä)
+leaikkastaddat	V	laskea leikkiä
+leaikkastaddat	V	pilailla
+leaikkastaddat	V	vitsailla
+leikehit	V	antaa (veneen) ryypätä vettä
+leikkodit	V	kaadella (nestettä)
+leŋgestit	V	valjastaa (nopeasti t. äkkiä)
+liggestit	V	lämmittää (nopeasti)
+liggestit	V	lämmähdyttää
+lihcohallat	V	joutua viralta(pannuksi)
+lihcohallat	V	joutua pois virasta
+lihcohallat	V	 saada potkut
+lihkahaddat	V	liikutella
+lihkahaddat	V	kajota (jhnkin)
+lihkahallat	V	liikutella
+lihkahallat	V	kajota (jhnkin)
+lihkastit	V	liikahtaa
+lihkkohit	V	onnistua saamaan
+lihkkostit	V	onnistua (vähän tai nopeasti)
+lihkkostit	V	onnistaa (vähän tai nopeasti)
+liikodit	V	mieliä
+liikodit	V	haluta
+liikodit	V	pitää (toisistaan)
+liikostallat	V	mielitellä jtak
+liikostallat	V	pitää jstak
+liikostit	V	mieltyä
+liikostit	V	ihastua
+liikostit	V	tykästyä (johonkin)
+liikostuvvat	V	mieltyä (tuskin, vaivoin)
+liikostuvvat	V	ruveta pitämään
+livššadit	V	heilutella (häntäänsä, kättään)
+livžžodit	V	hyöriskellä
+livžžodit	V	hääriä
+livžžodit	V	liekehtiä (revontulet)
+loaččadit	V	löyhtyä
+loaččadit	V	löystyä (usea esine tai vähin erin)
+loaiddastit	V	astua (esiin)
+loaiddastit	V	astua ehtoolliselle
+logahaddat	V	luetella
+logahaddat	V	luettaa
+logahaddat	V	pitää lukemassa
+logahaddat	V	panna lukemaan (monia t. jatkuvasti)
+logahaddat	V	lukea (jokin jonkun) syyksi
+logastit	V	lukaista
+lohkalit	V	lukaista
+lohkalit	V	laskea (nopeasti)
+lohpádaddat	V	lupailla
+lohpádaddat	V	kihlautua (jnkn kanssa)
+lohpádaddat	V	kihlautua (keskenään)
+lohpádaddat	V	mennä (keskenään) kihloihin
+loktestit	V	kohauttaa
+loktestit	V	nostahuttaa
+lonehit	V	lainata
+lonehit	V	ottaa lainaan (jklta jtak hupenevaa)
+lonohaddat	V	vuorotella (esim. töitä tehdessä)
+lonohaddat	V	vaihdella (usein)
+lonohaddat	V	vaihtaa (keskenään)
+loškkistit	V	lotista
+loškkistit	V	pulputtaa
+loškkistit	V	kuplia (muta tms.)
+lovttohallat	V	nostella
+lovttohallat	V	kohotella
+ložžedit	V	löysäillä
+ložžedit	V	löysätä (pitkään tai useita esineitä)
+lubmedit	V	hillailla
+lubmedit	V	hillastella
+luddehit	V	läkähdyttää (ajoporo)
+luddehit	V	ajaa ajoporo (läkähdyksiin)
+luddestit	V	halkaista (nopeasti)
+luoddanaddat	V	halkeilla
+luoikalit	V	lainata
+luoikalit	V	antaa lainaksi (vähäksi aikaa)
+luoikkahaddat	V	lainailla (jklta)
+luoikkahaddat	V	pyydellä lainaan
+luoikkahaddat	V	yrittää lainata
+luoikkahallat	V	lainailla (jklta)
+luoikkahallat	V	pyydellä lainaan
+luoikkahallat	V	yrittää lainata
+luoitilit	V	laskea
+luoitilit	V	päästää (irti, nopeasti)
+luoitilit	V	lähteä ajamaan (täyttä vauhtia)
+luoittihit	V	päästättää
+luoittihit	V	kaahata
+luoittihit	V	päästellä (lujaa)
+luvdestit	V	lakaista (nopeasti tai vähän)
+luvvedit	V	irroittaa (nopeasti tai vähän)
+luvvedit	V	lähteä matkaan (nopeasti)
+luvvedit	V	irroittautua t. "ottaa irti"(lähteä)
+máhcastit	V	taittaa (kaksin kerroin, paperia, kangasta jne.)
+máhcastit	V	laskostaa
+máhcastit	V	poimuttaa
+máhcastit	V	vekittää
+máhttáhit	V	opettaa (jklle jkin)
+máhttáhit	V	opettaa (tuloksellisesti)
+máinnastallat	V	tarinoida
+máinnastallat	V	kertoilla
+máinnodit	V	kehua
+máinnodit	V	kiitellä (pitkään)
+manadit	V	meneskellä
+manadit	V	mennä (yksi toisensa perässä)
+mannalit	V	käväistä
+mannalit	V	mennä (nopeasti, vähän matkaa)
+maŋádallat	V	lykkäillä (myöhemmäksi)
+maŋádallat	V	myöhennellä
+maŋádallat	V	yrittää lykätä myöhemmäksi
+maŋádallat	V	yrittää myöhentää
+masttadit	V	(porotokista:) sekaantua, sekoittua, (vähin erin)
+masttadit	V	mastailla
+masttadit	V	sekaantua, sekoittua toisiinsa
+meidnet	V	aikoa
+meidnet	V	meinata
+meidnet	V	tarkoittaa
+meinnestuvvat	V	menestyä
+melodit	V	meloskella
+menodit	V	arkiintua (kosketukselle, suopungille; poro, hevonen tms.)
+merkehit	V	merkityttää (jotain luetteloon tms)
+merkehit	V	merkityttää (vasoja)
+meroštaddat	V	arvioida
+meroštaddat	V	määritellä
+mieđáhallat	V	myönnellä
+miehkástallat	V	miekkailla
+mievžžastit	V	istahtaa (nojalleen)
+mievžžastit	V	nojautua
+misttahallat	V	vaihtaa (vahingossa, keskenään)
+misttahallat	V	päästää vaihtumaan
+moddjádit	V	hymytä
+moddjádit	V	hymyillä (pitkään tai jatkuvasti)
+moddjestit	V	hymyillä lyhyesti
+mohkkasaddat	V	kääntyillä
+mohkkasaddat	V	koukkailla
+mohkkasaddat	V	kääntyilytyttää
+mokkárdaddat	V	yrittää kiemurrella irti
+mokkárdaddat	V	yrittää luikerrella (irti jstak)
+mokkárdaddat	V	yrittää nulistaa
+mokkárdallat	V	yrittää kiemurrella irti
+mokkárdallat	V	yrittää luikerrella (irti jstak)
+mokkárdallat	V	yrittää nulistaa
+muddehit	V	soveltaa
+muitaladdat	V	kertoilla
+muitaladdat	V	pakinoida
+muittohallat	V	muistutella
+muittohallat	V	terottaa mieleen
+muittuhallat	V	muistutella
+muittuhallat	V	terottaa mieleen
+murdilit	V	perääntyä
+murdilit	V	väistää taaksepäin (nopeasti)
+murjedit	V	marjastella
+murjedit	V	marjailla
+náđodit	V	jurottaa (pitkään)
+náđodit	V	kyyhötellä
+náđustit	V	käpertyä
+náđustit	V	kyykistyä (nopeasti jhonk)
+nahkáhallat	V	pujautella
+nahkáhallat	V	sujautella
+nahkáhallat	V	pukea päälleen (vaate toisensa jälkeen)
+nahkáhallat	V	kokeilla (vaatteita)
+náitaladdat	V	mennä naimisiin (monista ihmisistä)
+náitaladdat	V	mennä naimisiin (keskenään)
+nájadit	V	viillellä
+nájadit	V	leikellä
+nájadit	V	naarmutella
+naladit	V	riisua (housuja vähin erin)
+naladit	V	riisuskella (housuja)
+namahallat	V	nimitellä
+namahallat	V	mainita (moneen otteeseen)
+namahastit	V	mainita ohimennen
+namuhastit	V	mainita ohimennen
+niibbástallat	V	käyttää puukkoa (tappelussa)
+niibbástallat	V	puukotella
+njágadit	V	hiiviskellä
+njágadit	V	liikuskella häpeissään
+njágadit	V	kulkea selkä kyyryssä
+njahkalit	V	kallistua (nopeasti eteen)
+njahkalit	V	kumartua (nopeasti)
+njahkalit	V	(rakennuksesta) painua
+njáhkalit	V	hiipiä (nopeasti)
+njáhkalit	V	lähteä hiipimään
+njáhkalit	V	lähteä hissutellen jhonk
+njalddestit	V	kiskaista (kuori, nahka tms.)
+njalddestit	V	hurauttaa
+njalddestit	V	pinkaista
+njalddistit	V	kiskaista (kuori, nahka tms.)
+njalddistit	V	hurauttaa
+njalddistit	V	pinkaista
+njálggástallat	V	makeilla (jklle)
+njalkkastallat	V	lipsua
+njalkkastallat	V	liukastella
+njalkkastallat	V	luiskahdella
+njalppihit	V	lipsahtaa
+njalppihit	V	luiskahtaa (kädestä, otteesta, vyöstä tms)
+njámastit	V	kahmaista (mukaansa, itselleen)
+njámastit	V	pyyhkäistä (pois)
+njámastit	V	sipaista
+njárbbodit	V	harventua
+njárbbodit	V	laimentua
+njárbbodit	V	ohentua
+njávkkastit	V	silittää (vähän)
+njávkkastit	V	sipaista
+njávkkastit	V	pyyhkäistä
+njávkkastit	V	kaapata
+njávkkastit	V	kopata
+njeaiddihit	V	kaadattaa (jtkn seisovaa, ihmisiä, puita tms)
+njeaiddihit	V	pudotuttaa (jtkn riippuvaa esim hyllyllä olevaa)
+njeaiddihit	V	alennuttaa (hintaa)
+njiejadit	V	käydä (jssak alempana, alamaalla)
+njieladit	V	nieleskellä
+njieladit	V	ahmia
+njieládit	V	nielaista äkkiä
+njieládit	V	ahmaista
+njiellalit	V	nielaista (nopeasti)
+njiellalit	V	ruveta nielemään
+njivžulit	V	leimahtaa (liekkeihin)
+njivžulit	V	pinkaista
+njivžulit	V	lähteä pinkomaan
+njivžžodit	V	säntäillä
+njivžžodit	V	syöksähdellä
+njorostallat	V	heittää (suopunkia, usein)
+njozohallat	V	hidastella
+njozohallat	V	aikailla
+njuikehit	V	hyppäyttää
+njuikehit	V	tavoittaa hyppäämällä
+njuikehit	V	hypätä kimppuun
+njuikehit	V	astua (oriista, sonnista tms.)
+njuikestallat	V	hypähdellä
+njuikestallat	V	hypähdyttää
+njuikestit	V	hypähtää (nopeasti)
+njuikulit	V	hypähdellä
+njuikulit	V	lähteä hyppien jhk
+njulgehit	V	suoristuttaa
+njulgehit	V	oiottaa (esim koukku)
+njulgehit	V	päästättää (kala) koukun oikenemisen seurauksena
+njulggohallat	V	oikoa (selkäänsä, jäseniään)
+njulggohallat	V	venytellä
+njulggohallat	V	oikoa (pitkin oikoteitä)
+njulláhallat	V	putkahdella
+njulláhallat	V	tupsahdella
+njulláhallat	V	luiskahdella
+njulláhallat	V	tuiskahdella (jhonk)
+njuolggadit	V	oikaista
+njuolggadit	V	mennä oikotietä
+njuolggadit	V	suoraan
+njuorranaddat	V	heltyä
+njuorranaddat	V	tuntea myötätuntoa
+njurggohaddat	V	vihellellä
+njurggohaddat	V	viheltää sävelmä
+njurggohaddat	V	valutella (esim kaloja huuhtomisen jälkeen)
+njurggohallat	V	vihellellä
+njurggohallat	V	viheltää sävelmä
+njurggohallat	V	valutella (esim kaloja huuhtomisen jälkeen)
+njuvddestit	V	survaista
+noaiddástallat	V	harjoittaa noituutta
+noaiddástallat	V	loitsia
+noaiddástallat	V	taikoa
+nohkadit	V	nukahdella
+nohkadit	V	nukahtaa
+nohkastaddat	V	nukahdella
+nohkastaddat	V	torkahdella
+nohkastallat	V	nukahdella
+nohkastallat	V	torkahdella
+noiddohallat	V	joutua (jkun) noitumaksi
+noiddohallat	V	taikomaksi
+norddadit	V	töniä
+norddadit	V	tökkiä
+norddadit	V	puskea (toisiaan)
+norddastallat	V	sysiä
+norddastallat	V	töniä
+norddastallat	V	tölviä (töniä)
+norddastit	V	tölväistä
+norddastit	V	tönäistä
+norddastit	V	loukata
+nuohtástallat	V	kalastaa nuotalla
+nuohtástallat	V	käyttää nuottaa
+nuohtástallat	V	nuotata
+nuohtástallat	V	nuottailla
+nuonddahallat	V	masentua
+nuonddahallat	V	uupua
+nuonddahallat	V	uupua
+oaččostuvvat	V	olla saamaisillaan
+oađđáladdat	V	nukuskella
+oađđáladdat	V	uinailla
+oađestit	V	nukkua (vähän aikaa)
+oađestit	V	torkahtaa hetkeksi
+oadjudallat	V	rauhoitella
+oadjudallat	V	tyynnytellä
+oaguhallat	V	vainota
+oahpahaddat	V	opetella
+oahpahaddat	V	totuttautua
+oahppaladdat	V	käydä katsomassa jkta
+oahppaladdat	V	vierailla (jkun luona)
+oainnáhallat	V	joutua jkn näkemäksi
+oainnáhallat	V	tulla nähdyksi (esim. pahanteossa)
+oainnihit	V	antaa nähdä
+oainnihit	V	päästää näkemään
+oainnihit	V	näyttää (vahingossa)
+oainnihit	V	paljastaa
+oamastallat	V	omistella
+oamastallat	V	omia (jtak)
+oamastallat	V	havitella
+oamastallat	V	yrittää saada omakseen
+oasástallat	V	osallistua
+oasástallat	V	ottaa osaa
+oččohallat	V	sairastua (jhk)
+oččohallat	V	alkaa potea
+oččohallat	V	sairastaa
+ogohaddat	V	ahdistella
+ogohaddat	V	ajaa takaa (saalista, usein)
+ogohallat	V	ahdistella
+ogohallat	V	ajaa takaa (saalista, usein)
+ohkoladdat	V	säntäillä (erit. vasaansa etsivästä vaatimesta)
+oidnostit	V	näkyä (vähän tai hetken)
+oidnostit	V	pilkahtaa
+okkodit	V	ongiskella
+okkodit	V	onkia (kauan)
+oktestit	V	(säästä:) kirkastua (nopeasti kuuron jälkeen)
+olgodaddat	V	ulkoilla
+ollestuvvat	V	saapua (vaivoin) perille (jhk)
+ollestuvvat	V	 ennättää (vaivoin jhk)
+ollestuvvat	V	keritä (vaivoin)
+ordnedit	V	järjestellä
+ordnedit	V	korjailla
+ordnedit	V	kunnostella
+ordnestallat	V	järjestellä
+ordnestallat	V	korjailla
+ordnestallat	V	kunnostella
+orodit	V	oleilla
+orodit	V	oleskella
+orodit	V	majailla
+orostaddat	V	pysähdellä
+orostaddat	V	asuskella
+orostaddat	V	oleskella
+orostallat	V	pysähdellä
+orostallat	V	asuskella
+orostallat	V	oleskella
+orustaddat	V	pysähdellä
+orustallat	V	pysähdellä
+orustastit	V	pysähtyä
+orustastit	V	seisahtua (hetkeksi)
+oskulit	V	uskoa (vähän aikaa)
+oskulit	V	tulla uskoon
+oskulit	V	alkaa uskoa
+ovehit	V	rohjeta
+ovehit	V	uskaltaa
+ozahallat	V	koetella
+ozahallat	V	kokeilla
+ozahallat	V	kuulustella
+ožžodit	V	saada (tehdyksi jtak)
+ožžodit	V	voida (tehdä jtak)
+ožžodit	V	saattaa
+prentehit	V	painattaa (kirjoja)
+rabadit	V	aukoa
+rabadit	V	availla
+rábastit	V	kahmaista
+rábastit	V	siepata
+rábmostallat	V	kehuskella
+rábmostallat	V	leuhkailla
+rábustit	V	siepata
+rábustit	V	tarrata (johonkin)
+rábustit	V	kouraista (niskasta)
+rađadit	V	repiä
+rađadit	V	ratkoa (erit. saumaa, kangasta vähin erin, jatkuvasti)
+rađastit	V	naamioida
+rađastit	V	peitellä (pyyntiraudat) risuilla tms
+ráđđehallat	V	neuvotella
+rágadit	V	rakoilla
+rágadit	V	halkeilla
+rahčalit	V	hankkiutua (jnnek, jtak tekemään)
+ráhkadaddat	V	rakennella
+ráhkadaddat	V	kehitellä
+ráhkadaddat	V	valmistaa
+ráhkadallat	V	rakennella
+ráhkadallat	V	kehitellä
+ráhkadallat	V	valmistaa
+ráhkadastit	V	tekaista
+ráhkadastit	V	rakentaa (nopeasti)
+ráhkástallat	V	helliä
+ráhkástallat	V	leperrellä
+ráiddostallat	V	leikkiä raitoa
+ráiddostallat	V	kuljettaa raitoa
+ráiddostallat	V	kulkea raidon kanssa
+ráimmahaddat	V	pelästyä (kovasti, aavetta tms.)
+ráimmahaddat	V	mennä suunniltaan (jstkn yliluonnollisesta)
+ráimmahaddat	V	hullaantua (tekemään jtkn tai jhnkin)
+ráimmahallat	V	pelästyä (kovasti, aavetta tms.)
+ráimmahallat	V	mennä suunniltaan (jstkn yliluonnollisesta)
+ráimmahallat	V	hullaantua (tekemään jtkn tai jhnkin)
+rájadit	V	huolehtia
+rájadit	V	pitää huolta
+rájadit	V	korjailla talteen
+rájadit	V	pitää säilössä
+rájadit	V	säilyttää
+rámádallat	V	ylistellä
+rámádallat	V	kehuskella
+rámádallat	V	ylistää itseään
+rámpostit	V	kehaista (nopeasti)
+rámškkodit	V	räpistellä (esim. linnusta ansassa)
+rámškkodit	V	heiluttaa (jatkuvasti: käsistä, siivistä)
+rámškkodit	V	heilua
+ravgehit	V	saada kaatumaan
+ravgehit	V	kellistää
+rávkalit	V	käskeä
+rávkalit	V	kutsua (nopeasti, tulemaan jhk)
+rávkalit	V	herättää (nopeasti)
+ražastit	V	ponnistaa
+ražastit	V	rehkiä (vähän)
+ražastit	V	lähteä kantamaan (jtak painavaa)
+ražastit	V	ostaa (jotain suhteellisen kallista)
+riehkadit	V	rehkiä
+riehkadit	V	puurtaa
+riehkadit	V	uurastaa
+rievdadallat	V	muutella (erit porojen korvamerkkejä)
+rihkustit	V	uurtaa
+riŋgestallat	V	soitella (puhelimella)
+riŋgestit	V	soittaa kiireellä tai kerran
+rišadit	V	pärskyä
+rišadit	V	roiskua
+rišadit	V	ryöpytä
+rissehallat	V	saada piiskaa
+rissehallat	V	selkäänsä (jklta)
+rissehallat	V	joutua jkun piiskaamaksi
+roahkadit	V	kehdata
+roahkadit	V	rohjeta
+roahkadit	V	uskaltaa
+roahkastit	V	koukata
+roahkastit	V	koukuta
+roahkastit	V	rokastaa
+roahkkasaddat	V	takerrella
+roahkkasaddat	V	tartuskella
+roahkkasaddat	V	jäädä kiinni (usein tai useisiin esineisiin)
+rohkohallat	V	ristiä (moneen kertaan)
+rohkohallat	V	liittää (koukkupäisiä esineitä yhteen)
+rohttedit	V	mennä (jhonk asentoon)
+rohttedit	V	tuiskahtaa
+rohttedit	V	vetäytyä
+rohttehit	V	vedättää
+rohttehit	V	kiskottaa (liikkeelle, ulos, pois)
+rohttestit	V	vetäistä
+rohttestit	V	vetää
+rohttestit	V	joikata
+rokčehit	V	kolhittaa
+rokčehit	V	ruttauttaa
+rokčehit	V	ryttäyttää
+rokčehit	V	kolhia
+rokčehit	V	rutata
+rokčehit	V	rytätä (vahingossa, sattumalta)
+rokkadit	V	kaivella (kuoppa tms, esiin jtakin)
+rokkastit	V	tuoda esiin
+rokkastit	V	kaivaa vähän
+rokkastit	V	ammentaa (kerran)
+runddihit	V	vedättää (jtkn raskasta)
+runddihit	V	hinauttaa
+ruohtadit	V	laukkoa
+ruohtadit	V	juoksennella (ei kaksijalkainen)
+ruovggadit	V	roukia
+ruovggadit	V	röhkiä (pitkään t. usein)
+ruovggadit	V	kurnutella
+ruskestit	V	saada haalituksi (kokoon)
+ruvvedit	V	hieroskella (es. käsiään)
+ruvvedit	V	hykerrellä
+šaddalit	V	venähtää
+šaddalit	V	kasvaa nopeasti
+sáddehallat	V	lähetytellä
+sáddehallat	V	sadatella
+sáddehallat	V	kiroilla
+saddjehit	V	ehdyttää (lehmä)
+saddjehit	V	saada tai panna (lehmä) ehtymään
+ságastaddat	V	keskustella
+ságastaddat	V	jutella
+sággalit	V	pistää
+sággalit	V	pujottaa
+sággalit	V	kiinnittää (nopeasti)
+sáhčalit	V	työntää (nopeasti, vesille)
+sáhkkehallat	V	haastatella (jkta jstak)
+sáhkkohallat	V	(+ill.) saada (joltakin) sakkoja
+sáhkkohallat	V	sakotella
+sáhkohaddat	V	(+ill.) saada (joltakin) sakkoja
+sáhkohaddat	V	sakotella
+sáhpodit	V	mennä mustelmille
+sáhpodit	V	mustua (ihosta)
+sáhtostallat	V	kyyditellä
+sáimmastaddat	V	pyytää, kalastaa (ohutlankaisella verkolla)
+sáimmastaddat	V	verkostella (ohutlankaisella verkolla)
+sáimmastallat	V	pyytää (pienisilmäisellä) verkolla
+sákkastit	V	pistää (neulalla)
+sákkastit	V	kiinnittää
+sákkastit	V	ripustaa (neulalla)
+salastallat	V	halailla
+salastallat	V	syleillä (monta tai useaan kertaan)
+salodit	V	halailla
+salodit	V	syleillä (jatkuvasti)
+salodit	V	mittailla sylimitalla (useita esineitä tai useita syliä pitkä esine)
+salodit	V	laukkoa
+salodit	V	ravata (pitkin harppauksin)
+sárastit	V	halkoa (vähän: jännettä säikeiksi)
+sárastit	V	repäistä (pitkä halkeama jhk)
+sárggodit	V	naarmutella
+sárggodit	V	piirrellä
+sárgulit	V	piirtää nopeasti
+sárgulit	V	piirrältää
+sártnodit	V	puhella (usein tai monille)
+sártnodit	V	jutella
+sártnodit	V	keskustella (keskenään)
+sattáhallat	V	leijailla
+sattáhallat	V	leijua
+sattihit	V	leijailla
+sattihit	V	leijua (jhk; linnusta)
+sávadit	V	toivotella
+sávadit	V	toivottaa toisilleen
+savdnjáladdat	V	puistella itseään (eläin)
+savnnjáhallat	V	puistella itseään (eläin)
+sávnnjodit	V	saunoa
+sávnnodit	V	saunoa
+sávvalit	V	toivoa
+sávvalit	V	toivottaa (nopeasti)
+šealgádit	V	kiillellä
+šealgádit	V	kimallella
+seanadit	V	lakata olemasta pelokas
+seanadit	V	lakata olemasta epäluuloinen (toistensa suhteen)
+seanadit	V	tuntea olonsa turvalliseksi
+seanadit	V	päästä sovintoon
+seanadit	V	lähestyä toisiaan (riidan osapuolista)
+searvádallat	V	olla kompuksessa
+searvádallat	V	olla (työ)ruokaporukassa
+searvádallat	V	jakaa keskenään työt tai eväät
+searvádallat	V	osallistua
+searvvadit	V	liittoutua
+searvvadit	V	yhdistyä (joukoksi)
+seavestit	V	viitata kädellään (vähän jollekulle)
+seavestit	V	heilauttaa (kättään)
+seavestit	V	vinkata (jku johonkin)
+seavvilit	V	viitata (nopeasti, äkkiä; kädellään jklle)
+segohaddat	V	sekoitella
+seivvodit	V	liitää
+šelggodit	V	kirkastua
+šelggodit	V	tulla kiiltävä(mmä)ksi
+šelggodit	V	tulla kiiltäväkarvaise(mma)ksi
+sieradit	V	kuherrella
+sierastallat	V	pysytellä erillään
+sierastallat	V	olla erillään muista
+sihkodit	V	pyyhiskellä
+sihkodit	V	huidella
+sihkodit	V	kuljeskella
+siiddastallat	V	oleskella poroineen (jossakin)
+siiddastallat	V	paimentaa porojaan samassa porokylässä, siidassa
+šikkodit	V	hätistellä
+šikkodit	V	komennella
+sirddihit	V	siirrättää
+sirddihit	V	saada siirtymään
+sirddihit	V	auttaa (jkta) siirtymään (jutamamatkalla)
+sisačálihit	V	rekisteröityä
+sisačálihit	V	kirjautua
+sivahaddat	V	syytellä
+sivdnádallat	V	siunailla (useista henkilöistä)
+sivdnádallat	V	siunailla
+sivdnádallat	V	päivitellä
+skáidnedit	V	viillellä
+skáidnedit	V	viiltää (monta haavaa, viiltoa)
+skáidnedit	V	haavoittaa (jatkuvasti)
+skáidnedit	V	haavoittaa itseään (vähän)
+skavvehallat	V	kaarrella
+skavvehallat	V	leijailla (lintu ilmassa)
+skeittástallat	V	luistella
+skeittástit	V	luistella (nopeasti tai vähän aikaa)
+skihppodit	V	liittoutua
+skihppodit	V	lyöttäytyä (jnk seuraan)
+skihppodit	V	lyöttäytyä (yhteen, toistensa seuraan)
+skirvanaddat	V	heittelehtiä (auto, ahkio tms.)
+skirvehaddat	V	kaarrella
+skirvehaddat	V	väistellä (ajaessa)
+skirvehaddat	V	pujotella (suksilla)
+skirvehaddat	V	piirittää (ihastuksensa kohdetta)
+skirvehaddat	V	leijua
+skirvehallat	V	heittelehtiä (auto, ahkio tms.)
+skirvehallat	V	kaarrella
+skirvehallat	V	väistellä (ajaessa)
+skirvehallat	V	pujotella (suksilla)
+skirvehallat	V	piirittää (ihastuksensa kohdetta)
+skirvehallat	V	leijua
+skuldohallat	V	saada toruja
+skuldohallat	V	joutua jkn torumaksi
+šleŋggodit	V	nakkoa
+šleŋggodit	V	lingota
+šleŋggodit	V	paiskoa
+šleŋggodit	V	singota (jatkuvasti)
+šleŋggodit	V	heittelehtiä (esineistä: jatkuvasti)
+šleŋggohallat	V	heitellä
+šleŋggohallat	V	nakella
+šleŋggohallat	V	heilutella (helmojaan tms)
+šliettadit	V	tulla uniseksi
+šliettadit	V	tulla veltoksi (usein tai vähin erin)
+šliettadit	V	veltostua (usein tai vähin erin)
+šlivgasaddat	V	liehua
+šlivgasaddat	V	heiluttaa helmojaan
+šlivgasaddat	V	pyörähdellä (es. tanssissa)
+šlivggodit	V	heilutella
+šlivggodit	V	liehutella
+šloađastit	V	polkaista
+šloađastit	V	tallata (kerran)
+šloađastit	V	tömäyttää
+šloahtalit	V	lähteä laahustamaan
+šloahtalit	V	lähteä löntystämään
+šlundádit	V	olla (pitkään) allapäin
+šlundádit	V	olla apeana
+smiehtadit	V	pohtia
+snađđehallat	V	hankailla
+snađđehallat	V	hinkkailla (itseään jtak vasten)
+snađđehallat	V	kiehnätä
+snađđehallat	V	kihnutella
+snelkkohallat	V	joutua jnk näykkimäksi
+snelkkohallat	V	joutua jnk puraisemaksi
+soabbulit	V	lähteä kulkemaan sauvan kanssa
+soabbulit	V	työnnellä (sauvalla, hiihtäessä tms.)
+soaiggáhallat	V	puistatella
+soaiggáhallat	V	puistatuttaa
+soaimmadit	V	soimailla
+soaimmadit	V	sättiä (pitkään)
+soaimmadit	V	sättiä toisiaan
+soaimmadit	V	torailla keskenään
+soaimmahallat	V	joutua (jnk) soimaamaksi
+soaimmahallat	V	joutua jnk sättimäksi
+soarddáhallat	V	joutua (jkun) sortamaksi
+sodjalit	V	taipua (vähän)
+sodjalit	V	notkahtaa
+sodjalit	V	käännähtää (toisaalle)
+soiccistit	V	tupruta
+soiccistit	V	pölistä
+soiccistit	V	pöllytä
+soiccistit	V	höyrytä
+sojadit	V	taipuilla
+sojadit	V	notkua
+sojadit	V	(fig.) myötäillä
+sojahaddat	V	taivutella
+sojahaddat	V	värisyttää (ääntään)
+sojahaddat	V	käyttää heleitä (joikatessa)
+sojahallat	V	taivutella
+sojahallat	V	värisyttää (ääntään)
+sojahallat	V	käyttää heleitä (joikatessa)
+sorbmehit	V	surmauttaa
+sorbmehit	V	tapattaa
+sorbmehit	V	aiheuttaa (vahingossa jkun tai jnk) kuolema
+spierggadit	V	vääntelehtiä
+spierggadit	V	kiemurrella (tuskissaan)
+spierggadit	V	heittelehtiä
+stávedit	V	tavailla (kirjoitusta)
+stávrádit	V	pielestää
+stávrádit	V	saurata
+stávrádit	V	suovata (heinää)
+stuorádallat	V	liioitella
+stuorrulit	V	suurentua (nopeasti)
+suhpodit	V	heitellä
+suhpodit	V	nakella
+suhpodit	V	nakkoa
+suhpodit	V	päästellä (kanto-, taakkaporot taakoistaan)
+suhpodit	V	laskeskella (verkkoja)
+suhtastuvvat	V	ruveta suuttumaan
+suhtastuvvat	V	ärsyyntyä
+suibbodit	V	horjahdella
+suibbodit	V	huojahdella
+sujahaddat	V	syytellä
+šuohkáhallat	V	huokailla
+suokkardallat	V	pohtia
+suokkardallat	V	tutkia
+suokkardallat	V	selviä
+suokkardallat	V	eritellä (vähin erin)
+suonjadit	V	puikkelehtia
+suonjadit	V	pujahdella
+suorranaddat	V	rönsyillä
+suorranaddat	V	haaroa
+suotnjalit	V	kömpiä (nopeasti)
+suovastuvvat	V	savuuntua
+suovastuvvat	V	savustua
+suovastuvvat	V	palvaantua
+suvddihit	V	kuljetuttaa soutamalla
+suvddihit	V	soudattaa
+suvddihit	V	laivata
+šuvgalit	V	viuhauttaa
+šuvgalit	V	hurauttaa
+šuvgalit	V	suhauttaa
+šuvgalit	V	viilettää (jhk)
+táhpehallat	V	hävitä (kilpailussa)
+táhpehallat	V	kärsiä tappio
+tevdnedit	V	piirrellä
+tevdnedit	V	piirustella
+uhkádallat	V	uhkailla (jkta jllakin)
+váiddáhallat	V	joutua jkun ilmiantamaksi
+vajahastit	V	viipaloida
+vákšostit	V	tarkistaa (katsomalla, yksi asia tai tilanne)
+válddáhallat	V	joutua (jnk tai jkun) ottamaksi
+válddáhallat	V	joutua jkun viemäksi
+válddáhallat	V	joutua pidätetyksi
+válddástallat	V	"	herrustella"
+válddástallat	V	omistella (itselleen)
+válddestit	V	ottaa (vähän jtak)
+válddestit	V	naukata
+válddestit	V	ottaa ryyppy
+válmmastallat	V	valmistella
+válmmaštallat	V	valmistella
+vanadit	V	venyä (eri suuntiin tai jatkuvasti)
+vanadit	V	venyskellä
+vanadit	V	loikoilla
+vanahaddat	V	venytellä
+vanahallat	V	venytellä
+vanahallat	V	pitkitellä
+vanahallat	V	kiskotella
+vanahallat	V	venytellä (itseään)
+vástádallat	V	vastailla
+vavddadit	V	jäädä kiinni (usein)
+vavddadit	V	tartuskella
+vavddadit	V	puutella (ajoverkosta, nuotasta)
+vavddadit	V	änkyttää
+vázzáladdat	V	lähteä kävelemään (useista)
+vázzáladdat	V	kävellä (reippaasti, rivakasti)
+veahkehastit	V	autella (nopeasti tai vähän)
+vealládit	V	olla pitkällään (nopeasti t. vähän aikaa)
+vealládit	V	maata (nopeasti t. vähän aikaa)
+velohaddat	V	makailla
+velohaddat	V	makuilla
+velohaddat	V	loikoa
+velohaddat	V	äksyillä
+velohaddat	V	kiukutella
+velohaddat	V	niskuroida
+velohaddat	V	teniä
+velohallat	V	makailla
+velohallat	V	makuilla
+velohallat	V	loikoa
+verohallat	V	äksyillä
+verohallat	V	kiukutella
+verohallat	V	niskuroida
+verohallat	V	teniä
+vieččahallat	V	joutua jkun noutamaksi
+vihkkehallat	V	punnituttaa (useita kertoja)
+vihkkehit	V	punnituttaa
+vilggodit	V	vaalentua
+vilggodit	V	vaaleta
+vilggodit	V	vaaleta
+viššalit	V	haukahtaa (koirasta käskettäessä, erit poroja)
+vuhtodit	V	tuuditella
+vuhtodit	V	keinuttaa
+vuhtodit	V	liekuttaa
+vuhtodit	V	soudattaa
+vuhtodit	V	puida (nyrkkiä, jatkuvasti)
+vuigestit	V	korjata
+vuigestit	V	oikaista (vähän, jtak asiaa)
+vuoddjáhit	V	lähteä ajamaan takaa (kulkuneuvolla)
+vuoddjáhit	V	lähteä ajattamaan
+vuođđudallat	V	perustella
+vuodjilit	V	ajaa (lyhyen matkaa vauhdikkaasti)
+vuodjilit	V	ajaltaa
+vuodjilit	V	karauttaa
+vuoidalit	V	voidella (nopeasti)
+vuoidalit	V	sännätä
+vuoidalit	V	kipaista
+vuoidalit	V	kumauttaa
+vuoidalit	V	motata
+vuoiddadit	V	voidella (paljon, kauan)
+vuoiddadit	V	uurastaa
+vuoiddadit	V	painaltaa
+vuoiddadit	V	kumautella toinen toistaan
+vuoiddastit	V	voidella (vähän)
+vuoiddastit	V	kumauttaa
+vuoiddastit	V	motata
+vuoiŋŋastaddat	V	levähdellä
+vuoiŋŋastallat	V	levähdellä
+vuojadit	V	uida (ilman päämäärää)
+vuojadit	V	uiskennella
+vuojáhaddat	V	(+ill.) joutua es. auton yliajamaksi
+vuojáhaddat	V	joutua yliajon uhriksi
+vuojahallat	V	uitella
+vuojáhallat	V	joutua (esim. auton) yliajamaksi
+vuojestit	V	ajaa (vähän)
+vuojestit	V	ajastaa
+vuojihit	V	ajattaa
+vuojihit	V	pitää ajamassa
+vuojihit	V	panna ajamaan
+vuojihit	V	kuljettaa (ajamalla)
+vuojihit	V	kyyditä
+vuojihit	V	ajattaa
+vuojihit	V	ajaa takaa (saavuttaakseen)
+vuojistit	V	ajattaa (nopeasti)
+vuolahastit	V	panna lastuja koipinahan kesipuolelle
+vuolahastit	V	helpehtiä (koipinahka)
+vuolgaladdat	V	tehdä lähtöä (useista tai vähin erin)
+vuorddihit	V	odotuttaa
+vuoššastit	V	keitellä
+vurkkodit	V	tallennella
+vurkkodit	V	talletella
+vurkkodit	V	panna säilöön
+vurkkodit	V	korjata talteen (useampia esineitä pitemmän aikaa)
