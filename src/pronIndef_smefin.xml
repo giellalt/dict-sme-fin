@@ -324,4 +324,39 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+  <e>
+    <l pos="Pron" type="Indef">goappašagat</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">molemmat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Pron" type="Indef">soamis</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">jokin</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">joku</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">jokunen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">muutama ( = )</t>
+         <xg>
+          <x>soames ládje</x>
+          <xt>jotenkin</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
 </r>

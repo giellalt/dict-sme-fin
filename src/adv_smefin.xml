@@ -23411,4 +23411,222 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <l pos="Po">bakto</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Po">kautta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">binnoš</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">hieman</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">vähän</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">duogin</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">takana</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+	      <re>es. matkan päässä</re>
+        <t pos="Adv">päässä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">gait</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">kaikki</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">kokonaan</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">geažos</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">koko (päivän, yön jne)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">läpi (talven, yön jne)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">gopposge</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">kumpaallekaan</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">kumpaallekin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">harvii</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">harvoin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">ilá</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">liian</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">ylen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">kovin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">juosat</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">johonkin</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">jonnekin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">nađat</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">-kahvainen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">-vartinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">ovddos maŋos</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">edestakaisin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">ovddosmaŋos</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">edestakaisin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">roahtá</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">äkisti</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">äkkipäätään</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">odottamatta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">roahttá</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">äkisti</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">äkkipäätään</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">odottamatta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">roahttásit</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">äkisti</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">äkkipäätään</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+	      <re>R</re>
+        <t pos="Adv">odottamatta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">sahteládje</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">satunnaisesti</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="Adv">sealggális</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">selällään</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">selälleen</t>
+      </tg>
+    </mg>
+  </e>
 </r>

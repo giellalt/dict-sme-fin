@@ -30106,4 +30106,372 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <l pos="A">áidelas</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">laaja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">beallerihcon</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">puolialaston</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">čáhppesjievja</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">mustavalkoinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">čoalki</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">kopiseva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">dipma</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">pehmeä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">duhttivaš</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">tyytyväinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">duivvas</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">sekainen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">sotkuinen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">myllerretty</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">eleš</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">elinvoimainen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">vilkas</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">yritteliäs</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="V">erdui</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">ärtyisä</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">kärttyisä</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">äreä</t>
+        <xg>
+	        <x>suhttan ja erdui</x>
+	        <xt>vihainen ja kärtty</xt>
+	    </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">gálus</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">kolea</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">viileä (säästä)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">gárri</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">kaita</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+	      <re>kankaasta</re>
+        <t pos="A">kapea</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">guhkolaš</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">pitkulainen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">pitkänomainen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">soikea</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">hearvái</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">koristeellinen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">hassu</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">hupaisa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">lystikäs</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">veikeä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">imašhámát</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">oudonnäköinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">ivttá</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">eilinen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">eilisen</t>
+        <xg>
+	        <x>in munge leat ivttá gánda</x>
+	        <xt>en minäkään ole eilisen teeren poika</xt>
+	    </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">jealahas</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">pilvetön</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">sees</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+	      <re>taivaasta</re>
+        <t pos="A">kirkas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">láfos</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">lauha</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">leuto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">loažžut</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">löyhällä</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+	      <re>hetkellisesti</re>
+        <t pos="A">löysällä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">lunddot</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">luontoinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">njagu</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">etukenossa oleva</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">eteenpäin taipunut</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">etukumara</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">stađaheapme</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">levoton</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+	      <re>jonkin vuoksi, jstakin</re>
+        <t pos="A">malttamaton</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">stađuheapme</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">levoton</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+	      <re>jonkin vuoksi, jstakin</re>	      
+        <t pos="A">malttamaton</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">surolaš</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">huolekas</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+	      <re>Ruotsissa</re>
+        <t pos="A">surullinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">surrolaš</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">huolekas</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+	      <re>Ruotsissa</re>
+        <t pos="A">surullinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">suruheapme</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">maailmallinen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">suruton</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="A">vuovdái</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">metsäinen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+	      <re>ruoan suhteen</re>
+        <t pos="A">ahne</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">paljoruokainen</t>
+        <xg>
+	        <x>vuovdái dego heasta</x>
+	        <xt>paljoruokainen kuin hevonen</xt>
+	    </xg>
+      </tg>
+    </mg>
+  </e>
 </r>
