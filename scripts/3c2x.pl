@@ -10,7 +10,7 @@ print STDOUT "<r>\n";
 while (<>) 
 {
 	chomp ;
-	my ($lemma, $trans, $trans2, $trans3, $trans4, $lPOS, $tPOS) = split /_/ ;
+	my ($lemma, $trans, $trans2, $trans3, $trans4, ) = split /_/ ;
 	my @lemma = split /, /, $lemma ;
 	my @trans = split /, /, $trans ;
 	my @trans2 = split /, /, $trans2 ;
