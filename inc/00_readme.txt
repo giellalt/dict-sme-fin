@@ -9,4 +9,5 @@ news_missing_A.csv  = to be added to ../src
 news_missing_N.csv  = to be added to ../src
 news_missing_V.csv  = to be added to ../src
 smenewslemma.freq   = 
+Ville_sanit_09092023a.txt = added
 

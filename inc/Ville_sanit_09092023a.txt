@@ -1,0 +1,122 @@
+
+rávdu	N	rautu	(pikku)nieriä
+veajet	N	kalanpoikanen	pikkukala kulmakko
+veajehaš	N	kalanpoikanen	pikkukala
+leahkit	V	olla
+čáimmihit	V	naurahtaa (spontaanisti, tahtomattaan)
+čáimmehit	V	naurahtaa (spontaanisti, tahtomattaan)
+jeđe	Adv	(=ja de), ja sitten
+mearradihkki	N	meritäi
+vilba	N	miespuolinen serkku
+vilbbaš	N	serkus (miespuolinen)
+vilbealli	N	poikaserkku
+oarpmealli	N	serkku (naispuolinen)
+oambealle	N	serkku (naispuolinen)
+oarmbealle	N	serkku (naispuolinen)
+oarpme(n)bealli	N	serkku (naispuolinen)
+ráfuheapmeáigi	N	rauhoitusaika
+ráfoheapmeáigi	N	rauhoitusaika
+ráfuheapmi	N	rauhoitus
+ráfoheapmi	N	rauhoitus
+biergodáigi	N	jauheliha
+reservašuvdna	N	varaus
+várašupmi	N	varaus
+váraštit	V	varata
+várašit	V	varata
+dálvečuoččot	N	talvikko (lohesta)	porotokan seisotuspaikka talvella
+šoaran	N	talvikko, edellisenä syksynä kutenut lohi
+čuonžá	N	talvikko (kutematon, yl kudun jälkeen noussut ja joessa talvehtinut lihavahko lohi keväällä)
+vuorru	N	(tavallisesti naaraspuolinen) talvikko joessa talvehtinut lohi
+gillilvuohta	N	kestävyys uutteruus pitkäjänteisyys lannistumattomuus
+eanan	N	maa (o)
+bastohis	A	tylsä, pystymätön (puukosta, viikatteesta tms)
+seahkanit	V	seota	tulla hulluksi	mennä sekaisin
+boarásmuvvat	V	(n) vanhentua	vanhettua	alkaa vanhettua
+boarásmit	V	(n) vanhentua	vanhettua alkaa vanhettua
+boarástuvvat	V	(o) vanhentua	vanhettua	alkaa vanhettua
+boarásnuvvat	V	(o) vanhentua	vanhettua	alkaa vanhettua
+soavvil	N	harjus	harri
+guollebiepmahat	N	kalankasvattamo
+baskkidit	V	tehdä ahtaa(mma)ksi kaventaa	supistaa	pienentää (joka kohdasta, tasaisesti esim liian väljää vaatetta)
+áššečilgehus	N	selvitys
+čielggadeapmi	N	selvitystyö	selvittäminen
+selittäminen	(asian)	selvitys	mietintö
+čielgadit	V	selvittää selventää panna selvenemään	saada (mielenvikainen) selviämään
+čielggadit	V	selventää selittää	tehdä selväksi	täsmentää selvittää
+čilgehus	N	selitys	tulkinta (esim unen)	tilitys	raportti
+čilgejupmi	N	selitys	selvitys
+guorahallan	N	selvittely	selvittäminen	selvitys	pohdinta	pohdiskelu	harkinta
+gálgalit	V	selvittää irrottaa	päästää (nopeasti)	gálgalit čoddaga= rykäistä, köhäistä
+selvehit	V	selittää	selvittää
+heivehusgávpi	N	sovelluskauppa (internetissä)
+coahkut	V	madaltua	laskea (vedestä)	laskea	madaltaa laantua (vihasta)	vähetä, vähentyä (esim turhanylpeydestä) vähetä, pienentyä (kovasti)	huveta (omaisuudesta)
+cohkon	A	mataloitunut
+Juvravuotna	N	Gandvik (Nesseby)
+vuojadanhálla	N	uimahalli
+vuojadansále	N	uimahalli
+olles	A	täysi	kokonainen	täydellinen kokonaista- (olles mihtus= täysimittainen, täydessä mitassa)
+ollesolmmoš	N	aikaihminen	aikuinen
+ollesšattot	A	täysikasvuinen	aikuinen
+rohttu	N	ankara, nopeasti tarttuva kulkutauti	rutto
+čoska	N	koivupölkky	kuppo	kulkutusverkon ohjain (T:n muotoinen, puusta)
+govččas	N	peitto	peite	verho	kate
+guoddá	N	patja (o) tyyny (n)
+boalsttar	N	tyyny (o)
+boarsttal	N	tyyny (o)’
+bolsttar	N	patja (n)
+šleađga	N	sähkö
+áŋkkur	N	ankkuri	koukku (vieheessä, erit kolmihaaranen) ongenkoukku
+áŋggirdit	V	ahertaa	uurastaa (jonkun puolesta, jonkin hyväksi)
+áŋggaštus	N	mielihalu intohimo
+áŋggašit		V	kaivata (kovasti)	ikävöidä
+áŋggašeapmi	N	ikävöinti
+ánggirdeaddji	N	uurastaja tulisielu
+porsliidna	N	posliini
+porseliidna	N	posliini
+árvideapmi	N	arvaus
+ovttaládje	Adv	tavallaan eräällä lailla	samalla tavoin (keskenään)
+dájuhuvvon	A	huijattu
+govahallat	V	kuvitella
+measttii	Adv	melkein (R)
+bakto	Adv	kautta (R)
+meantaš	N	myyttinen peura	Kuolan niemimaan alueella legendan esiäiti (hirven tai villiporon muodossa, jolla on suuret sarvet)
+baháneahkkán	A	ilkeä	ilkeämielinen
+pahantahtoinen	kuriton
+goarjidit	V	korjata talteen	korjata ehjäksi
+láddi	N	lantalainen	suomalainen	suomi	suomen kieli
+bihcut	V	mennä kuuraan	huurtua	härmistyä
+geahpput	V	keventyä	kevetä	tulla (liian) kevyeksi
+vuorjat	V	vaivata (toista)	ruinata	mankua	perätä
+biinnidit	V	kiduttaa	rääkätä	piinata
+dassáziigo	Adv	siihen asti kun
+skihppát	V	tulla kipeäksi	sairastua tulla sairaaksi
+dájáskit	V	tulla hulluksi	seota (mieleltään)	tärähtää
+vájaldit	V	valeltaa
+vájuldit	V	vaeltaa
+veaddit	V	lieata	pitää lieassa	ventää	pitää (pakolla jkta jssak ilman ruokaa tms.)	pitää (autoa) lämmittimenjohdon päässä
+gieres	N	ahkio	pulkka
+geres	N	ahkio	pulkka
+gerres	N	ahkio	pulkka
+muoddáádja	N	karhu	peskiäijä
+guoccatdákti	N	penisluu
+guoccat	N	(poron, hevosen tms) siitin	suoro
+muohcut	V	nirhata	tappaa taitamattomasti	ruhjoa	runnella	tärvellä
+savkalit	V	kuiskata
+luoddanit	V	haljeta	aueta (silmuista)
+luoddanit	V	läkähtyä	pakahtua (ajoporosta)
+fáiput	V	hosua	huitoa
+sorrot	V	sotkeutua takertua (johonkin, esim köyteen) sotkeutua (puheisiinsa tms)	saada sikiönsä väärään asentoon (jolloin synnytys ei onnistu, porovaatimesta)
+oađđádat	N	vuodevaate	makaus
+ilá	Adv	liian	ylen	kovin
+aginis	Adv	ikinä	koskaan
+surret	V	haaroittaa	halkaista (kärki, pää haaralle)
+šluvgit	V	lyödä (jotakin vasten)	pudistaa	puistaa ravistaa	häkilöidä (kenkäheinää)	puistaa (päätään)
+raŧŧi	N	ajojälki (lumessa, erit ahkion)	ahkionjälki	tie, maantie (R)
+stivrran	N	ratti	ohjauspyörä	ruori	peräsin ohjain	ohjausosa rasvaevä
+Murdit	V	perääntyä väistää	väistyä (taaksepäin)
+adjágas	N	horros	torkunta
+adjagas	N	horros	torkunta
+cuipi	A	törröttävä
+cuipi	N	suippo esine	kärki	piippolakki	pipo	lapinlakki (miehen, kaaresuvantolainen) hassu	hoopo
+vahkkoviissaid	Adv	viikkokausia
+šearrát	V	loistaa	paistaa (kirkkaana, valovoimaisena)
