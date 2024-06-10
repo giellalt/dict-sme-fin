@@ -10,14 +10,16 @@ print STDOUT "<r>\n";
 while (<>) 
 {
 	chomp ;
-	my ($lemma, $POS, $trans1, $trans2, $trans3, $trans4, $trans5, $trans6, $trans6, $trans7, $trans8, $trans9, $trans10) = split /\t/ ;
+	my ($lemma, $POS, $trans1, $trans2, $trans3, $trans4, $trans5, $trans6, $trans6, $trans7, $trans8) = split /\t/ ;
 #	my ($lemma, $trans, $lPOS, $tPOS) = split /_/ ;
 #	my @lemma = split /, /, $lemma ;
 #	my @trans = split /, /, $trans ;
 #	my @lPOS = split /, /, $lPOS ;
 #	my @tPOS = split /, /, $tPOS ;
 	print STDOUT "  <e>\n";
+	print STDOUT "   <lg>\n";
 	print STDOUT "    <l pos=\"$POS\">$lemma</l>\n";
+	print STDOUT "   </lg>\n";
 	print STDOUT "    <mg>\n";
 	print STDOUT "      <tg xml:lang=\"fin\">\n";
 	print STDOUT "        <t pos=\"$POS\">$trans1</t>\n";
@@ -58,16 +60,16 @@ while (<>)
 	print STDOUT "        <t pos=\"$POS\">$trans8</t>\n";
 	print STDOUT "      </tg>\n";
 	print STDOUT "    </mg>\n";
-	print STDOUT "    <mg>\n";
-	print STDOUT "      <tg xml:lang=\"fin\">\n";
-	print STDOUT "        <t pos=\"$POS\">$trans9</t>\n";
-	print STDOUT "      </tg>\n";
-	print STDOUT "    </mg>\n";
-	print STDOUT "    <mg>\n";
-	print STDOUT "      <tg xml:lang=\"fin\">\n";
-	print STDOUT "        <t pos=\"$POS\">$trans10</t>\n";
-	print STDOUT "      </tg>\n";
-	print STDOUT "    </mg>\n";
+#	print STDOUT "    <mg>\n";
+#	print STDOUT "      <tg xml:lang=\"fin\">\n";
+#	print STDOUT "        <t pos=\"$POS\">$trans9</t>\n";
+#	print STDOUT "      </tg>\n";
+#	print STDOUT "    </mg>\n";
+#	print STDOUT "    <mg>\n";
+#	print STDOUT "      <tg xml:lang=\"fin\">\n";
+#	print STDOUT "        <t pos=\"$POS\">$trans10</t>\n";
+#	print STDOUT "      </tg>\n";
+#	print STDOUT "    </mg>\n";
 	print STDOUT "  </e>\n";
 }
 
