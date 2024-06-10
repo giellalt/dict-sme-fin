@@ -54642,4 +54642,699 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+   <lg>
+    <l pos="V">leahkit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">olla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">čáimmihit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">naurahtaa (spontaanisti, tahtomattaan)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">čáimmehit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">naurahtaa (spontaanisti, tahtomattaan)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">váraštit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">varata</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">várašit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">varata</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">seahkanit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">seota</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">tulla hulluksi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">mennä sekaisin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">boarásmuvvat</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">(n) vanhentua</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">vanhettua</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">alkaa vanhettua</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">boarásmit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">(n) vanhentua</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">vanhettua alkaa vanhettua</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">boarástuvvat</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">(o) vanhentua</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">vanhettua</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">alkaa vanhettua</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">boarásnuvvat</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">(o) vanhentua</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">vanhettua</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">alkaa vanhettua</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">baskkidit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">tehdä ahtaa(mma)ksi kaventaa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">supistaa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">pienentää (joka kohdasta, tasaisesti esim liian väljää vaatetta)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">čielgadit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">selvittää selventää panna selvenemään</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">saada (mielenvikainen) selviämään</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">čielggadit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">selventää selittää</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">tehdä selväksi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">täsmentää selvittää</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">gálgalit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">selvittää irrottaa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">päästää (nopeasti)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">gálgalit čoddaga= rykäistä, köhäistä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">selvehit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">selittää</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">selvittää</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">coahkut</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">madaltua</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">laskea (vedestä)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">laskea</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">madaltaa laantua (vihasta)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">vähetä, vähentyä (esim turhanylpeydestä) vähetä, pienentyä (kovasti)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">áŋggirdit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">ahertaa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">uurastaa (jonkun puolesta, jonkin hyväksi)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="">áŋggašit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="">V</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="">kaivata (kovasti)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="">ikävöidä</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos=""></t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos=""></t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos=""></t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos=""></t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos=""></t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">govahallat</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">kuvitella</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">goarjidit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">korjata talteen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">korjata ehjäksi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">bihcut</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">mennä kuuraan</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">huurtua</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">härmistyä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">geahpput</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">keventyä</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">kevetä</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">tulla (liian) kevyeksi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">vuorjat</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">vaivata (toista)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">ruinata</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">mankua</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">perätä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">biinnidit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">kiduttaa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">rääkätä</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">piinata</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">skihppát</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">tulla kipeäksi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">sairastua tulla sairaaksi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">dájáskit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">tulla hulluksi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">seota (mieleltään)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">tärähtää</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">vájaldit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">valeltaa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">vájuldit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">vaeltaa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">veaddit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">lieata</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">pitää lieassa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">ventää</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">pitää (pakolla jkta jssak ilman ruokaa tms.)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">pitää (autoa) lämmittimenjohdon päässä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">muohcut</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">nirhata</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">tappaa taitamattomasti</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">ruhjoa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">runnella</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">tärvellä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">savkalit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">kuiskata</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">luoddanit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">haljeta</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">aueta (silmuista)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">luoddanit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">läkähtyä</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">pakahtua (ajoporosta)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">fáiput</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">hosua</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">huitoa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">sorrot</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">sotkeutua takertua (johonkin, esim köyteen) sotkeutua (puheisiinsa tms)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">saada sikiönsä väärään asentoon (jolloin synnytys ei onnistu, porovaatimesta)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">surret</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">haaroittaa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">halkaista (kärki, pää haaralle)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">šluvgit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">lyödä (jotakin vasten)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">pudistaa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">puistaa ravistaa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">häkilöidä (kenkäheinää)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">puistaa (päätään)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">Murdit</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">perääntyä väistää</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">väistyä (taaksepäin)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+   <lg>
+    <l pos="V">šearrát</l>
+   </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">loistaa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">paistaa (kirkkaana, valovoimaisena)</t>
+      </tg>
+    </mg>
+  </e>
 </r>

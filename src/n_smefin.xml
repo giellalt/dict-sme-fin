@@ -72207,4 +72207,762 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <l pos="N">rávdu</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">rautu</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">nieriä</t>
+        <t pos="N">pikkunieriä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">veajet</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">kalanpoikanen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">pikkukala</t>
+        <t pos="N">kulmakko</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">veajehaš</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">kalanpoikanen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">pikkukala</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">mearradihkki</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">meritäi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">vilba</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">miespuolinen serkku</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">vilbbaš</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">miespuolinen serkus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">vilbealli</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">poikaserkku</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">oarpmealli</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">naispuolinen serkku</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">oambealle</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">naispuolinen serkku</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">oarmbealle</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">naispuolinen serkku</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">oarpmebealli</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">naispuolinen serkku</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">oarpmenbealli</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">naispuolinen serkku</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">ráfuheapmeáigi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">rauhoitusaika</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">ráfoheapmeáigi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">rauhoitusaika</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">ráfuheapmi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">rauhoitus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">ráfoheapmi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">rauhoitus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">biergodáigi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">jauheliha</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">reservašuvdna</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">varaus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">várašupmi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">varaus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">dálvečuoččot</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">talvikko (lohesta)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">porotokan seisotuspaikka talvella</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">šoaran</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">talvikko, edellisenä syksynä kutenut lohi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">čuonžá</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">talvikko</t>
+        <t pos="N">kutematon, yl kudun jälkeen noussut ja joessa talvehtinut lihavahko lohi keväällä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">vuorru</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">tavallisesti naaraspuolinen talvikko</t>
+        <t pos="N">joessa talvehtinut lohi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">gillilvuohta</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">kestävyys</t>
+        <t pos="N">uutteruus</t>
+        <t pos="N">pitkäjänteisyys</t>
+        <t pos="N">lannistumattomuus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">eanan</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">maa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">soavvil</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">harjus</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">harri</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">guollebiepmahat</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">kalankasvattamo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">áššečilgehus</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">selvitys</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">čielggadeapmi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">selvitystyö</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">selvittäminen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">čilgehus</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">selitys</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">tulkinta</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">tilitys</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">raportti</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">čilgejupmi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">selitys</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">selvitys</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">guorahallan</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">selvittely</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">selvittäminen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">selvitys</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">pohdinta</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">pohdiskelu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">heivehusgávpi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">sovelluskauppa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">Juvravuotna</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">Gandvik i Nesseby</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">vuojadanhálla</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">uimahalli</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">vuojadansále</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">uimahalli</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">ollesolmmoš</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">aikaihminen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">aikuinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">rohttu</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">rutto</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ankara ja nopeasti tarttuva kulkutauti</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">čoska</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">koivupölkky</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">kuppo</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">kulkutusverkon T:n muotoinen ja puusta tehty ohjain</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">govččas</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">peitto</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">peite</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">verho</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">kate</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">guoddá</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N" dial="west">patja</t>
+        <t pos="N" dial="east">tyyny</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">boalsttar</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">tyyny</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">boarsttal</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">tyyny</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">bolsttar</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">patja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">šleađga</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">sähkö</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">áŋkkur</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ankkuri</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">koukku</t>
+        <t pos="N">vieheessä, erityisesti kolmihaaranen ongenkoukku</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">áŋggaštus</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">mielihalu intohimo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">áŋggašeapmi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ikävöinti</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">ánggirdeaddji</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">uurastaja tulisielu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">porsliidna</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">posliini</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">porseliidna</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">posliini</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">árvideapmi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">arvaus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">meantaš</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">myyttinen peura</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">Kuolan niemimaan alueella legendan esiäiti (hirven tai villiporon muodossa, jolla on suuret sarvet)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">láddi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">lantalainen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">suomalainen</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">suomi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">suomen kieli</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">gieres</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ahkio</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">pulkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">geres</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ahkio</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">pulkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">gerres</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ahkio</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">pulkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">muoddáádja</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">karhu</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">peskiäijä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">guoccatdákti</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">penisluu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">guoccat</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">(poron, hevosen tms) siitin</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">suoro</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">oađđádat</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">vuodevaate</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">makaus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">raŧŧi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ajojälki (lumessa, erit ahkion)</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ahkionjälki</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">tie, maantie (R)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">stivrran</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ratti</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ohjauspyörä</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ruori</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">peräsin ohjain</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ohjausosa rasvaevä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">adjágas</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">horros</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">torkunta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">adjagas</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">horros</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">torkunta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <l pos="N">cuipi</l>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">suippo esine</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">kärki</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">piippolakki</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">pipo</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">lapinlakki</t>
+        <t pos="N">kaaresuvantolaisen miehen hassu</t>
+      </tg>
+    </mg>
+  </e>
 </r>
