@@ -8884,9 +8884,9 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="Adv">perään</t>
         <xg>
-	        <x>geahččat/jearrat bearrái</x>
-	        <xt>katsoa/kysyä perään</xt>
-	        </xg>
+            <x>geahččat/jearrat bearrái</x>
+            <xt>katsoa/kysyä perään</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -9768,9 +9768,9 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="Adv">sitä</t>
         <xg>
-	        <x>dađe buorebut</x>
-	        <xt>sitä paremmin/parempi</xt>
-	        </xg>
+            <x>dađe buorebut</x>
+            <xt>sitä paremmin/parempi</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -12710,13 +12710,13 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-	    <re>taittuneesta tai leikatusta esineestä</re>
+        <re>taittuneesta tai leikatusta esineestä</re>
         <t pos="Adv">poikki</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-	    <re>korvamerkistä</re>
+        <re>korvamerkistä</re>
         <t pos="Adv">nokka poikki</t>
       </tg>
     </mg>
@@ -15652,7 +15652,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-	    <re>litteästä esineestä</re>
+        <re>litteästä esineestä</re>
         <t pos="Adv">syrjin jhk päin käännettynä</t>
       </tg>
     </mg>
@@ -16640,18 +16640,18 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="Adv">verran</t>
         <xg>
-	        <x>dan mađe</x>
-	        <xt>sen verran</xt>
-	        </xg>
+            <x>dan mađe</x>
+            <xt>sen verran</xt>
+            </xg>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pron">mitä</t>
         <xg>
-	        <x>mađe – dađe</x>
-	        <xt>mitä – sitä</xt>
-	        </xg>
+            <x>mađe – dađe</x>
+            <xt>mitä – sitä</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -16663,9 +16663,9 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="Adv">verran</t>
         <xg>
-	        <x>dan mađe</x>
-	        <xt>sen verran</xt>
-	        </xg>
+            <x>dan mađe</x>
+            <xt>sen verran</xt>
+            </xg>
       </tg>
     </mg>
     <mg>
@@ -18380,7 +18380,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-	    <re>ruoasta</re>
+        <re>ruoasta</re>
         <t pos="Adv">aivan, vielä raakana</t>
       </tg>
     </mg>
@@ -20186,7 +20186,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-	   <re>korvamerkin sanasta, teosta</re>
+       <re>korvamerkin sanasta, teosta</re>
         <t pos="Adv">päällä</t>
       </tg>
     </mg>
@@ -23441,7 +23441,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-	      <re>es. matkan päässä</re>
+          <re>es. matkan päässä</re>
         <t pos="Adv">päässä</t>
       </tg>
     </mg>
@@ -23603,7 +23603,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-	      <re>R</re>
+          <re>R</re>
         <t pos="Adv">odottamatta</t>
       </tg>
     </mg>

@@ -139,7 +139,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-	      <re>kiellon yhteydessä</re>
+          <re>kiellon yhteydessä</re>
         <t pos="Pcle">että </t>
       </tg>
     </mg>
@@ -159,7 +159,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-	      <re>sitä on tapana</re>
+          <re>sitä on tapana</re>
         <t pos="Pcle">niinhän</t>
       </tg>
     </mg>
@@ -199,12 +199,12 @@ For the full license text, see the link above.</lic>
     <l pos="Pcle">hal</l>
     <mg>
       <tg xml:lang="fin">
-	      <re>painottomana</re>
+          <re>painottomana</re>
         <t pos="Pcle">nyt</t>
         <xg>
-	        <x>amma hal lea nu, ahte… </x>
-	        <xt>eiköhän ole niin, että</xt>
-	    </xg>
+            <x>amma hal lea nu, ahte… </x>
+            <xt>eiköhän ole niin, että</xt>
+        </xg>
       </tg>
     </mg>
   </e>
