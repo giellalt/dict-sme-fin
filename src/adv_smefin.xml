@@ -23420,7 +23420,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">binnoš</l>
+    <lg>
+      <l pos="Adv">binnoš</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">hieman</t>
@@ -23433,7 +23435,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">duogin</l>
+    <lg>
+      <l pos="Adv">duogin</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">takana</t>
@@ -23447,7 +23451,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">gait</l>
+    <lg>
+      <l pos="Adv">gait</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kaikki</t>
@@ -23460,7 +23466,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">geažos</l>
+    <lg>
+      <l pos="Adv">geažos</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">koko (päivän, yön jne)</t>
@@ -23473,7 +23481,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">gopposge</l>
+    <lg>
+      <l pos="Adv">gopposge</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kumpaallekaan</t>
@@ -23486,7 +23496,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">harvii</l>
+    <lg>
+      <l pos="Adv">harvii</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">harvoin</t>
@@ -23494,7 +23506,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">ilá</l>
+    <lg>
+      <l pos="Adv">ilá</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">liian</t>
@@ -23512,7 +23526,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">juosat</l>
+    <lg>
+      <l pos="Adv">juosat</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">johonkin</t>
@@ -23525,7 +23541,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">nađat</l>
+    <lg>
+      <l pos="Adv">nađat</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">-kahvainen</t>
@@ -23538,7 +23556,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">ovddos maŋos</l>
+    <lg>
+      <l pos="Adv">ovddos maŋos</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">edestakaisin</t>
@@ -23546,7 +23566,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">ovddosmaŋos</l>
+    <lg>
+      <l pos="Adv">ovddosmaŋos</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">edestakaisin</t>
@@ -23554,7 +23576,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">roahtá</l>
+    <lg>
+      <l pos="Adv">roahtá</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">äkisti</t>
@@ -23572,7 +23596,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">roahttá</l>
+    <lg>
+      <l pos="Adv">roahttá</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">äkisti</t>
@@ -23590,7 +23616,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">roahttásit</l>
+    <lg>
+      <l pos="Adv">roahttásit</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">äkisti</t>
@@ -23609,7 +23637,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">sahteládje</l>
+    <lg>
+      <l pos="Adv">sahteládje</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">satunnaisesti</t>
@@ -23617,7 +23647,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Adv">sealggális</l>
+    <lg>
+      <l pos="Adv">sealggális</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">selällään</t>

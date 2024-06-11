@@ -131,7 +131,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
   <e>
-    <l pos="Pcle">amas</l>
+    <lg>
+      <l pos="Pcle">amas</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pcle">jotta</t>
@@ -150,7 +152,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Pcle">ammat</l>
+    <lg>
+      <l pos="Pcle">ammat</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pcle">eikös</t>
@@ -165,7 +169,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Pcle">gait</l>
+    <lg>
+      <l pos="Pcle">gait</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pcle">kaikkein</t>
@@ -173,7 +179,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Pcle">gis</l>
+    <lg>
+      <l pos="Pcle">gis</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pcle">puolestaan</t>
@@ -196,7 +204,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Pcle">hal</l>
+    <lg>
+      <l pos="Pcle">hal</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
           <re>painottomana</re>
@@ -209,7 +219,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Pcle">hás</l>
+    <lg>
+      <l pos="Pcle">hás</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pcle">-ko</t>

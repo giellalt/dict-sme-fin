@@ -325,7 +325,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
   <e>
-    <l pos="Pron" type="Indef">goappašagat</l>
+    <lg>
+      <l pos="Pron" type="Indef">goappašagat</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pron">molemmat</t>
@@ -333,7 +335,9 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-    <l pos="Pron" type="Indef">soamis</l>
+    <lg>
+      <l pos="Pron" type="Indef">soamis</l>
+    </lg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pron">jokin</t>
