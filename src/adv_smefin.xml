@@ -279,16 +279,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">baicca</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">mieluummin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">baicce</l>
       </lg>
       <mg>
@@ -613,16 +603,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">paikallisesti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">báljo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">paljon</t>
          </tg>
       </mg>
    </e>
@@ -8165,6 +8145,11 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">paremminkin</t>
       </tg>
     </mg>
+    <mg>
+      <tg xml:lang="fin">
+         <t pos="Adv">mieluummin</t>
+      </tg>
+   </mg>
   </e>
   <e>
   <lg>
@@ -8303,31 +8288,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
   <lg>
-    <l pos="Adv">bálddalagaid</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">rinnakkain</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">vierekkäin</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">rinnan</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">vieretysten</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
     <l pos="Adv">bálddal</l>
   </lg>
     <mg>
@@ -8344,31 +8304,6 @@ For the full license text, see the link above.</lic>
   <e>
   <lg>
     <l pos="Adv">bálddalaga</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">rinnakkain</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">vierekkäin</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">rinnan</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">vieretysten</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
-    <l pos="Adv">bálddalagaid</l>
   </lg>
     <mg>
       <tg xml:lang="fin">
@@ -10441,41 +10376,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">useammin</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
-    <l pos="Adv">dávjjimus</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">useimmin</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
-    <l pos="Adv">dávjjimusat</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">useimmin</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
-    <l pos="Adv">dávjjimustá</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">korkeintaan (niin ja niin useasti)</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">useimmin</t>
       </tg>
     </mg>
   </e>
@@ -16746,21 +16646,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">maalisena</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
-    <l pos="Adv">mallesge</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">jonkinlainen</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">jonkinmoinen</t>
       </tg>
     </mg>
   </e>
@@ -23444,21 +23329,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="Adv">gait</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">kaikki</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">kokonaan</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="Adv">geažos</l>
     </lg>
     <mg>
@@ -23705,26 +23575,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">siihen asti kun</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-   <lg>
-    <l pos="Adv">ilá</l>
-   </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">liian</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">ylen</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">kovin</t>
       </tg>
     </mg>
   </e>

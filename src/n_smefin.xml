@@ -12930,15 +12930,29 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">erttet</l>
+        <l pos="N">erttet</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="N">sisäpuolen kylki</t>
-            <t pos="N">teuraan kylkipala</t>
-         </tg>
+        <tg xml:lang="fin">
+          <t pos="N">sisäpuolen kylki</t>
+        </tg>
       </mg>
-   </e>
+      <mg>
+        <tg xml:lang="fin">
+          <t pos="N">ripa</t>
+        </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fin">
+          <t pos="N">rima</t>
+        </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fin">
+          <t pos="N">teuraan kylkipala</t>
+        </tg>
+      </mg>
+    </e>
    <e>
       <lg>
          <l pos="N">etihkka</l>
@@ -13888,16 +13902,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">lääni</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">fylkkamánni</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">maaherra</t>
          </tg>
       </mg>
    </e>
@@ -15470,16 +15474,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">geres</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">pulkka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">giddagas</l>
       </lg>
       <mg>
@@ -16981,16 +16975,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">goarrunmašiidna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">ompelukone</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">goarrálat</l>
       </lg>
       <mg>
@@ -17006,16 +16990,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">kortti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">goartil</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">vartti</t>
          </tg>
       </mg>
    </e>
@@ -17609,16 +17583,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">goppás</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">koppakuoriainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">gorddet</l>
       </lg>
       <mg>
@@ -17798,17 +17762,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">kuvaaminen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">govččas</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">peitto</t>
-            <t pos="N">peite</t>
          </tg>
       </mg>
    </e>
@@ -18241,17 +18194,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="N">kantaja</t>
             <t pos="N">vasoja</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">guoddá</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">patja</t>
-            <t pos="N">tyyny</t>
          </tg>
       </mg>
    </e>
@@ -18698,16 +18640,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">sieni</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">guorahallan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">selvitys</t>
          </tg>
       </mg>
    </e>
@@ -19265,16 +19197,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">tuhka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">guvllár</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">puoskari</t>
          </tg>
       </mg>
    </e>
@@ -30969,16 +30891,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">mašiidna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">kone</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">nagir</l>
       </lg>
       <mg>
@@ -33667,16 +33579,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">oambealle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">serkku</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">oamedovdu</l>
       </lg>
       <mg>
@@ -34238,16 +34140,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">öljy</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ollesolmmoš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">aikuinen</t>
          </tg>
       </mg>
    </e>
@@ -37087,16 +36979,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">riššasággi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">tulitikku</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">riššu</l>
       </lg>
       <mg>
@@ -39118,16 +39000,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">virta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">rávdu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">nieriä</t>
          </tg>
       </mg>
    </e>
@@ -47376,16 +47248,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">veattat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">liekaporo</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">veattáhat</l>
       </lg>
       <mg>
@@ -52237,16 +52099,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">čielggadeapmi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">selvitystyö</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">čielggadus</l>
       </lg>
       <mg>
@@ -52420,16 +52272,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">juhlavaatteet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">čilgehus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">selitys</t>
          </tg>
       </mg>
    </e>
@@ -60743,7 +60585,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">finnmark</t>
+        <t pos="N">Finnmark</t>
       </tg>
     </mg>
   </e>
@@ -70544,31 +70386,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">erttet</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">kylki</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">ripa</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">rima</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">kylkipala</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">erttetdákti</l>
     </lg>
     <mg>
@@ -70975,6 +70792,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="fin">
+         <re>hevosen, poron tms.</re>
         <t pos="N">siitin</t>
       </tg>
     </mg>
@@ -71404,16 +71222,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">meavrresgárri</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">noitarumpu</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">mievri</l>
     </lg>
     <mg>
@@ -71434,16 +71242,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">muuttaminen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">nađas</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">aines kahvaa tai vartta varten</t>
       </tg>
     </mg>
   </e>
@@ -72695,16 +72493,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">eanan</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">maa</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">soavvil</l>
     </lg>
     <mg>
@@ -72971,16 +72759,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">bolsttar</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">patja</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">šleađga</l>
     </lg>
     <mg>
@@ -73172,21 +72950,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">penisluu</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">guoccat</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">(poron, hevosen tms) siitin</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">suoro</t>
       </tg>
     </mg>
   </e>

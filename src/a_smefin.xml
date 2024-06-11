@@ -3257,16 +3257,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">ekonomalaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">taloudellinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">ellui</l>
       </lg>
       <mg>
@@ -3282,16 +3272,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">kunnon</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">erdui</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">ärtyisä</t>
          </tg>
       </mg>
    </e>
@@ -4908,16 +4888,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">herraskainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">hearvái</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">huvittava</t>
          </tg>
       </mg>
    </e>
@@ -7479,16 +7449,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">našuvnnalaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">kansallinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">nealggas</l>
       </lg>
       <mg>
@@ -8009,16 +7969,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="A">našuvnnalaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">kansallinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">naššuvnnalaš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11355,16 +11305,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">surolaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">surullinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">suttis</l>
       </lg>
       <mg>
@@ -12643,16 +12583,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">ensimmäinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">vuovdái</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">metsäinen</t>
          </tg>
       </mg>
    </e>
@@ -23472,16 +23402,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
   <lg>
-    <l pos="A">kulturhistorjjálaš</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">kulttuurihistoriallinen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
     <l pos="A">kulturvuđot</l>
   </lg>
     <mg>
@@ -30292,6 +30212,16 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
+   <lg>
+      <l pos="A">hearvái</l>
+   </lg>
+   <mg>
+      <tg xml:lang="fin">
+         <t pos="A">huvittava</t>
+      </tg>
+   </mg>
+  </e>
+  <e>
     <lg>
       <l pos="A">imašhámát</l>
     </lg>
@@ -30518,36 +30448,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">cohkon</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">mataloitunut</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">olles</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">täysi</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">kokonainen</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">täydellinen kokonaista- (olles mihtus= täysimittainen, täydessä mitassa)</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="A">ollesšattot</l>
     </lg>
     <mg>
@@ -30623,56 +30523,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="A">täydellinen kokonaista- (olles mihtus= täysimittainen, täydessä mitassa)</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-   <lg>
-    <l pos="A">ollesšattot</l>
-   </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">täysikasvuinen</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">aikuinen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-   <lg>
-    <l pos="A">dájuhuvvon</l>
-   </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">huijattu</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-   <lg>
-    <l pos="A">baháneahkkán</l>
-   </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">ilkeä</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">ilkeämielinen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-   <lg>
-    <l pos="A">cuipi</l>
-   </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">törröttävä</t>
       </tg>
     </mg>
   </e>
