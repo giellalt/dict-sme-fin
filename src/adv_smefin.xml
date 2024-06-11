@@ -1974,7 +1974,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">earalágan</l>
+         <l pos="Adv">earálágan</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8278,7 +8278,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
   <lg>
-    <l pos="Adv">báldalaga</l>
+    <l pos="Adv">bálddalaga</l>
   </lg>
     <mg>
       <tg xml:lang="fin">
@@ -8303,7 +8303,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
   <lg>
-    <l pos="Adv">báldalagaid</l>
+    <l pos="Adv">bálddalagaid</l>
   </lg>
     <mg>
       <tg xml:lang="fin">
@@ -10401,7 +10401,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
   <lg>
-    <l pos="Adv">dávjjemus</l>
+    <l pos="Adv">dávjjimus</l>
   </lg>
     <mg>
       <tg xml:lang="fin">
@@ -10411,7 +10411,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
   <lg>
-    <l pos="Adv">dávjjemusat</l>
+    <l pos="Adv">dávjjimusat</l>
   </lg>
     <mg>
       <tg xml:lang="fin">
@@ -10421,7 +10421,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
   <lg>
-    <l pos="Adv">dávjjemustá</l>
+    <l pos="Adv">dávjjimustá</l>
   </lg>
     <mg>
       <tg xml:lang="fin">
@@ -11966,7 +11966,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
   <lg>
-    <l pos="Adv">erenamážit</l>
+    <l pos="Adv">erenoamážit</l>
   </lg>
     <mg>
       <tg xml:lang="fin">
@@ -23408,14 +23408,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">vuorotellen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <l pos="Po">bakto</l>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Po">kautta</t>
       </tg>
     </mg>
   </e>

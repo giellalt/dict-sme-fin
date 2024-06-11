@@ -26866,16 +26866,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">čaimmehit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">naurahtaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">čakčut</l>
       </lg>
       <mg>
@@ -32665,16 +32655,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">digáštallat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">keskustella</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">biebmat</l>
       </lg>
       <mg>
@@ -33795,31 +33775,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">oasálastit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">osallistua</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">fátmmastit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="V">syleillä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sihkarastit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">varmistaa</t>
          </tg>
       </mg>
    </e>
@@ -33910,16 +33870,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="V">yksinkertaistaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">movttidahttit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">innoittaa</t>
          </tg>
       </mg>
    </e>
@@ -34483,6 +34433,11 @@ For the full license text, see the link above.</lic>
         <t pos="V">innostaa</t>
       </tg>
     </mg>
+    <mg>
+      <tg xml:lang="fin">
+         <t pos="V">innoittaa</t>
+      </tg>
+   </mg>
   </e>
   <e>
     <lg>
@@ -51905,26 +51860,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">čáimmihit</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">naurahtaa spontaanisti, tahtomattaan</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">čáimmehit</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">naurahtaa spontaanisti, tahtomattaan</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">váraštit</l>
     </lg>
     <mg>
@@ -53324,7 +53259,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">gállanit</l>
+      <l pos="V">gallánit</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -53374,7 +53309,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="V">galmmastuvvát</l>
+      <l pos="V">galmmastuvvat</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -54934,21 +54869,23 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
    <lg>
-    <l pos="V">čáimmihit</l>
+    <l pos="V">čaimmihit</l>
    </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">naurahtaa (spontaanisti, tahtomattaan)</t>
+        <re>spontaanisti, tahtomattaan</re>
+        <t pos="V">naurahtaa</t>
       </tg>
     </mg>
   </e>
   <e>
    <lg>
-    <l pos="V">čáimmehit</l>
+    <l pos="V">čaimmehit</l>
    </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">naurahtaa (spontaanisti, tahtomattaan)</t>
+         <re>spontaanisti, tahtomattaan</re>
+        <t pos="V">naurahtaa</t>
       </tg>
     </mg>
   </e>

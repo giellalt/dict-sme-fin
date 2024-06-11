@@ -2465,7 +2465,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bassaladdanmášiidna</l>
+         <l pos="N">bassaladdanmašiidna</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8898,16 +8898,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">departementa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">ministeriö</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">deret</l>
       </lg>
       <mg>
@@ -10423,7 +10413,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">duhkordalˈli</l>
+         <l pos="N">duhkordalli</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11037,16 +11027,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="N">dutkandepartemeanta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">tutkimusministeriö</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">dutkandepartementa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13883,7 +13863,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">fylkamánni</l>
+         <l pos="N">fylkkamánni</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16577,16 +16557,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">girkodepartementa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">kirkkoministeriö</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">girkoeallin</l>
       </lg>
       <mg>
@@ -17011,7 +16981,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">goarrunmášiidna</l>
+         <l pos="N">goarrunmašiidna</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18987,16 +18957,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">guovlodepartementa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">alueministeriö</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">guovloministtar</l>
       </lg>
       <mg>
@@ -19019,16 +18979,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="N">guovludepartemeanta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">alueministeriö</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">guovludepartementa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24353,16 +24303,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">kapihtal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">kappale</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kapitála</l>
       </lg>
       <mg>
@@ -24701,16 +24641,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">kollektivisointi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">komišuvdna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">komissio</t>
          </tg>
       </mg>
    </e>
@@ -25238,16 +25168,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">kultuvradepartemeanta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">kulttuuriministeriö</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kumma</l>
       </lg>
       <mg>
@@ -25446,16 +25366,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">toimistoapulainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kápihttal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">kirjan luku</t>
          </tg>
       </mg>
    </e>
@@ -26150,7 +26060,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">lihttebassanmášiidna</l>
+         <l pos="N">lihttebassanmašiidna</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29473,16 +29383,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">minoritehtta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">vähemmistö</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">minta</l>
       </lg>
       <mg>
@@ -31069,7 +30969,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">mášiidna</l>
+         <l pos="N">mašiidna</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -63133,7 +63033,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">luku (kirjassa)</t>
+         <re>kirjassa</re>
+        <t pos="N">luku</t>
       </tg>
     </mg>
     <mg>
@@ -63142,6 +63043,22 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+   <lg>
+      <l pos="N">kapihtal</l>
+   </lg>
+   <mg>
+      <tg xml:lang="fin">
+         <re>kirjassa</re>
+        <t pos="N">luku</t>
+      </tg>
+   </mg>
+   <mg>
+      <tg xml:lang="fin">
+         <t pos="N">kappale</t>
+      </tg>
+   </mg>
+</e>
   <e>
     <lg>
       <l pos="N">kapteaidna</l>
@@ -70385,7 +70302,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">čoamọhasnoras</l>
+      <l pos="N">čoamohasnoras</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -72628,16 +72545,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">oarmbealle</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">naispuolinen serkku</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">oarpmebealli</l>
     </lg>
     <mg>
@@ -73245,7 +73152,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">muoddáádja</l>
+      <l pos="N">muoddááddjá</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -73351,21 +73258,6 @@ For the full license text, see the link above.</lic>
   <e>
     <lg>
       <l pos="N">adjágas</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">horros</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">torkunta</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">adjagas</l>
     </lg>
     <mg>
       <tg xml:lang="fin">

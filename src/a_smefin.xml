@@ -1857,16 +1857,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">deatalaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">tärkeä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">deavdemeahttun</l>
       </lg>
       <mg>
@@ -3267,7 +3257,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">ekonomálaš</l>
+         <l pos="A">ekonomalaš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8018,7 +8008,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">nášuvnnalaš</l>
+         <l pos="A">našuvnnalaš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8028,7 +8018,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">náššuvnnalaš</l>
+         <l pos="A">naššuvnnalaš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15373,7 +15363,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">kultturhistorjjálaš</l>
+         <l pos="A">kulturhistorjjálaš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29708,16 +29698,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
   <lg>
-    <l pos="A">viktig</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">tärkeä</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
     <l pos="A">virolaš</l>
   </lg>
     <mg>
@@ -30528,7 +30508,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A">bastohis</l>
+      <l pos="A">basttohis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -30613,16 +30593,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="A">törröttävä</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-   <lg>
-    <l pos="A">bastohis</l>
-   </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">tylsä, pystymätön (puukosta, viikatteesta tms)</t>
       </tg>
     </mg>
   </e>
