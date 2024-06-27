@@ -5554,8 +5554,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t dialect="itä" pos="N">patja</t>
-            <t dialect="länsi" pos="N">tyyny</t>
+            <t dialect="east" pos="N">patja</t>
+            <t dialect="west" pos="N">tyyny</t>
          </tg>
       </mg>
    </e>
@@ -72740,8 +72740,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N" dial="west">patja</t>
-        <t pos="N" dial="east">tyyny</t>
+        <t pos="N" dialect="west">patja</t>
+        <t pos="N" dialect="east">tyyny</t>
       </tg>
     </mg>
   </e>
