@@ -61,11 +61,51 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Num">golbmanuppelohkái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmetoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">golbmalogi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmekymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Num">guhtta</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">guhttanuppelohkái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">guhttalogi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusikymmentä</t>
          </tg>
       </mg>
    </e>
@@ -81,11 +121,41 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Num">guoktenuppelohkái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">guoktelogi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Num">gávcci</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">gávccinuppelohkái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksantoista</t>
          </tg>
       </mg>
    </e>
@@ -132,11 +202,41 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Num">njealljenuppelohkái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljätoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">njealljelogi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljäkymmentæ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Num">okta</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">oktanuppelohkái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yksitoista</t>
          </tg>
       </mg>
    </e>
@@ -152,6 +252,26 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Num">ovccinuppelohkái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksäntoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ovccilogi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentæ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Num">vihtta</l>
       </lg>
       <mg>
@@ -162,11 +282,41 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Num">vihttanuppelohkái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">vihttalogi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentæ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Num">čieža</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">čiežanuppelohkái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemäntoista</t>
          </tg>
       </mg>
    </e>
@@ -192,6 +342,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Num">gávccilogi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Num">gákcilogi</l>
       </lg>
       <mg>
@@ -202,7 +362,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Num">čiehččalogi</l>
+         <l pos="Num">čiežalogi</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
