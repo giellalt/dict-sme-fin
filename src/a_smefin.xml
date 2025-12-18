@@ -330,16 +330,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">arktalaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">arktinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">arveš</l>
       </lg>
       <mg>
@@ -7447,16 +7437,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">našunála</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">kansallinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">nealggas</l>
       </lg>
       <mg>
@@ -8738,16 +8718,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="A">psyhkalaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">psyykkinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">psykalaš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15861,7 +15831,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">hámmárfeastalaš</l>
+         <l pos="A">hámmerfeastalaš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16626,16 +16596,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">säätieteellinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">profeššunealla</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">ammattimainen</t>
          </tg>
       </mg>
    </e>
@@ -25150,16 +25110,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">moralalaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">moraalinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">morfofonologalaš</l>
       </lg>
       <mg>
@@ -26905,6 +26855,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">ammatillinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ammattimainen</t>
          </tg>
       </mg>
    </e>

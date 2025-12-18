@@ -19948,7 +19948,7 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
-  <e>
+  <!-- <e>
     <lg>
       <l pos="V">leašgoahtit</l>
     </lg>
@@ -19958,7 +19958,7 @@ For the full license text, see the link above.</lic>
         <t pos="V">alkaa olla</t>
       </tg>
     </mg>
-  </e>
+  </e> -->
 
   <e>
     <lg>
@@ -63333,7 +63333,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="V">billanit</l>
+      <l pos="V">billánit</l>
     </lg>
 
     <mg>
