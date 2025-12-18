@@ -10554,21 +10554,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
   <lg>
-    <l pos="Adv">davvenuorttin</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">koillisessa</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">koillisesta</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
     <l pos="Adv">davveoarjin</l>
   </lg>
     <mg>
@@ -18735,21 +18720,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
   <lg>
-    <l pos="Adv">oaidnemassii</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">näkyville</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">nähtäville</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
     <l pos="Adv">oaidnimassii</l>
   </lg>
     <mg>
@@ -19245,36 +19215,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">vaatteet päällä</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
-    <l pos="Adv">obbanassii</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">ylipäänsä</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">ylipäätään</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-  <lg>
-    <l pos="Adv">obbanassiige</l>
-  </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">lainkaan</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">ollenkaan</t>
       </tg>
     </mg>
   </e>
@@ -23573,7 +23513,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
    <lg>
-    <l pos="Adv">dassáziigo</l>
+    <l pos="Adv">dassážiigo</l>
    </lg>
     <mg>
       <tg xml:lang="fin">

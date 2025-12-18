@@ -6843,21 +6843,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bussa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">linja-auto</t>
-            <t pos="N">bussi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">busse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
+            <t pos="N">linja-auto</t>
             <t pos="N">bussi</t>
          </tg>
       </mg>
@@ -8427,16 +8417,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">lauseke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">dallearka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">lautanen</t>
          </tg>
       </mg>
    </e>
@@ -32454,16 +32434,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">nubbingiella</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">toinen kieli</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">nulla</l>
       </lg>
       <mg>
@@ -35700,16 +35670,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">rinta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">radio</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">radio</t>
          </tg>
       </mg>
    </e>
@@ -54418,7 +54378,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">šukkuláda</l>
+         <l pos="N">šukkoláda</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">suklaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">šuhkoláda</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -55247,16 +55217,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">guovttegiella</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">toinen kieli</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">teknihkka</l>
       </lg>
       <mg>
@@ -55408,7 +55368,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">válduoassi</l>
+      <l pos="N">váldooassi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -60589,21 +60549,21 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">finnmárku</l>
+      <l pos="N" type="Prop">Finnmárku</l>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Finnmark</t>
+        <t pos="N" type="Prop">Finnmark</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">finnmárku</l>
+      <l pos="N" type="Prop">Finnmárku</l>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Ruija</t>
+        <t pos="N" type="Prop">Ruija</t>
       </tg>
     </mg>
   </e>
@@ -65711,7 +65671,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">oappážat vieljážat</l>
+      <l pos="N">oappážat vieljažat</l>
   </lg>
     <mg>
       <tg xml:lang="fin">
@@ -71280,7 +71240,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N">nágir</l>
+      <l pos="N">nagir</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
