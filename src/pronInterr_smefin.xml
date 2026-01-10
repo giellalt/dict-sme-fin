@@ -31,7 +31,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="Pron" type="interr">gii</l>
+         <l pos="Pron" type="Interr">gii</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -41,7 +41,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="interr">goabbá</l>
+         <l pos="Pron" type="Interr">goabbá</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -51,7 +51,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="interr">makkár</l>
+         <l pos="Pron" type="Interr">makkár</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -62,7 +62,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="interr">makkáraš</l>
+         <l pos="Pron" type="Interr">makkáraš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -73,7 +73,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="interr">mii</l>
+         <l pos="Pron" type="Interr">mii</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
