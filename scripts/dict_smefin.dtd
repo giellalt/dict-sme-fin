@@ -35,7 +35,7 @@
 >
 
 
-<!ELEMENT mg (semantics?, l_ref?, tg+, xg* ) >
+<!ELEMENT mg (semantics?, l_ref?, tg+ ) >
 
 
 <!ELEMENT tg (semantics?, re?, t+, xg* ) >
