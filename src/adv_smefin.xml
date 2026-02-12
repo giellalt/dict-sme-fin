@@ -35,7 +35,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">Jumala antakoon</t>
+            <t t_type="phrase">Jumala antakoon</t>
          </tg>
       </mg>
    </e>
@@ -266,7 +266,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">pahat toisilleen</t>
+            <t t_type="phrase">pahat toisilleen</t>
          </tg>
       </mg>
    </e>
@@ -287,7 +287,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">sen sijaan</t>
-            <t pos="Adv">sitä vastoin</t>
+            <t t_type="phrase">sitä vastoin</t>
          </tg>
       </mg>
    </e>
@@ -384,7 +384,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">lähemmäs pöytää</t>
+            <t t_type="phrase">lähemmäs pöytää</t>
          </tg>
       </mg>
    </e>
@@ -404,7 +404,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">suoraan sanottuna</t>
+            <t t_type="phrase">suoraan sanottuna</t>
          </tg>
       </mg>
    </e>
@@ -625,8 +625,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">sitä puolta</t>
-            <t pos="Adv">sitä myöten</t>
+            <t t_type="phrase">sitä puolta</t>
+            <t t_type="phrase">sitä myöten</t>
          </tg>
       </mg>
    </e>
@@ -646,7 +646,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">sillä tavalla</t>
+            <t t_type="phrase">sillä tavalla</t>
          </tg>
       </mg>
    </e>
@@ -656,7 +656,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">juuri niillä seuduin</t>
+            <t t_type="phrase">juuri niillä seuduin</t>
          </tg>
       </mg>
    </e>
@@ -718,7 +718,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">nyt heti</t>
+            <t t_type="phrase">nyt heti</t>
             <t pos="Adv">heti</t>
          </tg>
       </mg>
@@ -739,7 +739,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">sen takia</t>
+            <t pos="Pcle">sen takia</t>
             <t pos="Adv">siksi</t>
          </tg>
       </mg>
@@ -771,7 +771,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <re>ajan ilmauksissa</re>
-            <t pos="Adv">siitä asti</t>
+            <t t_type="phrase">siitä asti</t>
          </tg>
       </mg>
    </e>
@@ -781,7 +781,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">siihen asti</t>
+            <t t_type="phrase">siihen asti</t>
          </tg>
       </mg>
    </e>
@@ -791,7 +791,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">sen jälkeen</t>
+            <t t_type="phrase">sen jälkeen</t>
             <t pos="Adv">sitten</t>
          </tg>
       </mg>
@@ -803,7 +803,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">silti</t>
-            <t pos="Adv">siitä huolimatta</t>
+            <t t_type="phrase">siitä huolimatta</t>
          </tg>
       </mg>
    </e>
@@ -823,14 +823,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jonkin verran pohjoisemmas</t>
-            <t pos="Adv" var="sw">jonkin verran lännemmäs</t>
+            <t t_type="expl">jonkin verran pohjoisemmas</t>
+            <t t_type="expl" var="sw">jonkin verran lännemmäs</t>
             </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <re>vuonossa tai ulapalla</re>
-            <t pos="Adv">jonkin verran ulommas</t>
+            <t t_type="expl">jonkin verran ulommas</t>
          </tg>
       </mg>
    </e>
@@ -880,9 +880,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">sitä mukaa</t>
+            <t t_type="phrase">sitä mukaa</t>
             <t pos="Adv">vähitellen</t>
-            <t pos="Adv">pikku hiljaa</t>
+            <t t_type="phrase">pikku hiljaa</t>
          </tg>
       </mg>
    </e>
@@ -983,7 +983,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">siinä jossakin puhuteltavan lähellä</t>
+            <t t_type="expl">siinä jossakin puhuteltavan lähellä</t>
          </tg>
       </mg>
    </e>
@@ -1003,7 +1003,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">siellä missä sinä olet</t>
+            <t t_type="expl">siellä missä sinä olet</t>
          </tg>
       </mg>
    </e>
@@ -1025,7 +1025,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <re>lähelle puhuteltavaa</re>
-            <t pos="Adv">siihen paikkaan</t>
+            <t t_type="phrase">siihen paikkaan</t>
          </tg>
       </mg>
    </e>
@@ -1035,7 +1035,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">eniten jotakin jossakin</t>
+            <t t_type="expl">eniten jotakin jossakin</t>
          </tg>
       </mg>
    </e>
@@ -1045,7 +1045,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">paljon enemmän jotakin jossakin</t>
+            <t t_type="expl">paljon enemmän jotakin jossakin</t>
          </tg>
       </mg>
    </e>
@@ -1095,7 +1095,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">viime vuonna</t>
+            <t t_type="phrase">viime vuonna</t>
          </tg>
       </mg>
    </e>
@@ -1145,7 +1145,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">hyvä ravaamaan</t>
+            <t t_type="phrase">hyvä ravaamaan</t>
          </tg>
       </mg>
    </e>
@@ -1185,7 +1185,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jonkin verran sinnemmäs</t>
+            <t t_type="expl">jonkin verran sinnemmäs</t>
          </tg>
       </mg>
    </e>
@@ -1225,7 +1225,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">tuolta kaukaa ohi</t>
+            <t t_type="expl">tuolta kaukaa ohi</t>
          </tg>
       </mg>
    </e>
@@ -1307,7 +1307,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">väliaikaisesti tylppänä</t>
+            <t t_type="phrase">väliaikaisesti tylppänä</t>
          </tg>
       </mg>
    </e>
@@ -1317,7 +1317,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">väliaikaisesti tylppänä</t>
+            <t t_type="phrase">väliaikaisesti tylppänä</t>
          </tg>
       </mg>
    </e>
@@ -1347,7 +1347,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jonkin verran tuonnemmas</t>
+            <t t_type="expl">jonkin verran tuonnemmas</t>
          </tg>
       </mg>
    </e>
@@ -1458,7 +1458,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">sinne tänne</t>
+            <t t_type="phrase">sinne tänne</t>
          </tg>
       </mg>
    </e>
@@ -1478,7 +1478,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">kaukaisimmillaan tuolla</t>
+            <t t_type="phrase">kaukaisimmillaan tuolla</t>
          </tg>
       </mg>
    </e>
@@ -1549,7 +1549,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">tuo tuolla oikein kaukana</t>
+            <t t_type="expl">tuo tuolla oikein kaukana</t>
          </tg>
       </mg>
    </e>
@@ -1632,7 +1632,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">tänä vuonna</t>
+            <t t_type="phrase">tänä vuonna</t>
             <t pos="Adv">taannoin</t>
          </tg>
       </mg>
@@ -1643,7 +1643,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">juuri tämä</t>
+            <t t_type="phrase">juuri tämä</t>
          </tg>
       </mg>
    </e>
@@ -1653,7 +1653,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">näillä main</t>
+            <t t_type="phrase">näillä main</t>
          </tg>
       </mg>
    </e>
@@ -1713,7 +1713,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jonkin verran talvemmas</t>
+            <t t_type="expl">jonkin verran talvemmas</t>
          </tg>
       </mg>
    </e>
@@ -1815,7 +1815,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">tähän asti</t>
+            <t t_type="phrase">tähän asti</t>
          </tg>
       </mg>
    </e>
@@ -2004,7 +2004,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">äskeiseen asti</t>
+            <t t_type="phrase">äskeiseen asti</t>
          </tg>
       </mg>
    </e>
@@ -2014,7 +2014,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">aika paljon</t>
+            <t t_type="phrase">aika paljon</t>
          </tg>
       </mg>
    </e>
@@ -2024,7 +2024,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">isää vanhemman setänsä kanssa</t>
+            <t t_type="expl">isää vanhemman setänsä kanssa</t>
          </tg>
       </mg>
    </e>
@@ -2074,7 +2074,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">äitinsä kanssa</t>
+            <t t_type="phrase">äitinsä kanssa</t>
          </tg>
       </mg>
    </e>
@@ -2191,7 +2191,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">sylipainissa keskenään</t>
+            <t t_type="phrase">sylipainissa keskenään</t>
          </tg>
       </mg>
    </e>
@@ -2221,7 +2221,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jonkin verran ulommas rannasta</t>
+            <t t_type="expl">jonkin verran ulommas rannasta</t>
          </tg>
       </mg>
    </e>
@@ -2412,7 +2412,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">hiljattain</t>
-            <t pos="Adv">vähän aikaa sitten</t>
+            <t t_type="expl">vähän aikaa sitten</t>
          </tg>
       </mg>
    </e>
@@ -2427,12 +2427,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">johonkin saakka</t>
+            <t t_type="expl">johonkin saakka</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">aina johonkin asti</t>
+            <t t_type="expl">aina johonkin asti</t>
          </tg>
       </mg>
    </e>
@@ -2457,7 +2457,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">kolmannen kerran</t>
+            <t t_type="phrase">kolmannen kerran</t>
          </tg>
       </mg>
    </e>
@@ -2518,14 +2518,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">missä kohden</t>
-            <t pos="Adv">missä täsmälleen</t>
+            <t t_type="phrase">missä kohden</t>
+            <t t_type="phrase">missä täsmälleen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">mistä</t>
-            <t pos="Adv">mistä kohtaa</t>
+            <t t_type="phrase">mistä kohtaa</t>
          </tg>
       </mg>
    </e>
@@ -2618,7 +2618,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">kaukana toisistaan</t>
+            <t t_type="phrase">kaukana toisistaan</t>
          </tg>
       </mg>
    </e>
@@ -2659,7 +2659,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kahdesti</t>
-            <t pos="Adv">kaksi kertaa</t>
+            <t t_type="phrase">kaksi kertaa</t>
          </tg>
       </mg>
    </e>
@@ -2744,7 +2744,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <re>lueteltaessa</re>
             <t pos="Adv">kuudenneksi</t>
-            <t pos="Adv">kuudennen kerran</t>
+            <t t_type="phrase">kuudennen kerran</t>
          </tg>
       </mg>
    </e>
@@ -2815,7 +2815,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <re>kankaasta</re>
-            <t pos="Adv">epätasaiseksi revitty</t>
+            <t t_type="phrase">epätasaiseksi revitty</t>
          </tg>
       </mg>
    </e>
@@ -3000,7 +3000,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kerralla</t>
-            <t pos="Adv">yhdellä kertaa</t>
+            <t t_type="phrase">yhdellä kertaa</t>
             <t pos="Adv">kerrallaan</t>
          </tg>
       </mg>
@@ -3011,7 +3011,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">itse asiassa</t>
+            <t t_type="phrase">itse asiassa</t>
          </tg>
       </mg>
    </e>
@@ -3043,7 +3043,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">heti seuraavana päivänä</t>
+            <t t_type="phrase">heti seuraavana päivänä</t>
          </tg>
       </mg>
    </e>
@@ -3103,7 +3103,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">turhan päiten</t>
+            <t t_type="phrase">turhan päiten</t>
          </tg>
       </mg>
    </e>
@@ -3345,7 +3345,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jonkin matkan päähän</t>
+            <t t_type="expl">jonkin matkan päähän</t>
          </tg>
       </mg>
    </e>
@@ -3355,7 +3355,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jonkin matkan päässä edellä tai perässä liikkuvasta</t>
+            <t t_type="expl">jonkin matkan päässä edellä tai perässä liikkuvasta</t>
          </tg>
       </mg>
    </e>
@@ -3365,7 +3365,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jostain huolimatta</t>
+            <t t_type="expl">jostain huolimatta</t>
             <t pos="Adv">siltikin</t>
             <t pos="Adv">kuitenkin</t>
          </tg>
@@ -3439,8 +3439,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">vähän etelämpää</t>
-            <t pos="Adv" var="sw">vähän idempää</t>
+            <t t_type="expl">vähän etelämpää</t>
+            <t t_type="expl" var="sw">vähän idempää</t>
          </tg>
       </mg>
    </e>
@@ -3542,7 +3542,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <re>verkosta</re>
-            <t pos="Adv">pohjaa myöten painuneena</t>
+            <t t_type="phrase">pohjaa myöten painuneena</t>
          </tg>
       </mg>
    </e>
@@ -3756,7 +3756,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">kauemmas tuulen alle</t>
+            <t t_type="phrase">kauemmas tuulen alle</t>
          </tg>
       </mg>
    </e>
@@ -3818,7 +3818,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">pari kertaa</t>
+            <t t_type="phrase">pari kertaa</t>
          </tg>
       </mg>
    </e>
@@ -3848,7 +3848,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">silloin tällöin</t>
+            <t t_type="phrase">silloin tällöin</t>
          </tg>
       </mg>
    </e>
@@ -3890,7 +3890,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <re>ohi</re>
-            <t pos="Adv">vähän etelämpää</t>
+            <t t_type="phrase">vähän etelämpää</t>
          </tg>
       </mg>
    </e>
@@ -3921,7 +3921,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jonkin verran etelämmäs</t>
+            <t t_type="expl">jonkin verran etelämmäs</t>
          </tg>
       </mg>
    </e>
@@ -3961,7 +3961,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">tyveä myöten</t>
+            <t t_type="phrase">tyveä myöten</t>
          </tg>
       </mg>
    </e>
@@ -4117,7 +4117,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <re>kalasta</re>
-            <t pos="Adv">koukkuun tarttuneena muusta kohdasta kuin suustaan</t>
+            <t t_type="expl">koukkuun tarttuneena muusta kohdasta kuin suustaan</t>
          </tg>
       </mg>
    </e>
@@ -4127,7 +4127,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">takakenossa hetkellisesti</t>
+            <t t_type="expl">takakenossa hetkellisesti</t>
          </tg>
       </mg>
    </e>
@@ -4159,7 +4159,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <re>vyöstä tms.</re>
-            <t pos="Adv">alas luiskahtaneena</t>
+            <t t_type="phrase">alas luiskahtaneena</t>
          </tg>
       </mg>
    </e>
@@ -4308,8 +4308,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jonkin verran idemmäs</t>
-            <t pos="Adv" var="sw">jonkin verran pohjoisemmas</t>
+            <t t_type="expl">jonkin verran idemmäs</t>
+            <t t_type="expl" var="sw">jonkin verran pohjoisemmas</t>
          </tg>
       </mg>
    </e>
@@ -4407,8 +4407,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jonkin verran lännemmäs</t>
-            <t pos="Adv" var="sw">jonkin verran etelämmäs</t>
+            <t t_type="expl">jonkin verran lännemmäs</t>
+            <t t_type="expl" var="sw">jonkin verran etelämmäs</t>
          </tg>
       </mg>
    </e>
@@ -4510,7 +4510,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">taas kerran</t>
+            <t t_type="phrase">taas kerran</t>
          </tg>
       </mg>
    </e>
@@ -4540,7 +4540,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">yhdeksän kertaa</t>
+            <t t_type="phrase">yhdeksän kertaa</t>
          </tg>
       </mg>
    </e>
@@ -4567,7 +4567,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">yhteen</t>
             <t pos="Adv">vastakkain</t>
-            <t pos="Adv">toinen toistensa kanssa</t>
+            <t t_type="phrase">toinen toistensa kanssa</t>
          </tg>
       </mg>
    </e>
@@ -4735,7 +4735,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">juuri tänään</t>
+            <t t_type="phrase">juuri tänään</t>
          </tg>
       </mg>
    </e>
@@ -4746,7 +4746,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">yhdeksänneksi</t>
-            <t pos="Adv">yhdeksännen kerran</t>
+            <t t_type="phrase">yhdeksännen kerran</t>
          </tg>
       </mg>
    </e>
@@ -4870,7 +4870,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">itään päin</t>
+            <t t_type="phrase">itään päin</t>
          </tg>
       </mg>
    </e>
@@ -4920,7 +4920,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">aina vain</t>
+            <t t_type="phrase">aina vain</t>
          </tg>
       </mg>
    </e>
@@ -4970,7 +4970,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">liian läheltä reunaa</t>
+            <t t_type="phrase">liian läheltä reunaa</t>
          </tg>
       </mg>
    </e>
@@ -4980,7 +4980,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jossa on paljon laakeita savihieruoita</t>
+            <t t_type="expl">jossa on paljon laakeita savihieruoita</t>
          </tg>
       </mg>
    </e>
@@ -5020,7 +5020,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">takinrintamus auki repsottaen</t>
+            <t t_type="expl">takinrintamus auki repsottaen</t>
          </tg>
       </mg>
    </e>
@@ -5126,7 +5126,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">siitä asti</t>
+            <t t_type="phrase">siitä asti</t>
          </tg>
       </mg>
    </e>
@@ -5352,7 +5352,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">etukenossa hetkellisesti</t>
+            <t t_type="expl">etukenossa hetkellisesti</t>
          </tg>
       </mg>
    </e>
@@ -5372,7 +5372,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jolla on iso kita</t>
+            <t t_type="expl">jolla on iso kita</t>
          </tg>
       </mg>
    </e>
@@ -5402,7 +5402,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">lähempää seinänviertä</t>
+            <t t_type="phrase">lähempää seinänviertä</t>
          </tg>
       </mg>
    </e>
@@ -5465,7 +5465,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">lapaliitoksella kiinnitettynä</t>
+            <t t_type="phrase">lapaliitoksella kiinnitettynä</t>
          </tg>
       </mg>
    </e>
@@ -5496,7 +5496,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">saumalla joltakin kohtaa</t>
+            <t t_type="expl">saumalla joltakin kohtaa</t>
          </tg>
       </mg>
    </e>
@@ -5726,7 +5726,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jonkin verran lännemmäs</t>
+            <t t_type="expl">jonkin verran lännemmäs</t>
          </tg>
       </mg>
    </e>
@@ -6046,7 +6046,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jossa on paljon juustoa</t>
+            <t t_type="expl">jossa on paljon juustoa</t>
          </tg>
       </mg>
    </e>
@@ -6077,7 +6077,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <re>puusta tai puuesineestä</re>
-            <t pos="Adv">ontto jostakin kohtaa</t>
+            <t t_type="expl">ontto jostakin kohtaa</t>
          </tg>
       </mg>
    </e>
@@ -6211,7 +6211,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">vaimo miehensä kanssa</t>
+            <t t_type="expl">vaimo miehensä kanssa</t>
          </tg>
       </mg>
    </e>
@@ -6221,7 +6221,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">isänsä kanssa</t>
+            <t t_type="expl">isänsä kanssa</t>
          </tg>
       </mg>
    </e>
@@ -6262,7 +6262,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">kauan sitten</t>
+            <t t_type="phrase">kauan sitten</t>
          </tg>
       </mg>
    </e>
@@ -6383,7 +6383,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">terä ylöspäin</t>
+            <t t_type="phrase">terä ylöspäin</t>
          </tg>
       </mg>
    </e>
@@ -6479,7 +6479,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">setänsä isän nuoremman veljen tai serkun kanssa</t>
+            <t t_type="expl">setänsä isän nuoremman veljen tai serkun kanssa</t>
          </tg>
       </mg>
    </e>
@@ -6499,7 +6499,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">seitsemännen kerran</t>
+            <t t_type="phrase">seitsemännen kerran</t>
          </tg>
       </mg>
    </e>
@@ -6509,7 +6509,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">seitsemän kertaa</t>
+            <t t_type="phrase">seitsemän kertaa</t>
          </tg>
       </mg>
    </e>
@@ -6519,7 +6519,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">koossa pysyen kuljetettavasta tokasta</t>
+            <t t_type="expl">koossa pysyen kuljetettavasta tokasta</t>
          </tg>
       </mg>
    </e>
@@ -6530,7 +6530,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kasassa</t>
-            <t pos="Adv">yhdessä paikassa</t>
+            <t t_type="phrase">yhdessä paikassa</t>
          </tg>
       </mg>
    </e>
@@ -6815,12 +6815,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lainatakseni jkn sanoja</t>
+        <t t_type="expl">lainatakseni jkn sanoja</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kuten jku sanoo</t>
+        <t t_type="expl">kuten jku sanoo</t>
       </tg>
     </mg>
   </e>
@@ -6830,12 +6830,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lainatakseni jkn sanoja</t>
+        <t t_type="expl">lainatakseni jkn sanoja</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kuten jku sanoo</t>
+        <t t_type="expl">kuten jku sanoo</t>
       </tg>
     </mg>
   </e>
@@ -7000,7 +7000,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ylös (maastossa)</t>
+         <re>maastossa</re>
+        <t pos="Adv">ylös</t>
       </tg>
     </mg>
     <mg>
@@ -7030,7 +7031,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">paljain jaloin</t>
+        <t t_type="phrase">paljain jaloin</t>
       </tg>
     </mg>
   </e>
@@ -7050,7 +7051,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kaikki yhdessä</t>
+        <t t_type="phrase">kaikki yhdessä</t>
       </tg>
     </mg>
   </e>
@@ -7065,7 +7066,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kaikkien nähden</t>
+        <t t_type="phrase">kaikkien nähden</t>
       </tg>
     </mg>
   </e>
@@ -7090,7 +7091,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kaikkien näkyville</t>
+        <t t_type="phrase">kaikkien näkyville</t>
       </tg>
     </mg>
   </e>
@@ -7100,7 +7101,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kaikkien näkyvillä</t>
+        <t t_type="phrase">kaikkien näkyvillä</t>
       </tg>
     </mg>
     <mg>
@@ -7195,7 +7196,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">alkupuolelle (ajanjakson)</t>
+         <re>ajanjakson</re>
+        <t pos="Adv">alkupuolelle</t>
       </tg>
     </mg>
   </e>
@@ -7209,8 +7211,9 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
     <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">alkupuolella (ajanjakson)</t>
+      <tg xml:lang="fin"> 
+         <re>ajanjakson</re>
+        <t pos="Adv">alkupuolella</t>
       </tg>
     </mg>
   </e>
@@ -7245,7 +7248,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toiselta nimeltään</t>
+        <t t_type="phrase">toiselta nimeltään</t>
       </tg>
     </mg>
   </e>
@@ -7395,7 +7398,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">sen kun</t>
+        <t t_type="phrase">sen kun</t>
       </tg>
     </mg>
     <mg>
@@ -7425,7 +7428,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">anonymiteetti säilyttäen</t>
+        <t t_type="phrase">anonymiteetti säilyttäen</t>
       </tg>
     </mg>
   </e>
@@ -7475,7 +7478,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">omituisella tavalla</t>
+        <t t_type="phrase">omituisella tavalla</t>
       </tg>
     </mg>
   </e>
@@ -7485,12 +7488,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän aiemmin</t>
+        <t t_type="expl">vähän aiemmin</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän varhemmin</t>
+        <t t_type="expl">vähän varhemmin</t>
       </tg>
     </mg>
   </e>
@@ -7560,7 +7563,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">aamun virkku</t>
+        <t t_type="phrase">aamun virkku</t>
       </tg>
     </mg>
     <mg>
@@ -7650,7 +7653,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">aivan ilman</t>
+        <t t_type="phrase">aivan ilman</t>
       </tg>
     </mg>
     <mg>
@@ -7685,7 +7688,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(aivan) peräkkäin (ajallisesti)</t>
+         <re>ajallisesti</re>
+        <t t_type="expl">(aivan) peräkkäin</t>
       </tg>
     </mg>
   </e>
@@ -7705,7 +7709,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(aivan) peräkkäin (ajallisesti)</t>
+         <re>ajallisesti</re>
+        <t t_type="expl">(aivan) peräkkäin</t>
       </tg>
     </mg>
   </e>
@@ -7715,17 +7720,17 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän ylemmäs</t>
+        <t t_type="expl">vähän ylemmäs</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän ylempänä</t>
+        <t t_type="expl">vähän ylempänä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän ylempää</t>
+        <t t_type="expl">vähän ylempää</t>
       </tg>
     </mg>
   </e>
@@ -7750,12 +7755,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän enemmän kuin</t>
+        <t t_type="expl">vähän enemmän kuin</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän yli</t>
+        <t t_type="expl">vähän yli</t>
       </tg>
     </mg>
   </e>
@@ -7765,17 +7770,17 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän ylemmäs</t>
+        <t t_type="expl">vähän ylemmäs</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän ylempänä</t>
+        <t t_type="expl">vähän ylempänä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän ylempää</t>
+        <t t_type="expl">vähän ylempää</t>
       </tg>
     </mg>
   </e>
@@ -7800,12 +7805,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jonkin verran ylemmäs</t>
+        <t t_type="expl">jonkin verran ylemmäs</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jonkin verran korkeammalle</t>
+        <t t_type="expl">jonkin verran korkeammalle</t>
       </tg>
     </mg>
   </e>
@@ -8010,7 +8015,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tupaten täynnä</t>
+        <t t_type="phrase">tupaten täynnä</t>
       </tg>
     </mg>
     <mg>
@@ -8030,7 +8035,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tupaten täynnä</t>
+        <t t_type="phrase">tupaten täynnä</t>
       </tg>
     </mg>
     <mg>
@@ -8185,7 +8190,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">yläpuolta (ohi, yli, myöten)</t>
+         <re>ohi, yli, myöten</re>
+        <t pos="Adv">yläpuolta</t>
       </tg>
     </mg>
   </e>
@@ -8235,7 +8241,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ulkoa (osaten)</t>
+         <re>osaten</re>
+        <t pos="Adv">ulkoa</t>
       </tg>
     </mg>
   </e>
@@ -8350,7 +8357,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">polkua myöten</t>
+        <t t_type="phrase">polkua myöten</t>
       </tg>
     </mg>
   </e>
@@ -8375,7 +8382,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">melkein (negatiivisessa mielessä)</t>
+         <re>negatiivisessa mielessä</re>
+        <t pos="Adv">melkein</t>
       </tg>
     </mg>
     <mg>
@@ -8405,7 +8413,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">melkein (negatiivisessa mielessä)</t>
+         <re>negatiivisessa mielessä</re>
+        <t pos="Adv">melkein</t>
       </tg>
     </mg>
     <mg>
@@ -8435,7 +8444,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">melkein (negatiivisessa mielessä)</t>
+         <re>negatiivisessa mielessä</re>
+        <t pos="Adv">melkein</t>
       </tg>
     </mg>
     <mg>
@@ -8475,7 +8485,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">parasta aikaa</t>
+        <t t_type="phrase">parasta aikaa</t>
       </tg>
     </mg>
   </e>
@@ -8530,7 +8540,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">parasta aikaa</t>
+        <t t_type="phrase">parasta aikaa</t>
       </tg>
     </mg>
   </e>
@@ -8550,17 +8560,17 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hammasta purren</t>
+        <t t_type="phrase">hammasta purren</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hammasta kiristellen</t>
+        <t t_type="phrase">hammasta kiristellen</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kaikin voimin</t>
+        <t t_type="phrase">kaikin voimin</t>
       </tg>
     </mg>
   </e>
@@ -8570,12 +8580,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">keskellä päivää</t>
+        <t t_type="phrase">keskellä päivää</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">puolilta päivin</t>
+        <t t_type="phrase">puolilta päivin</t>
       </tg>
     </mg>
     <mg>
@@ -8590,7 +8600,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">päivän puolen</t>
+        <t t_type="phrase">päivän puolen</t>
       </tg>
     </mg>
   </e>
@@ -8610,7 +8620,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">korvan alle</t>
+        <t t_type="phrase">korvan alle</t>
       </tg>
     </mg>
   </e>
@@ -8620,7 +8630,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">samaa porukkaa</t>
+        <t t_type="phrase">samaa porukkaa</t>
       </tg>
     </mg>
     <mg>
@@ -8630,7 +8640,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">samaa maata</t>
+        <t t_type="phrase">samaa maata</t>
       </tg>
     </mg>
     <mg>
@@ -8640,7 +8650,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">eri paria (kengät tms.)</t>
+         <re>kengät tms.</re>
+        <t t_type="phrase">eri paria</t>
       </tg>
     </mg>
   </e>
@@ -8650,7 +8661,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">samaa porukkaa</t>
+        <t t_type="phrase">samaa porukkaa</t>
       </tg>
     </mg>
     <mg>
@@ -8660,7 +8671,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">samaa maata</t>
+        <t t_type="phrase">samaa maata</t>
       </tg>
     </mg>
     <mg>
@@ -8670,7 +8681,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">eri paria (kengät tms.)</t>
+         <re>kengät tms.</re>
+        <t t_type="phrase">eri paria</t>
       </tg>
     </mg>
   </e>
@@ -8725,7 +8737,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">puolessa välissä</t>
+        <t t_type="phrase">puolessa välissä</t>
       </tg>
     </mg>
   </e>
@@ -8919,7 +8931,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ympäri vuoden</t>
+        <t t_type="phrase">ympäri vuoden</t>
       </tg>
     </mg>
     <mg>
@@ -8974,7 +8986,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ympäri (pyörien)</t>
+         <re>pyörien</re>
+        <t pos="Adv">ympäri</t>
       </tg>
     </mg>
     <mg>
@@ -9014,12 +9027,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">laitapuolta (myöten)</t>
+        <t t_type="expl">laitapuolta (myöten)</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">syrjäseudun kautta</t>
+        <t t_type="phrase">syrjäseudun kautta</t>
       </tg>
     </mg>
   </e>
@@ -9114,7 +9127,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vastapäätä toisiaan</t>
+        <t t_type="phrase">vastapäätä toisiaan</t>
       </tg>
     </mg>
   </e>
@@ -9129,7 +9142,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vastapäätä toisiaan</t>
+        <t t_type="phrase">vastapäätä toisiaan</t>
       </tg>
     </mg>
   </e>
@@ -9144,12 +9157,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toisiinsa nähden kohdakkain olevat</t>
+        <t t_type="expl">toisiinsa nähden kohdakkain olevat</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toisiaan vastapäätä olevat</t>
+        <t t_type="expl">toisiaan vastapäätä olevat</t>
       </tg>
     </mg>
     <mg>
@@ -9179,12 +9192,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hyvälle tasolle</t>
+        <t t_type="phrase">hyvälle tasolle</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">paremmalle tasolle</t>
+        <t t_type="phrase">paremmalle tasolle</t>
       </tg>
     </mg>
   </e>
@@ -9214,12 +9227,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hyvälle tasolle</t>
+        <t t_type="phrase">hyvälle tasolle</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">paremmalle tasolle</t>
+        <t t_type="phrase">paremmalle tasolle</t>
       </tg>
     </mg>
   </e>
@@ -9229,12 +9242,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">koko lailla</t>
+        <t t_type="phrase">koko lailla</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">käytännöllisesti katsoen</t>
+        <t t_type="phrase">käytännöllisesti katsoen</t>
       </tg>
     </mg>
   </e>
@@ -9249,7 +9262,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(apposen) auki (esim. ovi)</t>
+         <re>esim. ovi</re>
+        <t t_type="expl">(apposen) auki</t>
       </tg>
     </mg>
   </e>
@@ -9259,7 +9273,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suoraan silmiin</t>
+        <t t_type="phrase">suoraan silmiin</t>
       </tg>
     </mg>
   </e>
@@ -9269,12 +9283,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">silmin jhk tai jkhun</t>
+        <t t_type="expl">silmin jhk tai jkhun</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">silmät jhk tai jkhun käännettynä</t>
+        <t t_type="expl">silmät jhk tai jkhun käännettynä</t>
       </tg>
     </mg>
     <mg>
@@ -9289,7 +9303,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">silmiä kiinni puristaen</t>
+        <t t_type="phrase">silmiä kiinni puristaen</t>
       </tg>
     </mg>
   </e>
@@ -9334,7 +9348,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">veden alalla</t>
+        <t t_type="phrase">veden alalla</t>
       </tg>
     </mg>
   </e>
@@ -9504,7 +9518,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hienosti pukeutuneena</t>
+        <t t_type="phrase">hienosti pukeutuneena</t>
       </tg>
     </mg>
   </e>
@@ -9604,7 +9618,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jatkuvasti seisoskelemassa (jssak)</t>
+        <t t_type="expl">jatkuvasti seisoskelemassa (jssak)</t>
       </tg>
     </mg>
   </e>
@@ -9619,7 +9633,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">noin sata</t>
+        <t t_type="phrase">noin sata</t>
       </tg>
     </mg>
   </e>
@@ -9629,12 +9643,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">sadan verran</t>
+        <t t_type="phrase">sadan verran</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">noin sata</t>
+        <t t_type="phrase">noin sata</t>
       </tg>
     </mg>
     <mg>
@@ -9723,7 +9737,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">harmi kyllä</t>
+        <t t_type="phrase">harmi kyllä</t>
       </tg>
     </mg>
   </e>
@@ -9743,7 +9757,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tieten tahtoen</t>
+        <t t_type="phrase">tieten tahtoen</t>
       </tg>
     </mg>
     <mg>
@@ -9763,7 +9777,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(nyt) heti</t>
+         <re>nyt</re>
+        <t pos="Adv">heti</t>
       </tg>
     </mg>
     <mg>
@@ -9783,7 +9798,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(nyt) heti</t>
+         <re>nyt</re>
+        <t pos="Adv">heti</t>
       </tg>
     </mg>
     <mg>
@@ -9808,7 +9824,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tässä näin</t>
+        <t t_type="phrase">tässä näin</t>
       </tg>
     </mg>
   </e>
@@ -9818,7 +9834,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">heti (silloin)</t>
+         <re>silloin</re>
+        <t pos="Adv">heti</t>
       </tg>
     </mg>
     <mg>
@@ -9858,7 +9875,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">keskellä talvea</t>
+        <t t_type="phrase">keskellä talvea</t>
       </tg>
     </mg>
   </e>
@@ -9883,7 +9900,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tämän vuoksi</t>
+        <t t_type="phrase">tämän vuoksi</t>
       </tg>
     </mg>
   </e>
@@ -9923,12 +9940,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">täällä näin</t>
+        <t t_type="phrase">täällä näin</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">täältä näin</t>
+        <t t_type="phrase">täältä näin</t>
       </tg>
     </mg>
   </e>
@@ -9988,12 +10005,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siihen (ajankohtaan)</t>
+        <t t_type="expl">siihen (ajankohtaan)</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siihen astinen</t>
+        <t t_type="phrase">siihen astinen</t>
       </tg>
     </mg>
     <mg>
@@ -10008,12 +10025,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siihen (ajankohtaan)</t>
+        <t t_type="expl">siihen (ajankohtaan)</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siihen astinen</t>
+        <t t_type="phrase">siihen astinen</t>
       </tg>
     </mg>
     <mg>
@@ -10038,12 +10055,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kuitit (keskenään)</t>
+        <t t_type="expl">kuitit (keskenään)</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jonkin tasalla</t>
+        <t t_type="expl">jonkin tasalla</t>
       </tg>
     </mg>
     <mg>
@@ -10068,12 +10085,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kuitit (keskenään)</t>
+        <t t_type="expl">kuitit (keskenään)</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jonkin tasalla</t>
+        <t t_type="expl">jonkin tasalla</t>
       </tg>
     </mg>
     <mg>
@@ -10113,12 +10130,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">juuri siinä</t>
+        <t t_type="phrase">juuri siinä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">juuri siitä</t>
+        <t t_type="phrase">juuri siitä</t>
       </tg>
     </mg>
   </e>
@@ -10138,7 +10155,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siinä tapauksessa</t>
+        <t t_type="phrase">siinä tapauksessa</t>
       </tg>
     </mg>
   </e>
@@ -10158,7 +10175,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siinä tapauksessa</t>
+        <t t_type="phrase">siinä tapauksessa</t>
       </tg>
     </mg>
   </e>
@@ -10178,22 +10195,22 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">juuri siinä</t>
+        <t t_type="phrase">juuri siinä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">- siitä</t>
+        <t t_type="phrase">juuri siitä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siinä paikassa</t>
+        <t t_type="phrase">siinä paikassa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siitä paikasta</t>
+        <t t_type="phrase">siitä paikasta</t>
       </tg>
     </mg>
   </e>
@@ -10203,22 +10220,22 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">juuri siinä</t>
+        <t t_type="phrase">juuri siinä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">juuri siitä</t>
+        <t t_type="phrase">juuri siitä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siinä paikassa</t>
+        <t t_type="phrase">siinä paikassa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siitä paikasta</t>
+        <t t_type="phrase">siitä paikasta</t>
       </tg>
     </mg>
   </e>
@@ -10248,7 +10265,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">länsipäähän (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">länsipäähän</t>
       </tg>
     </mg>
   </e>
@@ -10268,12 +10286,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">länsipäässä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">länsipäässä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">länsipäästä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">länsipäästä</t>
       </tg>
     </mg>
   </e>
@@ -10283,7 +10303,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoiseen päin</t>
+        <t t_type="phrase">pohjoiseen päin</t>
       </tg>
     </mg>
   </e>
@@ -10293,7 +10313,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoiseen päin</t>
+        <t t_type="phrase">pohjoiseen päin</t>
       </tg>
     </mg>
   </e>
@@ -10308,17 +10328,19 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoisesta päin</t>
+        <t t_type="phrase">pohjoisesta päin</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lännessä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">lännessä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lännestä päin (R)</t>
+         <re>Ruotsissa</re>
+        <t t_type="phrase">lännestä päin</t>
       </tg>
     </mg>
     <mg>
@@ -10363,7 +10385,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">korkeintaan (niin ja niin useasti)</t>
+         <re>niin ja niin useasti</re>
+        <t pos="Adv">korkeintaan</t>
       </tg>
     </mg>
     <mg>
@@ -10398,12 +10421,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lännempänä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">lännempänä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lännempää(R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">lännempää</t>
       </tg>
     </mg>
     <mg>
@@ -10443,12 +10468,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lännempänä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">lännempänä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lännempää (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">lännempää</t>
       </tg>
     </mg>
     <mg>
@@ -10468,12 +10495,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lännemmäs (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">lännemmäs</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ulommas (vuonossa, ulapalla)</t>
+         <re>vuonossa, ulapalla</re>
+        <t pos="Adv">ulommas</t>
       </tg>
     </mg>
   </e>
@@ -10488,12 +10517,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lännemmäs (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">lännemmäs</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ulommas (vuonossa, ulapalla)</t>
+         <re>vuonossa, ulapalla</re>
+        <t pos="Adv">ulommas</t>
       </tg>
     </mg>
   </e>
@@ -10513,12 +10544,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lännempänä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">lännempänä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lännempää (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">lännempää</t>
       </tg>
     </mg>
     <mg>
@@ -10608,17 +10641,17 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jokea myöten</t>
+        <t t_type="phrase">jokea myöten</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tenoa myöten</t>
+        <t t_type="phrase">tenoa myöten</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">virtaa myöten</t>
+        <t t_type="phrase">virtaa myöten</t>
       </tg>
     </mg>
   </e>
@@ -10633,7 +10666,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kuten esimerkiksi</t>
+        <t t_type="phrase">kuten esimerkiksi</t>
       </tg>
     </mg>
   </e>
@@ -10663,7 +10696,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siinä tapauksessa</t>
+        <t t_type="phrase">siinä tapauksessa</t>
       </tg>
     </mg>
   </e>
@@ -10708,7 +10741,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">itsestään selvästi</t>
+        <t t_type="phrase">itsestään selvästi</t>
       </tg>
     </mg>
     <mg>
@@ -10753,7 +10786,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">itsestään selvästi</t>
+        <t t_type="phrase">itsestään selvästi</t>
       </tg>
     </mg>
     <mg>
@@ -10768,7 +10801,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">noin (kuin puhuteltava tekee)</t>
+         <re>kuin puhuteltava tekee</re>
+        <t pos="Adv">noin</t>
       </tg>
     </mg>
   </e>
@@ -10788,7 +10822,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kaikki tyynni</t>
+        <t t_type="phrase">kaikki tyynni</t>
       </tg>
     </mg>
     <mg>
@@ -10808,7 +10842,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kalliisti (esim. ostettu)</t>
+         <re>esim. ostettu</re>
+        <t pos="Adv">kalliisti</t>
       </tg>
     </mg>
   </e>
@@ -10823,7 +10858,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kiireen vilkkaa</t>
+        <t t_type="phrase">kiireen vilkkaa</t>
       </tg>
     </mg>
   </e>
@@ -10873,12 +10908,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän kauempana</t>
+        <t t_type="expl">vähän kauempana</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän kauempaa</t>
+        <t t_type="expl">vähän kauempaa</t>
       </tg>
     </mg>
   </e>
@@ -10888,7 +10923,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän kauemmas</t>
+        <t t_type="expl">vähän kauemmas</t>
       </tg>
     </mg>
   </e>
@@ -10958,12 +10993,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siltä taholta</t>
+        <t t_type="phrase">siltä taholta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">sieltä käsin</t>
+        <t t_type="phrase">sieltä käsin</t>
       </tg>
     </mg>
   </e>
@@ -11038,7 +11073,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">niin kuin</t>
+        <t pos="Pcle">niin kuin</t>
       </tg>
     </mg>
     <mg>
@@ -11048,7 +11083,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">niin kuin</t>
+        <t pos="Pcle">niin kuin</t>
       </tg>
     </mg>
   </e>
@@ -11133,12 +11168,14 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">takana, takaa</t>
+        <t pos="Adv">takana</t>
+        <t pos="Adv">takaa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">luona, -lla/-llä</t>
+        <t pos="Adv">luona</t>
+        <t t_type="expl">-lla/-llä</t>
       </tg>
     </mg>
     <mg>
@@ -11148,12 +11185,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">päässä, päästä</t>
+        <t pos="Adv">päässä</t>
+        <t pos="Adv">päästä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hallussa, hallusta</t>
+        <t pos="Adv">hallussa</t>
+        <t pos="Adv">hallusta</t>
       </tg>
     </mg>
   </e>
@@ -11163,7 +11202,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">sydämen pohjasta</t>
+        <t t_type="phrase">sydämen pohjasta</t>
       </tg>
     </mg>
   </e>
@@ -11173,7 +11212,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">aina vain</t>
+        <t t_type="phrase">aina vain</t>
       </tg>
     </mg>
     <mg>
@@ -11198,22 +11237,24 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tuota kautta</t>
+        <t t_type="phrase">tuota kautta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tuolta (ohi)</t>
+        <t t_type="expl">tuolta (ohi)</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tuolla (noin)</t>
+         <re>noin</re>
+        <t pos="Adv">tuolla</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tuossa (noin)</t>
+         <re>noin</re>
+        <t pos="Adv">tuossa</t>
       </tg>
     </mg>
   </e>
@@ -11283,17 +11324,17 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tuossa paikassa</t>
+        <t t_type="phrase">tuossa paikassa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">juuri tuossa</t>
+        <t t_type="phrase">juuri tuossa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tuossa aivan lähellä</t>
+        <t t_type="phrase">tuossa aivan lähellä</t>
       </tg>
     </mg>
   </e>
@@ -11308,7 +11349,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jonka rohkenee tehdä</t>
+        <t t_type="expl">jonka rohkenee tehdä</t>
       </tg>
     </mg>
   </e>
@@ -11398,7 +11439,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">turhan takia</t>
+        <t t_type="phrase">turhan takia</t>
       </tg>
     </mg>
   </e>
@@ -11408,7 +11449,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">koskematon (tytöstä)</t>
+         <re>tytöstä</re>
+        <t pos="Adv">koskematon</t>
       </tg>
     </mg>
   </e>
@@ -11583,12 +11625,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">enemmän (kuin)</t>
+        <t t_type="expl">enemmän (kuin)</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">muuta (kuin)</t>
+        <t t_type="expl">muuta (kuin)</t>
       </tg>
     </mg>
   </e>
@@ -11643,7 +11685,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ennen muuta</t>
+        <t t_type="phrase">ennen muuta</t>
       </tg>
     </mg>
     <mg>
@@ -11673,7 +11715,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">syrjässä (kaukana kulkureiteistä)</t>
+         <re>kaukana kulkureiteistä</re>
+        <t pos="Adv">syrjässä</t>
       </tg>
     </mg>
   </e>
@@ -11683,7 +11726,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">syrjään (kauas kulkureiteistä)</t>
+         <re>kauas kulkureiteistä</re>
+        <t pos="Adv">syrjään</t>
       </tg>
     </mg>
     <mg>
@@ -11723,7 +11767,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jokea pitkin</t>
+        <t t_type="phrase">jokea pitkin</t>
       </tg>
     </mg>
   </e>
@@ -11733,7 +11777,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jokea pitkin</t>
+        <t t_type="phrase">jokea pitkin</t>
       </tg>
     </mg>
   </e>
@@ -11858,7 +11902,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ennen muuta</t>
+        <t t_type="phrase">ennen muuta</t>
       </tg>
     </mg>
     <mg>
@@ -11888,7 +11932,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ennen muuta</t>
+        <t t_type="phrase">ennen muuta</t>
       </tg>
     </mg>
     <mg>
@@ -11918,7 +11962,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ennen muuta</t>
+        <t t_type="phrase">ennen muuta</t>
       </tg>
     </mg>
     <mg>
@@ -11948,7 +11992,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ennen muuta</t>
+        <t t_type="phrase">ennen muuta</t>
       </tg>
     </mg>
     <mg>
@@ -11998,7 +12042,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">äkkijyrkkä (mutka, parras)</t>
+         <re>mutka, parras</re>
+        <t pos="Adv">äkkijyrkkä</t>
       </tg>
     </mg>
     <mg>
@@ -12028,7 +12073,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kohta puoliin</t>
+        <t t_type="phrase">kohta puoliin</t>
       </tg>
     </mg>
   </e>
@@ -12048,12 +12093,13 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pikimmin (ajallisesti)</t>
+         <re>ajallisesti</re>
+        <t pos="Adv">pikimmin</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">niin pian kuin mahdollista</t>
+        <t t_type="phrase">niin pian kuin mahdollista</t>
       </tg>
     </mg>
   </e>
@@ -12068,12 +12114,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">samaa matkaa</t>
+        <t t_type="phrase">samaa matkaa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toistensa seurassa</t>
+        <t t_type="phrase">toistensa seurassa</t>
       </tg>
     </mg>
   </e>
@@ -12088,12 +12134,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">samaa matkaa</t>
+        <t t_type="phrase">samaa matkaa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toistensa seurassa</t>
+        <t t_type="phrase">toistensa seurassa</t>
       </tg>
     </mg>
   </e>
@@ -12178,7 +12224,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ulommas (rannasta katsottuna)</t>
+         <re>rannasta katsottuna</re>
+        <t pos="Adv">ulommas</t>
       </tg>
     </mg>
   </e>
@@ -12193,7 +12240,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ulompaa (rannasta katsottuna)</t>
+         <re>rannasta katsottuna</re>
+        <t pos="Adv">ulompaa</t>
       </tg>
     </mg>
   </e>
@@ -12253,12 +12301,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vinottain (väliaikaisesti)</t>
+         <re>väliaikaisesti</re>
+        <t pos="Adv">vinottain</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">viistossa (ei suorassa tai suorassa kulmassa)</t>
+         <re>ei suorassa tai suorassa kulmassa</re>
+        <t pos="Adv">viistossa</t>
       </tg>
     </mg>
   </e>
@@ -12358,7 +12408,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lakitta (päin)</t>
+        <t t_type="expl">lakitta (päin)</t>
       </tg>
     </mg>
   </e>
@@ -12368,7 +12418,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">katua pitkin</t>
+        <t t_type="phrase">katua pitkin</t>
       </tg>
     </mg>
   </e>
@@ -12418,7 +12468,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">mihin kellonaikaan</t>
+        <t t_type="phrase">mihin kellonaikaan</t>
       </tg>
     </mg>
     <mg>
@@ -12438,7 +12488,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vaikka kuinka monesti</t>
+        <t t_type="phrase">vaikka kuinka monesti</t>
       </tg>
     </mg>
     <mg>
@@ -12448,12 +12498,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kuinka monesti</t>
+        <t t_type="phrase">kuinka monesti</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kuinka monta kertaa</t>
+        <t t_type="phrase">kuinka monta kertaa</t>
       </tg>
     </mg>
   </e>
@@ -12463,7 +12513,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">mihin kellonaikaan</t>
+        <t t_type="phrase">mihin kellonaikaan</t>
       </tg>
     </mg>
     <mg>
@@ -12513,12 +12563,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tiukassa paikassa</t>
+        <t t_type="phrase">tiukassa paikassa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">puun ja parkin välissä</t>
+        <t t_type="phrase">puun ja parkin välissä</t>
       </tg>
     </mg>
   </e>
@@ -12605,7 +12655,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <re>korvamerkistä</re>
-        <t pos="Adv">nokka poikki</t>
+        <t t_type="phrase">nokka poikki</t>
       </tg>
     </mg>
   </e>
@@ -12630,7 +12680,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(loivalla) mutkalla</t>
+        <t t_type="expl">(loivalla) mutkalla</t>
       </tg>
     </mg>
     <mg>
@@ -12690,7 +12740,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohja alaspäin</t>
+        <t t_type="phrase">pohja alaspäin</t>
       </tg>
     </mg>
   </e>
@@ -12700,7 +12750,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toistensa kimpussa</t>
+        <t t_type="expl">toistensa kimpussa</t>
       </tg>
     </mg>
   </e>
@@ -12710,7 +12760,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toistensa kimpussa</t>
+        <t t_type="expl">toistensa kimpussa</t>
       </tg>
     </mg>
   </e>
@@ -12750,7 +12800,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tietä pitkin</t>
+        <t t_type="phrase">tietä pitkin</t>
       </tg>
     </mg>
   </e>
@@ -12760,7 +12810,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(kun) kerran</t>
+        <t t_type="expl">(kun) kerran</t>
       </tg>
     </mg>
     <mg>
@@ -12775,7 +12825,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(erään) kerran</t>
+        <t t_type="expl">(erään) kerran</t>
       </tg>
     </mg>
     <mg>
@@ -12790,7 +12840,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">keskellä kesää</t>
+        <t t_type="phrase">keskellä kesää</t>
       </tg>
     </mg>
     <mg>
@@ -12835,7 +12885,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">nokeen tahrautuneena</t>
+        <t t_type="phrase">nokeen tahrautuneena</t>
       </tg>
     </mg>
     <mg>
@@ -12920,7 +12970,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kiinni toisissaan</t>
+        <t t_type="phrase">kiinni toisissaan</t>
       </tg>
     </mg>
   </e>
@@ -12935,7 +12985,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kiinni toisissaan</t>
+        <t t_type="phrase">kiinni toisissaan</t>
       </tg>
     </mg>
   </e>
@@ -12945,7 +12995,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suljetuin ovin</t>
+        <t t_type="phrase">suljetuin ovin</t>
       </tg>
     </mg>
   </e>
@@ -12985,17 +13035,17 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kumpaakin kautta (vuorollaan)</t>
+        <t t_type="expl">kumpaakin kautta (vuorollaan)</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kumpaakin puolta</t>
+        <t t_type="phrase">kumpaakin puolta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kummallakin puolen</t>
+        <t t_type="phrase">kummallakin puolen</t>
       </tg>
     </mg>
     <mg>
@@ -13010,12 +13060,14 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">josta (kahdesta mahdollisesta)</t>
+         <re>kahdesta mahdollisesta</re>
+        <t pos="Adv">josta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jota kautta (kahdesta mahdollisesta)</t>
+         <re>kahdesta mahdollisesta</re>
+        <t t_type="phrase">jota kautta</t>
       </tg>
     </mg>
     <mg>
@@ -13025,12 +13077,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kumpaa kautta</t>
+        <t t_type="phrase">kumpaa kautta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kumpaa puolta</t>
+        <t t_type="phrase">kumpaa puolta</t>
       </tg>
     </mg>
   </e>
@@ -13075,12 +13127,13 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kolmanneksi (lueteltavista asioista)</t>
+         <re>lueteltavista asioista</re>
+        <t pos="Adv">kolmanneksi</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kolmannen kerran</t>
+        <t t_type="phrase">kolmannen kerran</t>
       </tg>
     </mg>
   </e>
@@ -13090,17 +13143,18 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kumpaakin kautta (vuorollaan)</t>
+         <re>vuorollaan</re>
+        <t t_type="phrase">kumpaakin kautta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kumpaakin puolta</t>
+        <t t_type="phrase">kumpaakin puolta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kummallakin puolen</t>
+        <t t_type="phrase">kummallakin puolen</t>
       </tg>
     </mg>
     <mg>
@@ -13115,12 +13169,14 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">josta (kahdesta mahdollisesta)</t>
+         <re>kahdesta mahdollisesta</re>
+        <t pos="Adv">josta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jota kautta (kahdesta mahdollisesta)</t>
+         <re>kahdesta mahdollisesta</re>
+        <t t_type="phrase">jota kautta</t>
       </tg>
     </mg>
     <mg>
@@ -13130,12 +13186,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kumpaa kautta</t>
+        <t t_type="phrase">kumpaa kautta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kumpaa puolta</t>
+        <t t_type="phrase">kumpaa puolta</t>
       </tg>
     </mg>
   </e>
@@ -13170,7 +13226,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">mihin mennessä (ajallisesti)</t>
+         <re>ajallisesti</re>
+        <t t_type="phrase">mihin mennessä</t>
       </tg>
     </mg>
   </e>
@@ -13185,7 +13242,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">raolleen (pysyvästi)</t>
+         <re>pysyvästi</re>
+        <t pos="Adv">raolleen</t>
       </tg>
     </mg>
   </e>
@@ -13220,17 +13278,18 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">mitä kautta</t>
+        <t t_type="phrase">mitä kautta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jota kautta</t>
+        <t t_type="phrase">jota kautta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">missä (osapuilleen)</t>
+         <re>osapuilleen</re>
+        <t pos="Adv">missä</t>
       </tg>
     </mg>
   </e>
@@ -13280,17 +13339,18 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">mitä kautta</t>
+        <t t_type="phrase">mitä kautta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jota kautta</t>
+        <t t_type="phrase">jota kautta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">missä (osapuilleen)</t>
+         <re>osapuilleen</re>
+        <t pos="Adv">missä</t>
       </tg>
     </mg>
   </e>
@@ -13310,7 +13370,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kolme kertaa</t>
+        <t t_type="phrase">kolme kertaa</t>
       </tg>
     </mg>
     <mg>
@@ -13325,12 +13385,14 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">heitteille, kulkeille</t>
+        <t pos="Adv">heitteille</t>
+        <t pos="Adv">kulkeille</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">heitteillä, kulkeilla</t>
+        <t pos="Adv">heitteillä</t>
+        <t pos="Adv">kulkeilla</t>
       </tg>
     </mg>
   </e>
@@ -13340,12 +13402,14 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">heitteille, kulkeille</t>
+        <t pos="Adv">heitteille</t>
+        <t pos="Adv">kulkeille</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">heitteillä, kulkeilla</t>
+        <t pos="Adv">heitteillä</t>
+        <t pos="Adv">kulkeilla</t>
       </tg>
     </mg>
   </e>
@@ -13360,7 +13424,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">mistä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">mistä</t>
       </tg>
     </mg>
   </e>
@@ -13550,7 +13615,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">milläkin tavoin</t>
+        <t t_type="phrase">milläkin tavoin</t>
       </tg>
     </mg>
   </e>
@@ -13580,12 +13645,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän kauemmin</t>
+        <t t_type="expl">vähän kauemmin</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän pidempään</t>
+        <t t_type="expl">vähän pidempään</t>
       </tg>
     </mg>
   </e>
@@ -13625,12 +13690,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">melko kauas</t>
+        <t t_type="phrase">melko kauas</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suhteellisen kauas</t>
+        <t t_type="phrase">suhteellisen kauas</t>
       </tg>
     </mg>
   </e>
@@ -13640,7 +13705,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(jonkin verran) kauemmas</t>
+         <re>jonkin verran</re>
+        <t pos="Adv">kauemmas</t>
       </tg>
     </mg>
   </e>
@@ -13660,12 +13726,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suhteellisen kaukana</t>
+        <t t_type="phrase">suhteellisen kaukana</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suhteellisen kaukaa</t>
+        <t t_type="phrase">suhteellisen kaukaa</t>
       </tg>
     </mg>
     <mg>
@@ -13730,7 +13796,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">enintään (ajasta)</t>
+         <re>ajasta</re>
+        <t pos="Adv">enintään</t>
       </tg>
     </mg>
     <mg>
@@ -13745,7 +13812,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kaukana toisistaan</t>
+        <t t_type="phrase">kaukana toisistaan</t>
       </tg>
     </mg>
   </e>
@@ -13755,17 +13822,20 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kauempana/kauempaa</t>
+        <t pos="Adv">kauempana</t>
+        <t pos="Adv">kauempaa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">etäämpänä/etäämpää</t>
+        <t pos="Adv">etäämpänä</t>
+        <t pos="Adv">etäämpää</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">edempänä/edempää</t>
+        <t pos="Adv">edempänä</t>
+        <t pos="Adv">edempää</t>
       </tg>
     </mg>
   </e>
@@ -13880,17 +13950,20 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(jonkin verran) kauemmas</t>
+         <re>jonkin verran</re>
+        <t pos="Adv">kauemmas</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(jonkin verran) edemmäs</t>
+         <re>jonkin verran</re>
+        <t pos="Adv">edemmäs</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(jonkin verran) etäämmäs</t>
+         <re>jonkin verran</re>
+        <t pos="Adv">etäämmäs</t>
       </tg>
     </mg>
   </e>
@@ -13935,7 +14008,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kuusi kertaa</t>
+        <t t_type="phrase">kuusi kertaa</t>
       </tg>
     </mg>
   </e>
@@ -14030,7 +14103,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ilman kantamusta</t>
+        <t t_type="phrase">ilman kantamusta</t>
       </tg>
     </mg>
   </e>
@@ -14050,7 +14123,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jonkun luona vieraana</t>
+        <t t_type="expl">jonkun luona vieraana</t>
       </tg>
     </mg>
   </e>
@@ -14085,7 +14158,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">keskellä (esim. kesää tai talvea)</t>
+         <re>esim. kesää tai talvea</re>
+        <t pos="Adv">keskellä</t>
       </tg>
     </mg>
   </e>
@@ -14100,7 +14174,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tietämättä tarkkaan mihin</t>
+        <t t_type="expl">tietämättä tarkkaan mihin</t>
       </tg>
     </mg>
   </e>
@@ -14205,12 +14279,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tällä kertaa</t>
+        <t t_type="phrase">tällä kertaa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tällä kerralla</t>
+        <t t_type="phrase">tällä kerralla</t>
       </tg>
     </mg>
   </e>
@@ -14230,12 +14304,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tällä kertaa</t>
+        <t t_type="phrase">tällä kertaa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tällä kerralla</t>
+        <t t_type="phrase">tällä kerralla</t>
       </tg>
     </mg>
   </e>
@@ -14365,7 +14439,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">aivan kohta</t>
+        <t t_type="phrase">aivan kohta</t>
       </tg>
     </mg>
   </e>
@@ -14410,12 +14484,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">todella paljon</t>
+        <t t_type="phrase">todella paljon</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suuressa määrin</t>
+        <t t_type="phrase">suuressa määrin</t>
       </tg>
     </mg>
     <mg>
@@ -14430,7 +14504,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hopun hoppua</t>
+        <t t_type="phrase">hopun hoppua</t>
       </tg>
     </mg>
   </e>
@@ -14460,7 +14534,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">omin päin</t>
+        <t t_type="phrase">omin päin</t>
       </tg>
     </mg>
   </e>
@@ -14470,7 +14544,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">minulla itselläni</t>
+        <t t_type="phrase">minulla itselläni</t>
       </tg>
     </mg>
   </e>
@@ -14480,7 +14554,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">sinulla itselläsi</t>
+        <t t_type="phrase">sinulla itselläsi</t>
       </tg>
     </mg>
   </e>
@@ -14530,7 +14604,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">heillä itsellään</t>
+        <t t_type="phrase">heillä itsellään</t>
       </tg>
     </mg>
   </e>
@@ -14545,7 +14619,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tieten tahtoen</t>
+        <t t_type="phrase">tieten tahtoen</t>
       </tg>
     </mg>
   </e>
@@ -14560,7 +14634,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tieten tahtoen</t>
+        <t t_type="phrase">tieten tahtoen</t>
       </tg>
     </mg>
   </e>
@@ -14575,7 +14649,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">omin päin</t>
+        <t t_type="phrase">omin päin</t>
       </tg>
     </mg>
   </e>
@@ -14590,7 +14664,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">omin päin</t>
+        <t t_type="phrase">omin päin</t>
       </tg>
     </mg>
   </e>
@@ -14605,7 +14679,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tieten tahtoen</t>
+        <t t_type="phrase">tieten tahtoen</t>
       </tg>
     </mg>
   </e>
@@ -14620,7 +14694,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tieten tahtoen</t>
+        <t t_type="phrase">tieten tahtoen</t>
       </tg>
     </mg>
     <mg>
@@ -14640,7 +14714,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tieten tahtoen</t>
+        <t t_type="phrase">tieten tahtoen</t>
       </tg>
     </mg>
   </e>
@@ -14755,7 +14829,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">heti huomenna</t>
+        <t t_type="phrase">heti huomenna</t>
       </tg>
     </mg>
   </e>
@@ -14850,7 +14924,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">implisiittisesti (julkilausumattomasti, mutta asiayhteydestä pääteltävissä olevasti)</t>
+         <re>julkilausumattomasti, mutta asiayhteydestä pääteltävissä olevasti</re>
+        <t pos="Adv">implisiittisesti</t>
       </tg>
     </mg>
   </e>
@@ -14905,7 +14980,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">koskematon (maasta, laitumesta, tytöstä)</t>
+         <re>maasta, laitumesta, tytöstä</re>
+        <t pos="Adv">koskematon</t>
       </tg>
     </mg>
   </e>
@@ -14970,7 +15046,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">aina vain</t>
+        <t t_type="phrase">aina vain</t>
       </tg>
     </mg>
   </e>
@@ -15000,7 +15076,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">aina vain</t>
+        <t t_type="phrase">aina vain</t>
       </tg>
     </mg>
   </e>
@@ -15055,7 +15131,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suoraan (reunasta)</t>
+         <re>reunasta</re>
+        <t pos="Adv">suoraan</t>
       </tg>
     </mg>
     <mg>
@@ -15065,7 +15142,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tasaiseen tahtiin</t>
+        <t t_type="phrase">tasaiseen tahtiin</t>
       </tg>
     </mg>
   </e>
@@ -15185,7 +15262,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">mahdollisimman nopeasti</t>
+        <t t_type="phrase">mahdollisimman nopeasti</t>
       </tg>
     </mg>
   </e>
@@ -15195,7 +15272,11 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">joko (jogo - dahje = joko - tai)</t>
+        <t pos="Adv">joko</t>
+        <xg>
+         <x>jogo - dahje</x>
+         <xt>joko - tai</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -15235,7 +15316,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">nurin (vaatteista)</t>
+         <re>vaatteista</re>
+        <t pos="Adv">nurin</t>
       </tg>
     </mg>
   </e>
@@ -15370,7 +15452,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jonkin verran lähemmäs</t>
+        <t t_type="expl">jonkin verran lähemmäs</t>
       </tg>
     </mg>
   </e>
@@ -15510,7 +15592,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">largo (mus.)</t>
+         <re>mus.</re>
+        <t pos="Adv">largo</t>
       </tg>
     </mg>
   </e>
@@ -15520,7 +15603,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ikkunasta (sisään tai ulos)</t>
+         <re>sisään tai ulos</re>
+        <t pos="Adv">ikkunasta</t>
       </tg>
     </mg>
   </e>
@@ -15541,7 +15625,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <re>litteästä esineestä</re>
-        <t pos="Adv">syrjin jhk päin käännettynä</t>
+        <t t_type="expl">syrjin jhk päin käännettynä</t>
       </tg>
     </mg>
     <mg>
@@ -15631,7 +15715,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vastakkaisiin suuntiin</t>
+        <t t_type="phrase">vastakkaisiin suuntiin</t>
       </tg>
     </mg>
     <mg>
@@ -15641,7 +15725,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(kuv.) sukupuoliyhteydessä</t>
+         <re>kuv.</re>
+        <t pos="Adv">sukupuoliyhteydessä</t>
       </tg>
     </mg>
   </e>
@@ -15726,7 +15811,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">leikillä (leikilläni, leikilläsi jne)</t>
+        <t t_type="expl">leikillä (leikilläni, leikilläsi jne)</t>
       </tg>
     </mg>
   </e>
@@ -15746,7 +15831,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jostain huolimatta</t>
+        <t t_type="expl">jostain huolimatta</t>
       </tg>
     </mg>
   </e>
@@ -15766,7 +15851,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jostain huolimatta</t>
+        <t t_type="expl">jostain huolimatta</t>
       </tg>
     </mg>
   </e>
@@ -15821,7 +15906,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">yli tarpeen</t>
+        <t t_type="phrase">yli tarpeen</t>
       </tg>
     </mg>
   </e>
@@ -15831,7 +15916,11 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">yhtä (liikka buorre = yhtä hyvä)</t>
+        <t pos="Adv">yhtä</t>
+        <xg>
+         <x>liikka buorre</x>
+         <xt>yhtä hyvä</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -15851,7 +15940,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kevyellä otteella</t>
+        <t t_type="phrase">kevyellä otteella</t>
       </tg>
     </mg>
   </e>
@@ -15876,7 +15965,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">loppua kohden</t>
+        <t t_type="phrase">loppua kohden</t>
       </tg>
     </mg>
     <mg>
@@ -15906,12 +15995,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">loppujen lopuksi</t>
+        <t t_type="phrase">loppujen lopuksi</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">loppujen lopullisesti</t>
+        <t t_type="phrase">loppujen lopullisesti</t>
       </tg>
     </mg>
   </e>
@@ -15936,7 +16025,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lainaksi (hupenevasta, esim. rahasta t. jauhoista)</t>
+         <re>hupenevasta, esim. rahasta t. jauhoista</re>
+        <t pos="Adv">lainaksi</t>
       </tg>
     </mg>
   </e>
@@ -15966,7 +16056,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ilman lupaa</t>
+        <t t_type="phrase">ilman lupaa</t>
       </tg>
     </mg>
   </e>
@@ -15981,7 +16071,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ilman lupaa</t>
+        <t t_type="phrase">ilman lupaa</t>
       </tg>
     </mg>
   </e>
@@ -15996,7 +16086,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ilman lupaa</t>
+        <t t_type="phrase">ilman lupaa</t>
       </tg>
     </mg>
   </e>
@@ -16156,7 +16246,11 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">itäpäässä/itäpäästä/kaakkoispäässä/kaakkoispäästä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">itäpäässä</t>
+        <t pos="Adv">itäpäästä</t>
+        <t pos="Adv">kaakkoispäässä</t>
+        <t pos="Adv">kaakkoispäästä</t>
       </tg>
     </mg>
   </e>
@@ -16166,12 +16260,14 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">etelän suuntaan</t>
+        <t t_type="phrase">etelän suuntaan</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">idän/kaakon suuntaan (R)</t>
+         <re>Ruotsissa</re>
+        <t t_type="phrase">idän suuntaan</t>
+        <t t_type="phrase">kaakon suuntaan</t>
       </tg>
     </mg>
   </e>
@@ -16181,22 +16277,24 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jostakin etelästä</t>
+        <t t_type="phrase">jostakin etelästä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jossakin etelässä</t>
+        <t t_type="phrase">jossakin etelässä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jostakin idästä (R)</t>
+         <re>Ruotsissa</re>
+        <t t_type="phrase">jostakin idästä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jossakin idässä (R)</t>
+         <re>Ruotsissa</re>
+        <t t_type="phrase">jossakin idässä</t>
       </tg>
     </mg>
   </e>
@@ -16216,7 +16314,11 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">itäpuolella/kaakkoispuolella/-puolelta (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">itäpuolella </t>
+        <t pos="Adv">kaakkoispuolella </t>
+        <t pos="Adv">itäpuolelta </t>
+        <t pos="Adv">kaakkoispuolelta </t>
       </tg>
     </mg>
   </e>
@@ -16231,7 +16333,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">idemmäs (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">idemmäs</t>
       </tg>
     </mg>
   </e>
@@ -16251,12 +16354,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">idempänä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">idempänä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">idempää (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">idempää</t>
       </tg>
     </mg>
   </e>
@@ -16276,12 +16381,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">idässä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">idässä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">idästä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">idästä</t>
       </tg>
     </mg>
   </e>
@@ -16301,7 +16408,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tietä myöten</t>
+        <t t_type="phrase">tietä myöten</t>
       </tg>
     </mg>
   </e>
@@ -16321,7 +16428,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">niin ettei velkaa jää</t>
+        <t t_type="expl">niin ettei velkaa jää</t>
       </tg>
     </mg>
     <mg>
@@ -16397,16 +16504,19 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">terää</t>
+         <xg>
+            <x>dahká mađđása</x>
+            <xt>tekee terää</xt>
+         </xg>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">vaikutuksen</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">(dahká mađđása = tekee terää / vaikutuksen)</t>
+        <xg>
+            <x>dahká mađđása</x>
+            <xt>tekee vaikutuksen</xt>
+         </xg>
       </tg>
     </mg>
   </e>
@@ -16550,20 +16660,18 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">verran</t>
-        <xg>
+         <xg>
             <x>dan mađe</x>
             <xt>sen verran</xt>
-            </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">mađe – dađe (mitä – sitä)</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">mađe árat, dađe buoret (mitä aikaisemmin, sitä parempi)</t>
+         </xg>
+         <xg>
+            <x>mađe – dađe</x>
+            <xt>mitä – sitä</xt>
+         </xg>
+         <xg>
+            <x>mađe árat, dađe buoret</x>
+            <xt>mitä aikaisemmin, sitä parempi</xt>
+         </xg>
       </tg>
     </mg>
   </e>
@@ -16613,7 +16721,11 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">maailman (máilmmeloga = kaiken maailman)</t>
+        <t pos="Adv">maailman</t>
+        <xg>
+         <x>máilmmeloga</x>
+         <xt>kaiken maailman</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -16643,12 +16755,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">missään nimessä</t>
+        <t t_type="phrase">missään nimessä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">millään muotoa</t>
+        <t t_type="phrase">millään muotoa</t>
       </tg>
     </mg>
     <mg>
@@ -16673,12 +16785,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">missään nimessä</t>
+        <t t_type="phrase">missään nimessä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">millään muotoa</t>
+        <t t_type="phrase">millään muotoa</t>
       </tg>
     </mg>
     <mg>
@@ -16703,7 +16815,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">oikein (kysymyksissä)</t>
+         <re>kysymyksissä</re>
+        <t pos="Adv">oikein</t>
       </tg>
     </mg>
   </e>
@@ -16718,7 +16831,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">minkäs tähden</t>
+        <t t_type="phrase">minkäs tähden</t>
       </tg>
     </mg>
     <mg>
@@ -16893,7 +17006,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jäljestä (päin)</t>
+        <t t_type="expl">jäljestä (päin)</t>
       </tg>
     </mg>
     <mg>
@@ -16903,7 +17016,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">perästä (päin)</t>
+        <t t_type="expl">perästä (päin)</t>
       </tg>
     </mg>
     <mg>
@@ -17078,7 +17191,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pikku hiljaa</t>
+        <t t_type="phrase">pikku hiljaa</t>
       </tg>
     </mg>
     <mg>
@@ -17233,7 +17346,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kauemmas jälkipuolelle</t>
+        <t t_type="expl">kauemmas jälkipuolelle</t>
       </tg>
     </mg>
   </e>
@@ -17273,7 +17386,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">myöhään illalla</t>
+        <t t_type="phrase">myöhään illalla</t>
       </tg>
     </mg>
   </e>
@@ -17418,7 +17531,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">metsään (sinne kadoten)</t>
+        <t t_type="expl">metsään (sinne kadoten)</t>
       </tg>
     </mg>
   </e>
@@ -17428,7 +17541,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">melko paljon</t>
+        <t t_type="phrase">melko paljon</t>
       </tg>
     </mg>
     <mg>
@@ -17438,7 +17551,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(melko) pitkään</t>
+        <t t_type="expl">(melko) pitkään</t>
       </tg>
     </mg>
   </e>
@@ -17448,7 +17561,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">melko kauas</t>
+        <t t_type="phrase">melko kauas</t>
       </tg>
     </mg>
     <mg>
@@ -17468,12 +17581,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">melko kaukana</t>
+        <t t_type="phrase">melko kaukana</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">melko kaukaa</t>
+        <t t_type="phrase">melko kaukaa</t>
       </tg>
     </mg>
   </e>
@@ -17483,7 +17596,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">melko kaukaisesti</t>
+        <t t_type="phrase">melko kaukaisesti</t>
       </tg>
     </mg>
   </e>
@@ -17548,22 +17661,23 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tuulen alapuolella</t>
+        <t t_type="phrase">tuulen alapuolella</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tuulen alapuolelta</t>
+        <t t_type="phrase">tuulen alapuolelta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suojan puolella</t>
+        <t t_type="phrase">suojan puolella</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suojan puolelta (tuulen)</t>
+         <re>tuulen</re>
+        <t t_type="phrase">suojan puolelta</t>
       </tg>
     </mg>
   </e>
@@ -17588,17 +17702,17 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">antaa periksi</t>
+        <t t_type="phrase">antaa periksi</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">myödätä (jollekin)</t>
+        <t t_type="expl">myödätä (jollekin)</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tulla myöntyväiseksi</t>
+        <t t_type="expl">tulla myöntyväiseksi</t>
       </tg>
     </mg>
   </e>
@@ -17758,7 +17872,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hymyssä suin</t>
+        <t t_type="phrase">hymyssä suin</t>
       </tg>
     </mg>
   </e>
@@ -17768,7 +17882,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hymyssä suin</t>
+        <t t_type="phrase">hymyssä suin</t>
       </tg>
     </mg>
   </e>
@@ -17798,7 +17912,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hyvällä tuulella</t>
+        <t t_type="phrase">hyvällä tuulella</t>
       </tg>
     </mg>
   </e>
@@ -17923,12 +18037,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(vain) nimeksi maisteessa</t>
+        <t t_type="expl">(vain) nimeksi maisteessa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lievässä humalassa</t>
+        <t t_type="expl">lievässä humalassa</t>
       </tg>
     </mg>
   </e>
@@ -17978,7 +18092,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">yltä (vaatteesta)</t>
+         <re>vaatteesta</re>
+        <t pos="Adv">yltä</t>
       </tg>
     </mg>
   </e>
@@ -18033,7 +18148,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toisin sanoen</t>
+        <t t_type="phrase">toisin sanoen</t>
       </tg>
     </mg>
     <mg>
@@ -18078,12 +18193,13 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">eteen päin taipuneena</t>
+        <t t_type="phrase">eteen päin taipuneena</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kumarassa (hetkellisesti)</t>
+         <re>hetkellisesti</re>
+        <t pos="Adv">kumarassa</t>
       </tg>
     </mg>
   </e>
@@ -18103,7 +18219,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">neljännen kerran</t>
+        <t t_type="phrase">neljännen kerran</t>
       </tg>
     </mg>
   </e>
@@ -18113,7 +18229,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">neljä kertaa</t>
+        <t t_type="phrase">neljä kertaa</t>
       </tg>
     </mg>
     <mg>
@@ -18133,7 +18249,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hitaammassa määrin</t>
+        <t t_type="phrase">hitaammassa määrin</t>
       </tg>
     </mg>
   </e>
@@ -18188,7 +18304,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suoraa tietä</t>
+        <t t_type="phrase">suoraa tietä</t>
       </tg>
     </mg>
     <mg>
@@ -18218,7 +18334,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suoraa tietä</t>
+        <t t_type="phrase">suoraa tietä</t>
       </tg>
     </mg>
     <mg>
@@ -18248,13 +18364,14 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(aivan, vielä) märkänä</t>
+         <re>aivan, vielä</re>
+        <t pos="Adv">märkänä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>ruoasta</re>
-        <t pos="Adv">aivan, vielä raakana</t>
+        <t t_type="expl">aivan, vielä raakana</t>
       </tg>
     </mg>
   </e>
@@ -18284,7 +18401,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kuten esimerkiksi</t>
+        <t t_type="phrase">kuten esimerkiksi</t>
       </tg>
     </mg>
   </e>
@@ -18294,7 +18411,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kuten esimerkiksi</t>
+        <t t_type="phrase">kuten esimerkiksi</t>
       </tg>
     </mg>
   </e>
@@ -18324,12 +18441,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">luoteisempana (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">luoteisempana</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">luoteisempaa (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">luoteisempaa</t>
       </tg>
     </mg>
   </e>
@@ -18349,12 +18468,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoisimpana (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">pohjoisimpana</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoisimmasta (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">pohjoisimmasta</t>
       </tg>
     </mg>
   </e>
@@ -18369,7 +18490,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoisemmas (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">pohjoisemmas</t>
       </tg>
     </mg>
   </e>
@@ -18389,7 +18511,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoisempana (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">pohjoisempana</t>
       </tg>
     </mg>
     <mg>
@@ -18419,7 +18542,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">koillispäässä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">koillispäässä</t>
       </tg>
     </mg>
   </e>
@@ -18449,7 +18573,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">luoteeseen (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">luoteeseen</t>
       </tg>
     </mg>
   </e>
@@ -18478,13 +18603,15 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
     <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">pohjoispuolella (R)</t>
+      <tg xml:lang="fin"> 
+         <re>Ruotsissa</re>
+        <t pos="Adv">pohjoispuolella</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoispuolelta (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">pohjoispuolelta</t>
       </tg>
     </mg>
   </e>
@@ -18499,7 +18626,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoispuolelle (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">pohjoispuolelle</t>
       </tg>
     </mg>
   </e>
@@ -18519,12 +18647,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoisessa (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">pohjoisessa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoisesta(R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">pohjoisesta</t>
       </tg>
     </mg>
   </e>
@@ -18544,12 +18674,13 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">idän suuntaan</t>
+        <t t_type="phrase">idän suuntaan</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoisen suuntaan(R)</t>
+         <re>Ruotsissa</re>
+        <t t_type="phrase">pohjoisen suuntaan</t>
       </tg>
     </mg>
   </e>
@@ -18574,7 +18705,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">idässä (päin)</t>
+        <t t_type="expl">idässä (päin)</t>
       </tg>
     </mg>
     <mg>
@@ -18584,7 +18715,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pohjoisesta (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">pohjoisesta</t>
       </tg>
     </mg>
   </e>
@@ -18599,7 +18731,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toisen kerran</t>
+        <t t_type="phrase">toisen kerran</t>
       </tg>
     </mg>
     <mg>
@@ -18614,7 +18746,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toisen kerran</t>
+        <t t_type="phrase">toisen kerran</t>
       </tg>
     </mg>
   </e>
@@ -18624,7 +18756,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toisen kerran</t>
+        <t t_type="phrase">toisen kerran</t>
       </tg>
     </mg>
   </e>
@@ -18639,12 +18771,12 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">sillä tavalla</t>
+        <t t_type="phrase">sillä tavalla</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">juuri niin</t>
+        <t t_type="phrase">juuri niin</t>
       </tg>
     </mg>
   </e>
@@ -18654,7 +18786,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ilman muuta</t>
+        <t t_type="phrase">ilman muuta</t>
       </tg>
     </mg>
     <mg>
@@ -18664,7 +18796,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">noin vain</t>
+        <t t_type="phrase">noin vain</t>
       </tg>
     </mg>
   </e>
@@ -18749,7 +18881,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pää käännettynä kohti</t>
+        <t t_type="expl">pää käännettynä kohti</t>
       </tg>
     </mg>
     <mg>
@@ -18834,7 +18966,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pienin askelin</t>
+        <t t_type="phrase">pienin askelin</t>
       </tg>
     </mg>
   </e>
@@ -18849,7 +18981,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lyhyeksi aikaa</t>
+        <t t_type="phrase">lyhyeksi aikaa</t>
       </tg>
     </mg>
     <mg>
@@ -18859,7 +18991,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lyhyen aikaa</t>
+        <t t_type="phrase">lyhyen aikaa</t>
       </tg>
     </mg>
   </e>
@@ -18914,7 +19046,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">etelämmäs (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">etelämmäs</t>
       </tg>
     </mg>
   </e>
@@ -18934,12 +19067,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">etelämpää (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">etelämpää</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">etelämpänä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">etelämpänä</t>
       </tg>
     </mg>
   </e>
@@ -18994,12 +19129,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">eteläpuolella (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">eteläpuolella</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">eteläpuolelta (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">eteläpuolelta</t>
       </tg>
     </mg>
   </e>
@@ -19014,7 +19151,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">eteläpuolelle (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">eteläpuolelle</t>
       </tg>
     </mg>
   </e>
@@ -19029,7 +19167,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">etelään (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">etelään</t>
       </tg>
     </mg>
   </e>
@@ -19044,7 +19183,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lounaaseen (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">lounaaseen</t>
       </tg>
     </mg>
   </e>
@@ -19054,12 +19194,13 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lännen suuntaan</t>
+        <t t_type="phrase">lännen suuntaan</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">etelän suuntaan (R)</t>
+         <re>Ruotsissa</re>
+        <t t_type="phrase">etelän suuntaan</t>
       </tg>
     </mg>
   </e>
@@ -19074,7 +19215,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kaakkoon (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">kaakkoon</t>
       </tg>
     </mg>
   </e>
@@ -19094,12 +19236,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">etelässä(R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">etelässä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">etelästä (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">etelästä</t>
       </tg>
     </mg>
   </e>
@@ -19169,12 +19313,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">koko aikaa</t>
+        <t t_type="phrase">koko aikaa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">koko ajan</t>
+        <t t_type="phrase">koko ajan</t>
       </tg>
     </mg>
   </e>
@@ -19214,7 +19358,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vaatteet päällä</t>
+        <t t_type="phrase">vaatteet päällä</t>
       </tg>
     </mg>
   </e>
@@ -19224,7 +19368,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(aivan) uutena</t>
+         <re>aivan</re>
+        <t pos="Adv">uutena</t>
       </tg>
     </mg>
     <mg>
@@ -19239,7 +19384,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">aina vain</t>
+        <t t_type="phrase">aina vain</t>
       </tg>
     </mg>
     <mg>
@@ -19374,7 +19519,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ilman keskeytystä</t>
+        <t t_type="phrase">ilman keskeytystä</t>
       </tg>
     </mg>
     <mg>
@@ -19384,7 +19529,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tasaiseen tahtiin</t>
+        <t t_type="phrase">tasaiseen tahtiin</t>
       </tg>
     </mg>
   </e>
@@ -19539,12 +19684,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(jnk toisen vaatekappaleen) päälle</t>
+         <re>jnk toisen vaatekappaleen</re>
+        <t pos="Adv">päälle</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ulkoa (osaten)</t>
+         <re>osaten</re>
+        <t pos="Adv">ulkoa</t>
       </tg>
     </mg>
   </e>
@@ -19559,7 +19706,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">päällisin puolin</t>
+        <t t_type="phrase">päällisin puolin</t>
       </tg>
     </mg>
     <mg>
@@ -19569,7 +19716,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">katsottuna ulkopuolelta</t>
+        <t t_type="expl">katsottuna ulkopuolelta</t>
       </tg>
     </mg>
   </e>
@@ -19604,7 +19751,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ulos (talosta tms)</t>
+         <re>talosta tms</re>
+        <t pos="Adv">ulos</t>
       </tg>
     </mg>
   </e>
@@ -19624,7 +19772,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">öljyyn tahriintuneena</t>
+        <t t_type="expl">öljyyn tahriintuneena</t>
       </tg>
     </mg>
   </e>
@@ -19744,7 +19892,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vakituisesti (jssak)</t>
+        <t t_type="expl">vakituisesti (jssak)</t>
       </tg>
     </mg>
   </e>
@@ -19784,17 +19932,17 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">täksi päiväksi</t>
+        <t t_type="phrase">täksi päiväksi</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tähän päivään mennessä</t>
+        <t t_type="phrase">tähän päivään mennessä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tähän päivään asti</t>
+        <t t_type="phrase">tähän päivään asti</t>
       </tg>
     </mg>
   </e>
@@ -19819,27 +19967,27 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän edempää (ohi)</t>
+        <t t_type="phrase">vähän edempää (ohi)</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän aiemmin</t>
+        <t t_type="phrase">vähän aiemmin</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän aikaisemmin</t>
+        <t t_type="phrase">vähän aikaisemmin</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">äkkiä pian</t>
+        <t t_type="phrase">äkkiä pian</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lyhyessä ajassa</t>
+        <t t_type="phrase">lyhyessä ajassa</t>
       </tg>
     </mg>
   </e>
@@ -19849,27 +19997,27 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän edellä</t>
+        <t t_type="phrase">vähän edellä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän edeltä</t>
+        <t t_type="phrase">vähän edeltä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän edempänä</t>
+        <t t_type="phrase">vähän edempänä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän aiemmin</t>
+        <t t_type="phrase">vähän aiemmin</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän aikaisemmalta ajalta</t>
+        <t t_type="phrase">vähän aikaisemmalta ajalta</t>
       </tg>
     </mg>
   </e>
@@ -20004,7 +20152,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">edestä päin</t>
+        <t t_type="phrase">edestä päin</t>
       </tg>
     </mg>
     <mg>
@@ -20210,7 +20358,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kokkapainossa (veneestä)</t>
+         <re>veneestä</re>
+        <t pos="Adv">kokkapainossa</t>
       </tg>
     </mg>
   </e>
@@ -20240,7 +20389,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">yhden verran</t>
+        <t t_type="phrase">yhden verran</t>
       </tg>
     </mg>
   </e>
@@ -20405,7 +20554,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">rinta rintaa vasten</t>
+        <t t_type="phrase">rinta rintaa vasten</t>
       </tg>
     </mg>
   </e>
@@ -20445,7 +20594,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">rinta rintaa vasten</t>
+        <t t_type="phrase">rinta rintaa vasten</t>
       </tg>
     </mg>
   </e>
@@ -20495,7 +20644,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">reiästä (sisään tai ulos)</t>
+         <re>sisään tai ulos</re>
+        <t pos="Adv">reiästä</t>
       </tg>
     </mg>
   </e>
@@ -20540,17 +20690,20 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(jstak) asti</t>
+         <re>jstak</re>
+        <t pos="Adv">asti</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(jstak) lähtien</t>
+         <re>jstak</re>
+        <t pos="Adv">lähtien</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(jstak, jssak) saakka</t>
+         <re>jstak, jssak</re>
+        <t pos="Adv">saakka</t>
       </tg>
     </mg>
   </e>
@@ -20560,7 +20713,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">rinta jhk päin</t>
+        <t t_type="expl">rinta jhk päin</t>
       </tg>
     </mg>
     <mg>
@@ -20750,7 +20903,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ristiriidassa (keskenään)</t>
+         <re>keskenään</re>
+        <t pos="Adv">ristiriidassa</t>
       </tg>
     </mg>
   </e>
@@ -20805,7 +20959,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">puheisiin keskenään</t>
+        <t t_type="phrase">puheisiin keskenään</t>
       </tg>
     </mg>
   </e>
@@ -20820,7 +20974,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">keskusteluun keskenään</t>
+        <t t_type="phrase">keskusteluun keskenään</t>
       </tg>
     </mg>
     <mg>
@@ -20830,7 +20984,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">puheisiin keskenään</t>
+        <t t_type="phrase">puheisiin keskenään</t>
       </tg>
     </mg>
   </e>
@@ -20845,7 +20999,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kunhan (ei)</t>
+        <t t_type="phrase">kunhan (ei)</t>
       </tg>
     </mg>
     <mg>
@@ -20895,7 +21049,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(sangen) paljon</t>
+         <re>sangen</re>
+        <t pos="Adv">paljon</t>
       </tg>
     </mg>
   </e>
@@ -20935,7 +21090,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toivon mukaan</t>
+        <t t_type="phrase">toivon mukaan</t>
       </tg>
     </mg>
     <mg>
@@ -20970,7 +21125,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toisiinsa sekaantuneina</t>
+        <t t_type="phrase">toisiinsa sekaantuneina</t>
       </tg>
     </mg>
   </e>
@@ -20985,7 +21140,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toisiinsa sekaantuneina</t>
+        <t t_type="phrase">toisiinsa sekaantuneina</t>
       </tg>
     </mg>
   </e>
@@ -21000,7 +21155,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toisiinsa sekaantuneina</t>
+        <t t_type="phrase">toisiinsa sekaantuneina</t>
       </tg>
     </mg>
   </e>
@@ -21015,7 +21170,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toisiinsa sekaantuneina</t>
+        <t t_type="phrase">toisiinsa sekaantuneina</t>
       </tg>
     </mg>
   </e>
@@ -21045,7 +21200,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">selkä käännettynä</t>
+        <t t_type="phrase">selkä käännettynä</t>
       </tg>
     </mg>
   </e>
@@ -21145,7 +21300,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">selkä edellä</t>
+        <t t_type="phrase">selkä edellä</t>
       </tg>
     </mg>
     <mg>
@@ -21290,7 +21445,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">sisälle päin</t>
+        <t t_type="phrase">sisälle päin</t>
       </tg>
     </mg>
     <mg>
@@ -21365,12 +21520,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jonkin verran sisemmäs</t>
+        <t t_type="expl">jonkin verran sisemmäs</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jonkin verran peremmäs</t>
+        <t t_type="expl">jonkin verran peremmäs</t>
       </tg>
     </mg>
   </e>
@@ -21405,12 +21560,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">sisempää (kautta)</t>
+        <t t_type="phrase">sisempää (kautta)</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">perempää (kautta)</t>
+        <t t_type="phrase">perempää (kautta)</t>
       </tg>
     </mg>
   </e>
@@ -21515,7 +21670,8 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kierossa (vääntyneestä, pudonneesta esineestä)</t>
+         <re>vääntyneestä, pudonneesta esineestä</re>
+        <t pos="Adv">kierossa</t>
       </tg>
     </mg>
   </e>
@@ -21565,7 +21721,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">mukavalla tavalla</t>
+        <t t_type="phrase">mukavalla tavalla</t>
       </tg>
     </mg>
     <mg>
@@ -21630,7 +21786,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">samaan hihnaan sidottuina</t>
+        <t t_type="phrase">samaan hihnaan sidottuina</t>
       </tg>
     </mg>
   </e>
@@ -21725,12 +21881,14 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv"> (kovinkaan) paljon</t>
+         <re>kovinkaan</re>
+        <t pos="Adv">paljon</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suuresti, suuremmin</t>
+        <t pos="Adv">suuresti</t>
+        <t pos="Adv">suuremmin</t>
       </tg>
     </mg>
   </e>
@@ -21755,12 +21913,14 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lähekkäin (kosketusetäisyydellä)</t>
+         <re>kosketusetäisyydellä</re>
+        <t pos="Adv">lähekkäin</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toistensa kaltaiset (pl.)</t>
+         <re>pl.</re>
+        <t t_type="phrase">toistensa kaltaiset</t>
       </tg>
     </mg>
   </e>
@@ -21770,12 +21930,14 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lähekkäin (kosketusetäisyydellä)</t>
+         <re>kosketusetäisyydellä</re>
+        <t pos="Adv">lähekkäin</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toistensa kaltaiset (pl.)</t>
+         <re>pl.</re>
+        <t t_type="phrase">toistensa kaltaiset</t>
       </tg>
     </mg>
   </e>
@@ -21930,7 +22092,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähäisimmässä määrin</t>
+        <t t_type="phrase">vähäisimmässä määrin</t>
       </tg>
     </mg>
     <mg>
@@ -21990,12 +22152,12 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ovesta sisään tai ulos</t>
+        <t t_type="expl">ovesta sisään tai ulos</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">oven kautta</t>
+        <t t_type="phrase">oven kautta</t>
       </tg>
     </mg>
   </e>
@@ -22035,7 +22197,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähäisemmässä määrin</t>
+        <t t_type="expl">vähäisemmässä määrin</t>
       </tg>
     </mg>
     <mg>
@@ -22231,11 +22393,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">vaarin</t>
+        <xg>
+            <x>vára váldit</x>
+            <xt>ottaa vaarin</xt>
+         </xg>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">opikseen (vára váldit = ottaa vaarin)</t>
+        <t pos="Adv">opikseen</t>
       </tg>
     </mg>
   </e>
@@ -22330,7 +22496,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toinen toistaan auttaen</t>
+        <t t_type="expl">toinen toistaan auttaen</t>
       </tg>
     </mg>
     <mg>
@@ -22355,7 +22521,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">toinen toistaan auttaen</t>
+        <t t_type="expl">toinen toistaan auttaen</t>
       </tg>
     </mg>
     <mg>
@@ -22385,7 +22551,9 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vapaana, vapaaksi (eläin)</t>
+         <re>eläin</re>
+        <t pos="Adv">vapaana</t>
+        <t pos="Adv">vapaaksi</t>
       </tg>
     </mg>
   </e>
@@ -22400,7 +22568,9 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vapaana, vapaaksi (eläin)</t>
+         <re>eläin</re>
+        <t pos="Adv">vapaana</t>
+        <t pos="Adv">vapaaksi</t>
       </tg>
     </mg>
   </e>
@@ -22555,7 +22725,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">viinaan ryvettyneenä</t>
+        <t t_type="phrase">viinaan ryvettyneenä</t>
       </tg>
     </mg>
   </e>
@@ -22585,7 +22755,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hyvin kauas</t>
+        <t t_type="phrase">hyvin kauas</t>
       </tg>
     </mg>
     <mg>
@@ -22675,7 +22845,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">perin juuri</t>
+        <t t_type="phrase">perin juuri</t>
       </tg>
     </mg>
     <mg>
@@ -22765,7 +22935,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">rasvaan tahriintuneena</t>
+        <t t_type="phrase">rasvaan tahriintuneena</t>
       </tg>
     </mg>
   </e>
@@ -22780,7 +22950,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">asiantuntijan tavalla</t>
+        <t t_type="phrase">asiantuntijan tavalla</t>
       </tg>
     </mg>
   </e>
@@ -22825,7 +22995,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">taas kerran</t>
+        <t t_type="phrase">taas kerran</t>
       </tg>
     </mg>
   </e>
@@ -22835,7 +23005,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">voiteen tahraama</t>
+        <t t_type="phrase">voiteen tahraama</t>
       </tg>
     </mg>
     <mg>
@@ -22995,12 +23165,13 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hiljaisella äänellä</t>
+        <t t_type="phrase">hiljaisella äänellä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">piano (mus.)</t>
+         <re>mus.</re>
+        <t pos="Adv">piano</t>
       </tg>
     </mg>
   </e>
@@ -23010,7 +23181,7 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vähän alempaa (ohi)</t>
+        <t t_type="expl">vähän alempaa (ohi)</t>
       </tg>
     </mg>
   </e>
@@ -23085,12 +23256,13 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">alempaa (kautta)</t>
+        <t t_type="phrase">alempaa (kautta)</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">alle (lukumäärästä)</t>
+         <re>lukumäärästä</re>
+        <t pos="Adv">alle</t>
       </tg>
     </mg>
   </e>
@@ -23135,7 +23307,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vastainen (esim. tuuli)</t>
+         <re>esim. tuuli</re>
+        <t pos="Adv">vastainen</t>
       </tg>
     </mg>
   </e>
@@ -23165,7 +23338,8 @@ For the full license text, see the link above.</lic>
   </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vastainen (esim. tuuli)</t>
+         <re>esim. tuuli</re>
+        <t pos="Adv">vastainen</t>
       </tg>
     </mg>
   </e>
@@ -23276,12 +23450,14 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">koko (päivän, yön jne)</t>
+         <re>päivän, yön jne</re>
+        <t pos="Adv">koko</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">läpi (talven, yön jne)</t>
+         <re>talven, yön jne</re>
+        <t pos="Adv">läpi</t>
       </tg>
     </mg>
   </e>
@@ -23472,7 +23648,7 @@ For the full license text, see the link above.</lic>
    </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(=ja de), ja sitten</t>
+        <t t_type="phrase">ja sitten</t>
       </tg>
     </mg>
   </e>
@@ -23482,12 +23658,13 @@ For the full license text, see the link above.</lic>
    </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tavallaan eräällä lailla</t>
+        <t t_type="expl">tavallaan eräällä lailla</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">samalla tavoin (keskenään)</t>
+         <re>keskenään</re>
+        <t t_type="phrase">samalla tavoin</t>
       </tg>
     </mg>
   </e>
@@ -23497,7 +23674,8 @@ For the full license text, see the link above.</lic>
    </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">melkein (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">melkein</t>
       </tg>
     </mg>
   </e>
@@ -23507,7 +23685,8 @@ For the full license text, see the link above.</lic>
    </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kautta (R)</t>
+         <re>Ruotsissa</re>
+        <t pos="Adv">kautta</t>
       </tg>
     </mg>
   </e>
@@ -23517,7 +23696,7 @@ For the full license text, see the link above.</lic>
    </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">siihen asti kun</t>
+        <t t_type="phrase">siihen asti kun</t>
       </tg>
     </mg>
   </e>
