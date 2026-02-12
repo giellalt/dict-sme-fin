@@ -45,7 +45,7 @@
 
 <!ELEMENT t (#PCDATA) >
 <!ATTLIST t dialect ( west | east ) #IMPLIED  >
-<!ATTLIST t t_type ( Pers | expl ) #IMPLIED  >
+<!ATTLIST t t_type ( expl | phrase ) #IMPLIED  >
 <!ATTLIST t nr ( Sg | Pl ) #IMPLIED  >
 <!ATTLIST t pos ( A | S  | N  | V | Adp | Clt |
             Adv | P | Pr | Po | Det |
