@@ -23725,4 +23725,20 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+      <lg>
+         <l pos="Adv">loažžut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">löyhällä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>hetkellisesti</re>
+            <t pos="Adv">löysällä</t>
+         </tg>
+      </mg>
+   </e>
 </r>
