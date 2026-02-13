@@ -49,7 +49,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pcle">juo</t>
-            <t pos="Pcle">kyllä kai</t>
+            <t t_type="phrase">kyllä kai</t>
          </tg>
       </mg>
    </e>
@@ -145,7 +145,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
           <re>kiellon yhteydessä</re>
-        <t pos="Pcle">että </t>
+        <t pos="Pcle">että</t>
       </tg>
     </mg>
     <mg>
@@ -161,7 +161,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pcle">eikös</t>
-        <t pos="Pcle">eikös niin</t>
+        <t t_type="phrase">eikös niin</t>
       </tg>
     </mg>
     <mg>
@@ -232,17 +232,17 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Pcle">-kö sittenkin</t>
+        <t t_type="phrase">-kö sittenkin</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Pcle">-kä tosiaan</t>
+        <t t_type="phrase">-kä tosiaan</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Pcle">saat uskoa, että</t>
+        <t t_type="phrase">saat uskoa, että</t>
       </tg>
     </mg>
     <mg>

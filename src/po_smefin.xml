@@ -187,8 +187,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Po">jostakin asiasta</t>
-            <t pos="Po">jotakin koskien</t>
+            <t t_type="phrase">jostakin asiasta</t>
+            <t t_type="phrase">jotakin koskien</t>
          </tg>
       </mg>
    </e>
@@ -280,8 +280,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Po">jonkun suhteen</t>
-            <t pos="Po">jossakin suhteessa</t>
+            <t t_type="phrase">jonkun suhteen</t>
+            <t t_type="phrase">jossakin suhteessa</t>
          </tg>
       </mg>
    </e>
@@ -486,7 +486,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Po">jonkun suhteen</t>
+            <t t_type="phrase">jonkun suhteen</t>
          </tg>
       </mg>
    </e>
@@ -721,7 +721,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Po">johonkin saakka</t>
+            <t t_type="phrase">johonkin saakka</t>
          </tg>
       </mg>
    </e>
