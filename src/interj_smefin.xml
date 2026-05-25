@@ -3,8 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../dtd/smefin.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smefin.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
@@ -208,4 +207,335 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-</r>
+<e>
+    <lg>
+      <l pos="Interj">ámen</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">aamen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">ámmen</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">aamen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">ámmozan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <gramm>pikkulapsista käytettävä hellittelysana</gramm>
+        <t>herranterttu!</t>
+        <t>kultaseni!</t>
+        <xg>
+          <x>vuoi ámmozan vuoi!</x>
+          <xt>voi pikkukultaseni!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">borta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">portti</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">la</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">rasvasolu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">buorát</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>päivää!</t>
+        <t>terve!</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">bures</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>käteltäessä</re>
+        <t>terve!</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">buresboahtin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>tervetuloa!</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">danheakka</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>hitto!</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">fánten</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>pahus!</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">ficce</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>hyi!</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">fiš</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>hyi!</t>
+        <xg>
+          <x>fiš dohko!</x>
+          <xt>hyi sentään!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">gea</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>katso</t>
+        <t>katsopas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">geah!</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">kas</t>
+        <t pos="Interj">kappas</t>
+        <t>ohoh!</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">he-hei</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">ohhoh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">helset</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>lievä kirosana</re>
+        <t pos="Interj">juku</t>
+        <t pos="Interj">jukra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">hiivvat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">hiivatti</t>
+        <xg>
+          <x>vuoi hiivvat vuoi!</x>
+          <xt>voi hiivatti sentään!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">hohoh</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>hämmästystä ilmaiseva huudahdus</re>
+        <t pos="Interj">ohhoh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">hohoi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>väsymystä ilmaiseva huokaus</re>
+        <t pos="Interj">hohoi</t>
+        <t pos="Interj">ohoi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">joo</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>myöntävä vastaus</re>
+        <t pos="Interj">joo</t>
+        <t pos="Adv">kyllä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">li</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">opinto-ohjaaja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">oho</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>hämmästystä ilmaiseva huudahdus</re>
+        <t pos="Interj">ohhoh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">ohoi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>väsymystä ilmaiseva huokaus</re>
+        <t pos="Interj">hohoi</t>
+        <t pos="Interj">ohoi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">sásažan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>tuleva</re>
+        <t pos="A">rakas</t>
+        <t>sukulaiseni!</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">skole</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">skool</t>
+        <t pos="Interj">kippis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">skol</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">skool</t>
+        <t pos="Interj">kippis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">uš</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">hui</t>
+        <t pos="Interj">hyi</t>
+        <xg>
+          <x>uš dan!</x>
+          <xt>hui sentään</xt>
+        </xg>
+        <xg>
+          <x>uš man ropmi!</x>
+          <xt>hyi kuinka ruma!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">vuoi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">voi</t>
+        <t pos="Interj">oi</t>
+        <xg>
+          <x>vuoi man somá!</x>
+          <xt>voi kuinka hauskaa!</xt>
+        </xg>
+        <xg>
+          <x>vuoi doantá!</x>
+          <xt>voi pahus!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  </r>

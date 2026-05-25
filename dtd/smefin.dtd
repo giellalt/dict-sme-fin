@@ -31,14 +31,15 @@
       Mal | mwe | N | Num | Pcle | Po | Pr | Pron | V ) #REQUIRED
       nr ( Sg | Du | Pl ) #IMPLIED
       sem_type ( Obj | Plc | Fem | Org | Mal | Txt ) #IMPLIED 
-      type ( Dem | Fem | G3 | Indef | Interr | Mal | NomAg | Pers | Prop | Refl | Rel ) #IMPLIED
+      type ( Dem | Fem | G3 | G7 | Coll | Indef | Interr | Mal | NomAg | Pers | Prop | Refl | Rel |Ord ) #IMPLIED
 >
 
 
 <!ELEMENT mg (semantics?, l_ref?, tg+ ) >
 
-
-<!ELEMENT tg (semantics?, re?, t+, xg* ) >
+<!ELEMENT geo (#PCDATA)>
+<!ELEMENT gramm (#PCDATA)>
+<!ELEMENT tg (semantics?, re?, geo?, gramm?, t+, xg* ) >
 <!ATTLIST tg xml:lang ( fin ) #REQUIRED >
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
@@ -54,9 +55,8 @@
       phrase_N | phrase_A | phrase_V | phrase_Adv | g3 | NomAg | mwe | fp-cmp
           | Abbr | Foc_ba
           | Adv-N | N-Pron | Adv-CC | Adv-Pron | Adv-CS | CC-CS | A-N | Adv-Po | CMP | A-Adv | Adv-Po-Pron | A-Adv-Pron | A-Adv-N | Adv-N-Po | N-Po | Po-Pron | A-Pron | Foc_gis | Foc_han ) #IMPLIED >
-<!ATTLIST t type ( expl
-                  | grammarexpl |Prop | Indef | G3 | NomAg | Coll | Recipr | Pers
-                  | grammar | Refl | Dem | Poss | Logo | Rel | Interr | TV | IV ) #IMPLIED >
+<!ATTLIST t type ( Prop | Indef | G3 | NomAg | Coll | Recipr | Pers | PrsPrc
+                  | Refl | Dem | Poss | Logo | Rel | Interr | TV | IV | Ord ) #IMPLIED >
 <!ATTLIST t hid CDATA #IMPLIED >
 <!ATTLIST t var ( sw | no | fi )  #IMPLIED >
 

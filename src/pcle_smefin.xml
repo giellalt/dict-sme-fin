@@ -3,8 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../dtd/smefin.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smefin.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
@@ -251,4 +250,239 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-</r>
+  <e>
+    <lg>
+      <l pos="Pcle">ammahal</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>eiköhän</t>
+        <t pos="Adv">varmaankin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">-ba</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>-pa</t>
+        <t>-pä</t>
+        <xg>
+          <x>leabahan dat lossat</x>
+          <xt>onpa se painava</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">-bat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>-kos</t>
+        <t>-kös</t>
+        <xg>
+          <x>boahtábat son deike?</x>
+          <xt>tuleekos hän tänne?</xt>
+        </xg>
+        <xg>
+          <x>finaibat Sire dáppe?</x>
+          <xt>kävikös Siiri täällä?</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>-ko</t>
+        <t>-kö</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">dat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">se</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">hän</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">galahan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">kyllähän</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">goittot</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pcle">kuitenkin</t>
+        <xg>
+          <x>vulggii goittot</x>
+          <xt>lähti kuitenkin</xt>
+        </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">ainakin</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pcle">vähintään</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">-han</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>-han</t>
+        <t>-hän</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">lági</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Po">päinsä</t>
+        <xg>
+          <x>geavvat lági</x>
+          <xt>käydä päinsä</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">-mes</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>-pa</t>
+        <t>-pä</t>
+        <t pos="Pcle">oikeastaan</t>
+        <xg>
+          <x>muitalmes!</x>
+          <xt>kerropa!</xt>
+        </xg>
+        <xg>
+          <x>nuhan datmes leige</x>
+          <xt>niinhän se oikeastaan olikin</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">-nai</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t>-kin</t>
+        <xg>
+          <x>sunai oidnen doppe</x>
+          <xt>hänetkin näin siellä</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">nu</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">niin</t>
+        <xg>
+          <x>aiddo nu</x>
+          <xt>juuri niin</xt>
+        </xg>
+        <xg>
+          <x>amma nu?</x>
+          <xt>eikö niin?</xt>
+        </xg>
+        <xg>
+          <x>nu fal!</x>
+          <xt>juuri niin!</xt>
+        </xg>
+        <xg>
+          <x>mii nu</x>
+          <xt>jokin (esineistä)</xt>
+        </xg>
+        <xg>
+          <x>gii nu</x>
+          <xt>joku (ihmisestä)</xt>
+        </xg>
+        <xg>
+          <x>gokko nu</x>
+          <xt>jotakin kautta</xt>
+        </xg>
+        <xg>
+          <x>geasa nu</x>
+          <xt>jollekin (ihmisestä)</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">son</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">hän</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">-son</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>kysymyksissä</re>
+        <t>-han</t>
+        <t>-hän</t>
+        <xg>
+          <x>gosason dat manai?</x>
+          <xt>mihinkähän se meni?</xt>
+        </xg>
+        <xg>
+          <x>geasason mun muitalivččen?</x>
+          <xt>kenelleköhän minä kertoisin?</xt>
+        </xg>
+        <xg>
+          <x>iigoson dat ordnašuva?</x>
+          <xt>eiköhän se järjesty?</xt>
+        </xg>
+        <xg>
+          <x>leagoson dat duohta?</x>
+          <xt>onkohan se totta?</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  </r>

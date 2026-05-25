@@ -3,8 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../dtd/smefin.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smefin.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
@@ -149,4 +148,91 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-</r>
+<e>
+    <lg>
+      <l pos="CC">dainnago</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">sillä</t>
+        <t pos="Adv">koska</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CC">daningo</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">koska</t>
+        <t pos="Pron">sillä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CC">dannego</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">koska</t>
+        <t pos="Pron">sillä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CC">dasgo</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">sillä</t>
+        <t pos="Adv">koska</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CC">dassáigo</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">kunnes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CC">dassážiigo</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">kunnes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CC">duššego</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pcle">josko</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CC">gosa</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">johon</t>
+        <t pos="Adv">jonne</t>
+        <t pos="Adv">mihin</t>
+        <t pos="Adv">minne</t>
+      </tg>
+    </mg>
+  </e>
+  </r>
