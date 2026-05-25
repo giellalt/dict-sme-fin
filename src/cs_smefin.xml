@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smefin.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
-   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+  <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -28,14 +28,14 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e>
-      <lg>
-         <l pos="CS">ahte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CS">että</t>
-         <xg>
+  <e>
+    <lg>
+      <l pos="CS">ahte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="CS">että</t>
+        <xg>
           <x>Lea hui mávssolaš ahte sin dárbbut váldojit vuhtii.</x>
           <xt>_FIN_</xt>
         </xg>
@@ -44,34 +44,34 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">amas</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CS">outo</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">go</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CS">kun</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">amas</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="CS">outo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">go</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="CS">kun</t>
+        <xg>
           <x>Maid dál ges galgá dahkat, go ii leat hivssetbábir?</x>
           <xt>_FIN_</xt>
         </xg>
-      <xg>
+        <xg>
           <x>Ánte lea gievrrat go Elle.</x>
           <xt>_FIN_</xt>
         </xg>
-      <xg>
+        <xg>
           <x>Sidjiide lea sámegiella amas giella, maid fertejit oahppagoahtit seammá láhkai go eará amas gielaid.</x>
           <xt>_FIN_</xt>
         </xg>
@@ -84,56 +84,56 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CS">kuin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">jos</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CS">jos</t>
-         <xg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="CS">kuin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">jos</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="CS">jos</t>
+        <xg>
           <x>Jos ihttin lea buolaš, de eat vuolgge čuoigat.</x>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">juogo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CS">joko</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">juos</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CS">jos</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">nugo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t t_type="phrase">niin kuin</t>
-            <t pos="CS">kuten</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">juogo</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="CS">joko</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">juos</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="CS">jos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">nugo</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="phrase">niin kuin</t>
+        <t pos="CS">kuten</t>
+        <xg>
           <x>Daga nugo mun.</x>
           <xt>_FIN_</xt>
         </xg>
@@ -150,30 +150,30 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">ovdalgo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t t_type="phrase">ennen kuin</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">ovdalgo</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="phrase">ennen kuin</t>
+        <xg>
           <x>Guokte jagi manne ovdalgo vástádus bođii.</x>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">vaikko</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CS">vaikka</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">vaikko</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="CS">vaikka</t>
+        <xg>
           <x>Don gal borat vaikko man ollu.</x>
           <xt>_FIN_</xt>
         </xg>
@@ -182,36 +182,36 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">jogo ... dahje</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t t_type="phrase">joko ... tai</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">josgo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CC">josko</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">váikko</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CC">vaikka</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">jogo ... dahje</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="phrase">joko ... tai</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">josgo</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="CC">josko</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">váikko</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="CC">vaikka</t>
+        <xg>
           <x>Don gal borat váikko man ollu.</x>
           <xt>_FIN_</xt>
         </xg>
@@ -220,16 +220,16 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">dego</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pcle">kuten</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">dego</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pcle">kuten</t>
+        <xg>
           <x>Don borat dego spiidni.</x>
           <xt>_FIN_</xt>
         </xg>
@@ -238,20 +238,20 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CS">jus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CS">jos</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="CS">jus</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="CS">jos</t>
+        <xg>
           <x>Jus ihttin lea buolaš, de eat vuolgge čuoigat.</x>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
+    </mg>
+  </e>
 </r>

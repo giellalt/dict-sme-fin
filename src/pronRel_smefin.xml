@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smefin.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
-   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+  <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -28,14 +28,14 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e>
-      <lg>
-         <l pos="Pron" type="Rel">gii</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">kuka</t>
-         <xg>
+  <e>
+    <lg>
+      <l pos="Pron" type="Rel">gii</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">kuka</t>
+        <xg>
           <x>Gii bat don leat?</x>
           <xt>_FIN_</xt>
         </xg>
@@ -44,17 +44,17 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Rel">guhte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">kuka</t>
-            <t pos="Pron">joka</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Rel">guhte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">kuka</t>
+        <t pos="Pron">joka</t>
+        <xg>
           <x>Guhte lea dán bargan?</x>
           <xt>_FIN_</xt>
         </xg>
@@ -66,21 +66,21 @@ For the full license text, see the link above.</lic>
           <x>Elle muitalii maid guhte válddii.</x>
           <xt>_FIN_</xt>
         </xg>
-      <xg>
+        <xg>
           <x>Kandidáhtta guhte buohccá skuvlaeksámena áigge, ferte dieđihit dan eksámenlanja váldofáktii.</x>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Rel">mii</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">mikä</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Rel">mii</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">mikä</t>
+        <xg>
           <x>Mii bat doppe lea?</x>
           <xt>_FIN_</xt>
         </xg>
@@ -89,6 +89,6 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
+    </mg>
+  </e>
 </r>

@@ -1,12 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../dtd/smefin.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smefin.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
-   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+  <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -29,151 +28,151 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e>
-      <lg>
-         <l pos="Pron" type="Interr">gii</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">kuka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Interr">goabbá</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">kumpi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Interr">makkár</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">millainen</t>
-            <t pos="Pron">minkälainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Interr">makkáraš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">millainen</t>
-            <t pos="Pron">minkälainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Interr">mii</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">mikä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">dokkár</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">tuollainen kuin tuo tuolla kaukana</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">giige</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">kukaan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">kukin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">guhtet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">kukin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">juobbá</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">jompikumpi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">juobbágoabbá</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">jompikumpi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">juohkehaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">jokainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">miijai</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">mikin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">oktahat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Num">yksi ja sama</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">olugat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">monet ihmiset</t>
-         </tg>
-      </mg>
-   </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Interr">gii</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">kuka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Interr">goabbá</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">kumpi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Interr">makkár</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">millainen</t>
+        <t pos="Pron">minkälainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Interr">makkáraš</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">millainen</t>
+        <t pos="Pron">minkälainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Interr">mii</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">mikä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">dokkár</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">tuollainen kuin tuo tuolla kaukana</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">giige</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">kukaan</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">kukin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">guhtet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">kukin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">juobbá</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">jompikumpi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">juobbágoabbá</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">jompikumpi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">juohkehaš</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">jokainen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">miijai</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">mikin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">oktahat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yksi ja sama</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">olugat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">monet ihmiset</t>
+      </tg>
+    </mg>
+  </e>
 </r>

@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smefin.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
-   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+  <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -28,30 +28,30 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">dat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">se</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <re>puhek.</re>
-            <t pos="Pron">hän</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">dii</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">te</t>
-         <xg>
+  <e>
+    <lg>
+      <l pos="Pron" type="Pers">dat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">se</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>puhek.</re>
+        <t pos="Pron">hän</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Pers">dii</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">te</t>
+        <xg>
           <x>dii lehpet</x>
           <xt>_FIN_</xt>
         </xg>
@@ -60,16 +60,16 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">doai</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">te kaksi</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Pers">doai</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">te kaksi</t>
+        <xg>
           <x>doai leahppi</x>
           <xt>_FIN_</xt>
         </xg>
@@ -78,30 +78,30 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">don</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">sinä</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Pers">don</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">sinä</t>
+        <xg>
           <x>Dus lea gusto stuora beana.</x>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">mii</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">me</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Pers">mii</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">me</t>
+        <xg>
           <x>mii leat</x>
           <xt>_FIN_</xt>
         </xg>
@@ -110,16 +110,16 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">moai</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">me kaksi</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Pers">moai</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">me kaksi</t>
+        <xg>
           <x>moai letne</x>
           <xt>_FIN_</xt>
         </xg>
@@ -128,16 +128,16 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">mun</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">minä</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Pers">mun</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">minä</t>
+        <xg>
           <x>mun lean</x>
           <xt>_FIN_</xt>
         </xg>
@@ -146,16 +146,16 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">sii</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">he</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Pers">sii</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">he</t>
+        <xg>
           <x>sii leat</x>
           <xt>_FIN_</xt>
         </xg>
@@ -164,16 +164,16 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">soai</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">he</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Pers">soai</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">he</t>
+        <xg>
           <x>soai leaba</x>
           <xt>_FIN_</xt>
         </xg>
@@ -182,16 +182,16 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">son</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Pron">hän</t>
-         <xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Pers">son</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Pron">hän</t>
+        <xg>
           <x>Son liiko stoahkat.</x>
           <xt>_FIN_</xt>
         </xg>
@@ -200,6 +200,6 @@ For the full license text, see the link above.</lic>
           <xt>_FIN_</xt>
         </xg>
       </tg>
-      </mg>
-   </e>
+    </mg>
+  </e>
 </r>
