@@ -35,7 +35,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="CC">että</t>
-         </tg>
+         <xg>
+          <x>eanet ahte eanet</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Ruhta šaddá deaŧalaččat ahte deaŧalaččat.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -55,7 +63,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="CC">taikka</t>
-         </tg>
+         <xg>
+          <x>Buohkat ledje gávdnan biktasiid dahje eará dávviriid maid háliidedje oastit.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -85,7 +97,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="CC">ja</t>
-         </tg>
+         <xg>
+          <x>Dat lea sihke buorre ja heittot.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -95,7 +111,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="CC">mutta</t>
-         </tg>
+         <xg>
+          <x>Mun sáhtán áinnas veahkehit du, muhto odne in astta.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -125,7 +145,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="CC">sekä</t>
-         </tg>
+         <xg>
+          <x>Dat lea sihke buorre ja heittot.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -145,7 +169,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="CC">vai</t>
-         </tg>
+         <xg>
+          <x>Leat go don dat guhte galgá boahtit, vai galgat go vuordit muhtun eará?</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Siđat go gáfe vai deaja?</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
 <e>

@@ -38,7 +38,15 @@ For the full license text, see the link above.</lic>
             <t pos="Pcle">-pä</t>
             <t pos="Pcle">-han</t>
             <t pos="Pcle">-hän</t>
-         </tg>
+         <xg>
+          <x>Mo dal aitto geavvá?</x>
+          <xt>_FIN_</xt>
+        </xg>
+      <xg>
+          <x>Lean aitto doaibmagoahtán hárjeheaddjin, ja in leat vuos nu čeahppi.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -49,7 +57,19 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Pcle">juo</t>
             <t t_type="phrase">kyllä kai</t>
-         </tg>
+         <xg>
+          <x>Smihtten ahte ammal dál lea mu vuorru vuoitit fatnasa.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Mun vuolggán krossabánii,	ammal dál leat doppe olbmot.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Muhto ammal sii háliidedje addit turisttaide eksohtalaš vásáhusa.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -59,7 +79,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pcle">kuitenkin</t>
-         </tg>
+         <xg>
+          <x>Máret goit boahtá.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
@@ -99,7 +123,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pcle">no</t>
-         </tg>
+         <xg>
+          <x>Almmuhuvvo go girji sámegillii, na dan ii dieđe oktage.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      <xg>
+          <x>Muhto eat doaivvo guhká gal vejolažžan na dahkat, leaš go šat vejolaš obanassiige.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      <xg>
+          <x>Jus dus nai lea muhtun geasa áiggut skeaŋkka oastit, na de heive hui bures odne oastit girjji ja
+               ruvssu.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -129,7 +166,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pcle">myös</t>
-         </tg>
+         <xg>
+          <x>Máret nai boahtá.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
   <e>
@@ -187,6 +228,14 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pcle">puolestaan</t>
+      <xg>
+          <x>de son gis</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Kárášjogas oahppit fitne maiddái duoddaris, Oslos gis besse fitnat erenoamáš turistabáikkiin.</x>
+          <xt>_FIN_</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
@@ -217,6 +266,14 @@ For the full license text, see the link above.</lic>
             <x>amma hal lea nu, ahte… </x>
             <xt>eiköhän ole niin, että</xt>
         </xg>
+      <xg>
+          <x>Máhtte logai ahte ii hal son goit dan oaivvildan.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Ii hal dohko goit vuolgge?</x>
+          <xt>_FIN_</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -227,6 +284,14 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pcle">-ko</t>
+      <xg>
+          <x>Hás it njuike fárrui!</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Hás moai vulge duohko.</x>
+          <xt>_FIN_</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
@@ -258,6 +323,22 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t>eiköhän</t>
         <t pos="Adv">varmaankin</t>
+      <xg>
+          <x>Son leaikkastallá vel ahte ammahal Norgga stáda ii oba dovdda ge dála márkaniid.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Ammahal dál rohkkáha mu?</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Ammahal sii galget diehtit gos leat ovddeš johtolagat.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Ammahal dál doaibmá go measta buohkat stivrras leat eret seamma báikkis.</x>
+          <xt>_FIN_</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -308,6 +389,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pron">se</t>
+      <xg>
+          <x>Dievasčoahkkin dat mearrida bušeahta.</x>
+          <xt>_FIN_</xt>
+        </xg>
       </tg>
     </mg>
     <mg>
@@ -454,6 +539,18 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pron">hän</t>
+      <xg>
+          <x>Maid son Issát jurddaša?</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Boahtá go son Ánne ihttin?</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Lea go son dát riekta?</x>
+          <xt>_FIN_</xt>
+        </xg>
       </tg>
     </mg>
   </e>

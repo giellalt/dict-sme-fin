@@ -3,8 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../dtd/smefin.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smefin.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
@@ -52,7 +51,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">te</t>
-         </tg>
+         <xg>
+          <x>dii lehpet</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Dis lea beana.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -62,7 +69,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">te kaksi</t>
-         </tg>
+         <xg>
+          <x>doai leahppi</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Dudnos lea beana.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -72,7 +87,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">sinä</t>
-         </tg>
+         <xg>
+          <x>Dus lea gusto stuora beana.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -82,7 +101,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">me</t>
-         </tg>
+         <xg>
+          <x>mii leat</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Mis lea beana.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -92,7 +119,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">me kaksi</t>
-         </tg>
+         <xg>
+          <x>moai letne</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Munnos lea beana.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -102,7 +137,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">minä</t>
-         </tg>
+         <xg>
+          <x>mun lean</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Mus lea beana.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -112,7 +155,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">he</t>
-         </tg>
+         <xg>
+          <x>sii leat</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Sis lea beana.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -122,7 +173,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">he</t>
-         </tg>
+         <xg>
+          <x>soai leaba</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Sudnos lea beana.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -132,7 +191,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">hän</t>
-         </tg>
+         <xg>
+          <x>Son liiko stoahkat.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Sus lea ođđa beaivegirji.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
 </r>

@@ -106,6 +106,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">vielä</t>
             <t pos="Adv">yhä</t>
+         <xg>
+               <x>Son lea ain dáppe.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Mii áigut fállat ain buoret aviissa didjiide.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -186,6 +194,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">ilman</t>
+         <xg>
+               <x>almmá mu dieđekeahttá</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Ja dat oainnat ii sáhte doaibmat almmá dakkár meahcceguovllu haga.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -226,6 +242,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">paljon</t>
+         <xg>
+               <x>Boahtte čiekčamis dán joavkku vuostá doaivvun mannat arvat buorebut.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Dán jagi leat arvat eanet bivdinjoavkkut go diibmá.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -297,6 +321,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">päällepäin</t>
+         <xg>
+               <x>Dan mun máhtán bajil.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -307,6 +335,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">ylös</t>
+         <xg>
+               <x>Mánát vihke bajás.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -318,6 +350,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">päivällä</t>
             <t pos="Adv">päivisin</t>
+         <xg>
+               <x>Iđđes lei guoldu, muhto beaivet de firtii.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -529,6 +565,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">mieluummin</t>
             <t pos="Adv">paremmin</t>
+         <xg>
+               <x>Jus buoret livččet borramuša oastán, njálgáid sadjái!</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>In gille viesu čorget, mun gal buoret manan TV geahččat.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -555,6 +599,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">hyvin</t>
+         <xg>
+               <x>Bures dat manná.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Don leat bargan bures.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -615,6 +667,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">asteittain</t>
+         <xg>
+               <x>Giellamolsun dáhpáhuvvá dábálaččat ceahkkálagaid.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -667,6 +723,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <re>+ dem.pron.</re>
             <t pos="Adv">juuri</t>
+         <xg>
+               <x>Mun vulgen Ánne lusa dakka maŋŋel skuvlla.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -677,6 +737,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">heti</t>
+         <xg>
+               <x>Boađe sisa dakkaviđe!</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -708,6 +772,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">sitten</t>
             <t pos="Adv">silloin</t>
+         <xg>
+               <x>Dalle go áddjá elii, láviimet juoŋastit.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -750,6 +818,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">siksi</t>
+         <xg>
+               <x>Joavkkus ii leat leamaš jođiheaddji mannan jagi ja danne eai leat leamaš makkárge čuoigandoaimmat.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Danne mii leat maŋŋonan.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -771,6 +847,18 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <re>ajan ilmauksissa</re>
             <t t_type="phrase">siitä asti</t>
+         <xg>
+               <x>dassá go</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Don fertet dás vuordit dassá go oahpaheaddji boahtá.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Sárá bođii guokte beaivvi dassá.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -792,6 +880,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t t_type="phrase">sen jälkeen</t>
             <t pos="Adv">sitten</t>
+         <xg>
+               <x>Mun fitnen álggos rámbuvrris ja dasto mannen báŋkui.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Dasto ferten eará čovdosa gávdnat.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -813,6 +909,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pcle">kuitenkin</t>
+         <xg>
+               <x>Beakkán popjoavku ii dattetge čuojahan festiválas.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -840,6 +940,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">pohjoisessa</t>
+         <xg>
+               <x>Ánte orru davvin.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Ánte bođii davvin ikte.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -860,6 +968,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">pohjoiseen</t>
+         <xg>
+               <x>Ánte fárre davás.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -870,6 +982,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">sitä</t>
+         <xg>
+               <x>Mađi stuorát, dađi buoret.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -882,6 +998,14 @@ For the full license text, see the link above.</lic>
             <t t_type="phrase">sitä mukaa</t>
             <t pos="Adv">vähitellen</t>
             <t t_type="phrase">pikku hiljaa</t>
+         <xg>
+               <x>Dađistaga mii hárjáneimmet buollašii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>dađistaga árvvoštallan</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -903,6 +1027,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">terveenä</t>
+         <xg>
+               <x>Mun ealán dearvan.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Báze dearvan!</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -913,6 +1045,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tänne</t>
+         <xg>
+               <x>Elle boahtá deike.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -923,6 +1059,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tänne</t>
+         <xg>
+               <x>Elle boahtá deikke.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -943,6 +1083,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tänne</t>
+         <xg>
+               <x>Govt lei vuodjit Olmmáivákkis diehke?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -953,6 +1097,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">sinne</t>
+         <xg>
+               <x>Mun buvttán riššaid diehko.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -963,6 +1111,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tietysti</t>
+         <xg>
+               <x>Ándagassii átnun lea diehttelas girku iežas ášši.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -993,6 +1145,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">siinä</t>
+         <xg>
+               <x>Mun bohten diekko dien luoddaráigge.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1003,6 +1159,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t t_type="expl">siellä missä sinä olet</t>
+         <xg>
+               <x>Leat go dieppe riššat?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1085,6 +1245,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tietenkin</t>
+         <xg>
+               <x>Dan fertet dieđusge dahkat.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1095,6 +1259,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t t_type="phrase">viime vuonna</t>
+         <xg>
+               <x>Moai náitaleimme diibmá.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1155,6 +1323,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">poikittain</t>
+         <xg>
+               <x>Bárdni vujii duoddara ruossut doarrás skohteriin.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1165,6 +1337,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tarpeeksi</t>
+         <xg>
+               <x>Mus lea doarvái.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1195,6 +1371,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">sinne</t>
+         <xg>
+               <x>De gal in háliit dohko vuolgit.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1236,6 +1416,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">ennenvanhaan</t>
             <t pos="Adv">muinoin</t>
+         <xg>
+               <x>Dolin ledje mádjigat dáppe.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1247,6 +1431,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">siellä</t>
             <t pos="Adv">tuolla</t>
+         <xg>
+               <x>Doppe gávdnojit gearbmašat.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1509,6 +1697,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">todella</t>
             <t pos="Adv">tosiaan</t>
+         <xg>
+               <x>Sudnos lei duođai buorre gaskavuohta.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Oaidnit leš makkár dilli doppe duođai lea.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1529,6 +1725,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">todellinen</t>
+         <xg>
+               <x>Ánte imaštalai duođas go Ánne máhttá oaivvi nalde čuožžut.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1602,6 +1802,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">vain</t>
             <t pos="Adv">ainoastaan</t>
+         <xg>
+               <x>Mus leat dušše guokte máná.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1663,6 +1867,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">taikaa</t>
+         <xg>
+               <x>Das ii leat dáigá.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1673,6 +1881,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">täällä</t>
+         <xg>
+               <x>Olbmot galget dákko vázzit.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Elle manai dákko.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1683,6 +1899,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">nyt</t>
+         <xg>
+               <x>Mun vuolggán dál.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1723,6 +1943,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">talvella</t>
+         <xg>
+               <x>Dálvet sáhttá čuoigat, muhto geasset ii gal sáhte.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1733,6 +1957,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">talvella</t>
+         <xg>
+               <x>Dálvit sáhttá čuoigat, muhto geassit ii gal sáhte.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1754,6 +1982,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">täällä</t>
             <t pos="Adv">täältä</t>
+         <xg>
+               <x>Elle orru dáppe.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Ánte vulggii dáppe ikte.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1784,6 +2020,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tarkasti</t>
+         <xg>
+               <x>Mun dat guldalan dárkilit ádjá muitalusa.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1795,6 +2035,18 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">tässä</t>
             <t pos="Adv">tästä</t>
+         <xg>
+               <x>Elle orru dás.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Dát viessu lea čužžon dás guhká.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Mii vuoddjáimet dás golmma áigge.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1835,6 +2087,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">usein</t>
+         <xg>
+               <x>Mii fitnat dávjá Romssas.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1845,6 +2101,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">illalla</t>
+         <xg>
+               <x>Eahkedis lei ipmilbálvalus girkus.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1855,6 +2115,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">illalla</t>
+         <xg>
+               <x>Eahkes lei ipmilbálvalus girkus.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1906,6 +2170,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">enimmäkseen</t>
+         <xg>
+               <x>Ovllá lea eanemus áhčis ládje, muhto lea maid veahá eatnis ládje.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1936,6 +2204,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">enemmän</t>
+         <xg>
+               <x>Dan birra gávnnat eanet dieđuid 10. siiddus.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>De mii sáhttit ásahit vel eanet joavkkuid.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -1971,6 +2247,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">erityisesti</t>
+         <xg>
+               <x>Nieida liiko riidet heasttain, earenoamážit dalle go lea áhku ja ádjá luhtte.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1983,6 +2263,18 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">vasta</t>
             <t pos="Adv">äsken</t>
             <t pos="Adv">juuri</t>
+         <xg>
+               <x>Moai letne easkka boahtán.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>De easkka vulggii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Ja easkka dál don muitalat dien!</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2054,6 +2346,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">pois</t>
+         <xg>
+               <x>Mana eret!</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Sii leat Suomas eret.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2064,6 +2364,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">äsken</t>
+         <xg>
+               <x>Mun oidnen du eske.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2084,6 +2388,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">vain</t>
+         <xg>
+               <x>Sii eai deattut dušše fal sámi kultuvrra, muhto maiddái máŋggakultuvrralaš diliid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Sámediggi lea miehtan sutnje máksit 800 ruvnno juohke árgabeaivvi ovddas, muhto ii fal lávvordagaid,
+               sotnabeivviid ja bassebeivviid ovddas.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Bohtetgo Romssas odne? Romssas fal.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Nu fal.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2126,6 +2447,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">taas</t>
+         <xg>
+               <x>De fas álggii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Mun válddán dán, don fas dien.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Goas don fas boađát?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -2161,6 +2494,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">huonosti</t>
+         <xg>
+               <x>Mun ođđen funet.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Dál sáhttá funet mannat.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2201,6 +2542,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">yhtäkkiä</t>
+         <xg>
+               <x>Fáhkkestaga iđistii golloloddi.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2243,6 +2588,22 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <re>vahvistava myönt. partikkeli</re>
             <t pos="Adv">kyllä</t>
+         <xg>
+               <x>Ássat mii gal davvin, muhto dáppe eai leat dušše sámit.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Nu gal lea.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Dan gal lean vajálduhttán.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>De gal in háliit dohko vuolgit.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2274,6 +2635,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">kylliksi</t>
             <t pos="Adv">täyteen</t>
+         <xg>
+               <x>Mun lean borran gallás.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Ii leat oađđán gallás.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2365,6 +2734,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kerran</t>
+         <xg>
+               <x>Dat lei geardde nu.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Jos juo geardde Issáha mielas orru nu, de lea várra nu.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2375,6 +2752,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kesällä</t>
+         <xg>
+               <x>Dálvet sáhttá čuoigat, muhto geasset ii gal sáhte.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2385,6 +2766,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kesällä</t>
+         <xg>
+               <x>Dálvit sáhttá čuoigat, muhto geassit ii gal sáhte.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -2412,6 +2797,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">hiljattain</t>
             <t t_type="expl">vähän aikaa sitten</t>
+         <xg>
+               <x>Dohko lei gieskat boahtán ođđa báhppa.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2422,6 +2811,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kiinni</t>
+         <xg>
+               <x>Oarra lea reagas gitta.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Mun lean barggus gitta bearjadahkii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Uksa lea gitta.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -2442,6 +2843,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">keväällä</t>
+         <xg>
+               <x>Giđđat sáhttet leat dulvvit.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -2468,6 +2873,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">koska</t>
             <t pos="Adv">milloin</t>
+         <xg>
+               <x>Goas eadni boahtá?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2478,6 +2887,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">lähes</t>
+         <xg>
+               <x>Moai goasii báziime busses.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2498,6 +2911,22 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">koskaan</t>
+         <xg>
+               <x>Leat go goassege leamaš doppe?</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>In goassege</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>In livčče dan goassege jáhkkán.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Moai ean vuollán goassege.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2519,6 +2948,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t t_type="phrase">missä kohden</t>
             <t t_type="phrase">missä täsmälleen</t>
+         <xg>
+               <x>Gokko don leat čuohpaduvvon?</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Gokko eadni manai?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -2536,6 +2973,18 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">missä</t>
             <t pos="Adv">mistä</t>
+         <xg>
+               <x>Gos don leat čuohpaduvvon?</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Gos dat lea?</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Gos boađát?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2546,6 +2995,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">minne</t>
+         <xg>
+               <x>Gosa manat?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2597,6 +3050,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">pidempi</t>
+         <xg>
+               <x>Dáinna bargguin leat ádjánan guhkit go álggos doaivvuimet.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2608,6 +3065,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">pitkällä</t>
             <t pos="Adv">kaukana</t>
+         <xg>
+               <x>Don leat nu guhkkin, muhto liikká nu lahka.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2628,6 +3089,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kauan</t>
+         <xg>
+               <x>Mii leat guhká vuordán.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2638,6 +3103,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kauas</t>
+         <xg>
+               <x>Don it njuike guhkás.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2670,6 +3139,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">hiljaa</t>
             <t pos="Adv">hitaasti</t>
+         <xg>
+               <x>Buoremus lea váldit gulul.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2721,6 +3194,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">kahden</t>
             <t pos="Adv">kahdestaan</t>
+         <xg>
+               <x>Moai letne guovttá.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Nieida ii leat goassege leamaš guovttá suinna.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2732,6 +3213,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">näköjään</t>
             <t pos="Adv">näet</t>
+         <xg>
+               <x>Nu lea gusto.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2929,6 +3414,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">erittäin</t>
             <t pos="Adv">hyvin</t>
+         <xg>
+               <x>hui buorre</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Eadni lea hui váibbas.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2979,6 +3472,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">harvoin</t>
+         <xg>
+               <x>Áhkku lea hárve buohcci.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3001,6 +3498,10 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">kerralla</t>
             <t t_type="phrase">yhdellä kertaa</t>
             <t pos="Adv">kerrallaan</t>
+         <xg>
+               <x>Stivra válljejuvvo guovtti jahkái hávil.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3033,6 +3534,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">yöllä</t>
             <t pos="Adv">öisin</t>
+         <xg>
+               <x>Sámmol liiko ihkku johtit.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3053,6 +3558,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">huomenna</t>
+         <xg>
+               <x>Goas mii galgat geargat? Na ihttin.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Ihttin álgá juovlaluopmu.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3063,6 +3576,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">huomiseksi</t>
+         <xg>
+               <x>Goassážii mii galgat geargat? Na ihttážii.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3073,6 +3590,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">eilen</t>
+         <xg>
+               <x>Mun oidnen Sárá ikte.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3103,6 +3624,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t t_type="phrase">turhan päiten</t>
+         <xg>
+               <x>2–4-jahkásaš jearahallá ilmmiid álmmiid.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3133,6 +3658,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">aamulla</t>
+         <xg>
+               <x>Iđedis lei guoldu, muhto beaivet de firtii.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3143,6 +3672,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">aamulla</t>
+         <xg>
+               <x>Iđđedis lei guoldu, muhto beaivet de firtii.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3153,6 +3686,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">aamulla</t>
+         <xg>
+               <x>Iđđes lei guoldu, muhto beaivet de firtii.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3244,6 +3781,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">nopeasti</t>
+         <xg>
+               <x>Ánte bargá jođánit.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3274,6 +3815,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">jo</t>
+         <xg>
+               <x>Mun lean juo geargan.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3305,6 +3850,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">juuri</t>
+         <xg>
+               <x>Muital juste movt dat lei!</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3325,6 +3874,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">lähellä</t>
+         <xg>
+               <x>Doppe ledje buorit guollejávrrit lahkosis.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3335,6 +3888,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">lisää</t>
+         <xg>
+               <x>Siđat go lasi gáfe?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3387,6 +3944,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">lopuksi</t>
+         <xg>
+               <x>Loahpas mii vuolláneimmet.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3419,6 +3980,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">etelään</t>
             <t pos="Adv" var="sw">itään</t>
+         <xg>
+               <x>Eallu vulggii luksa.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3429,6 +3994,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">etelässä</t>
+         <xg>
+               <x>Lulde ásset ollu olbmot.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Lulde leat boahtán ollu olbmot dán konferánsii.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3471,6 +4044,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">etelään</t>
+         <xg>
+               <x>In háliit lulás fárret.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3481,6 +4058,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">luonnollisesti</t>
+         <xg>
+               <x>Suinna sáhttá lunddolaččat humadit.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3593,6 +4174,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">myös</t>
             <t pos="Adv">myöskin</t>
+         <xg>
+               <x>Oidnen maiddái Niillasa.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3603,6 +4188,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kuinka</t>
+         <xg>
+               <x>Man boaris don leat?</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Man ollu biebmu dus lea?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3623,6 +4216,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">miksi</t>
+         <xg>
+               <x>Manne leat deike boahtán?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3684,6 +4281,22 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">jälkeen</t>
+         <xg>
+               <x>Moadde beaivvi maŋŋel šattai vuot fiinna dálki.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Son jámii jagi maŋŋel.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Maid mii galgat dahkat maŋŋel?</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Maŋŋel leat viiddidan rusttega.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3694,6 +4307,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">myöhään</t>
+         <xg>
+               <x>Mánát leat maŋŋit nohkkan.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3704,6 +4321,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">myöhemmin</t>
+         <xg>
+               <x>Eadni bođii maŋŋá.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3725,6 +4346,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">melkein</t>
             <t pos="Adv">lähes</t>
+         <xg>
+               <x>Moai measta vulge dohko.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3735,6 +4360,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">ohi</t>
+         <xg>
+               <x>Ja go oinniime du vázzime meattá, de fertiime das bisánit.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3746,6 +4375,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">kaukana</t>
             <t pos="Adv">liian</t>
+         <xg>
+               <x>menddo guhkkin</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Eadni lea menddo váibbas.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3787,6 +4424,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pcle">melko</t>
+         <xg>
+               <x>Lea mihá buoret leat siste lieggasis go olgun goallut.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Sii livčče dinen mihá eambbo jus livčče goikadan guliid.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3838,6 +4483,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">miten</t>
+         <xg>
+               <x>Ja movt dalle manná sámi kultuvrrain?</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Movt duinna manná?</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Mii oaččuimet dán jagi miljovdnabeali nu movt diibmá.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3869,6 +4526,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">muuten</t>
+         <xg>
+               <x>Jos ohccit muđui leat dohkálaččat, de vuoruhuvvojit dat geain lea gelbbolašvuohta sihke dárogielas ja
+               sámegielas.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3911,6 +4573,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">etelämmäs</t>
+         <xg>
+               <x>Soaitá buoret ollet máddelii ovdal muohta vel boahtá, son boagusta .</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3951,6 +4617,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kuukausittain</t>
+         <xg>
+               <x>Muhtin bargguid bargat beaivválaččat, eará bargguid bargat ges vahkkosaččat dahje mánnosaččat.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3971,6 +4641,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">etelään</t>
+         <xg>
+               <x>Guoros bursa máttás doalvu.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4002,6 +4676,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">entä</t>
             <t pos="Adv">entäpä</t>
+         <xg>
+               <x>Naba don?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4055,6 +4733,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">siis</t>
+         <xg>
+               <x>Nappo nieida ii lean astan duššiid láittastuvvat.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4137,6 +4819,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">yllättäen</t>
+         <xg>
+               <x>Čakčaidja falleha álohii njamažahkká.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4179,6 +4865,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">hitaasti</t>
+         <xg>
+               <x>Ánte bargá njozet.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4205,6 +4895,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">suora</t>
+         <xg>
+               <x>Mun mannen njuolga dohko.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4225,6 +4919,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">makeasti</t>
+         <xg>
+               <x>Oađe njálgát!</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Son reškkii njálgát go logai iežas čállosa.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4266,6 +4968,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">niin</t>
             <t pos="Adv">näin</t>
+         <xg>
+               <x>Heaika lei bávččagahttán čippi, nu ahte skierpmui máŋga beaivve.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4319,6 +5025,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">idässä</t>
+         <xg>
+               <x>Ánde ássá nuortan.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Nuortan bohte viisásat.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4330,6 +5044,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">itään</t>
             <t pos="Adv" var="sw">pohjoiseen</t>
+         <xg>
+               <x>Eat berre nuorttas ribahit ealu.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4340,6 +5058,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">toisaalle</t>
+         <xg>
+               <x>Gánda jorggiha mus nuppos.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Birgget bođii gámmárii, áhkku geahčai nuppos.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4360,6 +5086,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">näin</t>
+         <xg>
+               <x>Mun čálán ná.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -4387,6 +5117,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">varsin</t>
             <t pos="Adv">sangen</t>
+         <xg>
+               <x>Eadni lea oalle váibbas.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4397,6 +5131,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">täydellinen</t>
+         <xg>
+               <x>Dan gal lean oalát vajálduhttán.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4429,6 +5167,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">lännessä</t>
+         <xg>
+               <x>Ánte orru oarjin.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Oarjin bohtet čeahpes olbmot.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4460,6 +5206,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pcle">melko</t>
+         <xg>
+               <x>Eadni lea oba váibbas.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4500,6 +5250,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tänään</t>
+         <xg>
+               <x>Mii geargat odne.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4550,6 +5304,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">yhdessä</t>
+         <xg>
+               <x>áhčči oktan mánáinis</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4560,6 +5318,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kerran</t>
+         <xg>
+               <x>Biillat beaškkehedje oktii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Čájet vel oktii!</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -4587,6 +5353,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">yksin</t>
+         <xg>
+               <x>Mun boađán okto.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4597,6 +5367,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">ulos</t>
+         <xg>
+               <x>Sárá manná olggos.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Moai njuikiime olggos biillas.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4617,6 +5395,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">ulkona</t>
+         <xg>
+               <x>Sárá lea olgun.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4669,6 +5451,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">täydellinen</t>
+         <xg>
+               <x>Sámediggi doarju evttohusa ollásit.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4679,6 +5465,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">paljon</t>
+         <xg>
+               <x>Gal doai leahppi olu bargan.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4690,6 +5480,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">juuri</t>
             <t pos="Adv">paljon</t>
+         <xg>
+               <x>Son ii lean málen olus geasi áigge.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -4766,6 +5560,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">ennen</t>
+         <xg>
+               <x>Manne it leat ovdal boahtán?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4776,6 +5574,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">aikaisemmin</t>
+         <xg>
+               <x>Bohten ruoktut ovdalaš gaskaija.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4797,6 +5599,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">eteen</t>
+         <xg>
+               <x>Ruoŧa eanagirjjiin jagiin 1738-1741 boahtá ovdan ahte priváhta eananoamasteapmi lei dábálaš olles
+               Finnmárkkus.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4828,6 +5635,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">edessä</t>
             <t pos="Adv">edestä</t>
+         <xg>
+               <x>Don čuoččut mu ovddas.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4850,6 +5661,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">eteenpäin</t>
+         <xg>
+               <x>Dál fertet ovddosguvlui jurddašit.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4900,6 +5715,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">yhdessä</t>
+         <xg>
+               <x>ovttas bargat</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5051,6 +5870,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kotiin</t>
+         <xg>
+               <x>Ihttin mii vuoddját ruoktot.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Nu moai vuojašeimme ruoktot ovdan.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -5076,6 +5903,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">ristiin</t>
+         <xg>
+               <x>Bárdni vujii duoddara ruossut doarrás skohteriin.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5086,6 +5917,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">takaisin</t>
+         <xg>
+               <x>Nuppe beaivvi juo máhcaiga ruovttoluotta.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5237,6 +6072,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">sisään</t>
+         <xg>
+               <x>Boađe sisa gáfe juhkat!</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5268,6 +6107,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">sisällä</t>
             <t pos="Adv">sisältä</t>
+         <xg>
+               <x>In gille siste čohkkát.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5445,6 +6288,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">salaa</t>
             <t pos="Adv">salaisesti</t>
+         <xg>
+               <x>Fabrihkkabargit ledje suoli doallan čoahkkima.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5516,6 +6363,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">vähän</t>
+         <xg>
+               <x>Viessu lei boaris oaidnit ja uhccán geasuheaddji.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5566,6 +6417,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">vähintään</t>
+         <xg>
+               <x>Fertet boahtit unnimusat 30 minuhta ovdal vuolgama.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5606,6 +6461,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">viikoittain</t>
+         <xg>
+               <x>Muhtin bargguid bargat beaivválaččat, eará bargguid bargat ges vahkkosaččat dahje mánnosaččat.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5666,6 +6525,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">vähän</t>
+         <xg>
+               <x>Mun lean veahá beahtahallan.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5676,6 +6539,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">vähän</t>
+         <xg>
+               <x>De lea ge buorre veaháš bosihit, ja lohkalit aviissa.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5766,6 +6633,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">vielä</t>
+         <xg>
+               <x>Eadni ii leat vel boahtán.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5940,6 +6811,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">vastaan</t>
+         <xg>
+               <x>vuhtii váldit</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5951,6 +6826,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">alas</t>
             <t pos="Adv">alaspäin</t>
+         <xg>
+               <x>Ivvár manná vulos.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5971,6 +6850,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">alhaalla</t>
+         <xg>
+               <x>Ivvár lea vuollin.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6001,6 +6884,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">odotettavissa</t>
+         <xg>
+               <x>Meteorologalaš Instituhtas muitalit heajos dálkkiid vuordagasas Oarje-Finnmárkui.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6056,6 +6943,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">taas</t>
+         <xg>
+               <x>Leat go du buvssat vuot duolvan?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6087,6 +6978,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">myynnissä</t>
+         <xg>
+               <x>Váffelat lea vuovdimassii.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6129,6 +7024,18 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <re>kellonaikaa ilmaistaessa</re>
             <t pos="Adv">vaille</t>
+         <xg>
+               <x>Diibmu lea vihtta váile golbma.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Gielddas eai ása go váile 1000 olbmo.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Okta boazu lea váile.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6181,6 +7088,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">varovasti</t>
+         <xg>
+               <x>Oahppit galget oahppat dáikinsajiin várrugasat láhttet amaset bártái šatta.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6232,6 +7143,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">aivan</t>
             <t pos="Adv">ihan</t>
+         <xg>
+               <x>Leat go áibbas gáigi?</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6252,6 +7167,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">ajoissa</t>
+         <xg>
+               <x>Jos son boahtá áiggil, de válddán su mielde go boađán din lusa.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6262,6 +7181,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t t_type="phrase">kauan sitten</t>
+         <xg>
+               <x>Moai letne áigá geargan.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6272,6 +7195,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tallella</t>
+         <xg>
+               <x>Muitogoarta doaibmá, ja lihkus buot govat leat ain áimmuin.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6303,6 +7230,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Adv">aluksi</t>
             <t pos="Adv">ensin</t>
+         <xg>
+               <x>Álggos mun in ipmirdan maidege.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6313,6 +7244,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">aina</t>
+         <xg>
+               <x>Don leat áli heajos mielas.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6323,6 +7258,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="A">helppo</t>
+         <xg>
+               <x>Moai beasaime áhčiin álkit bávtti sisa.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6333,6 +7272,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">aina</t>
+         <xg>
+               <x>Don leat álo heajos mielas.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6363,6 +7306,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pcle">anteeksi</t>
+         <xg>
+               <x>Bivddán ándagassii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>In háhppehan átnut ándagassii.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6373,6 +7324,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">ajoissa</t>
+         <xg>
+               <x>Doavttir bođii árrat bargui.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>árrat iđedis</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6403,6 +7362,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">syksyllä</t>
+         <xg>
+               <x>Čakčat álgá skuvla.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -6438,6 +7401,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">aina</t>
+         <xg>
+               <x>Son lea čađat dájuhan du.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6540,6 +7507,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kokoon</t>
+         <xg>
+               <x>Viessu ii lean nanus, ja dat gahčai čoahkkái.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Dán beavddi ferte ieš bidjat čoahkkái.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Dasto sii galget bidjat čoahkkái lávdegotti.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6550,6 +7529,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">syrjällään</t>
+         <xg>
+               <x>Sáhtát deavdit ráiddu láskut, čorrut dahje čađan.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6560,6 +7543,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kauniisti</t>
+         <xg>
+               <x>Don čálát čábbát.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6580,6 +7567,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">enää</t>
+         <xg>
+               <x>Lea go šat?</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Ii leat šat.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>In gille šat diggot.</x>
+               <xt>_FIN_</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6630,7 +7629,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">eliniäksi</t>
-      </tg>
+      <xg>
+               <x>Háliidivččen báhcit dasa agibeaivái.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -6845,7 +7848,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">varsinaisesti</t>
-      </tg>
+      <xg>
+               <x>Riikkanamma "Norga" mearkkaša aitosaččat "davvimáđii".</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -6865,7 +7872,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">aivan</t>
-      </tg>
+      <xg>
+               <x>Don dulkot buot aivve baháguvlui.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -7026,7 +8037,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">paljasjalkaisena</t>
-      </tg>
+      <xg>
+               <x>Soai gálašeigga álásjulggiid jogažis.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -7041,7 +8056,16 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">joukolla</t>
-      </tg>
+      <xg>
+               <x>Mii álggiimet álbmogassii dan jearahišgoahtit, ja viimmat čohkkedii áhkku sugadanstullosis, bijai
+               čalbmelásiidis ala, ja ozai láiggi ja gođđinsákkiid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Váhnemat barge ollu álbmogassii, ja doalaimet váhnenmávssu nu vuollin go vejolaš.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -7176,7 +8200,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">alkuunkaan</t>
-      </tg>
+      <xg>
+               <x>ii álggage</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -7223,7 +8251,12 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">alun perin</t>
-      </tg>
+      <xg>
+               <x>Go eiseválddit álgoálggus leat láhčán dilálašvuođaid dákkárin, de sii fertejit sin iežaset giitit go
+               dál lea dilli šaddan váttisin.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -7278,7 +8311,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">korkealla</t>
-      </tg>
+      <xg>
+               <x>Hirbmat stuorra loddi girdá hui allagasas.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -7308,7 +8345,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">korkealle</t>
-      </tg>
+      <xg>
+               <x>Ale bálkko geđggiid nu allagassii ahte iežat oaivái gahččet!</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -7398,7 +8439,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">sen kun</t>
-      </tg>
+      <xg>
+               <x>Anne dal boahtá!</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -7805,7 +8850,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="expl">jonkin verran ylemmäs</t>
-      </tg>
+      <xg>
+               <x>Fargga áigot ealuin johtit badjeliidda, geasseorohahkii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -7845,7 +8894,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kohtuuttomasti</t>
-      </tg>
+      <xg>
+               <x>Soai sáhtiiga váldit jugástaga, muhto eaba goassige badjelmeare.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Biila lea badjelmeare divrras.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -7905,7 +8962,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kokonaan</t>
-      </tg>
+      <xg>
+               <x>Sii leat badjeloivviid duolvasat ja ráiskobiktasat illá gokčet bađa.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -7920,7 +8981,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">ylhäällä</t>
-      </tg>
+      <xg>
+               <x>Mánát stohket badjin.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -7950,7 +9015,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">pahemmin</t>
-      </tg>
+      <xg>
+               <x>dađi bahábut</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -8085,7 +9154,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">pakoon</t>
-      </tg>
+      <xg>
+               <x>Bárdni beasai báhtui.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -8145,7 +9218,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">pikemminkin</t>
-      </tg>
+      <xg>
+               <x>muhto baicca</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Dán vuonas ii lean ge sáidi deaŧalaččamus geasseguolli, muhto baicca dorski ja juksu.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -8165,7 +9246,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">yhtäkkiä</t>
-      </tg>
+      <xg>
+               <x>Báifáhkka iđistii čuovga.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -8252,7 +9337,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">ylimpänä</t>
-      </tg>
+      <xg>
+               <x>Min joavku lea bajimusas ráidočiekčantabeallas.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -8267,7 +9356,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">ylimmäs</t>
-      </tg>
+      <xg>
+               <x>Dál leige mu vuorru fas goargŋut bajimussii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -8277,7 +9370,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">rinnakkain</t>
-      </tg>
+      <xg>
+               <x>Elle ja Ánne sihkkelastiba bálddalaga skuvlii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -8398,7 +9495,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">paljon</t>
-      </tg>
+      <xg>
+               <x>Mus ii leat báljo dilli vuolgit.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>ii báljo mihkkege</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -8429,7 +9534,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">paljon</t>
-      </tg>
+      <xg>
+               <x>Mus eai bálljo boahtán nahkárat.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -8610,7 +9719,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">puolueettomasti</t>
-      </tg>
+      <xg>
+               <x>Dutki geahččala nu bealátkeahttá go vejolaš lahkonit fáddái.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -8717,7 +9830,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">puolikuoliaaksi</t>
-      </tg>
+      <xg>
+               <x>Ánne lei beallejámas váiban maŋŋel viehkangilvvu.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -8836,7 +9953,11 @@ For the full license text, see the link above.</lic>
             <x>geahččat/jearrat bearrái</x>
             <xt>katsoa/kysyä perään</xt>
             </xg>
-      </tg>
+      <xg>
+               <x>bearrái geahččat</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -8876,7 +9997,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">hajallaan</t>
-      </tg>
+      <xg>
+               <x>Olbmot ásset bieđgguid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Materiálat leat bieđgguid máŋgga arkiivvas.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -9072,7 +10201,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kierossa</t>
-      </tg>
+      <xg>
+               <x>Bárdni duolmmastii botnjut, ja fáhkka lei veallut.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -9207,7 +10340,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">hevillä</t>
-      </tg>
+      <xg>
+               <x>Bárdni ii nohkkan buoril.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -9283,7 +10420,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="expl">silmin jhk tai jkhun</t>
-      </tg>
+      <xg>
+               <x>Juo, dat gal lea riekta, dajai oahpaheaddji ja čuččodii čalmmát Evenii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -9403,7 +10544,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">koppavasti</t>
-      </tg>
+      <xg>
+               <x>Vulgen Sámis hui čeavlájit ja rábmostallen vuolgit dohko gos ii dárbbaš goallut.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -9538,7 +10683,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">istuallaan</t>
-      </tg>
+      <xg>
+               <x>De son nohkai fas čohkkut.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -9608,7 +10757,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kourallinen</t>
-      </tg>
+      <xg>
+               <x>Doppe orrot dušše čorpmadievva sámegielagat.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -9722,7 +10875,11 @@ For the full license text, see the link above.</lic>
             <x>dađe buorebut</x>
             <xt>sitä paremmin/parempi</xt>
             </xg>
-      </tg>
+      <xg>
+               <x>Mađe stuorát, dađe buoret.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -9985,7 +11142,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">tarkoin</t>
-      </tg>
+      <xg>
+               <x>Mun dat guldalan dárkket ádjá muitalusa.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -10025,7 +11186,19 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="expl">siihen (ajankohtaan)</t>
-      </tg>
+      <xg>
+               <x>dassái go</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Don fertet dás vuordit dassá go oahpaheaddji boahtá.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Sárá bođii guokte beaivvi dassái.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -10185,7 +11358,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">heti</t>
-      </tg>
+      <xg>
+               <x>Mun čuovun dasttá sudno maŋábealde.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -10512,7 +11689,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">pohjoisemmas</t>
-      </tg>
+      <xg>
+               <x>Mađe davvelii mii joavdat, dađe riggát resurssat leat.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -10706,7 +11887,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">silti</t>
-      </tg>
+      <xg>
+               <x>Beakkán popjoavku ii dette čuojahan festiválas.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -10786,7 +11971,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">itsestään selvästi</t>
-      </tg>
+      <xg>
+               <x>Ándagassii átnun lea diehttelasat girku iežas ášši.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -10933,7 +12122,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">sinnempänä</t>
-      </tg>
+      <xg>
+               <x>Viessu lei dobbeleappos.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -11103,7 +12296,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">totisesti</t>
-      </tg>
+      <xg>
+               <x>Lea fasti earáid hárdit! dajai Ánne duođalaččat.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -11309,7 +12506,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">tuossa</t>
-      </tg>
+      <xg>
+               <x>Elle orru duos.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -11344,7 +12545,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">suositeltava</t>
-      </tg>
+      <xg>
+               <x>Ii leat duosttáš ...</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -11434,7 +12639,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">turhaan</t>
-      </tg>
+      <xg>
+               <x>Don hálat duššiid!</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -11600,7 +12809,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">ehdottomasti</t>
-      </tg>
+      <xg>
+               <x>Galggat eandalii boahtit.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -11727,7 +12940,11 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
          <re>kauas kulkureiteistä</re>
         <t pos="Adv">syrjään</t>
-      </tg>
+      <xg>
+               <x>Ovddit ija Áŋŋela geainnu alde vujii almmái earotbeallai njealjejuvllagiin.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -11742,7 +12959,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">erilleen</t>
-      </tg>
+      <xg>
+               <x>In dieđe mo das galggan earránassii beassat.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -11797,7 +13018,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">ensinkään</t>
-      </tg>
+      <xg>
+               <x>Neahttasadji ii leat gal eisege loahpalaš.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -11887,7 +13112,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">erityinen</t>
-      </tg>
+      <xg>
+               <x>Doppe leat ereliiggán ollu kulturmuittut.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -12027,7 +13256,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">äkkiä</t>
-      </tg>
+      <xg>
+               <x>Sárá buohccái fáhkka.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -12109,7 +13342,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">yhtä</t>
-      </tg>
+      <xg>
+               <x>Šaddá hui somá čiekčat sin vuostá geaiguin mii leat fárrolaga hárjehallan.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -12251,7 +13488,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">tahansa</t>
-      </tg>
+      <xg>
+               <x>Doppe lei feara mii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Buot boazosápmelaččat johtaledje dasto feara gos, muhtumin ruošša ja muhtumin norgga eatnamis.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -12266,7 +13511,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">hienosti</t>
-      </tg>
+      <xg>
+               <x>Biret stellii fiidnát beavddi, gintaliid vel cahkkehii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -12403,7 +13652,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">avopäin</t>
-      </tg>
+      <xg>
+               <x>Máhtte váccii šiljus gahperahttá.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -12528,7 +13781,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">humalaan</t>
-      </tg>
+      <xg>
+               <x>Sii ledje juhkan gárremiidda.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -12538,7 +13795,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">humalassa</t>
-      </tg>
+      <xg>
+               <x>Son lea gárremiin.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -12715,7 +13976,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">selällään</t>
-      </tg>
+      <xg>
+               <x>Nieida velleda várreaskái vuoiŋŋastit ja nohkká dan seammás go beassá njulget iežas gávotgaccaid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -12730,7 +13995,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">ylössuin</t>
-      </tg>
+      <xg>
+               <x>Fanas galgá leat gopmut go bihkkada olggobeale, ja gávvut go bihkkada siskkobeale.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -12900,7 +14169,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">käsikkäin</t>
-      </tg>
+      <xg>
+               <x>Náittospárra bođii giehtalaga girkus olggos.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -12915,7 +14188,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">käsikkäin</t>
-      </tg>
+      <xg>
+               <x>Náittospárra bođii giehtalagaid girkus olggos.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -13107,7 +14384,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">oikein</t>
-      </tg>
+      <xg>
+               <x>Goal lea sihkkel maid áiggut vuovdit?</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -13227,7 +14508,15 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
          <re>ajallisesti</re>
         <t t_type="phrase">mihin mennessä</t>
-      </tg>
+      <xg>
+               <x>Goassážii mii galgat geargat?</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Oaidnit leaš goassážii gárven gávtti.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -13435,7 +14724,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kumossa</t>
-      </tg>
+      <xg>
+               <x>Fanas galgá leat gopmut go bihkkada olggobeale, ja gávvut go bihkkada siskkobeale.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -13515,7 +14808,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">missään</t>
-      </tg>
+      <xg>
+               <x>In leat goit gullan gostege ahte lea leamaš eanandoarggástus.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -13600,7 +14897,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kuinka</t>
-      </tg>
+      <xg>
+               <x>Govt manná?</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>EKG vuoseha govt váibmu bargá.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -13951,7 +15256,11 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
          <re>jonkin verran</re>
         <t pos="Adv">kauemmas</t>
-      </tg>
+      <xg>
+               <x>Juohke lávki doalvu munno guhkkeliidda ruovttus eret.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14098,7 +15407,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">tyhjänä</t>
-      </tg>
+      <xg>
+               <x>Sii máhcce guorosnaga ruoktut.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14133,7 +15446,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">halki</t>
-      </tg>
+      <xg>
+               <x>Niillas dearppastii lihti guovdat.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14269,7 +15586,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kerrallaan</t>
-      </tg>
+      <xg>
+               <x>Stivrralahtut nammaduvvojit njealji jahkái háválassii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14294,7 +15615,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kerrallaa</t>
-      </tg>
+      <xg>
+               <x>Mánáidgárdesadji addo jahkái ain hávális.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14459,7 +15784,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">hiljaa</t>
-      </tg>
+      <xg>
+               <x>Balvvat johtet hiljit.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14479,7 +15808,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">hirveästi</t>
-      </tg>
+      <xg>
+               <x>Várkkai hirbmosit.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14659,7 +15992,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">itsenäisesti</t>
-      </tg>
+      <xg>
+               <x>Ferte diktit mánáid iešheanalis bargat.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14744,7 +16081,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">että</t>
-      </tg>
+      <xg>
+               <x>ihána ávdin báiki</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14809,7 +16150,20 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">tahansa</t>
-      </tg>
+      <xg>
+               <x>mii ihkinassii</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>gos ihkinassii</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Norggas lei buot sámi mánáin vuoigatvuohta oažžut oahpahusa sámegielas vuođđoskuvllas gos ihkinassii
+               orro.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14839,7 +16193,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">yötäpäivää</t>
-      </tg>
+      <xg>
+               <x>Mun bargen ijatbeaivái.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -14849,7 +16207,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">huonovointisena</t>
-      </tg>
+      <xg>
+               <x>Ánne lei nu illáveaje ja šliettas, ii veadján maidege.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14879,7 +16241,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">tuskin</t>
-      </tg>
+      <xg>
+               <x>Diesa mun gal ille jáhkán.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14955,7 +16321,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kummempi</t>
-      </tg>
+      <xg>
+               <x>Váibmu coahkká nu ipmašit.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -14991,7 +16361,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">hirveästi</t>
-      </tg>
+      <xg>
+               <x>De issorasat dálkkáskii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -15016,7 +16390,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">luultavasti</t>
-      </tg>
+      <xg>
+               <x>Biti lea jáhkkimis vuosttaš čiekči.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -15101,7 +16479,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">näkymättömissä</t>
-      </tg>
+      <xg>
+               <x>Olmmái lea leamaš jávkosis borgemánu 16. beaivvi rájes.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -15317,7 +16699,11 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
          <re>vaatteista</re>
         <t pos="Adv">nurin</t>
-      </tg>
+      <xg>
+               <x>Gahpir lei jorggotbeliid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -15337,7 +16723,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">ainakin</t>
-      </tg>
+      <xg>
+               <x>Nillá jurdilii fitnat dieđiheamen áššis juoba Pente- ja Ánde-guoktái.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -15357,7 +16747,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">ainakin</t>
-      </tg>
+      <xg>
+               <x>Ođđa ossodahkii dárbbašuvvojit goit juobe logi dikšu.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -15452,7 +16846,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="expl">jonkin verran lähemmäs</t>
-      </tg>
+      <xg>
+               <x>Fanas bođii jođánit lagabuidda.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -15477,7 +16875,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">lähemmin</t>
-      </tg>
+      <xg>
+               <x>Beana bođii lagabut.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -15532,7 +16934,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">lähekkäin</t>
-      </tg>
+      <xg>
+               <x>Čohkohalle lahkalaga.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -15547,7 +16953,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">lähekkäin</t>
-      </tg>
+      <xg>
+               <x>Čohkohalle lahkalagaid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -15614,7 +17024,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">lappeellaan</t>
-      </tg>
+      <xg>
+               <x>Sáhtát deavdit ráiddu láskut, ceaggut dahje čađan.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -15771,7 +17185,12 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">lähekkäin</t>
-      </tg>
+      <xg>
+               <x>Mo árpmuid dološ olbmot leat máhttán čuollat ja bardit geđggiid nu, ahte dat leat heiven oktii áibbas
+               lávgalagaid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -16066,7 +17485,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">luvatta</t>
-      </tg>
+      <xg>
+               <x>Dál lea dat áigi go eatnašat lobiheamet vudjet váris.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -16328,7 +17751,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">etelämmäs</t>
-      </tg>
+      <xg>
+               <x>Soaitá buoret ollet lullelii ovdal muohta vel boahtá, son boagusta .</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -16371,7 +17798,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">etelässä</t>
-      </tg>
+      <xg>
+               <x>Sii leat guhká ássan lullin.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Mun bohten ikte lullin.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -16408,7 +17843,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">tietä myöten</t>
-      </tg>
+      <xg>
+               <x>Mun bohten diekko dien luoddaráigge.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -16621,7 +18060,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">etelässä</t>
-      </tg>
+      <xg>
+               <x>Elle lea 20 jagi orron máddin.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Elle lea máddin boahtán davás geasselupmui.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -16640,7 +18087,15 @@ For the full license text, see the link above.</lic>
             <x>dan mađe</x>
             <xt>sen verran</xt>
             </xg>
-      </tg>
+      <xg>
+               <x>Sus leat dan mađe ahte birge.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Mađe stuorit, dađe buoret.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -16671,7 +18126,15 @@ For the full license text, see the link above.</lic>
             <x>mađe árat, dađe buoret</x>
             <xt>mitä aikaisemmin, sitä parempi</xt>
          </xg>
-      </tg>
+      <xg>
+               <x>Sus leat dan mađi ahte birge.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Mađi stuorit, dađi buoret.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -16921,7 +18384,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">vihdoin</t>
-      </tg>
+      <xg>
+               <x>Maŋážassii Lásse ollii muhtun stobu lusa.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -17091,7 +18558,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">viimeiseksi</t>
-      </tg>
+      <xg>
+               <x>Mun báhcen maŋimussii skuvlii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -17426,7 +18897,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">taaksepäin</t>
-      </tg>
+      <xg>
+               <x>Genaid bokte sáhttá guorrat olmmošsoga maŋosguvlui.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -17581,7 +19056,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">melko kaukana</t>
-      </tg>
+      <xg>
+               <x>Mun čužžon mealgadis.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -17621,7 +19100,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kohtuuton</t>
-      </tg>
+      <xg>
+               <x>Lávvordaga ledje gávpogis mearehis ollu olbmot.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Don leat bargan mearehis buori barggu.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -17812,7 +19299,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">mieluummin</t>
-      </tg>
+      <xg>
+               <x>Dieđusge leat diekkár bottut ahte milloseappot bázášii ruoktot.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -17822,7 +19313,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">mieluimmin</t>
-      </tg>
+      <xg>
+               <x>Ferten vuolgit boradit, vaikko millosepmosit náđošin latnjii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -17837,7 +19332,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">mielellään</t>
-      </tg>
+      <xg>
+               <x>Nu dat millosit válde mánáid sisa.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -17862,7 +19361,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">muuten</t>
-      </tg>
+      <xg>
+               <x>Veahá čoaskkis, muhto minddar fiidná dálki.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -17872,7 +19375,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">hymyssä suin</t>
-      </tg>
+      <xg>
+               <x>Ánte dajai mojonjálmmiid ahte son lea ceavzán eksámena.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -17882,7 +19389,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">hymyssä suin</t>
-      </tg>
+      <xg>
+               <x>Ánte dajai mojunjálmmiid ahte son lea ceavzán eksámena.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -17892,7 +19403,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">mitenkään</t>
-      </tg>
+      <xg>
+               <x>Filmma sisdoallu ii leat gal moktege rievdaduvvon.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -17902,7 +19417,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">innoissaan</t>
-      </tg>
+      <xg>
+               <x>Moai letne movtta.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -17947,7 +19466,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">naamalleen</t>
-      </tg>
+      <xg>
+               <x>Mun gahččen muđolassii čivrii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -17972,7 +19495,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">joskus</t>
-      </tg>
+      <xg>
+               <x>Muhtomin in ipmir maid Ánne dadjá.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -18259,7 +19786,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">nenälleen</t>
-      </tg>
+      <xg>
+               <x>Viegadettiin guossalii son njuolga njunális muohttagii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -18274,7 +19805,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kasvotusten</t>
-      </tg>
+      <xg>
+               <x>Buoret lea njunnálaga háleštit go telefovnna bokte.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Soai čuoččasteigga njunnálaga, ja dahkaluttaiga ságasteame.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -18284,7 +19823,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kasvotusten</t>
-      </tg>
+      <xg>
+               <x>Buoret lea njunnálagaid háleštit go telefovnna bokte.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Soai čuoččasteigga njunnálagaid, ja dahkaluttaiga ságasteame.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -18756,7 +20303,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">toisen kerran</t>
-      </tg>
+      <xg>
+               <x>Elle lohká ahte deike mii gal soaitit boahtit nuppes.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -18916,7 +20467,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">päissään</t>
-      </tg>
+      <xg>
+               <x>Son vujii biilla oaivvesnaga.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -19162,7 +20717,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">länteen</t>
-      </tg>
+      <xg>
+               <x>Mii fertet oarjjás johttát.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -19253,7 +20812,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">ylipäänsä</t>
-      </tg>
+      <xg>
+               <x>Mánát eai jeagadan su obanassiige.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -19384,7 +20947,19 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">aina vain</t>
-      </tg>
+      <xg>
+               <x>Ohpihii lea arvi.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Ánne lea ohpihii jođus.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Lea lossat go ohpihii ferte bealuštit ealáhusa vuoigatvuođaid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -19414,7 +20989,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">yhtä aikaa</t>
-      </tg>
+      <xg>
+               <x>Soai olliiga mollii oktanaga.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -19469,7 +21048,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kerran</t>
-      </tg>
+      <xg>
+               <x>Mun lean dušše okte leamaš návehis.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -19674,7 +21257,19 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">ulkopuolelta</t>
-      </tg>
+      <xg>
+               <x>Mun lean divodan viesu sihke siskkil ja olggul.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Gielladiđolaš máhttá oaidnit giela olggul.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Mun máhtán visot olggul.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -19932,7 +21527,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">täksi päiväksi</t>
-      </tg>
+      <xg>
+               <x>ivttážis otnážii</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -19997,7 +21596,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">vähän edellä</t>
-      </tg>
+      <xg>
+               <x>Soai máhttiba sámegiela ovdalaččas juo.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -20092,7 +21695,24 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">edempänä</t>
-      </tg>
+      <xg>
+               <x>Porsáŋgu lea dál vuosttaš sajis goalmmát divišuvnnas, muhto dušše guokte čuoggá ovdalis
+               Bossogohpi.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Elle lea golbma siiddu ovdalis eŋgelasgirjjis go mun.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Eadni manai ovdalis ja Máhtte maŋis.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         <xg>
+               <x>Nu go ovdalis muitaluvvon, de ledje dáluolbmuin ollu hearggit.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -20348,7 +21968,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">eteenpäin</t>
-      </tg>
+      <xg>
+               <x>Lei nu njalkkas ahte juohke háve go lávkejin ovtta lávkki ovddos, de čessen guokte maŋos.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Ovllá vujii máŋgii ovddos maŋos biillain ovdal go deaivvai njuolga sázuid gaskii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -20434,7 +22062,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kerralla</t>
-      </tg>
+      <xg>
+               <x>Sii sáddejit dieđu ovttatmano.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -20454,7 +22086,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kerralla</t>
-      </tg>
+      <xg>
+               <x>Sii sáddejit dieđu ovttatmanu.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -20504,7 +22140,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">aina</t>
-      </tg>
+      <xg>
+               <x>Manne don ovtto biegut?</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -21120,7 +22760,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">sekaisin</t>
-      </tg>
+      <xg>
+               <x>Dán girjjis gávnnat seahkalaga boares ja ođđa čállosiid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -21135,7 +22779,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">sekaisin</t>
-      </tg>
+      <xg>
+               <x>Dán girjjis gávnnat seahkálaga boares ja ođđa čállosiid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -21150,7 +22798,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">sekaisin</t>
-      </tg>
+      <xg>
+               <x>Dán girjjis gávnnat seahkalagaid boares ja ođđa čállosiid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -21165,7 +22817,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">sekaisin</t>
-      </tg>
+      <xg>
+               <x>Dán girjjis gávnnat seahkálagaid boares ja ođđa čállosiid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -21180,7 +22836,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">selkäpuolella</t>
-      </tg>
+      <xg>
+               <x>Mun gullen juoidá mu sealggabealde skoahpamin.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -21195,7 +22855,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">selin</t>
-      </tg>
+      <xg>
+               <x>Ledjen sealggát uksii in ge jorggihan.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -21400,7 +23064,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">siivosti</t>
-      </tg>
+      <xg>
+               <x>Elle njágai siivvožit olggos vai earát viesus eai gullán.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -21425,7 +23093,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">siivosti</t>
-      </tg>
+      <xg>
+               <x>Eadni humadii suinna siivvut.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -21575,7 +23247,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">sisältä</t>
-      </tg>
+      <xg>
+               <x>Mun lean divodan viesu sihke siskkil ja olggul.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -21898,7 +23574,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">suinkin</t>
-      </tg>
+      <xg>
+               <x>ii suige</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -21947,7 +23627,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">umpimähkään</t>
-      </tg>
+      <xg>
+               <x>Ale čále ná summal.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Oahpaheaddji lei summal válljen vehkiid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -21977,7 +23665,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">hitaasti</t>
-      </tg>
+      <xg>
+               <x>Guhkkin davvin Dávggáid vuolde sabmá suolggaid Sámieatnan.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -22057,7 +23749,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">vähäinen</t>
-      </tg>
+      <xg>
+               <x>Riidu orru háddjemin daid uhccánaš návccaid mat searvvis leat.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -22137,7 +23833,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">melkein</t>
-      </tg>
+      <xg>
+               <x>uhtes ii</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Nieida moddjái nu, ahte su čalmmit uhtes eai jávkan.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -22152,7 +23856,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="expl">ovesta sisään tai ulos</t>
-      </tg>
+      <xg>
+               <x>Mana sisa uksaráigge!</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -22227,7 +23935,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">vähintään</t>
-      </tg>
+      <xg>
+               <x>Fertet boahtit unnimustá 30 minuhta ovdal vuolgama.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -22421,7 +24133,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">jospa</t>
-      </tg>
+      <xg>
+               <x>Vare boađášii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -22441,7 +24157,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">veressä</t>
-      </tg>
+      <xg>
+               <x>Dán áigásaš TV-govain oaidná visot; olbmuid geat leat varranaga ja maiddai liikkaid, čilge Sárá.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -22496,7 +24216,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="expl">toinen toistaan auttaen</t>
-      </tg>
+      <xg>
+               <x>Mii bargat veahkkálaga.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -22521,7 +24245,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="expl">toinen toistaan auttaen</t>
-      </tg>
+      <xg>
+               <x>Mii bargat veahkkálagaid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -22580,7 +24308,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">makuulla</t>
-      </tg>
+      <xg>
+               <x>Bárdni duolmmastii botnjut, ja fáhkka lei veallut.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -22610,7 +24342,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">huonommin</t>
-      </tg>
+      <xg>
+               <x>Ánte čearggui vearrábut go dájáskan olmmoš.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -23110,7 +24846,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">alimmaisena</t>
-      </tg>
+      <xg>
+               <x>Min joavku lea vuot vuolimusas tabeallas.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -23287,7 +25027,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">vastakkain</t>
-      </tg>
+      <xg>
+               <x>Máze ja Guovdageainnu smávvačiekčit čikče vuostálaga lávvordaga.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -23409,7 +25153,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">vuorotellen</t>
-      </tg>
+      <xg>
+               <x>Oahpaheaddji lea sihtan munno vurrolaga lohkat muitalusa.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -24338,7 +26086,11 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="Adv">pesussa</t>
         <t>pesusta</t>
-      </tg>
+      <xg>
+               <x>Báidi lea bassalusas.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -24352,7 +26104,11 @@ For the full license text, see the link above.</lic>
           <x>bijai buvssaid bassalussii</x>
           <xt>pani housut pesuun</xt>
         </xg>
-      </tg>
+      <xg>
+               <x>Bijan báiddi bassalussii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -24492,7 +26248,11 @@ For the full license text, see the link above.</lic>
           <x>bálbálddalagaid</x>
           <xt>vieri vieressä</xt>
         </xg>
-      </tg>
+      <xg>
+               <x>Moai čohkánetne bálddalagaid beaŋkka ala.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -25664,7 +27424,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">syyspuolella</t>
-      </tg>
+      <xg>
+               <x>Čavččabeallai ilbmá sus CD.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -25790,7 +27554,11 @@ For the full license text, see the link above.</lic>
           <x>ámmátbuokči buokčalii čiekŋalassii</x>
           <xt>ammattisukeltaja sukelsi syvyyksiin</xt>
         </xg>
-      </tg>
+      <xg>
+               <x>In gillen guhká surfet go lei nu jalla lossat beassat čiekŋalassii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -26095,7 +27863,11 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">seisaallaan</t>
         <t>seisten</t>
         <t>jaloillaan</t>
-      </tg>
+      <xg>
+               <x>Bárdni njuikii čuoččat ja doamihii olggos.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -26127,7 +27899,11 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="Adv">seisaallaan</t>
         <t pos="Adv">seisaalleen</t>
-      </tg>
+      <xg>
+               <x>Muhto ii oktage lean čuožžut.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -26569,7 +28345,11 @@ For the full license text, see the link above.</lic>
         <t pos="Po">tietenkin</t>
         <t pos="Po">tietenkään</t>
         <t pos="Adv">tietysti</t>
-      </tg>
+      <xg>
+               <x>Ándagassii átnun lea diehttalas girku iežas ášši.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -27269,7 +29049,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kyynelsilmin</t>
-      </tg>
+      <xg>
+               <x>Nieida giitala ganjalčalmmiid.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -27362,7 +29146,11 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">keskenämme</t>
         <t pos="Adv">keskenänne</t>
         <t pos="Adv">keskenään</t>
-      </tg>
+      <xg>
+               <x>Moai dušše dárusteimme gaskaneame.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -27375,7 +29163,11 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">keskenämme</t>
         <t pos="Adv">keskenänne</t>
         <t pos="Adv">keskenään</t>
-      </tg>
+      <xg>
+               <x>Dán oasi sáhttibeahtti friddja juogadit gaskaneatte.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -27388,7 +29180,11 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">keskenämme</t>
         <t pos="Adv">keskenänne</t>
         <t pos="Adv">keskenään</t>
-      </tg>
+      <xg>
+               <x>Váhnemat sáhttiba gaskaneaskka šiehttat man stuoris doarjja galgá leat.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -27401,7 +29197,11 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">keskenämme</t>
         <t pos="Adv">keskenänne</t>
         <t pos="Adv">keskenään</t>
-      </tg>
+      <xg>
+               <x>Mii dušše dárusteimmet gaskaneamet.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -27414,7 +29214,11 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">keskenämme</t>
         <t pos="Adv">keskenänne</t>
         <t pos="Adv">keskenään</t>
-      </tg>
+      <xg>
+               <x>Hállet fal sámegiela gaskaneattet!</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -27427,7 +29231,11 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">keskenämme</t>
         <t pos="Adv">keskenänne</t>
         <t pos="Adv">keskenään</t>
-      </tg>
+      <xg>
+               <x>Gili bearrašat leat juogadan luomejekkiid gaskaneaset.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -28185,7 +29993,15 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="Adv">koskaan</t>
         <t pos="Adv">milloinkaan</t>
-      </tg>
+      <xg>
+               <x>In livčče dan goassige jáhkkán.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Leat go goassige leamaš doppe?</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -28458,7 +30274,15 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">kuulemma</t>
-      </tg>
+      <xg>
+               <x>Son gul dahká dan.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Rádji gul gustui formálalaččat 1545 rájes juo.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
@@ -29087,7 +30911,15 @@ For the full license text, see the link above.</lic>
           <x>bážáhalai jámas</x>
           <xt>ammuttiin kuoliaaksi</xt>
         </xg>
-      </tg>
+      <xg>
+               <x>Son balai galbmomis jámas.</x>
+               <xt>_FIN_</xt>
+            </xg>
+            <xg>
+               <x>Bohccot vuddjojedje jámas.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -29528,7 +31360,11 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <re>sisään tai ulos</re>
         <t>ikkunasta</t>
-      </tg>
+      <xg>
+               <x>Mun oidnen áhku guovlamin glássaráigge olggos.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -31721,7 +33557,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">avojaloin</t>
-      </tg>
+      <xg>
+               <x>Soai gálašeigga rihcojulggiid jogažis.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -32771,7 +34611,11 @@ For the full license text, see the link above.</lic>
         <geo>R</geo>
         <t pos="Adv">hitaasti</t>
         <t pos="Adv">hiljalleen</t>
-      </tg>
+      <xg>
+               <x>Dolla njuoska sogiin suoibma cahká.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -33017,7 +34861,11 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t>varoen</t>
         <t pos="Adv">varovasti</t>
-      </tg>
+      <xg>
+               <x>Dearppastan váraid suorpmagežiiguin.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>
@@ -33315,7 +35163,11 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="Adv">vinossa</t>
         <t pos="Adv">vinoon</t>
-      </tg>
+      <xg>
+               <x>Speallanboallu sáhttá sirdojuvvot láskkonjuolga, ceakkonjuolga ja vitnjalassii.</x>
+               <xt>_FIN_</xt>
+            </xg>
+         </tg>
     </mg>
   </e>
   <e>

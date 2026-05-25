@@ -3,8 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../dtd/smefin.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smefin.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
@@ -37,7 +36,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <re>ihmisistä</re>
             <t pos="Pron">kaikki</t>
-         </tg>
+         <xg>
+          <x>Čoahkkin lea rabas buohkaide – bures boahtin!</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -47,7 +50,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">kaikki</t>
-         </tg>
+         <xg>
+          <x src="SIKOR">Ipmilii buot lea vejolaš.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Buot oahpahus lea sámegillii.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x src="SIKOR">Álggus lea minikonsearta buot mánáide gaskal 0 ja 10 jagi.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -59,7 +74,11 @@ For the full license text, see the link above.</lic>
             <t pos="Pron">muu</t>
             <t pos="Pron">eri</t>
             <t pos="Pron">muuta</t>
-         </tg>
+         <xg>
+          <x>Dákkár viiddis máhttu ii leat nu gallásis earáin.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -69,7 +88,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">kumpikin</t>
-         </tg>
+         <xg>
+          <x>Sii doalahit dálá organiserema mas lea okta rektor goabbatge skuvllas.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      <xg>
+          <x>Dán áššis orrot hálddahus ja stivra goabbat oaivilis.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>De leigga oastán goabbat bohttala cola.</x>
+          <xt>_FIN_</xt>
+        </xg>
+            <xg>
+               <x>Moai čohkkájetne soffás goabbat telefovnnain.</x>
+               <xt>_FIN_</xt>
+            </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -79,7 +114,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">molemmat</t>
-         </tg>
+         <xg>
+          <x>Moai letne guktot fitnan Helssegis.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -99,7 +138,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">muut</t>
-         </tg>
+         <xg>
+          <x>In sáhte iežáid váldit mielde dohko.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -110,7 +153,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Pron">jokin</t>
             <t pos="Pron">jotakin</t>
-         </tg>
+         <xg>
+          <x>Ođđa nominašuvnna sáhttá gáibidit jus lea juoga dahkkon formálalaččat boastut.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -173,7 +220,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">useat</t>
-         </tg>
+         <xg>
+          <x>Lávdegoddi galgá mandáhtas mielde árvvoštallat moanaid dettolaš gažaldagaid.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      <xg>
+          <x>Mun lean moanaid juo bovden.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Mun lean moanaid olbmuid juo bovden.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Vástádusaid in sáhte lohpidit nu moanaid vuos.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -183,7 +246,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">joku</t>
-         </tg>
+         <xg>
+          <x>De oahpaheaddji fuomáša muhtuma gii viegada klássalanjas, muhto ii oainne gii dat lea.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Máŋga sápmelačča bohte ruovttoluotta Norgii, muhtumat fas ásaiduvve Alaskai.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -194,7 +265,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Pron">juurikaan</t>
             <t pos="Pron">paljonkaan</t>
-         </tg>
+         <xg>
+          <x>Ii dás goit leat fylkkagielddas mihkkege váttisvuođaid, olus lohket.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -234,7 +309,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron" type="Indef">mitään</t>
-         </tg>
+         <xg>
+          <x>Imaštallen gal veaháš manne eadni ii jienát maidege.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Mus ii leat mihkkege eará maid sáhtán geavahit.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -244,7 +327,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron" type="Indef">jokainen</t>
-         </tg>
+         <xg>
+          <x>Sii mihtidit man ollu badjelis áhpedási guhtege jávri lea.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Golbma bargojoavkku leat bargame ođđa orohatjuohkimiin, okta guđege boazoguovllus.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Gáffádaga eaiggát attii nuvttá gáhkkobihtá guhtiige.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -254,7 +349,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron" type="Indef">kumpikin</t>
-         </tg>
+         <xg>
+          <x>In eahpit ahte ledje 2000 olbmo goappáge konsearttas.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Goappá don válddát? In goappáge!</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Ii lean šat doarrunvuoibmi goappásge.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -264,7 +371,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron" type="Indef">muutama</t>
-         </tg>
+         <xg>
+          <x>De oahpaheaddji fuomáša muhtima gii viegada klássalanjas, muhto ii oainne gii dat lea.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Máŋga sápmelačča bohte ruovttoluotta Norgii, muhtimat fas ásaiduvve Alaskai.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -284,7 +399,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron" type="Indef">muutama</t>
-         </tg>
+         <xg>
+          <x>Muhto soapmásiin ledje áibbas eará beroštumit.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Lei buorre dálki ja soames guolli nai.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -294,7 +417,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron" type="Indef">molemmat</t>
-         </tg>
+         <xg>
+          <x>Goappašat dievddut dárbbašeigga doavtterdivššu.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Iskkadeapmi galgá čuvget goappašiid beliid.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -304,7 +435,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron" type="Indef">jokainen</t>
-         </tg>
+         <xg>
+          <x>Iešguhtet válddii doppe biillas.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -314,7 +449,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron" type="Indef">jokainen</t>
-         </tg>
+         <xg>
+          <x>Dain ledje fas juohkehaččas sierra nuohttunbáikkit ja fierbmunbáikkit.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -324,7 +463,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron" type="Indef">molemmat</t>
-         </tg>
+         <xg>
+          <x>Árvolassáneapmi lei jagis 1997 sullii seamma dásis goappaš riikkain.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
   <e>
@@ -334,6 +477,14 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pron">molemmat</t>
+      <xg>
+          <x>Soai leaba goappašagat vázzán dáiddaallaskuvlla.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Goappašagat dárbbašeigga doavtterdivššu.</x>
+          <xt>_FIN_</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -344,6 +495,14 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="Pron">jokin</t>
+      <xg>
+          <x>Muhto soapmásiin ledje áibbas eará beroštumit.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Lei buorre dálki ja soames guolli nai.</x>
+          <xt>_FIN_</xt>
+        </xg>
       </tg>
     </mg>
     <mg>

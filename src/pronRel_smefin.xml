@@ -3,8 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../dtd/smefin.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smefin.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smefin" xml:lang="sme">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
@@ -36,7 +35,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">kuka</t>
-         </tg>
+         <xg>
+          <x>Gii bat don leat?</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Dološ áigge lei muhtin geafes olmmái gii dávjá finadii báhpa luhtte ánuheame.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -47,7 +54,23 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Pron">kuka</t>
             <t pos="Pron">joka</t>
-         </tg>
+         <xg>
+          <x>Guhte lea dán bargan?</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Guhte seahkka lea losimus?</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Elle muitalii maid guhte válddii.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      <xg>
+          <x>Kandidáhtta guhte buohccá skuvlaeksámena áigge, ferte dieđihit dan eksámenlanja váldofáktii.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
    <e>
@@ -57,7 +80,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">mikä</t>
-         </tg>
+         <xg>
+          <x>Mii bat doppe lea?</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Dat mii dáhpáhuvvá, dat dáhpáhuvvá.</x>
+          <xt>_FIN_</xt>
+        </xg>
+      </tg>
       </mg>
    </e>
 </r>

@@ -282,6 +282,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <re>käteltäessä</re>
         <t>terve!</t>
+      <xg>
+          <x>Bures!</x>
+          <xt>_FIN_</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -347,6 +351,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t>katso</t>
         <t>katsopas</t>
+      <xg>
+          <x>Gea, beana skierbmu!</x>
+          <xt>_FIN_</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -534,6 +542,14 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>vuoi doantá!</x>
           <xt>voi pahus!</xt>
+        </xg>
+      <xg>
+          <x>Vuoi, go lea váivi.</x>
+          <xt>_FIN_</xt>
+        </xg>
+        <xg>
+          <x>Vuoi, man somá go soamis mus maid ballá.</x>
+          <xt>_FIN_</xt>
         </xg>
       </tg>
     </mg>
