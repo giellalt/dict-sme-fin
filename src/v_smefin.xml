@@ -54,11 +54,16 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">ilmoittaa</t>
+        <t pos="V">julkaista</t>
         <xg>
           <x>Lávlu lea maid almmuhan CD:id.</x>
-          <xt>_FIN_</xt>
+          <xt>Laulaja on myös julkaissut CD:itä.</xt>
         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">ilmoittaa</t>
       </tg>
     </mg>
   </e>
