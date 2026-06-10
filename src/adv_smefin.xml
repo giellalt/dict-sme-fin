@@ -108,11 +108,11 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">yhä</t>
         <xg>
           <x>Son lea ain dáppe.</x>
-          <xt>_FIN_</xt>
+          <xt>Hän on yhä täällä.</xt>
         </xg>
         <xg>
           <x>Mii áigut fállat ain buoret aviissa didjiide.</x>
-          <xt>_FIN_</xt>
+          <xt>Aiomme tarjota vielä paremman sanomalehden teille.</xt>
         </xg>
       </tg>
     </mg>
@@ -243,12 +243,12 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="Adv">paljon</t>
         <xg>
-          <x>Boahtte čiekčamis dán joavkku vuostá doaivvun mannat arvat buorebut.</x>
-          <xt>_FIN_</xt>
+          <x>Boahtte čiekčamis dán joavkku vuostá doaivvun duođai mannat arvat buorebut.</x>
+          <xt>Seuraavan ottelun tätä joukkuetta vastaan toivon todellakin menevän paljon paremmin.</xt>
         </xg>
         <xg>
           <x>Dán jagi leat arvat eanet bivdinjoavkkut go diibmá.</x>
-          <xt>_FIN_</xt>
+          <xt>Tänä vuonna on paljon enemmän metsästysporukkoita kuin viime vuonna.</xt>
         </xg>
       </tg>
     </mg>
