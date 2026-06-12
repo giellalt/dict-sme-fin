@@ -41,106 +41,106 @@ muoŧŧá ok
 mánnu ? käännös, lause alas
 márkan ok
 mátta ? käännös
-nissonolmmoš
-nisu
-nuorta
-nuorti
-oabbá
-olmmái
-rotnu
-ruohtu
-ruossa
-rássa
-sajus
-siessá
-skibir
-skálla
-spiidni
-suoldni
-sáhka
-teajat
-uddu
-vuoddji
-vuohppa
-vuoksá
-vuokta
-vuorbi
-várri
-áddjut
-áddjá
-áhkku
-áhkkut
-áhčešeatni
-čakča
-čeahci
-čeŋkkeš
-čiekči
-čuoika
-šoalkaliidni
-čuojaheaddji
-váldu
-máŋggas
-fuolahus
-guovttis
-máhtu
-endor
-fávli
-gáddu
-gáhppálat
-giera
-hušša
-ilbmi
-illasteapmi
-ladni
-lagasvuohta
-lagašvuohta
-nuppástuhttin
-vieljažat
-vuođđooassi
-ávvir
-bieža
-goartil
-nađđa
-ritni
-vátni
-ollesolmmoš
-čoska
-áhpu
-áideuksa
-álggahalli
-árru
-baromehter
-bassebeaivi
-beaivečuovga
-bealjus
-bihci
-biidnu
-borri
-boson
-buđaldus
-bussebissehat
-časkkáhat
-čázeoaivi
-čelččen
-čoavjeseahkka
-čulku
-doarvi
-duski
-eahpáraš
-earrodearvvuođat
-gágir
-gámas
-gášša
-gealdagas
-geavja
-giehtaloahpu
-giitámuš
-gimpu
-goalmmádas
-goapma
-goarvi
-gorespábba
-heabuš
+nissonolmmoš ok
+nisu ok
+nuorta ? käännös
+nuorti ? käännös
+oabbá ok
+olmmái ok
+rotnu ok
+ruohtu ok
+ruossa ok
+rássa ? käännös
+sajus ? käännös
+siessá ok
+skibir ok
+skálla ? käännös
+spiidni ok
+suoldni ok
+sáhka ? käännös
+teajat ok
+uddu ? käännös
+vuoddji ? käännös
+vuohppa ok
+vuoksá ok
+vuokta ok
+vuorbi ? käännös
+várri ? käännös
+áddjut ok
+áddjá ? käännös
+áhkku ? käännös
+áhkkut ok
+áhčešeatni ? käännös
+čakča ok
+čeahci ok
+čeŋkkeš ok
+čiekči ok
+čuoika ok
+šoalkaliidni ok
+čuojaheaddji ok
+váldu ok
+máŋggas ok
+fuolahus ? käännös
+guovttis ? käännös
+máhtu ok
+endor ok
+fávli ? käännös
+gáddu ok
+gáhppálat ? käännös
+giera ok
+hušša ok
+ilbmi ok
+illasteapmi ? käännös
+ladni ? käännös
+lagasvuohta ? lause
+lagašvuohta ? lause
+nuppástuhttin ok
+vieljažat ok
+vuođđooassi ? käännös
+ávvir ok
+bieža ? lause
+goartil ? käännös
+nađđa ok 
+ritni ? käännös
+vátni ok
+ollesolmmoš ok
+čoska ok
+áhpu ok
+áideuksa ok
+álggahalli ok
+árru ok
+baromehter ok
+bassebeaivi ? käännös
+beaivečuovga ok
+bealjus ? käännös
+bihci ok
+biidnu ok
+borri ok
+boson ok
+buđaldus ok
+bussebissehat ok
+časkkáhat ok
+čázeoaivi ok
+čelččen ok
+čoavjeseahkka ok
+čulku ok
+doarvi ok
+duski ok
+eahpáraš ? lause
+earrodearvvuođat ok
+gágir ok
+gámas ok
+gášša ? lause
+gealdagas ok
+geavja ok
+giehtaloahpu ok
+giitámuš ? lause
+gimpu ? lause
+goalmmádas ? lause
+goapma ? lause
+goarvi ? lause
+gorespábba ok
+heabuš ? lause
 idjabuolaš
 iežár
 jábmiidáibmu
