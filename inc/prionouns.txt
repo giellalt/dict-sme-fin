@@ -1,31 +1,31 @@
 rišša ok
-bahta ? käännös
-beaivi ? käännös
-bealgi ? käännös
-beavddáš ? käännös
+bahta ok
+beaivi ok
+bealgi ok
+beavddáš ok
 buolaš ok
 burru ok
 busse ? käännös
 bussá ok
 báhkka ok
-bávččas ? lause alas
+bávččas ok
 davvi ? käännös
-diibmu ? lause alas
+diibmu ok
 dilli ? käännös
 eahketborramuš ? käännös
 eahki ok
 eallu ok
 earán ok
-galba ? käännös
+galba ok
 goaski ok
 goikket ok
-guollebivdu ? käännös
+guollebivdu ok
 guolásteapmi ok
 gálojeatni ok
 gássa ? käännös
 gávttehas ok
-gázzi ? käännös
-hávvi ? lause alas
+gázzi ok
+hávvi ok
 ipmil ok 
 iđitbiebmu ? käännös
 lihtti ok
@@ -34,18 +34,18 @@ láhki ok
 lássa ? käännös
 lávlu ok
 manni ? käännös
-miella ? käännös
-mobiila ok
+miella ok
+mobiila ? käännös
 muoŧŧal ok
 muoŧŧá ok
-mánnu ? käännös, lause alas
+mánnu ? käännös
 márkan ok
 mátta ? käännös
 nissonolmmoš ok
 nisu ok
 nuorta ? käännös
-nuorti ? käännös
-oabbá ok
+nuorti ok
+oabbá ? käännös
 olmmái ok
 rotnu ok
 ruohtu ok
@@ -54,17 +54,17 @@ rássa ? käännös
 sajus ? käännös
 siessá ok
 skibir ok
-skálla ? käännös
+skálla ok
 spiidni ok
 suoldni ok
 sáhka ? käännös
 teajat ok
-uddu ? käännös
-vuoddji ? käännös
+uddu ok
+vuoddji ok
 vuohppa ok
 vuoksá ok
 vuokta ok
-vuorbi ? käännös
+vuorbi ok
 várri ? käännös
 áddjut ok
 áddjá ? käännös
@@ -81,24 +81,24 @@ várri ? käännös
 váldu ok
 máŋggas ok
 fuolahus ? käännös
-guovttis ? käännös
+guovttis ok
 máhtu ok
-endor ok
-fávli ? käännös
+endor ? käännös
+fávli ok
 gáddu ok
 gáhppálat ? käännös
 giera ok
 hušša ok
 ilbmi ok
-illasteapmi ? käännös
+illasteapmi ok
 ladni ? käännös
-lagasvuohta ? lause
+lagasvuohta ok
 lagašvuohta ? lause
 nuppástuhttin ok
 vieljažat ok
 vuođđooassi ? käännös
 ávvir ok
-bieža ? lause
+bieža ok
 goartil ? käännös
 nađđa ok 
 ritni ? käännös
@@ -108,7 +108,7 @@ ollesolmmoš ok
 áhpu ok
 áideuksa ok
 álggahalli ok
-árru ok
+árru ok JATKA TÄSTÄ 15.6.
 baromehter ok
 bassebeaivi ? käännös
 beaivečuovga ok
@@ -141,50 +141,50 @@ goapma ? lause
 goarvi ? lause
 gorespábba ok
 heabuš ? lause
-idjabuolaš
-iežár
-jábmiidáibmu
-joddobuođđu
-jorbadas
-jupma
-lahkosat
-leadji
-liemas
-luoggu
-maŋŋebeaŋka
-meardi
-muossi
-nagirvárri
-njeazzi
-oaidnaleapmi
-oainnáhus
-oaivejorggis
-oappážagat
-oappážat
-olbmážat
-olbmážagat
-olgobivttas
-ráhtis
-rávga
-sálga
-sálva
-siessal
-siskkoš
-skerttet
-skihpáraččat
-smávvaskuvla
-snoabus
-soavli
-šoavli
-spábbadoaškun
-spealli
-suokka
-suomuorra
-suovas
-ulli
-uvssot
-várra
-vátnivuohta
-veadju
-vuoiŋŋahat
-vuovdebuollin
+idjabuolaš ? käännös
+iežár ok
+jábmiidáibmu ? lause
+joddobuođđu ? lause
+jorbadas ok
+jupma ok
+lahkosat ? lause
+leadji ? käännös
+liemas ok
+luoggu ok
+maŋŋebeaŋka ok
+meardi ok
+muossi ok
+nagirvárri ok
+njeazzi ? käännös
+oaidnaleapmi ok
+oainnáhus ? lause, käännös
+oaivejorggis ok
+oappážagat ok
+oappážat ok
+olbmážat ok
+olbmážagat ok
+olgobivttas ok
+ráhtis ok
+rávga ok
+sálga ok
+sálva ok
+siessal ? käännös
+siskkoš ok
+skerttet ok
+skihpáraččat ok
+smávvaskuvla ? käännös
+snoabus ok
+soavli ok
+šoavli ok
+spábbadoaškun ok
+spealli ok
+suokka ok
+suomuorra ok
+suovas ok
+ulli ok
+uvssot ok
+várra ? käännös
+vátnivuohta ok
+veadju ok
+vuoiŋŋahat ok
+vuovdebuollin ok
