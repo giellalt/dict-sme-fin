@@ -29,7 +29,7 @@ hávvi ok
 ipmil ok 
 iđitbiebmu ? käännös
 lihtti ok
-luohkká ? käännös
+luohkká JOATKKE DÁS 16.6.
 láhki ok
 lássa ? käännös
 lávlu ok
@@ -51,7 +51,7 @@ rotnu ok
 ruohtu ok
 ruossa ok
 rássa ? käännös
-sajus ? käännös
+sajus ok
 siessá ok
 skibir ok
 skálla ok
@@ -93,7 +93,7 @@ ilbmi ok
 illasteapmi ok
 ladni ? käännös
 lagasvuohta ok
-lagašvuohta ? lause
+lagašvuohta ok
 nuppástuhttin ok
 vieljažat ok
 vuođđooassi ? käännös
@@ -108,11 +108,11 @@ ollesolmmoš ok
 áhpu ok
 áideuksa ok
 álggahalli ok
-árru ok JATKA TÄSTÄ 15.6.
+árru ok
 baromehter ok
-bassebeaivi ? käännös
+bassebeaivi ok
 beaivečuovga ok
-bealjus ? käännös
+bealjus ok
 bihci ok
 biidnu ok
 borri ok
@@ -126,28 +126,28 @@ bussebissehat ok
 čulku ok
 doarvi ok
 duski ok
-eahpáraš ? lause
+eahpáraš ok
 earrodearvvuođat ok
 gágir ok
 gámas ok
-gášša ? lause
+gášša ok
 gealdagas ok
 geavja ok
 giehtaloahpu ok
-giitámuš ? lause
-gimpu ? lause
-goalmmádas ? lause
-goapma ? lause
-goarvi ? lause
+giitámuš ok
+gimpu ok
+goalmmádas ok
+goapma ok
+goarvi ok
 gorespábba ok
 heabuš ? lause
-idjabuolaš ? käännös
+idjabuolaš ok
 iežár ok
 jábmiidáibmu ? lause
 joddobuođđu ? lause
 jorbadas ok
 jupma ok
-lahkosat ? lause
+lahkosat ok
 leadji ? käännös
 liemas ok
 luoggu ok
@@ -155,7 +155,7 @@ maŋŋebeaŋka ok
 meardi ok
 muossi ok
 nagirvárri ok
-njeazzi ? käännös
+njeazzi ok
 oaidnaleapmi ok
 oainnáhus ? lause, käännös
 oaivejorggis ok
@@ -168,11 +168,11 @@ ráhtis ok
 rávga ok
 sálga ok
 sálva ok
-siessal ? käännös
+siessal ok
 siskkoš ok
 skerttet ok
 skihpáraččat ok
-smávvaskuvla ? käännös
+smávvaskuvla ok
 snoabus ok
 soavli ok
 šoavli ok
@@ -181,7 +181,7 @@ spealli ok
 suokka ok
 suomuorra ok
 suovas ok
-ulli ok
+ulli ? käännös
 uvssot ok
 várra ? käännös
 vátnivuohta ok
