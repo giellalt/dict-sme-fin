@@ -12082,13 +12082,6 @@ For the full license text, see the link above.</lic>
         </xg>
 
         <xg>
-          <x>Ráđđehus áigu láhčit dili vai gonagasreappá hálddaheapmi šaddá
-          dohkkehahttin.</x>
-
-          <xt>Hallitus aikoo...jotta kuningasravun...</xt>
-        </xg>
-
-        <xg>
           <x>Mus ii leat dilli.</x>
 
           <xt>Minulla ei ole aikaa.</xt>
@@ -34613,9 +34606,23 @@ For the full license text, see the link above.</lic>
         <t pos="N">luokka</t>
 
         <xg>
+          <x>Luohkás leat čeahpes oahppit. </x>
+
+          <xt>Luokalla on taitavia oppilaita.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">luokka</t>
+
+        <t pos="N">luokki</t>
+
+        <xg>
           <x>Luohkká gullá heasttaleŋggiide.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Luokka kuuluu hevosen valjaisiin.</xt>
         </xg>
       </tg>
     </mg>
@@ -41991,7 +41998,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>nuortan</x>
 
-          <xt>_FIN_</xt>
+          <xt>idässä, pohjoisessa</xt>
         </xg>
       </tg>
     </mg>
@@ -50348,13 +50355,13 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Dat lea sadjosis.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Se on tietyssä paikassa.</xt>
         </xg>
 
         <xg>
           <x>Bija dan sadjosii!</x>
 
-          <xt>_FIN_</xt>
+          <xt>Laita se paikalleen!</xt>
         </xg>
       </tg>
     </mg>
@@ -76837,9 +76844,15 @@ For the full license text, see the link above.</lic>
         <t pos="N">järjettömyys</t>
 
         <xg>
+          <x>Boraspirehálddašeapmi gal lea dál endoris, lohká son.</x>
+
+          <xt>Villieläinhallinto on kyllä nyt hakoteillä, hän sanoo.</xt>
+        </xg>
+
+        <xg>
           <x>Eadni manai endorii.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Äiti meni hakoteille.</xt>
         </xg>
 
         <xg>
@@ -76853,12 +76866,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">päättömyys</t>
-
-        <xg>
-          <x>Boraspirehálddašeapmi gal lea dál endoris, lohká son.</x>
-
-          <xt>Villieläinhallinto on nyt päätöntä, hän sanoo.</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -80897,7 +80904,8 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Lagašvuohta sámi fágabirrasii sáhttá nannet barggu.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Läheinen suhde saamelaiseen ammattipiiriin voi vahvistaa
+          työtä.</xt>
         </xg>
       </tg>
     </mg>
@@ -88175,19 +88183,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">pohjaosa</t>
-
-        <xg>
-          <x src="SIKOR">Dán ođđa málles lea vuođđooassi, bálvalanoassi ja
-          ovddidanoassi hálddašanguovllu gielddaid várás.</x>
-
-          <xt src="SIKOR">_FIN_</xt>
-        </xg>
-
-        <xg>
-          <x src="SIKOR">Dát leat vuođđooasit juohke olbmo eallimis.</x>
-
-          <xt src="SIKOR">_FIN_</xt>
-        </xg>
       </tg>
     </mg>
 
@@ -88200,6 +88195,13 @@ For the full license text, see the link above.</lic>
           goallossáni máŋimus oassi.</x>
 
           <xt>Perusosa on yhdyssanan viimeinen osa.</xt>
+        </xg>
+
+        <xg>
+          <x src="SIKOR">Dát leat vuođđooasit juohke olbmo eallimis.</x>
+
+          <xt src="SIKOR">Nämä ovat perustavanlaatuisia osia jokaisen ihmisen
+          elämässä.</xt>
         </xg>
       </tg>
     </mg>
@@ -103283,7 +103285,7 @@ For the full license text, see the link above.</lic>
           geainnu almmá oažžut maidege ávkkiid das.</x>
 
           <xt>Turistitie oli ainoastaan haitaksi kunnalle, kun tietä piti
-          korjata ilman, että siitä on mitään hyötyä.</xt>
+          korjata saamatta siitä minkäänlaista hyötyä.</xt>
         </xg>
       </tg>
     </mg>
@@ -109442,7 +109444,8 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Mis leat fálaldagat buot bassebeivviid.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Meillä on saatavilla olevia palveluita kaikkina
+          pyhäpäivinä.</xt>
         </xg>
       </tg>
     </mg>
@@ -116257,12 +116260,6 @@ For the full license text, see the link above.</lic>
         <t pos="N">korvallinen</t>
 
         <t pos="N">korvus</t>
-
-        <xg>
-          <x>belljosat</x>
-
-          <xt>_FIN_</xt>
-        </xg>
       </tg>
     </mg>
 
@@ -160471,10 +160468,10 @@ For the full license text, see the link above.</lic>
         <t pos="N">lapsivainaja</t>
 
         <xg>
-          <x>Mánát mat ledje hávdáduvvon vihatkeahtes eatnamii ja gopmahalle,
+          <x>Mánáid mat ledje hávdáduvvon vihatkeahtes eatnamii ja gopmahalle,
           sii gohčodedje eahpáražžan.</x>
 
-          <xt>_FIN_</xt>
+          <xt/>
         </xg>
       </tg>
     </mg>
@@ -162882,7 +162879,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Morašmielain dahke earrodearvvuođaid.</x>
 
-          <xt>Haikeudella jättivät hyvästit.</xt>
+          <xt>Haikeudella he jättivät hyvästit.</xt>
         </xg>
       </tg>
     </mg>
@@ -172585,7 +172582,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Gágir lea sávzza ja bohcco baika.</x>
 
-          <xt>Papana on lampaan ja poron kakka.</xt>
+          <xt>Papana on lampaan ja poron uloste.</xt>
         </xg>
       </tg>
     </mg>
@@ -175557,7 +175554,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Oahppit vázzit gášain kantiidnii.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Oppilaat kävelivät hälinöiden ruokalaan.</xt>
         </xg>
       </tg>
     </mg>
@@ -182634,7 +182631,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Ii leat giitámuš.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Ei ole kiitettävää.</xt>
         </xg>
 
         <xg>
@@ -183291,7 +183288,8 @@ For the full license text, see the link above.</lic>
           <x>Sii gieđahallet áššiid gimpun mas ohcamušat seammá guovllus
           meannuduvvojit oktanaga.</x>
 
-          <xt>_FIN_</xt>
+          <xt>He käsittelevät asioita yhtenä kimppuna, jossa saman alueen
+          hakemukset käsitellään yhtä aikaa.</xt>
         </xg>
       </tg>
     </mg>
@@ -185038,7 +185036,8 @@ For the full license text, see the link above.</lic>
           <x>Skuvlaborramuš addá goalmmádasa ohppiid beaivválaš
           biebmodárbbus.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Kouluruoka täyttää kolmanneksen oppilaiden päivittäisestä
+          ravinnontarpeesta.</xt>
         </xg>
       </tg>
     </mg>
@@ -185200,12 +185199,6 @@ For the full license text, see the link above.</lic>
         <t pos="N">ulkonema</t>
 
         <t pos="N">uloke</t>
-
-        <xg>
-          <x>Goapma lea unnit go goarvi.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -185650,18 +185643,6 @@ For the full license text, see the link above.</lic>
         <t pos="N">ulkonema</t>
 
         <t pos="N">kieleke</t>
-
-        <xg>
-          <x>Goarvi lea stuorit go goapma.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
-
-        <xg>
-          <x>Goarvi lea stuorit go goapma.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -195801,7 +195782,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Heabuš oahku, doalvvásta ja čuosku.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Hevonen käyskentelee, ravaa ja säntäilee.</xt>
         </xg>
 
         <xg>
@@ -199675,7 +199656,8 @@ For the full license text, see the link above.</lic>
           <x>Vahkkoloahpa idjabuollašat eai jáhkkimis duššadan
           luomeliđiid.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Viikonlopun yöpakkaset eivät luultavasti tuhonneet
+          hillankukkia.</xt>
         </xg>
       </tg>
     </mg>
@@ -211455,7 +211437,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Doppe leat ollu luopmánat Guovdageainnu lahkosiin.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Siellä Koutokeinon lähistöllä on paljon hilloja.</xt>
         </xg>
       </tg>
     </mg>
@@ -214728,7 +214710,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Mii gaikkuimet stuorra leaji skirriid.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Kiskoimme ison läjän vaivaiskoivuja.</xt>
         </xg>
       </tg>
     </mg>
@@ -220868,7 +220850,7 @@ For the full license text, see the link above.</lic>
         <t pos="N">tönö</t>
 
         <xg>
-          <x>Jearan táksevuoddjis vuogas orrunsaji go in háliid gártat muhtin
+          <x>Jearan táksevuoddjis vuogas orrunsaji go in háliit gártat muhtin
           luggui.</x>
 
           <xt>Kysyn taksikuskilta sopivasta asuinpaikasta, koska en halua
@@ -238935,16 +238917,17 @@ For the full license text, see the link above.</lic>
         <t pos="N">lärvi</t>
 
         <xg>
-          <x>Duohtavuohta časká njeacce vuostá.</x>
-
-          <xt>Totuus iskee vasten kasvoja.</xt>
-        </xg>
-
-        <xg>
           <x>Eanet ii ollen dadjat ovdal go nisu čuoččohii ja čorbmadii su
           njeazzái.</x>
 
-          <xt>Enempää ei ehtinyt sanoa ennen kuin nainen </xt>
+          <xt>Enempää ei ehtinyt sanoa ennen kuin nainen nousi seisomaan ja
+          löi häntä turpaan.</xt>
+        </xg>
+
+        <xg>
+          <x>Duohtavuohta časká njeacce vuostá.</x>
+
+          <xt>Totuus iskee vasten kasvoja.</xt>
         </xg>
       </tg>
     </mg>
@@ -243630,12 +243613,6 @@ For the full license text, see the link above.</lic>
         </xg>
 
         <xg>
-          <x>Lean áidna vilges olmmoš ja dieđusge oainnáhus.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
-
-        <xg>
           <x>Sis lea perspektiiva ja oainnáhus.</x>
 
           <xt>_FIN_</xt>
@@ -243998,7 +243975,7 @@ For the full license text, see the link above.</lic>
           gánddaid.</x>
 
           <xt>Toimittajaa kyllä rupeaa pyörryttämään, kun hän yrittää seurata
-          vilkkaita poikia.</xt>
+          niitä vilkkaita poikia.</xt>
         </xg>
 
         <xg>
@@ -247487,7 +247464,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Oktii leigga guokte olbmážaga čuoigamin duoddaris.</x>
 
-          <xt>Kerran kaksi ystävystä olivat hiihtämässä tunturissa.</xt>
+          <xt>Kerran kaksi ystävystä oli hiihtämässä tunturissa.</xt>
         </xg>
       </tg>
     </mg>
@@ -273037,7 +273014,8 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Son hásttii siessaliid searvat iežaset dáidagiiguin.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Hän haastoi veljenlapset osallistumaan omilla
+          taideteoksillaan.</xt>
         </xg>
       </tg>
     </mg>
@@ -278291,7 +278269,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Smávvaskuvllas lea fásta olgobeaivi juohke vahku.</x>
 
-          <xt>Alakoulussa on </xt>
+          <xt>Alakoulussa on säännöllinen ulkoilupäivä joka viikko.</xt>
         </xg>
       </tg>
     </mg>
@@ -299187,19 +299165,19 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>In leat vel veajuid alde.</x>
 
-          <xt>En ole vielä voimissa.</xt>
+          <xt>En ole vielä kunnossa..</xt>
         </xg>
 
         <xg>
           <x>Dál mus leat návccat ja veajut fas bargat.</x>
 
-          <xt>Nyt minulla on kykyjä ja voimia taas työskennellä.</xt>
+          <xt>Nyt olen kykenevä ja kunnossa työskentelemään taas..</xt>
         </xg>
 
         <xg>
           <x>Bohtoset veajut!</x>
 
-          <xt>Tulkoot voimat!</xt>
+          <xt>Parane pian!</xt>
         </xg>
       </tg>
     </mg>
