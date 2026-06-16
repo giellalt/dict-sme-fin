@@ -1787,7 +1787,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">astoáigeklubba</l>
+      <l pos="N">astoáiggeklubba</l>
     </lg>
 
     <mg>
@@ -14496,19 +14496,6 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-
-  <e>
-    <lg>
-      <l pos="N">dáidá</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">taitaa</t>
-      </tg>
-    </mg>
-  </e>
-
   <e>
     <lg>
       <l pos="N">dáigi</l>
@@ -54926,18 +54913,6 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">spánskkadávda</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">espanjantauti</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">spártu</l>
     </lg>
 
@@ -64133,18 +64108,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="expl">isoäiti lapsenlapsensa kanssa</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">áhkábiddu</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">isosimppu</t>
       </tg>
     </mg>
   </e>
@@ -89247,17 +89210,6 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
-  <e>
-    <lg>
-      <l pos="N">cuocca</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">kalvo</t>
-      </tg>
-    </mg>
-  </e>
 
   <e>
     <lg>
@@ -92816,12 +92768,12 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">abmejeaddji</l>
+      <l pos="A">abmejeaddji</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">korviahuumaava</t>
+        <t pos="A">korviahuumaava</t>
       </tg>
     </mg>
   </e>
@@ -96734,7 +96686,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">ábolaš</l>
+      <l pos="A">ábolaš</l>
     </lg>
 
     <mg>
@@ -218980,7 +218932,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">lohkuboazu</l>
+      <l pos="N">lohkoboazu</l>
     </lg>
 
     <mg>
