@@ -130,55 +130,55 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Afrihká</l>
+      <l pos="N" type="Prop">Afrihká</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Afrikka</t>
+        <t pos="N" type="Prop">Afrikka</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Albánia</l>
+      <l pos="N" type="Prop">Albánia</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Albania</t>
+        <t pos="N" type="Prop">Albania</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Anár</l>
+      <l pos="N" type="Prop">Anár</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Inari</t>
+        <t pos="N" type="Prop">Inari</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Austrália</l>
+      <l pos="N" type="Prop">Austrália</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Australia</t>
+        <t pos="N" type="Prop">Australia</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Bargiidbellodat</l>
+      <l pos="N" type="Prop">Bargiidbellodat</l>
     </lg>
 
     <mg>
@@ -190,19 +190,19 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Belgia</l>
+      <l pos="N" type="Prop">Belgia</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Belgia</t>
+        <t pos="N" type="Prop">Belgia</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Biŧon</l>
+      <l pos="N" type="Prop">Biŧon</l>
     </lg>
 
     <mg>
@@ -214,7 +214,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Boahji</l>
+      <l pos="N" type="Prop">Boahji</l>
     </lg>
 
     <mg>
@@ -226,19 +226,19 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Bulgária</l>
+      <l pos="N" type="Prop">Bulgária</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Bulgaria</t>
+        <t pos="N" type="Prop">Bulgaria</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Darji</l>
+      <l pos="N" type="Prop">Darji</l>
     </lg>
 
     <mg>
@@ -250,7 +250,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Deatnogáddi</l>
+      <l pos="N" type="Prop">Deatnogáddi</l>
     </lg>
 
     <mg>
@@ -262,7 +262,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Deatnu</l>
+      <l pos="N" type="Prop">Deatnu</l>
     </lg>
 
     <mg>
@@ -274,19 +274,19 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Duiska</l>
+      <l pos="N" type="Prop">Duiska</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Saksa</t>
+        <t pos="N" type="Prop">Saksa</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Dánmárku</l>
+      <l pos="N" type="Prop">Dánmárku</l>
     </lg>
 
     <mg>
@@ -298,67 +298,67 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Dávggát</l>
+      <l pos="N" type="Prop">Dávggát</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Otava</t>
+        <t pos="N" type="Prop">Otava</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Girkonjárga</l>
+      <l pos="N" type="Prop">Girkonjárga</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Kirkkoniemi</t>
+        <t pos="N" type="Prop">Kirkkoniemi</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Giron</l>
+      <l pos="N" type="Prop">Giron</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Kiiruna</t>
+        <t pos="N" type="Prop">Kiiruna</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Guovdageaidnu</l>
+      <l pos="N" type="Prop">Guovdageaidnu</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Koutokeino</t>
+        <t pos="N" type="Prop">Koutokeino</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Guovddášbellodat</l>
+      <l pos="N" type="Prop">Guovddášbellodat</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Keskustapuolue</t>
+        <t pos="N" type="Prop">Keskustapuolue</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Gurutbellodat</l>
+      <l pos="N" type="Prop">Gurutbellodat</l>
     </lg>
 
     <mg>
@@ -370,67 +370,67 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Gárasavvon</l>
+      <l pos="N" type="Prop">Gárasavvon</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Kaaresuvanto</t>
+        <t pos="N" type="Prop">Kaaresuvanto</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Gáregasnjárga</l>
+      <l pos="N" type="Prop">Gáregasnjárga</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Karigasniemi</t>
+        <t pos="N" type="Prop">Karigasniemi</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">ILO-konvenšuvdna</l>
+      <l pos="N" type="Prop">ILO-konvenšuvdna</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">ILO-sopimus</t>
+        <t pos="N" type="Prop">ILO-sopimus</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Ipmil</l>
+      <l pos="N" type="Prop">Ipmil</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Jumala</t>
+        <t pos="N" type="Prop">Jumala</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Norga</l>
+      <l pos="N" type="Prop">Norga</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Norja</t>
+        <t pos="N" type="Prop">Norja</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Oaggut</l>
+      <l pos="N" type="Prop">Oaggut</l>
     </lg>
 
     <mg>
@@ -442,31 +442,31 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Olgešbellodat</l>
+      <l pos="N" type="Prop">Olgešbellodat</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Kokoomus</t>
+        <t pos="N" type="Prop">Kokoomus</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Ovddádusbellodat</l>
+      <l pos="N" type="Prop">Ovddádusbellodat</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Edistyspuolue</t>
+        <t pos="N" type="Prop">Edistyspuolue</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Ođđasat</l>
+      <l pos="N" type="Prop">Ođđasat</l>
     </lg>
 
     <mg>
@@ -478,31 +478,31 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Roavvenjárga</l>
+      <l pos="N" type="Prop">Roavvenjárga</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Rovaniemi</t>
+        <t pos="N" type="Prop">Rovaniemi</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Ruonáeana</l>
+      <l pos="N" type="Prop">Ruonáeana</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Grönlanti</t>
+        <t pos="N" type="Prop">Grönlanti</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Ruošša</l>
+      <l pos="N" type="Prop">Ruošša</l>
     </lg>
 
     <mg>
@@ -514,79 +514,79 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Ruoŧŧa</l>
+      <l pos="N" type="Prop">Ruoŧŧa</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Ruotsi</t>
+        <t pos="N" type="Prop">Ruotsi</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Soađegilli</l>
+      <l pos="N" type="Prop">Soađegilli</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Sodankylä</t>
+        <t pos="N" type="Prop">Sodankylä</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Stuorradiggi</l>
+      <l pos="N" type="Prop">Stuorradiggi</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Suurkäräjät</t>
+        <t pos="N" type="Prop">Suurkäräjät</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Suopma</l>
+      <l pos="N" type="Prop">Suopma</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Suomi</t>
+        <t pos="N" type="Prop">Suomi</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Sámediggeráđđi</l>
+      <l pos="N" type="Prop">Sámediggeráđđi</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Saamelaisneuvosto</t>
+        <t pos="N" type="Prop">Saamelaisneuvosto</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Sámediggi</l>
+      <l pos="N" type="Prop">Sámediggi</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Saamelaiskäräjät</t>
+        <t pos="N" type="Prop">Saamelaiskäräjät</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">Sámiráđđi</l>
+      <l pos="N" type="Prop">Sámiráđđi</l>
     </lg>
 
     <mg>
@@ -598,12 +598,12 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Sápmi</l>
+      <l pos="N" type="Prop">Sápmi</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Saamenmaa</t>
+        <t pos="N" type="Prop">Saamenmaa</t>
       </tg>
     </mg>
   </e>
@@ -1787,7 +1787,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">astoáigeklubba</l>
+      <l pos="N">astoáiggeklubba</l>
     </lg>
 
     <mg>
@@ -14530,19 +14530,6 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-
-  <e>
-    <lg>
-      <l pos="N">dáidá</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">taitaa</t>
-      </tg>
-    </mg>
-  </e>
-
   <e>
     <lg>
       <l pos="N">dáigi</l>
@@ -32453,7 +32440,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">kveeni</t>
 
-        <t pos="N">Ruijansuomalainen</t>
+        <t pos="N" type="Prop">Ruijansuomalainen</t>
       </tg>
     </mg>
   </e>
@@ -55099,18 +55086,6 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">spánskkadávda</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">espanjantauti</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">spártu</l>
     </lg>
 
@@ -64113,12 +64088,12 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Ásia</l>
+      <l pos="N" type="Prop">Ásia</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Aasia</t>
+        <t pos="N" type="Prop">Aasia</t>
       </tg>
     </mg>
   </e>
@@ -64404,18 +64379,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="expl">isoäiti lapsenlapsensa kanssa</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">áhkábiddu</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">isosimppu</t>
       </tg>
     </mg>
   </e>
@@ -66324,7 +66287,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Čáhcesuolu</l>
+      <l pos="N" type="Prop">Čáhcesuolu</l>
     </lg>
 
     <mg>
@@ -71033,7 +70996,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Bissojohka</l>
+      <l pos="N" type="Prop">Bissojohka</l>
     </lg>
 
     <mg>
@@ -79706,7 +79669,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Historioitsija</t>
+        <t pos="N" type="Prop">Historioitsija</t>
       </tg>
     </mg>
   </e>
@@ -80228,7 +80191,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Käännös</t>
+        <t pos="N" type="Prop">Käännös</t>
       </tg>
     </mg>
   </e>
@@ -89524,17 +89487,6 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
-  <e>
-    <lg>
-      <l pos="N">cuocca</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">kalvo</t>
-      </tg>
-    </mg>
-  </e>
 
   <e>
     <lg>
@@ -91178,14 +91130,14 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Roavggut</l>
+      <l pos="N" type="Prop">Roavggut</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
         <re>tähtikuvio</re>
 
-        <t pos="N">Seulaset</t>
+        <t pos="N" type="Prop">Seulaset</t>
       </tg>
     </mg>
   </e>
@@ -92553,12 +92505,12 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Juvravuotna</l>
+      <l pos="N" type="Prop">Juvravuotna</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Gandvik i Nesseby</t>
+        <t pos="N" type="Prop">Gandvik i Nesseby</t>
       </tg>
     </mg>
   </e>
@@ -93119,12 +93071,12 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">abmejeaddji</l>
+      <l pos="A">abmejeaddji</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">korviahuumaava</t>
+        <t pos="A">korviahuumaava</t>
       </tg>
     </mg>
   </e>
@@ -97037,7 +96989,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">ábolaš</l>
+      <l pos="A">ábolaš</l>
     </lg>
 
     <mg>
@@ -118423,7 +118375,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Beasti</l>
+      <l pos="N" type="Prop">Beasti</l>
     </lg>
 
     <mg>
@@ -123907,7 +123859,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Boahjenásti</l>
+      <l pos="N" type="Prop">Boahjenásti</l>
     </lg>
 
     <mg>
@@ -123919,7 +123871,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Boahjenávli</l>
+      <l pos="N" type="Prop">Boahjenávli</l>
     </lg>
 
     <mg>
@@ -147829,7 +147781,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Davvenásti</l>
+      <l pos="N" type="Prop">Davvenásti</l>
     </lg>
 
     <mg>
@@ -148093,7 +148045,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Davviluokta</l>
+      <l pos="N" type="Prop">Davviluokta</l>
     </lg>
 
     <mg>
@@ -166730,7 +166682,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Fávnnadávgi</l>
+      <l pos="N" type="Prop">Fávnnadávgi</l>
     </lg>
 
     <mg>
@@ -193943,7 +193895,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Gutnabáđoš</l>
+      <l pos="N" type="Prop">Gutnabáđoš</l>
     </lg>
 
     <mg>
@@ -219289,7 +219241,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">lohkuboazu</l>
+      <l pos="N">lohkoboazu</l>
     </lg>
 
     <mg>
@@ -220781,12 +220733,12 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Lullinannán</l>
+      <l pos="N" type="Prop">Lullinannán</l>
     </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">Etelämanner</t>
+        <t pos="N" type="Prop">Etelämanner</t>
       </tg>
     </mg>
   </e>
@@ -236856,7 +236808,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Nieidagearret</l>
+      <l pos="N" type="Prop">Nieidagearret</l>
     </lg>
 
     <mg>
@@ -236870,7 +236822,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">Nieidagihppu</l>
+      <l pos="N" type="Prop">Nieidagihppu</l>
     </lg>
 
     <mg>
