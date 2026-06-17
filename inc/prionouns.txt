@@ -1,18 +1,18 @@
 rišša ok
-bahta ok
+bahta ? käännös
 beaivi ok
 bealgi ok
 beavddáš ok
 buolaš ok
 burru ok
-busse ? käännös
+busse ok
 bussá ok
 báhkka ok
 bávččas ok
 davvi ? käännös
 diibmu ok
-dilli ? käännös
-eahketborramuš ? käännös
+dilli ok
+eahketborramuš ok
 eahki ok
 eallu ok
 earán ok
@@ -22,42 +22,42 @@ goikket ok
 guollebivdu ok
 guolásteapmi ok
 gálojeatni ok
-gássa ? käännös
+gássa ok
 gávttehas ok
 gázzi ok
 hávvi ok
 ipmil ok 
-iđitbiebmu ? käännös
+iđitbiebmu ok
 lihtti ok
-luohkká JOATKKE DÁS 16.6.
+luohkká ok
 láhki ok
-lássa ? käännös
+lássa ok
 lávlu ok
-manni ? käännös
+manni ok
 miella ok
-mobiila ? käännös
+mobiila ok
 muoŧŧal ok
 muoŧŧá ok
-mánnu ? käännös
+mánnu ok
 márkan ok
 mátta ? käännös
 nissonolmmoš ok
 nisu ok
 nuorta ? käännös
-nuorti ok
-oabbá ? käännös
-olmmái ok
+nuorti ? käännös
+oabbá ok
+olmmái ? käännös
 rotnu ok
-ruohtu ok
+ruohtu JOATKKE DÁS
 ruossa ok
-rássa ? käännös
+rássa ok
 sajus ok
 siessá ok
 skibir ok
 skálla ok
 spiidni ok
 suoldni ok
-sáhka ? käännös
+sáhka ok
 teajat ok
 uddu ok
 vuoddji ok
@@ -67,10 +67,10 @@ vuokta ok
 vuorbi ok
 várri ? käännös
 áddjut ok
-áddjá ? käännös
+áddjá ok
 áhkku ? käännös
 áhkkut ok
-áhčešeatni ? käännös
+áhčešeatni ok
 čakča ok
 čeahci ok
 čeŋkkeš ok
@@ -80,13 +80,13 @@ várri ? käännös
 čuojaheaddji ok
 váldu ok
 máŋggas ok
-fuolahus ? käännös
+fuolahus ok
 guovttis ok
 máhtu ok
 endor ? käännös
 fávli ok
 gáddu ok
-gáhppálat ? käännös
+gáhppálat ok
 giera ok
 hušša ok
 ilbmi ok
@@ -96,12 +96,12 @@ lagasvuohta ok
 lagašvuohta ok
 nuppástuhttin ok
 vieljažat ok
-vuođđooassi ? käännös
+vuođđooassi ok
 ávvir ok
 bieža ok
-goartil ? käännös
+goartil ok
 nađđa ok 
-ritni ? käännös
+ritni ok
 vátni ok
 ollesolmmoš ok
 čoska ok
@@ -140,15 +140,15 @@ goalmmádas ok
 goapma ok
 goarvi ok
 gorespábba ok
-heabuš ? lause
+heabuš ok
 idjabuolaš ok
 iežár ok
 jábmiidáibmu ? lause
-joddobuođđu ? lause
+joddobuođđu ok
 jorbadas ok
 jupma ok
 lahkosat ok
-leadji ? käännös
+leadji ok
 liemas ok
 luoggu ok
 maŋŋebeaŋka ok
@@ -157,7 +157,7 @@ muossi ok
 nagirvárri ok
 njeazzi ok
 oaidnaleapmi ok
-oainnáhus ? lause, käännös
+oainnáhus ok
 oaivejorggis ok
 oappážagat ok
 oappážat ok
@@ -181,7 +181,7 @@ spealli ok
 suokka ok
 suomuorra ok
 suovas ok
-ulli ? käännös
+ulli ok
 uvssot ok
 várra ? käännös
 vátnivuohta ok
