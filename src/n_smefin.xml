@@ -8723,37 +8723,37 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>johtit bussiin</x>
 
-          <xt>kulkea linja-autolla, bussilla</xt>
+          <xt>kulkea linja-autolla</xt>
         </xg>
 
         <xg>
           <x>váldit busse</x>
 
-          <xt>mennä linja-autolla, bussilla</xt>
+          <xt>mennä linja-autolla</xt>
         </xg>
 
         <xg>
           <x>Moai vurde busse.</x>
 
-          <xt>Odotamme linja-autoa, bussia.</xt>
+          <xt>Odotamme linja-autoa.</xt>
         </xg>
 
         <xg>
           <x>Busse lea maŋŋonan.</x>
 
-          <xt>Linja-auto, bussi on myöhässä.</xt>
+          <xt>Linja-auto on myöhässä.</xt>
         </xg>
 
         <xg>
           <x>Busse boahtá viđa minuhta geahčen.</x>
 
-          <xt>Linja-auto, bussi tulee viiden minuutin kuluttua.</xt>
+          <xt>Linja-auto tulee viiden minuutin kuluttua.</xt>
         </xg>
 
         <xg>
           <x>Son johtá busse mielde juohke iđida.</x>
 
-          <xt>Hän kulkee linja-autolla, bussilla joka aamu.</xt>
+          <xt>Hän kulkee linja-autolla joka aamu.</xt>
         </xg>
       </tg>
     </mg>
@@ -12067,25 +12067,59 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">olotila</t>
 
+        <t>olosuhde</t>
+
         <t pos="N">tila</t>
+
+        <t pos="N">tilanne</t>
+
+        <xg>
+          <x>Dearvvašvuohta lea olbmo optimála dilli.</x>
+
+          <xt>Terveys on ihmisen ihanteellinen olotila.</xt>
+        </xg>
+
+        <xg>
+          <x>Mánáshan lei oadjebas dilli dan liinni siste.</x>
+
+          <xt>Lapsellahan oli turvallinen olotila sen huivin sisällä.</xt>
+        </xg>
+
+        <xg>
+          <x>Dábálaš dilis dálvit ii birge jáhka haga.</x>
+
+          <xt>Tavallisissa olosuhteissa talvella ei pärjää ilman takkia.</xt>
+        </xg>
+
+        <xg>
+          <x>Pasieantta dilli buorrána dássidit.</x>
+
+          <xt>Potilaan tila paranee tasaisesti.</xt>
+        </xg>
 
         <xg>
           <x>Ruoššas lei ges earálágan dilli.</x>
 
           <xt>Venäjällä olikin erilainen tilanne.</xt>
         </xg>
+      </tg>
+    </mg>
 
-        <xg>
-          <x>Mánáshan lei oadjebas dilli dan liinni siste.</x>
-
-          <xt>Lapsellahan oli turvallinen olo sen huivin sisällä.</xt>
-        </xg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">aika</t>
 
         <xg>
           <x>Mus ii leat dilli.</x>
 
           <xt>Minulla ei ole aikaa.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">koristeverka</t>
 
         <xg>
           <x>Ceakkodilit leat sealggebealde.</x>
@@ -15520,12 +15554,6 @@ For the full license text, see the link above.</lic>
         <t pos="N">iltaruoka</t>
 
         <t pos="N">iltapala</t>
-
-        <xg>
-          <x>borrat eahketborramuša</x>
-
-          <xt>syödä iltaruoka, iltapala</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -18411,15 +18439,55 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <re>suojautumisväline</re>
+
         <t pos="N">kilpi</t>
 
-        <t pos="N">leuka</t>
+        <xg>
+          <x>Soalddát geavahii galbba suodjin dáistaleamis.</x>
+
+          <xt>Sotilas käytti kilpeä suojana taistelussa.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>rakenne</re>
+
+        <t pos="N">kilpi</t>
+
+        <xg>
+          <x>Galba suodjala galbarihci.</x>
+
+          <xt>Kilpi suojelee kilpikonnaa.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">kilpi</t>
+
+        <t pos="N">kyltti</t>
+
+        <t pos="N">tienviitta</t>
+
+        <t pos="N">nimikilpi</t>
 
         <xg>
           <x>geaidnogalba</x>
 
           <xt>tiekilpi</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">kilpisarvi</t>
+
+        <t pos="N">silmähaara</t>
       </tg>
     </mg>
   </e>
@@ -25806,19 +25874,48 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">laatikko</t>
 
+        <xg>
+          <x>Gássa lea dábálaččat njuolggočiegat, ja dan siste sáhttá
+          vurkkodit diŋggaid.</x>
+
+          <xt>Laatikko on tavallisesti nelikulmainen, ja sen sisällä voi
+          säilyttää tavaroita.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
         <t pos="N">kassa</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>aine</re>
+
+        <t pos="N">kaasu</t>
+
+        <xg>
+          <x>Sii áigot fievrridit Snøhvit-guovllu gása olgoriikii.</x>
+
+          <xt>He aikovat kuljettaa Snøhvit-alueen kaasua ulkomaille.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>autossa</re>
+
+        <t pos="N">kaasu</t>
 
         <xg>
           <x>Min biilavuoddji lei nu suorganan ahte ille šat nagoda
           duolmmastit gása.</x>
 
-          <xt>_FIN_</xt>
-        </xg>
-
-        <xg>
-          <x>Sii áigot fievrridit Snøhvit-guovllu gása olgoriikii.</x>
-
-          <xt>_FIN_</xt>
+          <xt>Autonkuljettajamme oli niin säikähtänyt, että hädin tuskin enää
+          kykeni polkaisemaan kaasua.</xt>
         </xg>
       </tg>
     </mg>
@@ -28310,6 +28407,12 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">haava</t>
+
+        <xg>
+          <x>Hávvi vardá.</x>
+
+          <xt>Haava vuotaa verta.</xt>
+        </xg>
       </tg>
     </mg>
 
@@ -28320,7 +28423,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Njealji vuodjimis lea son vuoitán golmma háve.</x>
 
-          <xt>Neljässä ajossa hän on voittanut kolme kertaa.</xt>
+          <xt>Neljissä ajoissa hän on voittanut kolme kertaa.</xt>
         </xg>
       </tg>
     </mg>
@@ -28946,13 +29049,13 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Son borrá buvrru iđitbiebmun.</x>
 
-          <xt>Hän syö puuroa aamupalaksi, aamiaiseksi.</xt>
+          <xt>Hän syö puuroa aamiaiseksi.</xt>
         </xg>
 
         <xg>
           <x>Soai borraba iđitbiepmu ovdal go vuolgiba skuvlii.</x>
 
-          <xt>He syövät aamupalan, aamiaisen ennen kuin lähtevät kouluun.</xt>
+          <xt>He syövät aamupalan ennen kuin lähtevät kouluun.</xt>
         </xg>
       </tg>
     </mg>
@@ -34630,6 +34733,12 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">mäki</t>
+
+        <xg>
+          <x>Luohkká lea ceakkus.</x>
+
+          <xt>Mäki on jyrkkä.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -35991,9 +36100,23 @@ For the full license text, see the link above.</lic>
         <t pos="N">lasi</t>
 
         <xg>
-          <x>Feaskkeruksa lei lásas.</x>
+          <x>Lássa lea geavahuvvon materiálan guhká.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Lasia on käytetty materiaalina pitkään. </xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">lasi</t>
+
+        <t pos="N">juomalasi</t>
+
+        <xg>
+          <x>Lásas sáhttá juhkát čázi.</x>
+
+          <xt>Lasista voi juoda vettä.</xt>
         </xg>
       </tg>
     </mg>
@@ -36001,6 +36124,24 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">ikkuna</t>
+
+        <xg>
+          <x>Viesus leat lásat vai mii oaidnit šilljui.</x>
+
+          <xt>Talossa on ikkunat, jotta näemme pihalle. </xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t dialect="west" pos="N">lukko</t>
+
+        <xg>
+          <x>Feaskkeruksa lei lásas.</x>
+
+          <xt>Eteisen ovi oli lukossa.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -36596,11 +36737,17 @@ For the full license text, see the link above.</lic>
         <t pos="N">menijä</t>
 
         <t pos="N">menevä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">muna</t>
 
         <xg>
           <x>Lasit 3 mani ja 100 grámma sohkkara.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Lisää 3 munaa ja 100 grammaa sokeria.</xt>
         </xg>
       </tg>
     </mg>
@@ -37854,7 +38001,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Mobiila čuodjá.</x>
 
-          <xt>Kännykkä, matkapuhelin soi.</xt>
+          <xt>Kännykkä soi.</xt>
         </xg>
       </tg>
     </mg>
@@ -39205,13 +39352,13 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>šaddi mánnu</x>
 
-          <xt>kasvava kuu, yläkuu</xt>
+          <xt>kasvava kuu</xt>
         </xg>
 
         <xg>
           <x>nuossi mánnu</x>
 
-          <xt>vähenevä kuu, alakuu</xt>
+          <xt>vähenevä kuu</xt>
         </xg>
 
         <xg>
@@ -39223,7 +39370,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Mánnu riegáda oarjin.</x>
 
-          <xt>Kuu syntyy lännessä, etelässä.</xt>
+          <xt>Kuu syntyy lännessä.</xt>
         </xg>
 
         <xg>
@@ -41986,19 +42133,34 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">itä</t>
 
-        <t pos="N" var="sw">pohjoinen</t>
-
         <xg>
           <x>Internáhtta lei nuortta bealde Guovdageainnu márkanšaldi.</x>
 
-          <xt>Asuntola oli Koutokeinon kirkonkylän sillan itäpuolella,
-          pohjoispuolella.</xt>
+          <xt>Asuntola oli Koutokeinon kirkonkylän sillan itäpuolella.</xt>
         </xg>
 
         <xg>
           <x>nuortan</x>
 
-          <xt>idässä, pohjoisessa</xt>
+          <xt>idässä</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">pohjoinen</t>
+
+        <xg>
+          <x>Jávri lea nuortta bealde vári.</x>
+
+          <xt>Järvi on vaaran pohjoispuolella.</xt>
+        </xg>
+
+        <xg>
+          <x>nuortan</x>
+
+          <xt>pohjoisessa</xt>
         </xg>
       </tg>
     </mg>
@@ -42666,7 +42828,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Mus leat guokte oappá.</x>
 
-          <xt>Minulla on kaksi sisarta, siskoa.</xt>
+          <xt>Minulla on kaksi siskoa.</xt>
         </xg>
       </tg>
     </mg>
@@ -44000,13 +44162,17 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">ystävä</t>
 
-        <t pos="N">mies</t>
-
         <xg>
           <x>Ipmirdan manne du olbmát atnet du árvvus.</x>
 
           <xt>Ymmärrän, miksi ystäväsi arvostavat sinua.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">mies</t>
       </tg>
     </mg>
   </e>
@@ -48495,8 +48661,16 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="expl">erit. joen rannasta nouseva esteaita</t>
+      </tg>
+    </mg>
 
-        <t t_type="expl">sulkumerkki kirjoituksessa</t>
+    <mg>
+      <tg xml:lang="fin">
+        <re>kirjoituksessa</re>
+
+        <t pos="N">sulku</t>
+
+        <t pos="N">sulkumerkki</t>
 
         <xg>
           <x>Ruođuid atnit teakstaoasi birra mii lea lasáhus, čilgehus,
@@ -49862,19 +50036,18 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">rassi</t>
-
-        <xg>
-          <x>Stáhta geaidnodoaimmahat lea guhkidan áigemeari rása rájes dassái
-          go biila galgá leat dohkkehuvvon, mánus guovtti mánnui.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
         <t pos="N">rotu</t>
+
+        <xg>
+          <x>Rássa váikkuha beatnaga iešvuođaide.</x>
+
+          <xt>Rotu vaikuttaa koiran ominaisuuksiin.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -57093,19 +57266,83 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">juttu</t>
+        <t pos="N">kerrottava</t>
 
+        <t pos="N">sanoma</t>
+
+        <t pos="N">viesti</t>
+
+        <xg>
+          <x>Eatnis leat ságat!</x>
+
+          <xt>Äidillä on kerrottavaa!</xt>
+        </xg>
+
+        <xg>
+          <x>Soalddát buvttii sága soađi nohkamis.</x>
+
+          <xt>Sotilas toi sanoman sodan loppumisesta.</xt>
+        </xg>
+
+        <xg>
+          <x>Poliisat bukte sága láhppon olbmo gávdnomis.</x>
+
+          <xt>Poliisit toivat viestin kadonneen ihmisen löytymisestä.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
         <t pos="N">puhe</t>
+
+        <t pos="N">keskustelu</t>
+
+        <xg>
+          <x>Sáhka jorgalii ievttábeaivvi dáhpáhusaide.</x>
+
+          <xt>Puhe kääntyi eilisen tapahtumiin.</xt>
+        </xg>
+
+        <xg>
+          <x>Sáhka jorai beroštumiid birra.</x>
+
+          <xt>Keskustelu pyöri kiinnostuksenkohteiden ympärillä.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">juttu</t>
 
         <t pos="N">puheenaihe</t>
 
-        <t pos="N">kerrottava</t>
+        <xg>
+          <x>Makkár ságaid gullet márkanis?</x>
+
+          <xt>Minkälaisia juttuja kuulit kirkonkylällä?</xt>
+        </xg>
 
         <xg>
-          <x>ságat</x>
+          <x>Mii lei beaivvi dehaleamos sáhka skuvllas?</x>
 
-          <xt>jutut, puheenaiheet</xt>
+          <xt>Mikä oli päivän tärkein puheenaihe koulussa?</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">puhe</t>
+
+        <t pos="N">esitelmä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">kyse</t>
 
         <xg>
           <x>Das lea sáhka politihkalaš bellodagain.</x>
@@ -63650,11 +63887,17 @@ For the full license text, see the link above.</lic>
         <t pos="N">vuori</t>
 
         <t pos="N">tunturi</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">vara</t>
 
         <xg>
-          <x>várri oastit</x>
+          <x>Mus lea várri oastit viesu.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Minulla on varaa ostaa talo.</xt>
         </xg>
       </tg>
     </mg>
@@ -63984,11 +64227,18 @@ For the full license text, see the link above.</lic>
 
           <xt>Joku vanha äijä istuskeli penkillä puistossa.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">karhu</t>
 
         <xg>
           <x>Albmát váldet sáittiid ja mannet bidjui boktit ádjá.</x>
 
-          <xt/>
+          <xt>Miehet ottavat keihäät ja menevät pesään herättämään
+          karhun.</xt>
         </xg>
       </tg>
     </mg>
@@ -64065,7 +64315,11 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">isoäiti</t>
 
-        <t pos="N">akka</t>
+        <t pos="N">mummo</t>
+
+        <t pos="N">mummi</t>
+
+        <t pos="N">mummu</t>
 
         <xg>
           <x>Son mearrida ahte mánná galgá leat áhku gáibmi.</x>
@@ -64076,15 +64330,32 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Risten-áhkku</x>
 
-          <xt>Risten-isoäiti</xt>
+          <xt>Risten-mummo</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">muori</t>
+
+        <t pos="N">mummo</t>
+
+        <t pos="N">vanha(hko) nainen</t>
 
         <xg>
           <x>Boares áhkku jearai unna bártnážis busses gille go sirdit eret
           iežas sajis.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Vanha mummo kysyi pieneltä pojalta bussissa, että viitsiikö hän
+          siirtyä pois paikaltaan.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">akka</t>
       </tg>
     </mg>
   </e>
@@ -64260,8 +64531,6 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">syöjätär</t>
 
-        <t pos="N">kiitäjäinen</t>
-
         <xg>
           <x>Lean gullan áhčešeane birra.</x>
 
@@ -64273,6 +64542,12 @@ For the full license text, see the link above.</lic>
 
           <xt>Syöjätär lypsi vaatimiaan kovakouraisesti.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">kiitäjäinen</t>
 
         <xg>
           <x>Gávdnojit máŋggalágan áhčešeanit.</x>
@@ -64284,7 +64559,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">raatikuoriainen</t>
+        <t pos="N">raatokuoriainen</t>
       </tg>
     </mg>
   </e>
@@ -71402,18 +71677,20 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">huolto</t>
-
-        <xg>
-          <x>Son bázii okto fuolahusain.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
         <t pos="N">holhous</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">huolenpito</t>
+
+        <t pos="N">huolehtiminen</t>
       </tg>
     </mg>
   </e>
@@ -77528,19 +77805,26 @@ For the full license text, see the link above.</lic>
 
           <xt>maankappale</xt>
         </xg>
-
-        <xg>
-          <x src="Rolf Olsen, Nord-Norsk sjakk nr. 1, 1980">Reaŋggat leat dat
-          áidna gáhppálagat mat johtet dušše ovddosguvlui.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
         <t pos="N">kimpale</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">šakkinappula</t>
+
+        <xg>
+          <x src="Rolf Olsen, Nord-Norsk sjakk nr. 1, 1980">Reaŋggat leat dat
+          áidna gáhppálagat mat johtet dušše ovddosguvlui.</x>
+
+          <xt>Sotilaat ovat ainoita šakkinappuloita, jotka liikkuvat vain
+          eteenpäin.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -88196,13 +88480,6 @@ For the full license text, see the link above.</lic>
 
           <xt>Perusosa on yhdyssanan viimeinen osa.</xt>
         </xg>
-
-        <xg>
-          <x src="SIKOR">Dát leat vuođđooasit juohke olbmo eallimis.</x>
-
-          <xt src="SIKOR">Nämä ovat perustavanlaatuisia osia jokaisen ihmisen
-          elämässä.</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -89750,19 +90027,45 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">vartti</t>
+        <t pos="N">vaaksa</t>
 
         <xg>
-          <x>Mihttu, go mihtida belggiin ja čuvddiin.</x>
+          <x>Goartil lea guhkkodatmihttu lebbejuvvon gieđa bealggegeažis
+          čuvddi dahje gaskasuorpma geahčái.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Vaaksa on pituusmitta levitetyn käden peukalon päästä etusormen
+          tai keskisormen päähän.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">miehen vaaksa</t>
+        <re>mitta</re>
+
+        <t pos="N">kortteli</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>kaupungissa</re>
+
+        <t pos="N">kortteli</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">majapaikka</t>
+
+        <t pos="N">kortteeri</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">vartti</t>
       </tg>
     </mg>
   </e>
@@ -90853,15 +91156,9 @@ For the full license text, see the link above.</lic>
         <t pos="N">huurṛe</t>
 
         <xg>
-          <x>Ritni lea muorain ja biergasiin.</x>
+          <x>Muorain ja geđggiin lea ritni.</x>
 
-          <xt>_FIN_</xt>
-        </xg>
-
-        <xg>
-          <x>Lea ritni muorain.</x>
-
-          <xt>_FIN_</xt>
+          <xt>Puut ja kivet ovat huurteessa.</xt>
         </xg>
       </tg>
     </mg>
@@ -90869,6 +91166,12 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">tykkylumi</t>
+
+        <xg>
+          <x>Ritni sojaha muoraid.</x>
+
+          <xt>Tykkylumi taivuttaa puita.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -195792,12 +196095,18 @@ For the full license text, see the link above.</lic>
           <xt>Hevonen on sorkkaeläin, ja sen on ollut tärkeä juhta ja työeläin
           tuhansia vuosia.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ratsu</t>
 
         <xg>
           <x src="Rolf Olsen, Nord-Norsk sjakk nr. 1, 1980 ">Heavuš manná
           c3-ruvttui.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Ratsu siirtyy c3-ruutuun.</xt>
         </xg>
       </tg>
     </mg>
@@ -205393,9 +205702,9 @@ For the full license text, see the link above.</lic>
         <t pos="N">verkkopato</t>
 
         <xg>
-          <x>Muhto joddobuođuiguin bivdojuvvo luossa miehtá Deanu.</x>
+          <x>Joddobuođuiguin bivdojuvvo luossa miehtá Deanu.</x>
 
-          <xt>Mutta potkupadoilla pyydetään lohta pitkin Tenoa.</xt>
+          <xt>Potkupadoilla pyydetään lohta pitkin Tenoa.</xt>
         </xg>
       </tg>
     </mg>
@@ -214710,7 +215019,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Mii gaikkuimet stuorra leaji skirriid.</x>
 
-          <xt>Kiskoimme ison läjän vaivaiskoivuja.</xt>
+          <xt>Kiskoimme ison kasan vaivaiskoivuja.</xt>
         </xg>
       </tg>
     </mg>
@@ -243605,17 +243914,23 @@ For the full license text, see the link above.</lic>
         <t pos="N">näky</t>
 
         <xg>
-          <x>Iskkan sihkkut váivves oainnáhusa iežan čalmmiin, muhto dat
-          liikká čuovvu mu.</x>
+          <x>Oainnáhus bođii munnje niegus.</x>
 
-          <xt>Yritän pyyhkiä ikävää näkyä silmistäni, mutta se seuraa minua
-          kuitenkin.</xt>
+          <xt>Ilmestys tuli minulle unessa.</xt>
         </xg>
 
         <xg>
-          <x>Sis lea perspektiiva ja oainnáhus.</x>
+          <x>Neavttár lei oainnáhus biktasiinnis. </x>
 
-          <xt>_FIN_</xt>
+          <xt>Näyttelijä oli ilmestys vaatteissaan.</xt>
+        </xg>
+
+        <xg>
+          <x>Iskkan sihkkut váivves oainnáhusa iežan čalmmiin, muhto dat
+          liikká čuovvu mu.</x>
+
+          <xt>Yritän pyyhkiä ikävän näyn silmistäni, mutta se seuraa minua
+          kuitenkin.</xt>
         </xg>
       </tg>
     </mg>
@@ -294262,12 +294577,12 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">nousuvesi</t>
 
-        <t pos="Po">vuoksi</t>
+        <t pos="N">vuoksi</t>
 
         <xg>
           <x>ulli ja fiervá</x>
 
-          <xt>vuorovesi, vuoksi ja luode</xt>
+          <xt>vuoksi ja luode</xt>
         </xg>
 
         <xg>
