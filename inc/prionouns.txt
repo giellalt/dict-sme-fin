@@ -48,7 +48,7 @@ nuorti ? käännös
 oabbá ok
 olmmái ? käännös
 rotnu ok
-ruohtu JOATKKE DÁS
+ruohtu ok
 ruossa ok
 rássa ok
 sajus ok
@@ -65,16 +65,16 @@ vuohppa ok
 vuoksá ok
 vuokta ok
 vuorbi ok
-várri ? käännös
+várri ok
 áddjut ok
 áddjá ok
-áhkku ? käännös
+áhkku ok
 áhkkut ok
 áhčešeatni ok
 čakča ok
 čeahci ok
 čeŋkkeš ok
-čiekči ok
+čiekči JOATKKE DÁS 23.6.
 čuoika ok
 šoalkaliidni ok
 čuojaheaddji ok
