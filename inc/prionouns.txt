@@ -74,7 +74,7 @@ várri ok
 čakča ok
 čeahci ok
 čeŋkkeš ok
-čiekči JOATKKE DÁS 23.6.
+čiekči ok
 čuoika ok
 šoalkaliidni ok
 čuojaheaddji ok
@@ -83,7 +83,7 @@ máŋggas ok
 fuolahus ok
 guovttis ok
 máhtu ok
-endor ? käännös
+endor ok
 fávli ok
 gáddu ok
 gáhppálat ok
@@ -91,7 +91,7 @@ giera ok
 hušša ok
 ilbmi ok
 illasteapmi ok
-ladni ? käännös
+ladni ok
 lagasvuohta ok
 lagašvuohta ok
 nuppástuhttin ok
@@ -143,7 +143,7 @@ gorespábba ok
 heabuš ok
 idjabuolaš ok
 iežár ok
-jábmiidáibmu ? lause
+jábmiidáibmu ok
 joddobuođđu ok
 jorbadas ok
 jupma ok
