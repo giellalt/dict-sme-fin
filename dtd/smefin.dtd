@@ -30,6 +30,7 @@
       pos ( A | Adv | CC | Cmp | CS | Interj | 
       Mal | mwe | N | Num | Pcle | Po | Pr | Pron | V ) #REQUIRED
       nr ( Sg | Du | Pl ) #IMPLIED
+      dial ( east | west | torne | varanger ) #IMPLIED
       sem_type ( Obj | Plc | Fem | Org | Mal | Txt ) #IMPLIED 
       type ( Dem | Fem | G3 | G7 | Coll | Indef | Interr | Mal | NomAg | Pers | Prop | Refl | Rel |Ord ) #IMPLIED
 >
@@ -45,7 +46,7 @@
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 
 <!ELEMENT t (#PCDATA) >
-<!ATTLIST t dialect ( west | east ) #IMPLIED  >
+<!ATTLIST t dial ( east | west | torne | varanger ) #IMPLIED >
 <!ATTLIST t t_type ( expl | phrase ) #IMPLIED  >
 <!ATTLIST t nr ( Sg | Pl ) #IMPLIED  >
 <!ATTLIST t pos ( A | S  | N  | V | Adp | Clt |
