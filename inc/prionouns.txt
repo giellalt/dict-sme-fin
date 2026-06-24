@@ -1,5 +1,5 @@
 rišša ok
-bahta ? käännös
+bahta ok
 beaivi ok
 bealgi ok
 beavddáš ok
@@ -9,7 +9,7 @@ busse ok
 bussá ok
 báhkka ok
 bávččas ok
-davvi ? käännös
+davvi ok
 diibmu ok
 dilli ok
 eahketborramuš ok
@@ -40,13 +40,13 @@ muoŧŧal ok
 muoŧŧá ok
 mánnu ok
 márkan ok
-mátta ? käännös
+mátta ok
 nissonolmmoš ok
 nisu ok
-nuorta ? käännös
-nuorti ? käännös
+nuorta ok
+nuorti ok
 oabbá ok
-olmmái ? käännös
+olmmái ok
 rotnu ok
 ruohtu ok
 ruossa ok
@@ -65,7 +65,7 @@ vuohppa ok
 vuoksá ok
 vuokta ok
 vuorbi ok
-várri ok
+várri JOATKKE DÁS 25.6.
 áddjut ok
 áddjá ok
 áhkku ok
@@ -183,7 +183,7 @@ suomuorra ok
 suovas ok
 ulli ok
 uvssot ok
-várra ? käännös
+várra ok
 vátnivuohta ok
 veadju ok
 vuoiŋŋahat ok
