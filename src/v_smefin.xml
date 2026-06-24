@@ -1803,7 +1803,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t dialect="west" pos="V">toivoa</t>
+            <t dial="west" pos="V">toivoa</t>
             <xg>
                <x>Doivon duođai ahte dát ášši állana min beallái.</x>
                <xt>_FIN_</xt>
@@ -1816,7 +1816,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t dialect="east" pos="V">luulla</t>
+            <t dial="east" pos="V">luulla</t>
             <xg>
                <x>Son doaivvui, ahte máilbmi lea duolbbas.</x>
                <xt>Hän luuli, että maapallo on litteä.</xt>
