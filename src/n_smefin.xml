@@ -7161,9 +7161,9 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t dialect="east" pos="N">patja</t>
+        <t dial="east" pos="N">patja</t>
 
-        <t dialect="west" pos="N">tyyny</t>
+        <t dial="west" pos="N">tyyny</t>
       </tg>
     </mg>
   </e>
@@ -36214,7 +36214,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t dialect="west" pos="N">lukko</t>
+        <t dial="west" pos="N">lukko</t>
 
         <xg>
           <x>Feaskkeruksa lei lásas.</x>
@@ -92932,9 +92932,9 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t dialect="west" pos="N">patja</t>
+        <t dial="west" pos="N">patja</t>
 
-        <t dialect="east" pos="N">tyyny</t>
+        <t dial="east" pos="N">tyyny</t>
       </tg>
     </mg>
   </e>
