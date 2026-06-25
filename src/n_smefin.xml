@@ -64241,11 +64241,35 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">vaara</t>
 
+        <t pos="N">tunturi</t>
+
         <t pos="N">vuori</t>
 
-        <t pos="N">tunturi</t>
+        <xg>
+          <x>Kainuus leat várit.</x>
+
+          <xt>Kainuussa on vaaroja.</xt>
+        </xg>
+
+        <xg>
+          <x>Háldi lea Suoma alimus várri.</x>
+
+          <xt>Halti on Suomen korkein tunturi.</xt>
+        </xg>
+
+        <xg>
+          <x>Máilmmi alimus várri lea Himalajas.</x>
+
+          <xt>Maailman korkein vuori on Himalajalla.</xt>
+        </xg>
       </tg>
     </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">várri</l>
+    </lg>
 
     <mg>
       <tg xml:lang="fin">
@@ -64694,6 +64718,14 @@ For the full license text, see the link above.</lic>
 
         <t pos="N">mummu</t>
 
+        <t pos="N">ämmi</t>
+
+        <t pos="N">muori</t>
+
+        <t t_type="expl">isoisän tai isoäidin sisko</t>
+
+        <t pos="N">isotäti</t>
+
         <xg>
           <x>Son mearrida ahte mánná galgá leat áhku gáibmi.</x>
 
@@ -64905,22 +64937,26 @@ For the full license text, see the link above.</lic>
         </xg>
       </tg>
     </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">áhčešeatni</l>
+    </lg>
 
     <mg>
       <tg xml:lang="fin">
         <t pos="N">kiitäjäinen</t>
+
+        <t pos="N">raatokuoriainen</t>
+
+        <t pos="N">lapinhaiskiainen</t>
 
         <xg>
           <x>Gávdnojit máŋggalágan áhčešeanit.</x>
 
           <xt>Kiitäjäisiä on monenlaisia.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">raatokuoriainen</t>
       </tg>
     </mg>
   </e>
@@ -67045,6 +67081,8 @@ For the full license text, see the link above.</lic>
         <t t_type="expl">isän nuorempi veli</t>
 
         <t pos="N">setä</t>
+
+        <t t_type="expl">isän miesserkku (isää nuorempi)</t>
 
         <xg>
           <x>Čeahci attii sutnje vuoggaskáhpu juovlaskeaŋkan.</x>
@@ -72083,7 +72121,17 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <t pos="N">ylläpito</t>
+
         <t pos="N">huolto</t>
+
+        <t pos="N">kunnossapito</t>
+
+        <xg>
+          <x>Máđidjafuolahus álgá dán mánus.</x>
+
+          <xt>Metsäteiden kunnossapito alkaa tässä kuussa.</xt>
+        </xg>
       </tg>
     </mg>
 
@@ -72097,7 +72145,15 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">huolenpito</t>
 
+        <t pos="N">huoli</t>
+
         <t pos="N">huolehtiminen</t>
+
+        <xg>
+          <x>Vistti fuolahus lea hovdejeaddji ovddasvástádus.</x>
+
+          <xt>Rakennuksesta huolehtiminen on isännöitsijän vastuulla.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -78186,16 +78242,30 @@ For the full license text, see the link above.</lic>
         </xg>
       </tg>
     </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">gáddu</l>
+    </lg>
 
     <mg>
       <tg xml:lang="fin">
         <t pos="N">luulo</t>
-      </tg>
-    </mg>
 
-    <mg>
-      <tg xml:lang="fin">
         <t pos="N">epäilys</t>
+
+        <xg>
+          <x>Diet lea beare dakkár gáddu mii olbmuin lea.</x>
+
+          <xt>Se on vain sellainen luulo, mikä ihmisillä on.</xt>
+        </xg>
+
+        <xg>
+          <x>Lea gáddu ahte lea dáhpáhuvvan vearredahkku.</x>
+
+          <xt>On epäilys siitä, että on tapahtunut rikos.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -81532,6 +81602,8 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">vankila</t>
+
+        <t pos="N">linna</t>
       </tg>
     </mg>
 
@@ -88896,6 +88968,16 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <re>esim. toimeentulotuen</re>
+
+        <t pos="N">perusosa</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>yhdyssanan</re>
+
         <t pos="N">perusosa</t>
 
         <xg>
@@ -89358,24 +89440,16 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">huolenpito</t>
-      </tg>
-    </mg>
 
-    <mg>
-      <tg xml:lang="fin">
         <t pos="N">huoli</t>
+
+        <t pos="N">huolehtiminen</t>
 
         <xg>
           <x>Eadni atná ávvira mánáin.</x>
 
           <xt>Äiti pitää huolta lapsista.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">huolehtiminen</t>
       </tg>
     </mg>
 
@@ -90478,6 +90552,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="N">vartti</t>
+
+        <t pos="N">neljännes</t>
+
+        <t pos="N">neljännestunti</t>
       </tg>
     </mg>
   </e>
@@ -104001,6 +104079,8 @@ For the full license text, see the link above.</lic>
         <t pos="N">haitta</t>
 
         <t pos="N">vastus</t>
+
+        <t pos="N">viivytys</t>
 
         <xg>
           <x>Turistageaidnu lei dušše árrun suohkanii, go galggai divodit
@@ -127754,6 +127834,18 @@ For the full license text, see the link above.</lic>
 
           <xt>Merenrannassa vaaranrinteellä on usein harjanteita.</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">borri</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">lihansäilytyskuoppa</t>
       </tg>
     </mg>
   </e>
