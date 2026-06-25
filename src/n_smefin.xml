@@ -818,6 +818,24 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
+      <l pos="N">ahkit</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">ikävä</t>
+
+        <xg>
+          <x>Mus lea ahkit Sápmái.</x>
+
+          <xt>Minulla on ikävä Saamenmaalle.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">ahkitvuohta</l>
     </lg>
 
