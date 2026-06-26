@@ -13837,6 +13837,32 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
+      <l pos="N">duohta</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="N">tosi</t>
+
+        <t pos="N">totuus</t>
+
+        <xg>
+          <x>duohta dahje gielis</x>
+
+          <xt>tosi tai valhe</xt>
+        </xg>
+
+        <xg>
+          <x>Muital duođa!</x>
+
+          <xt>Kerro totuus!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">duohtavuohta</l>
     </lg>
 
@@ -16319,6 +16345,20 @@ For the full license text, see the link above.</lic>
 
           <xt>_FIN_</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">eaŋkal</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>vanha raha</re>
+
+        <t pos="N">killinki</t>
       </tg>
     </mg>
   </e>
