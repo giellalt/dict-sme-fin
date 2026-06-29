@@ -237250,47 +237250,17 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="A">surkea</t>
-
-        <t pos="A">kurja</t>
-
-        <xg>
-          <x>suhttat neavrái</x>
-
-          <xt>suuttua silmittömästi</xt>
-        </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">siveetön</t>
-
-        <t pos="A">irstas</t>
-
-        <xg>
-          <x>neavrres vierut</x>
-
-          <xt>irstaat tavat</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">neavri</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
         <t pos="N">paholainen</t>
+
+        <t pos="N">piru</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
         <t pos="N">pahus</t>
+
+        <t pos="N">ryökäle</t>
 
         <xg>
           <x>neavrri stuoris</x>
