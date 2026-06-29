@@ -8,39 +8,39 @@ dearvvaš ok
 duohta ok
 dálá ok
 eaŋkal ok
-fasti JOATKKE DÁS
-golgi
-iešguđetlágan
-lulimus
-lulit
-mánnosaš
-neavri
-nuorttamus
-nuorttat
-oarjjit
-roakkas
-roattus
-vahkkosaš
-vearrái
-badjelgeahččalas
-báljis
-báris
-bieđggus
-čađačuovgameahttun
-čađačuovgi
-čaffat
-fylkkalaš
-gámis
-goiddas
-guovgat
-jahkebeallásaš
-jievjjas
-lihkkoš
-luomus
-máškit
-njálggahájat
-njuolggočoalat
-nohkavaš
+fasti ok
+golgi ok
+iešguđetlágan ok
+lulimus ok
+lulit ok
+mánnosaš ok
+neavri ok
+nuorttamus ok
+nuorttat ok
+oarjjit ok
+roakkas ok
+roattus ok
+vahkkosaš ok
+vearrái ok
+badjelgeahččalas ok
+báljis ok
+báris ok
+bieđggus ok
+čađačuovgameahttun ok
+čađačuovgi ok
+čaffat ok
+fylkkalaš ok
+gámis ok
+goiddas ok
+guovgat ok
+jahkebeallásaš ok
+jievjjas ok
+lihkkoš ok
+luomus ok
+máškit ok
+njálggahájat ok
+njuolggočoalat ok
+nohkavaš ok
 nuorttimus
 nuppát
 ovddimus
