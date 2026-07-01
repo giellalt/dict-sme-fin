@@ -1,8 +1,8 @@
-astat
-bargat
-beroštit
-bidjat
-birget
+astat ok
+bargat ok
+beroštit ok
+bidjat ok
+birget ok
 boradit
 botnit
 bovdet
