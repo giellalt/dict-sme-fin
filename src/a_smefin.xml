@@ -64477,14 +64477,36 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="A" type="PrsPrc">polveileva</t>
 
-        <t>käkkyräinen</t>
+        <t pos="A">käkkyräinen</t>
 
-        <t pos="A">mutkitteleva</t>
+        <t pos="A">koukkuinen</t>
+
+        <t pos="A" type="PrsPrc">mutkitteleva</t>
 
         <xg>
           <x>moalkesoabbi</x>
 
-          <xt>_FIN_</xt>
+          <xt>käkkyräkeppi</xt>
+        </xg>
+
+        <xg>
+          <x>Stávrá lei moalkkas, ja das ledje dievva bealle čuhppon
+          oavssit.</x>
+
+          <xt>Heinäseiväs oli käkkyräinen, ja siinä oli paljon puolittain
+          leikattuja oksia.</xt>
+        </xg>
+
+        <xg>
+          <x>Son dettii moalkesuorpmaiguin kalkuláhtora boaluid.</x>
+
+          <xt>Hän painoi koukkuisilla sormilla laskimen näppäimiä.</xt>
+        </xg>
+
+        <xg>
+          <x>Geaidnu lea moalkkas ja guhkki.</x>
+
+          <xt>Tie on mutkitteleva ja pitkä.</xt>
         </xg>
       </tg>
     </mg>
@@ -66027,9 +66049,17 @@ For the full license text, see the link above.</lic>
         <t pos="A">niljakas</t>
 
         <xg>
+          <x>Ávttaide ja riegádeami álgimii laktása máŋggain nissoniin
+          njivllas golgan.</x>
+
+          <xt>Supistuksiin ja synnytyksen alkamiseen liittyy monilla naisilla
+          limaista vuotoa.</xt>
+        </xg>
+
+        <xg>
           <x>Várut! Dán jogas leat geađggit njivlasat.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Varo! Tässä joessa kivet ovat niljakkaita.</xt>
         </xg>
       </tg>
     </mg>
@@ -67422,7 +67452,40 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>oapmebierggas</x>
 
-          <xt>_FIN_</xt>
+          <xt>käytetty tavara</xt>
+        </xg>
+
+        <xg>
+          <x>Buvssat leat julggiid siskkobealde oamis.</x>
+
+          <xt>Housut ovat jalkojen sisäpuolelta kuluneet.</xt>
+        </xg>
+
+        <xg>
+          <x>Oapmebiktasiidda lea stuorra dárbu.</x>
+
+          <xt>Käytetyille vaatteille on suuri tarve.</xt>
+        </xg>
+
+        <xg>
+          <x>Skuvla lea oalle oamis ja dárbbaša sihke olgguldas ja siskkildas
+          ođasmahttima.</x>
+
+          <xt>Koulu on melko kulunut ja tarvitsee sekä ulkoista että sisäistä
+          uudistamista.</xt>
+        </xg>
+
+        <xg>
+          <x>Su máilmmigovva lei oamis ja heivii oalle funet otnábeaivái.</x>
+
+          <xt>Hänen maailmankuvansa oli vanha ja soveltui melko huonosti tähän
+          päivään. </xt>
+        </xg>
+
+        <xg>
+          <x>Mun ledjen áŋgir čohkket oapmegirjjiid.</x>
+
+          <xt>Olin innokas keräämään vanhoja kirjoja.</xt>
         </xg>
       </tg>
     </mg>
@@ -68118,13 +68181,13 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Mus lea ollu bargu.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Minulla on paljon työtä.</xt>
         </xg>
 
         <xg>
           <x>ollu giitu</x>
 
-          <xt>_FIN_</xt>
+          <xt>kiitos paljon</xt>
         </xg>
       </tg>
     </mg>
@@ -68158,13 +68221,13 @@ For the full license text, see the link above.</lic>
         <t pos="Adv">paljon</t>
 
         <xg>
-          <x>ožžon ollu</x>
+          <x>ožžon olu</x>
 
           <xt>sain paljon</xt>
         </xg>
 
         <xg>
-          <x>ollu vejolaš</x>
+          <x>olu vejolaš</x>
 
           <xt>paljon mahdollista</xt>
         </xg>
@@ -68172,7 +68235,13 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Mus lea olu bargu.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Minulla on paljon työtä.</xt>
+        </xg>
+
+        <xg>
+          <x>olu giitu</x>
+
+          <xt>kiitos paljon</xt>
         </xg>
       </tg>
     </mg>
@@ -68182,13 +68251,13 @@ For the full license text, see the link above.</lic>
         <t t_type="expl">attr.</t>
 
         <xg>
-          <x>ollu olbmuid siste</x>
+          <x>olu olbmuid siste</x>
 
           <xt>ihmispaljoudessa</xt>
         </xg>
 
         <xg>
-          <x>ollu gerddiid</x>
+          <x>olu gerddiid</x>
 
           <xt>monta kertaa</xt>
         </xg>
@@ -68518,7 +68587,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>ovddalboahtti johtolat</x>
 
-          <xt>_FIN_</xt>
+          <xt>vastaantuleva liikenne</xt>
         </xg>
       </tg>
     </mg>
@@ -69734,13 +69803,6 @@ For the full license text, see the link above.</lic>
 
           <xt>kireä lypsää (lehmästä, vaatimesta)</xt>
         </xg>
-
-        <xg>
-          <x>Dovddai máná lihkastagaid ja dan rákkis čoavjái šadde sáhppes
-          luoddaneamit.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -69884,12 +69946,20 @@ For the full license text, see the link above.</lic>
 
         <t pos="A">epätasainen</t>
 
+        <t pos="A">koleinen</t>
+
         <t pos="A">rosoinen</t>
 
         <xg>
           <x>rámšogeaidnu</x>
 
-          <xt>_FIN_</xt>
+          <xt>rosoinen tie</xt>
+        </xg>
+
+        <xg>
+          <x>Áhpejeakkit leat rámšasat.</x>
+
+          <xt>Aapasuot ovat vaikeakulkuisia.</xt>
         </xg>
       </tg>
     </mg>
@@ -70791,7 +70861,13 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>roamšeluodda</x>
 
-          <xt>_FIN_</xt>
+          <xt>rosoinen tie</xt>
+        </xg>
+
+        <xg>
+          <x>Liiki lei roamššas.</x>
+
+          <xt>Iho oli kurttuinen.</xt>
         </xg>
       </tg>
     </mg>
@@ -71887,7 +71963,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Gáldu bissu saŋasin dálvitge.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Lähde pysyy sulana talvellakin.</xt>
         </xg>
       </tg>
     </mg>
@@ -72650,15 +72726,11 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <re>sekoittumaton</re>
-
         <gramm>attr.</gramm>
 
         <t pos="A">silkka</t>
 
         <t pos="A">tavallinen</t>
-
-        <t pos="A">puhdas</t>
 
         <xg>
           <x>sieiva gielis</x>
@@ -72667,21 +72739,29 @@ For the full license text, see the link above.</lic>
         </xg>
 
         <xg>
+          <x>sieiva dáža</x>
+
+          <xt>syntyperäinen norjalainen</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>sekoittumaton</re>
+
+        <t pos="A">puhdas</t>
+
+        <xg>
           <x>sieiva golli</x>
 
           <xt>puhdas kulta</xt>
         </xg>
 
         <xg>
-          <x>sieiva dáža</x>
+          <x>Muitalus lea sieiva fikšuvdna.</x>
 
-          <xt>syntyperäinen norjalainen</xt>
-        </xg>
-
-        <xg>
-          <x>Galget leat sieiva nisson- ja almmáiolbmojoavkkut.</x>
-
-          <xt>_FIN_</xt>
+          <xt>Kertomus on puhdasta fiktiota.</xt>
         </xg>
       </tg>
     </mg>
@@ -73534,19 +73614,13 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="A">hoippuva</t>
+        <t pos="A" type="PrsPrc">hoippuva</t>
 
         <t pos="A">heiveröinen</t>
 
         <t pos="A">hontelo</t>
 
         <t pos="A" type="PrsPrc">keikkuva</t>
-
-        <xg>
-          <x>skivžegáma</x>
-
-          <xt>_FIN_</xt>
-        </xg>
       </tg>
     </mg>
 
@@ -75027,16 +75101,10 @@ For the full license text, see the link above.</lic>
         <t pos="A">likomärkä</t>
 
         <xg>
-          <x>Gámas šaddá spalccas jos dan luvvada menddo njuoska osttuin.</x>
+          <x>Gámas šaddá spalccas jos dan luvvada menddo olu.</x>
 
-          <xt>_FIN_</xt>
-        </xg>
-
-        <xg>
-          <x>Gal dakkár dieđus muhtimin lea oalle spalccas dohkkehit, muhto nu
-          dat beare lea.</x>
-
-          <xt>_FIN_</xt>
+          <xt>Koipinahasta tulee likomärkä, jos sitä liottaa liian
+          paljon.</xt>
         </xg>
       </tg>
     </mg>
@@ -75048,6 +75116,14 @@ For the full license text, see the link above.</lic>
         <t pos="A">ärsyttävä</t>
 
         <t pos="A">kiusallinen</t>
+
+        <xg>
+          <x>Gal dakkár dieđus muhtimin lea oalle spalccas dohkkehit, muhto nu
+          dat beare lea.</x>
+
+          <xt>Kyllä sellaista on tietysti joskus aika ärsyttävää hyväksyä,
+          mutta niin se vain on.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -77024,18 +77100,34 @@ For the full license text, see the link above.</lic>
         <t pos="A">vetelä</t>
 
         <t pos="A">hervoton</t>
+      </tg>
+    </mg>
 
-        <xg>
-          <x>šlincobivttas, šlincebivttas</x>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">pehmeä</t>
+      </tg>
+    </mg>
 
-          <xt>_FIN_</xt>
-        </xg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>esim. köydestä</re>
 
-        <xg>
-          <x>šlincobivttas, šlincebivttas</x>
+        <t pos="A">veltto</t>
+      </tg>
+    </mg>
 
-          <xt>_FIN_</xt>
-        </xg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>esim. kalasta</re>
+
+        <t pos="A">pehmennyt</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">repaleinen</t>
       </tg>
     </mg>
   </e>
@@ -77860,13 +77952,23 @@ For the full license text, see the link above.</lic>
         <t pos="A">vahva</t>
 
         <t pos="A">voimakas</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>naisesta</re>
+
+        <t pos="A">pulska</t>
 
         <xg>
           <x>Sámiid gaskkas lea ovdal adnon buorre mearkan go nisu lei buoidi,
           váfis nisu lea nana sámi nisu, sus lea doarvái biebmu ja lea
           dearvvas.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Saamelaisten keskuudessa on ennen pidetty hyvänä piirteenä sitä,
+          kun nainen on lihava, pulska nainen on vahva saamelainen nainen,
+          hänellä on tarpeeksi ruokaa ja hän on terve.</xt>
         </xg>
       </tg>
     </mg>
@@ -78565,27 +78667,35 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <re>ruoasta</re>
+        <re>esim. ruoasta, kahvista</re>
 
         <t pos="A">vähäsuolainen</t>
+
+        <t pos="A">suolaton</t>
+
+        <t pos="A">tuima</t>
 
         <xg>
           <x>Sáivačáhci lea veahtas.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Makea vesi on vähäsuolaista.</xt>
         </xg>
+      </tg>
+    </mg>
 
-        <xg>
-          <x>Thai biebmu lea juoga eará veahtta Norgga biepmu ektui.</x>
+    <mg>
+      <tg xml:lang="fin">
+        <re>fig.</re>
 
-          <xt>_FIN_</xt>
-        </xg>
+        <t pos="A">väljähtynyt</t>
+      </tg>
+    </mg>
 
-        <xg>
-          <x>Jietnagovva lei veahtas.</x>
+    <mg>
+      <tg xml:lang="fin">
+        <re>alkoholijuomasta</re>
 
-          <xt>_FIN_</xt>
-        </xg>
+        <t pos="A">laimea</t>
       </tg>
     </mg>
 
@@ -78594,6 +78704,16 @@ For the full license text, see the link above.</lic>
         <t pos="A">haluton</t>
 
         <t pos="A">vetämätön</t>
+
+        <t pos="A">penseä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">ylimielinen</t>
+
+        <t pos="A">koppava</t>
       </tg>
     </mg>
   </e>
