@@ -71,19 +71,19 @@ hurvvas ok
 julbmi ok
 livzzas ok
 mahtásaš ok
-moalkkas JOATKKE DÁS 31.6.
-njivllas
-oamis
-ollu
-olu
-ovddalboahtti
-rákkis
-rámššas
-roamššas
-saŋas
-sieiva
-skivžžas
-spalccas
-šlinccas
-váfi
-veahtas
+moalkkas ok
+njivllas ok
+oamis ok
+ollu ok
+olu ok
+ovddalboahtti ok
+rákkis ok
+rámššas ok
+roamššas ok
+saŋas ok
+sieiva ok
+skivžžas ok
+spalccas ok
+šlinccas ok
+váfi ok
+veahtas ok
