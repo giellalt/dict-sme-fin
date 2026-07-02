@@ -3,21 +3,21 @@ bargat ok
 beroštit ok
 bidjat ok
 birget ok
-boradit
-botnit
-bovdet
-coggat
-deaivat
-dihttot
-doapmat
-dollet
-dulkot
-duostat
-dáhttut
-dálostallat
-fertet
-figgat
-galbmot
+boradit ok
+botnit ok
+bovdet ok
+coggat ok
+deaivat ok
+dihttot ok
+doapmat ok
+dollet ok
+dulkot ok
+duostat ok
+dáhttut ok
+dálostallat ok
+fertet ok
+figgat ok
+galbmot ok
 galgat
 geahčastit
 geahččat
