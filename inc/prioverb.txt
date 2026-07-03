@@ -18,14 +18,14 @@ dálostallat ok
 fertet ok
 figgat ok
 galbmot ok
-galgat
-geahčastit
-geahččat
-geargat
-gillet
-gohčodit
-goikadit
-goikat
+galgat ok
+geahčastit ok
+geahččat ok
+geargat ok
+gillet ok
+gohčodit ok
+goikadit ok
+goikat ok
 gokčat
 golgat
 gopmánit
