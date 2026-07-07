@@ -27,12 +27,12 @@ gohčodit ok
 goikadit ok
 goikat ok
 gokčat ok
-golgat
-gopmánit
-gulahallat
-guoddit
-guovlat
-gártat
+golgat ok
+gopmánit ok
+gulahallat ok
+guoddit ok
+guovlat ok
+gártat ok
 gávppašit
 hilbošit
 himihit
