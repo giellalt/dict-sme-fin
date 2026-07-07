@@ -5523,6 +5523,12 @@ For the full license text, see the link above.</lic>
         <t pos="V">valua</t>
 
         <xg>
+          <x>Sáttu golgá tiibmalásas.</x>
+
+          <xt>Hiekka juoksee tiimalasissa.</xt>
+        </xg>
+
+        <xg>
           <x>Ii ábut doallat oaivvi maŋos, go dalle golgá varra baicca
           čoddagii.</x>
 
@@ -5599,14 +5605,64 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kaatua kumoon</t>
+        <t pos="V">kaatua</t>
 
-        <t pos="V">ylösalaisin</t>
+        <t t_type="phrase">mennä kumoon</t>
 
         <xg>
           <x>Máhtte nu healkkihii, ahte sihkkel measta gopmánii.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Máhtte hätkähti niin, että pyörä melkein kaatui.</xt>
+        </xg>
+
+        <xg>
+          <x>Fitnodat gopmánii.</x>
+
+          <xt>Yritys meni kumoon.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>alassuin</re>
+
+        <t>kääntyä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">kumoutua</t>
+
+        <xg>
+          <x>Válgaboađus sáhttá bissut dahje gopmánit.</x>
+
+          <xt>Vaalitulos voi pysyä tai kumoutua.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>esim. hallitus</re>
+
+        <t pos="V">kaatua</t>
+
+        <xg>
+          <x>Ráđđehus gopmánii.</x>
+
+          <xt>Hallitus kaatui.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>maailma</re>
+
+        <t pos="V">loppua</t>
+
+        <xg>
+          <x>Ii dat máilbmi dasa gopmán.</x>
+
+          <xt>Ei se maailma siihen lopu.</xt>
         </xg>
       </tg>
     </mg>
@@ -5681,16 +5737,44 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">keskustella</t>
+        <t t_type="expl">voida kuulla toisiaan etäisyydestä huolimatta</t>
+      </tg>
+    </mg>
 
-        <t pos="V">ymmärtää</t>
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="expl">ymmärtää toisiaan</t>
+
+        <t t_type="expl">saada selvää toistensa puheesta</t>
 
         <xg>
-          <x>Sámediggi lea gulahallan Sámi Doaktáriid Servviin dán ášši
-          birra.</x>
+          <x>Veahket min leat rabas mielaid, gulahallat ja ráhkistit.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Auta meitä olemaan avoimin mielin, ymmärtämään toisiamme ja
+          rakastamaan.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">keskustella</t>
+
+        <xg>
+          <x>Sámediggi lea gulahallan servviin dán ášši birra.</x>
+
+          <xt>Saamelaiskäräjät on keskustellut järjestön kanssa asiasta.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>keskenään</re>
+
+        <t>viestiä</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t t_type="expl">kuulla toisiltaan</t>
       </tg>
     </mg>
   </e>
@@ -5759,17 +5843,152 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">kantaa</t>
 
-        <xg>
-          <x>Gussa guoddá.</x>
+        <t t_type="expl">kuljettaa kantamalla</t>
 
-          <xt>_FIN_</xt>
+        <xg>
+          <x>Guttiimet latnjii bevddiid ja stuoluid.</x>
+
+          <xt>Kannoimme huoneeseen pöytiä ja tuoleja.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">synnyttää</t>
+        <t pos="V">kantaa</t>
+
+        <t pos="V">kannattaa</t>
+
+        <xg>
+          <x>Juos cuoŋu ii guotte, de sáhttá dorvvastit merkejuvvon
+          mohtorgielkámáđijaide.</x>
+
+          <xt>Jos hanki ei kanna, niin voi turvautua merkittyihin
+          moottorikelkkareitteihin.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>yltää, esim. aseesta, katseesta, äänestä</re>
+
+        <t pos="V">kantaa</t>
+
+        <xg>
+          <x>Geahča nu guhkás go fal čalbmi guoddá.</x>
+
+          <xt>Katso niin kauas kun vain silmä kantaa.</xt>
+        </xg>
+
+        <xg>
+          <x>Ciiku lea ciellalas ja dan jietna guoddá guhkás.</x>
+
+          <xt>Narttukoira on haukkuvainen, ja sen ääni kantaa pitkälle.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>esim. virrasta</re>
+
+        <t t_type="expl">kuljettaa mukanaan</t>
+
+        <xg>
+          <x>Ođđa linjjá guoddá eambbo rávnjji go dálá linjját.</x>
+
+          <xt>Uusi linja kuljettaa enemmän virtaa kuin nykyiset linjat.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">kestää</t>
+
+        <t pos="V">sietää</t>
+
+        <xg>
+          <x>Illá mus váibmu dán guoddá.</x>
+
+          <xt>Minulla sydän hädin tuskin kestää tämän.</xt>
+        </xg>
+
+        <xg>
+          <x>Mii fertet buohkat guoddit ovddasvástádusa.</x>
+
+          <xt>Meidän kaikkien täytyy kantaa vastuu.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">kantaa</t>
+
+        <t pos="V">vasoa</t>
+
+        <t pos="V">poikia</t>
+
+        <t pos="V">vasikoida</t>
+
+        <t pos="V">varsoa</t>
+
+        <t pos="V">vuonia</t>
+
+        <t pos="V">penikoida</t>
+
+        <t pos="V">munia</t>
+
+        <xg>
+          <x>Dán máná lean váimmu vuolde guoddán.</x>
+
+          <xt>Tätä lasta olen sydämen alla kantanut.</xt>
+        </xg>
+
+        <xg>
+          <x>Áldu guoddá miesi miessemánus.</x>
+
+          <xt>Vaadin vasoo vasan toukokuussa.</xt>
+        </xg>
+
+        <xg>
+          <x>Gáiccat lávejit guoddit guokte gihci.</x>
+
+          <xt>Vuohilla on tapana poikia kaksi kiliä. </xt>
+        </xg>
+
+        <xg>
+          <x>Gussa guoddá gálbbiid.</x>
+
+          <xt>Lehmä vasikoi vasikoita.</xt>
+        </xg>
+
+        <xg>
+          <x>Heasta guoddá várssáid.</x>
+
+          <xt>Hevonen varsoo varsoja.</xt>
+        </xg>
+
+        <xg>
+          <x>Sávza guoddá dábalepmosit ovtta dahje guokte lábbá giđđat.</x>
+
+          <xt>Lammas vuonii tavallisimmin yksi tai kaksi karitsaa
+          keväällä.</xt>
+        </xg>
+
+        <xg>
+          <x>Beana guoddá vielpáid.</x>
+
+          <xt>Koira penikoi pentuja.</xt>
+        </xg>
+
+        <xg>
+          <x>Goaskin ja fálli guddet veháš maŋŋelaš Márjjábeaivvi.</x>
+
+          <xt>Kotka ja haukka munivat vähän marianpäivän jälkeen. </xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -5835,16 +6054,14 @@ For the full license text, see the link above.</lic>
 
         <t pos="V">kurkistaa</t>
 
+        <t pos="V">tirkistää</t>
+
+        <t pos="V">silmätä</t>
+
         <xg>
           <x>Mun oidnen áhku guovlamin glássaráigge olggos.</x>
 
-          <xt>_FIN_</xt>
-        </xg>
-
-        <xg>
-          <x>Bárdni guovlá munnje.</x>
-
-          <xt>_FIN_</xt>
+          <xt>Näin isoäidin kurkistavan ikkunasta ulos.</xt>
         </xg>
       </tg>
     </mg>
@@ -6066,16 +6283,65 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <t pos="V">karttua</t>
+
+        <t pos="V">kertyä</t>
+
         <t pos="V">koitua</t>
 
-        <t pos="V">joutua</t>
+        <t pos="V">muodostua</t>
 
-        <t pos="V">päätyä</t>
+        <xg>
+          <x>Eat sáhte lágidit čiekčamiid jus eai gártta doarvái joavkkut.</x>
+
+          <xt>Emme voi järjestää jalkapallo-otteluita, jos joukkueita ei kerry
+          tarpeeksi.</xt>
+        </xg>
 
         <xg>
           <x>Gárttai nu.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Kävi niin.</xt>
+        </xg>
+
+        <xg>
+          <x>Dát gárttai divrrasin.</x>
+
+          <xt>Se tuli kalliiksi.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">joutua</t>
+
+        <xg>
+          <x>Sáhtát gártat duođaštit gii don leat.</x>
+
+          <xt>Voit joutua todistamaan, kuka olet.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>tekemään jotakin</re>
+
+        <t>päätyä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>jonnekin</re>
+
+        <t pos="V">kulkeutua</t>
+
+        <t pos="V">päätyä</t>
+
+        <xg>
+          <x>Ášši sáhttá gártat diggái.</x>
+
+          <xt>Asia saattaa päätyä oikeuteen.</xt>
         </xg>
       </tg>
     </mg>
