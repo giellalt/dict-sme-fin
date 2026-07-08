@@ -33,17 +33,17 @@ gulahallat ok
 guoddit ok
 guovlat ok
 gártat ok
-gávppašit
-hilbošit
-himihit
-huhttát
-iskat
-jietnadit
-johtit
-jođašit
-jávkat
-liikot
-lohkat
+gávppašit ok
+hilbošit ok
+himihit ok
+huhttát ok
+iskat ok
+jietnadit ok
+johtit ok
+jođašit ok
+jávkat ok
+liikot ok
+lohkat JOATKKE DÁS 9.7.
 lubmet
 luoitit
 lávet
