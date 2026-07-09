@@ -9179,13 +9179,31 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t t_type="phrase">olla tapana</t>
 
+        <t pos="V">tavata</t>
+
         <t pos="V">ruukata</t>
 
         <xg>
           <x>Mii lávet vuolgit mearragáddái juohke geasi.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Meillä on tapana lähteä merenrantaan joka kesä.</xt>
         </xg>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">lávet</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">muotoilla</t>
+
+        <t pos="V">muovailla</t>
+
+        <t pos="V">muovata</t>
       </tg>
     </mg>
   </e>
@@ -9198,13 +9216,17 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">kylvetellä</t>
+      </tg>
+    </mg>
 
+    <mg>
+      <tg xml:lang="fin">
         <t pos="V">kylpeä</t>
 
         <xg>
           <x>Mánná lávggoda.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Lapsi kylpee.</xt>
         </xg>
       </tg>
     </mg>
@@ -9302,33 +9324,215 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">lähteä</t>
-
         <t pos="V">mennä</t>
+
+        <t pos="V">kulkea</t>
 
         <xg>
           <x>Mana ruoktot!</x>
 
-          <xt>_FIN_</xt>
+          <xt>Mene kotiin!</xt>
         </xg>
+
+        <xg>
+          <x>Busse manná oppa áigge festiválabáikái ja ruovttoluotta.</x>
+
+          <xt>Bussi kulkee koko ajan festivaalialueelle ja takaisin.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>pois</re>
+
+        <t pos="V">mennä</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="V" var="no">lähteä</t>
 
         <xg re="til den som drar">
           <x>Mana dearvan!</x>
 
-          <xt>_FIN_</xt>
+          <xt>Näkemiin!</xt>
         </xg>
+
+        <xg>
+          <x>Sáhttu manná gávcci áigge.</x>
+
+          <xt>Kyyti lähtee kahdeksalta.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">mennä</t>
+
+        <t t_type="phrase">olla liikkeessä</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>kellosta, kojeista</re>
+
+        <t pos="V">käydä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>jotakin</re>
+
+        <t t_type="expl">mennä noutamaan</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>jotakin</re>
+
+        <t t_type="expl">mennä hakemaan</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>jotakin</re>
+
+        <t t_type="expl">käydä noutamassa</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>jotakin</re>
+
+        <t t_type="expl">käydä hakemassa</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>ajasta, tarvikkeista, ruuasta</re>
+
+        <t pos="V">mennä</t>
+
+        <t pos="V">kulua</t>
+
+        <xg>
+          <x>Johtimii manná olu áigi.</x>
+
+          <xt>Matkustamiseen menee paljon aikaa.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">mennä</t>
+
+        <t pos="V">hurista</t>
+
+        <t pos="V">pyyhkiä</t>
+
+        <t pos="V">edetä</t>
+
+        <t pos="V">sujua</t>
 
         <xg>
           <x>Mo manná? Bures dat manná.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Miten menee? Hyvin menee.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>tietyllä vuodella</re>
+
+        <t pos="V">olla</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>tiettyä vuottaan</re>
+
+        <t pos="V">käydä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">mahtua</t>
+
+        <t pos="V">mennä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>jossakin</re>
+
+        <t pos="V">käydä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>joksikin</re>
+
+        <t pos="V">käydä</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>joksikin</re>
+
+        <t pos="V">mennä</t>
 
         <xg>
-          <x>Mo manná? Dohko manná.</x>
+          <x>Son manai biigán Biergái.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Hän meni piiaksi Kibergiin.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>jonkinlaiseksi</re>
+
+        <t pos="V">mennä</t>
+
+        <t pos="V">tulla</t>
+
+        <xg>
+          <x>Ášši manai ártegin.</x>
+
+          <xt>Asia meni oudoksi.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">heittäytyä</t>
+
+        <t pos="V">alkaa</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="phrase">käydä päinsä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">sattua</t>
+
+        <t t_type="expl">mennä tekemään jotakin</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="expl">saada orgasmi</t>
       </tg>
     </mg>
   </e>
