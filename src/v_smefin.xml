@@ -8582,6 +8582,12 @@ For the full license text, see the link above.</lic>
         <t pos="V">lukea</t>
 
         <t pos="V">opiskella</t>
+
+        <xg>
+          <x>Oahppit lohket sámegiela.</x>
+
+          <xt>Oppilaat opiskelevat saamen kieltä.</xt>
+        </xg>
       </tg>
     </mg>
 
@@ -8590,6 +8596,12 @@ For the full license text, see the link above.</lic>
         <t pos="V">lukea</t>
 
         <t pos="V">lausua</t>
+
+        <xg>
+          <x>Diktačálli lohká divttaidis.</x>
+
+          <xt>Runoilija lausuu runojaan.</xt>
+        </xg>
       </tg>
     </mg>
 
@@ -8741,10 +8753,12 @@ For the full license text, see the link above.</lic>
 
         <t t_type="phrase">poimia hillaa</t>
 
+        <t pos="V">hillastaa</t>
+
         <xg>
           <x>Niillas manai jeaggái lubmet.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Niillas meni jängälle poimimaan hillaa.</xt>
         </xg>
       </tg>
     </mg>
@@ -8841,31 +8855,214 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">laskea alas</t>
+        <t pos="V">laskea</t>
+
+        <t pos="V">päästää</t>
+
+        <t t_type="phrase">päästää irti</t>
+
+        <t pos="V">vapauttaa</t>
 
         <xg>
-          <x>Muhtin áigge geažes bávččas váidugoahtá, go deaddu luoitá.</x>
+          <x>Sáhtát olggiid luoitit ja vuoigŋat geahppaseappot.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Voit laskea hartiat ja hengittää kevyemmin.</xt>
         </xg>
+
+        <xg>
+          <x>Ollugat eai duostta luoitit olggos šibihiid.</x>
+
+          <xt>Monet eivät uskalla päästää eläimiä ulos.</xt>
+        </xg>
+
+        <xg>
+          <x>Sii leat mearridan luoitit velggiid.</x>
+
+          <xt>He ovat päättäneet antaa velat anteeksi.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="V">sallia</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>katse</re>
+
+        <t pos="V">luoda</t>
+
+        <t pos="V">kääntää</t>
+
+        <xg>
+          <x>Olbmot eai nagodan luoitit čalmmiid lávddis.</x>
+
+          <xt>Ihmiset eivät kyenneet kääntämään katsettaan lavasta.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>ankkuri</re>
+
+        <t pos="V">laskea</t>
+
+        <xg>
+          <x>Gonagasskiipa galgá luoitit áŋkora Romssas.</x>
+
+          <xt>Kuninkaan laiva tulee laskemaan ankkurin Tromssassa.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>verta, vettä tms.</re>
+
+        <t pos="V">laskea</t>
+
+        <xg>
+          <x>Boares sámi ráva lea ahte galgá luoitit vara juolgevuođus jos ii
+          leat šat borranmiella.</x>
+
+          <xt>Vanha saamelainen neuvo on, että pitää laskea verta
+          jalkapohjasta, jos ei ole enää ruokahalua.</xt>
+        </xg>
+
+        <xg>
+          <x>Duovvi luoitá meađđemiiddis.</x>
+
+          <xt>Mätikala laskee mätinsä.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>astia tulelta, kodassa</re>
+
+        <t pos="V">ottaa</t>
+
+        <t pos="V">laskea</t>
+
+        <xg>
+          <x>Son álggii luoitit, ja de moarsi dohppii gievdnevuossái, ja
+          leaikásii irggi ohcii duoldi liepma.</x>
+
+          <xt>Hän alkoi ottamaan pannua tulelta, ja silloin morsian tarttui
+          pannun sankaan, ja sulhasen kaula-aukkoon kaatui kiehuvaa lientä.
+          </xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>koski, mäki</re>
+
+        <t pos="V">laskea</t>
+
+        <xg>
+          <x>Mátkki beallemuttus lea Bearjadatguoika, man lea oalle váttis
+          luoitit.</x>
+
+          <xt>Reitin puolivälissä on Perjantaikoski, joka on melko hankala
+          laskea.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="expl">ajaa nopeasti</t>
+
+        <t pos="V">kiitää</t>
+
+        <t pos="V">lasketella</t>
+
+        <t pos="V">pyyhältää</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>jotakin kieltä</re>
+
+        <t t_type="expl">puhua vaivattomasti</t>
+
+        <t pos="V">lasketella</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>auringosta</re>
+
+        <t pos="V">laskea</t>
 
         <xg>
           <x>Beaivi luoitá ja veiggodišgoahtá.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Aurinko laskee, ja hämärtää.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">laskeutua</t>
+        <re>virrata johonkin, joesta</re>
+
+        <t pos="V">laskea</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">päästää irti</t>
+        <re>alemmas maastossa, joessa</re>
+
+        <t pos="V">laskeutua</t>
+
+        <xg>
+          <x>Dasto šaddá luoitit moadde mehtera ceakkos bávtti mielde
+          vulos.</x>
+
+          <xt>Sitten joutuu laskeutumaan muutaman metrin jyrkkää kallionseinää
+          alaspäin.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>rinteestä tms.</re>
+
+        <t pos="V">viettää</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">hylätä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">revetä</t>
+
+        <t pos="V">päästä</t>
+
+        <t pos="V">rikkoontua</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>laskutehtäviä tms.</re>
+
+        <t pos="V">laskea</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>seinää</re>
+
+        <t pos="V">tilkitä</t>
       </tg>
     </mg>
   </e>
