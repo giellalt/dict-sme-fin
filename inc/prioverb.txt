@@ -43,12 +43,12 @@ johtit ok
 jođašit ok
 jávkat ok
 liikot ok
-lohkat JOATKKE DÁS 9.7.
-lubmet
-luoitit
-lávet
-lávggodit
-mannat
+lohkat ok 
+lubmet ok
+luoitit ok
+lávet ok
+lávggodit ok
+mannat JOATKKE DÁS
 mearridit
 niegadit
 nohkat
