@@ -9600,6 +9600,12 @@ For the full license text, see the link above.</lic>
         <re>esim. tekemään jotakin</re>
 
         <t pos="V">määrätä</t>
+
+        <xg>
+          <x>Diggi mearridii ráŋggáštusa.</x>
+
+          <xt>Tuomioistuin määräsi rangaistuksen.</xt>
+        </xg>
       </tg>
     </mg>
 
@@ -9612,6 +9618,12 @@ For the full license text, see the link above.</lic>
         <t pos="V">määrätä</t>
 
         <t pos="V">määrittää</t>
+
+        <xg>
+          <x>Norgga lágat mearridit maid ii leat lohpi bargat.</x>
+
+          <xt>Norjan lait määräävät, mitä ei ole lupa tehdä.</xt>
+        </xg>
       </tg>
     </mg>
 
@@ -10141,7 +10153,17 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Mun niegadin du mannan ija.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Näin sinusta unta viime yönä.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="V">haaveilla</t>
+
+        <xg>
+          <x>Muhtumin niegadan orrut tropihkalaš sullos.</x>
+
+          <xt>Joskus haaveilen asuvani trooppisella saarella.</xt>
         </xg>
       </tg>
     </mg>
@@ -10524,20 +10546,82 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">kulua</t>
+        <t pos="V">loppua</t>
 
         <xg>
           <x>Dál leat juo máŋga basi leamaš, ja luopmobeaivvit leat
           nohkan.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Nyt on ollut jo monta pyhää, ja lomapäivät ovat loppuneet.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
+        <t pos="V">päättyä</t>
+
         <t pos="V">loppua</t>
+
+        <xg>
+          <x>Oahppodiibmu lea nohkan.</x>
+
+          <xt>Oppitunti on päättynyt.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="expl">jäädä pois käytöstä</t>
+
+        <xg>
+          <x>Ovdalaš njuolggadus nogai, go ođđa njuolggadus bođii fápmui.</x>
+
+          <xt>Edellinen sääntö jäi pois käytöstä, kun uusi sääntö tuli
+          voimaan.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">kulua</t>
+
+        <xg>
+          <x>Almmái biehttalii vuovdimis dan boares, nohkan anoráhkas.</x>
+
+          <xt>Mies kieltäytyi myymästä sitä vanhaa, kulunutta
+          anorakkiaan.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>loppuun, käyttökelvottomaksi</re>
+
+        <t pos="V">kulua</t>
+
+        <xg>
+          <x>Skuovat leat masá áibbas nohkan.</x>
+
+          <xt>Kengät ovat melkein kokonaan käyttökelvottomaksi kuluneet.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>kovasti, erit. sairaasta tai kuolevasta</re>
+
+        <t pos="V">laihtua</t>
+
+        <xg>
+          <x>Máret-Ánne lei garra barggus nohkan. </x>
+
+          <xt>Máret-Ánne oli laihtunut kovaa työtä tehdessään.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -10557,13 +10641,27 @@ For the full license text, see the link above.</lic>
           <x>Elle nohkai maŋŋebeŋkii ja moai šurragođiime dan botta go
           vujiime.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Elle nukahti takapenkille, ja me supisimme ajaessamme.</xt>
         </xg>
 
         <xg>
           <x>Mánát leat maŋŋit nohkkan.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Lapset ovat nukahtaneet myöhään.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">nukkua</t>
+
+        <t t_type="expl">olla unessa</t>
+
+        <xg>
+          <x>Biehtár ja su guoimmit ledje lossadit nohkkan.</x>
+
+          <xt>Biehtár ja hänen seuralaisensa olivat nukkuneet sikeästi.</xt>
         </xg>
       </tg>
     </mg>
@@ -10877,10 +10975,21 @@ For the full license text, see the link above.</lic>
 
         <t pos="V">meinata</t>
 
+        <t t_type="expl">olla jotakin mieltä</t>
+
+        <t>esittää mielipide</t>
+
         <xg>
           <x>Máhtte logai ahte ii hal son goit dan oaivvildan.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Máhtte sanoi, että eihän hän sitä kuitenkaan tarkoittanut.</xt>
+        </xg>
+
+        <xg>
+          <x>Sámediggi oaivvilda ahte dát supmi ferte lasihuvvot.</x>
+
+          <xt>Saamelaiskäräjät on sitä mieltä, että tätä summaa täytyy
+          lisätä.</xt>
         </xg>
       </tg>
     </mg>
@@ -11109,36 +11218,87 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">asua</t>
+        <re>aloillaan, rauhassa, jossakin asennossa</re>
 
-        <t pos="V">tuntua</t>
-
-        <t t_type="expl">olla aloillaan tms.</t>
+        <t pos="V">olla</t>
 
         <xg>
           <x>Oro jaska!</x>
 
-          <xt>_FIN_</xt>
+          <xt>Ole hiljaa!</xt>
         </xg>
 
         <xg>
-          <x>Nu orru mu mielas.</x>
+          <x>Lea buoret orrut náitalkeahttá.</x>
 
-          <xt>_FIN_</xt>
-        </xg>
-
-        <xg>
-          <x>Daid dieđuid vuođul orru leamen čielggas ahte prográmma
-          doaibmá.</x>
-
-          <xt>_FIN_</xt>
+          <xt>On parempi olla menemättä naimisiin.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">vaikuttaa joltakin</t>
+        <re>käyttämättömänä</re>
+
+        <t pos="V">seistä</t>
+
+        <t t_type="expl">olla paikoillaan</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t t_type="expl">pysyä paikoillaan</t>
+
+        <t t_type="expl">olla liikkumatta</t>
+
+        <t pos="V">seistä</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">asua</t>
+
+        <t pos="V">oleskella</t>
+
+        <xg>
+          <x>Sámit orrot njealji riikkas.</x>
+
+          <xt>Saamelaiset asuvat neljässä maassa.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>joltakin, jollekin</re>
+
+        <t pos="V">tuntua</t>
+
+        <t pos="V">näyttää</t>
+
+        <t pos="V">kuulostaa</t>
+
+        <t pos="V">vaikuttaa</t>
+
+        <xg>
+          <x>Olggul dat gal orrot čábbát.</x>
+
+          <xt>Ulkoapäin ne kyllä näyttävät kauniilta</xt>
+        </xg>
+
+        <xg>
+          <x>Daid dieđuid vuođul orru leamen čielggas ahte prográmma
+          doaibmá.</x>
+
+          <xt>Niiden tietojen perusteella vaikuttaa selvältä, että ohjelma
+          toimii.</xt>
+        </xg>
+
+        <xg>
+          <x>Nu orru mu mielas.</x>
+
+          <xt>Siltä se minun mielestäni vaikuttaa.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -11309,13 +11469,13 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Skávli riehču.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Lokki kirkuu.</xt>
         </xg>
 
         <xg>
           <x>Beana riehču.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Koira ulisee.</xt>
         </xg>
       </tg>
     </mg>
@@ -11483,21 +11643,83 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <re>liikkeelle, pois, ulos jne.</re>
+
         <t pos="V">vetaista</t>
+
+        <t pos="V">vetää</t>
+
+        <t pos="V">kiskoa</t>
+
+        <xg>
+          <x>Unnavieljaš oaidná go stuorravielja rohtte eallimis vuosttáš
+          guoli gáddái.</x>
+
+          <xt>Pikkuveli näkee, kun isoveli vetää elämänsä ensimmäisen kalan
+          rantaan.</xt>
+        </xg>
+
+        <xg>
+          <x>Rohtte roahkkadit sámeleavgga stággui!</x>
+
+          <xt>Vedä rohkeasti Saamen lippu salkoon!</xt>
+        </xg>
+
+        <xg>
+          <x>Nahkárat mus rohttejedje.</x>
+
+          <xt>Sain unen päästä kiinni.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>suojakseen tms.</re>
+
+        <t pos="V">levittää</t>
 
         <t pos="V">vetää</t>
 
         <xg>
           <x>Rohttejin ránu oaivvi badjel vai oaččun nahkáriid.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Vedin raanun pään yli, jotta saan unta.</xt>
         </xg>
 
         <xg>
-          <x>Nahkárat mus rohttejedje.</x>
+          <x>Go rohtte balvvaid, de boahtá arvi.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Kun vetää pilveen, tulee sade.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">hurmata</t>
+
+        <t pos="V">lumota</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>vaivattomasti</re>
+
+        <t pos="V">joikata</t>
+
+        <xg>
+          <x>Muhtimat nu álkit rohttejit luođi dahje lávlot erenomáš
+          árbevirolaš lávlaga.</x>
+
+          <xt>Jotkut joikaavat niin helposti joiun tai laulavat erityisen
+          perinteisen laulun.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>joiku tai pari tms.</re>
+
+        <t pos="V">vedellä</t>
       </tg>
     </mg>
   </e>
@@ -11579,17 +11801,23 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">näkyä</t>
-
         <t t_type="phrase">olla punaisena</t>
 
-        <t pos="V">punottaa</t>
+        <t pos="V">punoittaa</t>
+
+        <t pos="V">punertaa</t>
 
         <xg>
           <x>Árranis hillabihtát ruoksájedje.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Hiilet hehkuivat punaisina tulisijassa.</xt>
         </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>silmästä</re>
+
+        <t pos="V">verestää</t>
       </tg>
     </mg>
   </e>
