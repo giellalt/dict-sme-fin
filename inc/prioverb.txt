@@ -48,16 +48,16 @@ lubmet ok
 luoitit ok
 lávet ok
 lávggodit ok
-mannat JOATKKE DÁS
-mearridit
-niegadit
-nohkat
-nohkkat
-oaivvildit
-orrut
-riehčut
-rohttet
-ruoksát
+mannat ok
+mearridit ok
+niegadit ok
+nohkat ok
+nohkkat ok
+oaivvildit ok
+orrut ok
+riehčut ok
+rohttet ok
+ruoksát JOATKKE DÁS
 sihtat
 soaitit
 suovastit
