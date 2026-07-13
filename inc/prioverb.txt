@@ -57,15 +57,15 @@ oaivvildit ok
 orrut ok
 riehčut ok
 rohttet ok
-ruoksát JOATKKE DÁS
-sihtat
-soaitit
-suovastit
-sáhttit
-veadjit
-viehkalit
-viššat
-vuolgit
+ruoksát ok
+sihtat ok
+soaitit ok
+suovastit ok
+sáhttit ok
+veadjit ok
+viehkalit ok
+viššat ok
+vuolgit JOATKKE DÁS
 vázzit
 ádjánit
 šaddat
