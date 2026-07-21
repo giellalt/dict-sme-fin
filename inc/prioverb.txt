@@ -65,12 +65,12 @@ sáhttit ok
 veadjit ok
 viehkalit ok
 viššat ok
-vuolgit JOATKKE DÁS
-vázzit
-ádjánit
-šaddat
-časkit
-čiehkádit
+vuolgit ok
+vázzit ok
+ádjánit ok
+šaddat ok
+časkit ok
+čiehkádit ok
 čohkohallat
 čuohcat
 čuojahit
