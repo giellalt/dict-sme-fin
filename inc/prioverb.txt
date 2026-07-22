@@ -71,22 +71,22 @@ vázzit ok
 šaddat ok
 časkit ok
 čiehkádit ok
-čohkohallat
-čuohcat
-čuojahit
-čuollat
-čuožžut
-šuvvat
-laktit
-láddet
-vuovdalit
-bonjahit
-bártašuvvat
-deddot
-dorvvastit
-gahkit
-geahččaladdat
-girddašit
+čohkohallat ok
+čuohcat ok
+čuojahit ok
+čuollat ok
+čuožžut ok
+šuvvat ok
+laktit ok
+láddet ok
+vuovdalit ok
+bonjahit ok
+bártašuvvat ok
+deddot ok
+dorvvastit ok
+gahkit ok
+geahččaladdat ok
+girddašit ok
 gozihit
 gurgánit
 hoallat
