@@ -44018,12 +44018,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t t_type="expl">raahautua hihnan päässä ajoporon perässä</t>
-
-        <xg>
-          <x>Reahka šlivgasii skohtera maŋis ja márkan fargga njavggodii.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
       </tg>
     </mg>
 
@@ -44454,12 +44448,14 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">häkeltyä</t>
 
+        <t pos="V">hämmentyä</t>
+
         <t pos="V">hermostua</t>
 
         <xg>
           <x>Ráttástuvan ain eanet, muhto bággen iežan čáze vuollái.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Hermostun yhä enemmän, mutta pakotan itseni veden alle.</xt>
         </xg>
       </tg>
     </mg>
@@ -44703,12 +44699,20 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t t_type="expl">tökkiä jollakin terävällä esineellä</t>
 
+        <t pos="V">tuikkia</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
         <t pos="V">nälviä</t>
+
+        <t pos="V">piikitellä</t>
 
         <xg>
           <x>Vurden gullat bártni bahča skuožurdeami.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Odotin pojan katkeran nälvimisen kuulemista.</xt>
         </xg>
       </tg>
     </mg>
@@ -44866,8 +44870,14 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Son sogŋostalai niidii ja oaččui miehtemielat vástádusa.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Hän kosi tyttöä ja sai myöntävän vastauksen.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="expl">viettää (perinteisiä) kihlajaisia</t>
       </tg>
     </mg>
   </e>
@@ -44961,27 +44971,23 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <re>nesteestä</re>
+
+        <t t_type="expl">jäätyä pinnalta</t>
+
         <t t_type="phrase">mennä riitteeseen</t>
 
         <xg>
           <x>Dálvemearka čakčat lea go jávrrit ja jogat spildot.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Talven merkki syksyllä on se, kun järvet ja joet jäätyvät.</xt>
         </xg>
 
         <xg>
           <x>Jávri spildu ihkku, muhto beaivvi ala sáhttá nálget.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Järvi jäätyy yöllä, mutta voi päivän aikana sulaa.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <re>nesteestä</re>
-
-        <t t_type="phrase">jäätyä pinnalta</t>
       </tg>
     </mg>
   </e>
@@ -45433,15 +45439,48 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <re>johonkin</re>
+
         <t pos="V">pyrkiä</t>
 
-        <t pos="V">tavoitella</t>
+        <t pos="V">yrittää</t>
+
+        <xg>
+          <x>Stáhta viggá olmmošvuoigatvuođaráđi miellahttun.</x>
+
+          <xt>Valtio pyrkii ihmisoikeusneuvoston jäseneksi.</xt>
+        </xg>
+
+        <xg>
+          <x>Mii viggat buot áššiin duohtavuhtii ja vuoiggalašvuhtii.</x>
+
+          <xt>Me pyrimme kaikissa asioissa totuuteen ja
+          oikeudenmukaisuuteen.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>tekemään jotakin</re>
+
+        <t pos="V">pyrkiä</t>
+
+        <t pos="V">yrittää</t>
 
         <xg>
           <x>Mun viggen čuorvut, muhto jietna dego darvánii čoddagii.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Yritin huutaa, mutta ääni ikään kuin takertui kurkkuun.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">suuntautua</t>
+
+        <t pos="V">orientoitua</t>
       </tg>
     </mg>
   </e>
@@ -45558,7 +45597,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Mu vuovssiha.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Minua oksettaa.</xt>
         </xg>
       </tg>
     </mg>
@@ -45704,8 +45743,22 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>In háhppehan átnut ándagassii.</x>
 
-          <xt>_FIN_</xt>
+          <xt>En ennättänyt pyytää anteeksi.</xt>
         </xg>
+
+        <xg>
+          <x>Daniel manai gonagasa lusa ja ánui su addit áiggi.</x>
+
+          <xt>Daniel meni kuninkaan luokse ja anoi häntä antamaan aikaa.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">sanoa</t>
+
+        <t pos="V">toivottaa</t>
       </tg>
     </mg>
   </e>
