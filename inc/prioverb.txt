@@ -100,12 +100,12 @@ sogŋostallat ok
 spildut ok
 viggat ok
 vuovssihit ok
-átnut
-áŋgiruššat
-čeargut
-čuoččahit
-bissehit
-árrit
+átnut ok
+áŋgiruššat ok
+čeargut ok
+čuoččahit ok
+bissehit ok
+árrit ok
 čálihit
 šnjirgut
 bálvalit
