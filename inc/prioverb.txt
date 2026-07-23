@@ -93,13 +93,13 @@ hoallat ok
 hálbbidit ok
 hárčet ok
 láhčit ok
-njavggodit
-ráttástuvvat
-skuožurdit
-sogŋostallat
-spildut
-viggat
-vuovssihit
+njavggodit ok
+ráttástuvvat ok
+skuožurdit ok
+sogŋostallat ok
+spildut ok
+viggat ok
+vuovssihit ok
 átnut
 áŋgiruššat
 čeargut
