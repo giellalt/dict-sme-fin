@@ -15577,7 +15577,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Son garrasit čuolai oarjelsámegiela beali.</x>
 
-          <xt>Hän puolusti kovasti eteläsaamen kieltä. </xt>
+          <xt>Hän puolusti kovasti eteläsaamen kieltä.</xt>
         </xg>
       </tg>
     </mg>
@@ -38515,7 +38515,7 @@ For the full license text, see the link above.</lic>
           rukses johtolatčuovggaide.</x>
 
           <xt>Jotkut yrittävät myydä sanomalehtiä autoilijoille, jotka
-          pysähtyvät punaisiin liikennevaloihin. </xt>
+          pysähtyvät punaisiin liikennevaloihin.</xt>
         </xg>
 
         <xg>
@@ -42811,20 +42811,34 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">vahtia</t>
 
+        <t pos="V">vartioida</t>
+
         <t t_type="phrase">valvoa jotakin</t>
 
-        <t pos="V">valvottaa</t>
+        <xg>
+          <x>Norga áigu gozihit mearrádusaid.</x>
+
+          <xt>Norja aikoo valvoa päätöksiä.</xt>
+        </xg>
 
         <xg>
           <x>Geahččalan aŋkke gozihit visot servodahkii gullevaš áššiid.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Yritän ainakin seurata kaikkia yhteiskunnallisia asioita.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">valvottaa</t>
+
+        <t t_type="expl">pitää valvomassa</t>
 
         <xg>
           <x>Ášši gozihii su ijaid.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Asia valvotti häntä öisin.</xt>
         </xg>
       </tg>
     </mg>
@@ -42955,13 +42969,17 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t t_type="phrase">asettua jonoon</t>
 
-        <t t_type="phrase">lähteä jonossa liikkeelle</t>
-
         <xg>
           <x>Biillat ledje gurgánan liikabiilla maŋábeallai.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Autot olivat asettuneet jonoon ruumisauton taakse.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="phrase">lähteä jonossa liikkeelle</t>
       </tg>
     </mg>
   </e>
@@ -43162,13 +43180,17 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">jaaritella</t>
+      </tg>
+    </mg>
 
+    <mg>
+      <tg xml:lang="fin">
         <t pos="V" var="sw">puhua</t>
 
         <xg>
           <x>Ii aktage sihtan hoallat dan birra.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Kukaan ei halunnut puhua siitä.</xt>
         </xg>
       </tg>
     </mg>
@@ -43231,13 +43253,15 @@ For the full license text, see the link above.</lic>
           <x>Dearvvašvuođadirektoráhtta háliida hálbbidit dearvvašlaš
           borramuša.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Terveysdirektoraatti haluaa alentaa terveellisen ruuan
+          hintaa.</xt>
         </xg>
 
         <xg>
           <x>Suohkan áigu mánáidgárdesajiid hálbbidit 10 proseanttain.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Kunta aikoo alentaa lastentarhapaikkojen hintoja 10
+          prosentilla.</xt>
         </xg>
       </tg>
     </mg>
@@ -43280,13 +43304,24 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t t_type="phrase">haarottaa jalkansa</t>
 
+        <t t_type="expl">levittää jalkansa</t>
+
+        <t t_type="expl">panna jalat haralleen</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
         <t pos="V">harpata</t>
+
+        <t pos="V">loikata</t>
 
         <xg>
           <x>Muittán dákkár diidda go: Nissonolmmoš ii galgan hárčet
           bivdobiergasiid badjel.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Muistan tällaisen taian kuin: Naisen ei pitänyt harpata
+          pyyntivälineiden yli.</xt>
         </xg>
       </tg>
     </mg>
@@ -43607,21 +43642,54 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t t_type="phrase">sijata vuode</t>
 
-        <t t_type="phrase">levittää liian laajalle</t>
+        <xg>
+          <x>láhčit beavddi</x>
+
+          <xt>kattaa pöytä</xt>
+        </xg>
 
         <xg>
           <x>Mun lean láhčán seaŋgga oađđin láhkai.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Olen sijannut vuoteen valmiiksi nukkumista varten.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>esim. toimenpidettä</re>
+
+        <t>valmistella</t>
 
         <xg>
           <x>Go eiseválddit álgoálggus leat láhčán dilálašvuođaid dákkárin, de
           sii fertejit sin iežaset giitit go dál lea dilli šaddan
           váttisin.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Kun viranomaiset ovat alun alkaen valmistelleet olosuhteet
+          sellaisiksi, heidän täytyy kiittää itseään, kun olosuhteista on nyt
+          muodostunut vaikeat. </xt>
         </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="V">järjestää</t>
+
+        <t pos="V">kuratoida</t>
+
+        <xg>
+          <x>Dáiddasearvvi dehálamos bargu lea láhčit dáiddačájáhusaid.</x>
+
+          <xt>Taiteilijayhdistyksen tärkein tehtävä on järjestää
+          taidenäyttelyitä.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="phrase">levittää liian laajalle</t>
       </tg>
     </mg>
   </e>
