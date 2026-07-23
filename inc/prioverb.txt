@@ -87,12 +87,12 @@ dorvvastit ok
 gahkit ok
 geahččaladdat ok
 girddašit ok
-gozihit
-gurgánit
-hoallat
-hálbbidit
-hárčet
-láhčit
+gozihit ok
+gurgánit ok
+hoallat ok
+hálbbidit ok
+hárčet ok
+láhčit ok
 njavggodit
 ráttástuvvat
 skuožurdit
