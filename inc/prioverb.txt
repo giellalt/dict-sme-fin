@@ -106,8 +106,8 @@ vuovssihit ok
 čuoččahit ok
 bissehit ok
 árrit ok
-čálihit
-šnjirgut
+čálihit ok
+šnjirgut ok
 bálvalit
 gorgŋet
 rievdat
