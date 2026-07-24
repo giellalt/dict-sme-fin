@@ -108,12 +108,12 @@ bissehit ok
 árrit ok
 čálihit ok
 šnjirgut ok
-bálvalit
-gorgŋet
-rievdat
-ávkkástallat
-ávžžuhit
-mielddisbuktit
+bálvalit ok
+gorgŋet ok
+rievdat ok
+ávkkástallat ok
+ávžžuhit ok
+mielddisbuktit ok
 vuhttot
 duššat
 vuollánit
