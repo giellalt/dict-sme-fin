@@ -47239,15 +47239,19 @@ For the full license text, see the link above.</lic>
 
         <t t_type="phrase">lähteä kiipeämään</t>
 
-        <t t_type="phrase">sauvoa nopeasti</t>
-
-        <t t_type="phrase">lähteä sauvomaan</t>
-
         <xg>
           <x>Fargga son lei gorgŋen nagirvárrái.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Pian hän oli unten mailla.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="phrase">sauvoa nopeasti</t>
+
+        <t t_type="phrase">lähteä sauvomaan</t>
       </tg>
     </mg>
   </e>
@@ -49749,15 +49753,46 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">muuttaa</t>
+        <re>vedessä</re>
 
-        <t pos="V">muuntaa</t>
+        <t pos="V">ajelehtia</t>
+
+        <t pos="V">kulkeutua</t>
 
         <xg>
-          <x>Davviriikkaid stáhtarievttálaš dilli rievddai ollu 1800-logu
-          álggogeahčen, Napoleon-sođiid oktavuođas.</x>
+          <x>Bohtal lei rievdan gáddái.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Pullo oli ajelehtinut rannalle.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="expl">erota jostakin</t>
+
+        <t t_type="expl">olla erilainen kuin jokin</t>
+
+        <t t_type="expl">olla erotettavissa jostakin</t>
+
+        <xg>
+          <x>Máret ii olu rievdda Ánnes.</x>
+
+          <xt>Máret ei Ánnesta paljon eroa.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">muuttua</t>
+
+        <t pos="V">muuntua</t>
+
+        <xg>
+          <x>Ii mihkkige leat rievdan.</x>
+
+          <xt>Mikään ei ole muuttunut.</xt>
         </xg>
       </tg>
     </mg>
@@ -49788,10 +49823,13 @@ For the full license text, see the link above.</lic>
 
         <t t_type="phrase">käyttää hyväksi</t>
 
+        <t pos="V">riistää</t>
+
         <xg>
           <x>Beroštupmi ávkkástallat luondduresurssaiguin lea lassáneamen.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Kiinnostus luonnonresurssien hyödyntämiseen on
+          lisääntymässä.</xt>
         </xg>
       </tg>
     </mg>
@@ -49959,7 +49997,8 @@ For the full license text, see the link above.</lic>
           <x>Sii ávžžuhedje su guođđit iežas politihkalaš doaimmaid sihke
           suohkanstivrras ja Sámedikkis.</x>
 
-          <xt>_FIN_</xt>
+          <xt>He kehottivat häntä jättämään poliittiset toimensa sekä
+          kunnanhallituksessa että Saamelaiskäräjillä.</xt>
         </xg>
       </tg>
     </mg>
@@ -49998,18 +50037,15 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">aiheuttaa</t>
 
-        <xg>
-          <x>Árvalus mielddisbuktá 200 miljovnna lasáhusa 2010 salderejuvvon
-          bušeahta ektui.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
         <t t_type="phrase">tuoda mukanaan</t>
+
+        <xg>
+          <x>Oahppoplánaid ođasmahttin mielddisbuktá dárbbu ođasmahttit
+          oahpponeavvuid.</x>
+
+          <xt>Opetussuunnitelmien uudistus tuo mukanaan tarpeen
+          opetusmateriaalien uudistamiselle.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
