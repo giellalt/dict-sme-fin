@@ -46992,16 +46992,124 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">kirjoituttaa</t>
 
-        <t t_type="phrase">hakea avioliittokuulutus</t>
+        <t t_type="expl">panna kirjoittamaan</t>
 
-        <t pos="V">viillättää</t>
+        <xg>
+          <x>Áhčči lei čálihan testamentta.</x>
+
+          <xt>Isä oli kirjoituttanut testamentin.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="expl">soveltua tai kelvata kirjoitettavaksi</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>rekisteriin tms.</re>
+
+        <t pos="V">kirjoituttaa</t>
+
+        <t pos="V">ilmoittautua</t>
 
         <xg>
           <x>Buohkat geat leat čálihan iežaset jienastuslohkui leat dien
           čilgehusa mielde sámit.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Kaikki, jotka ovat kirjoittautuneet äänestysluetteloon, ovat sen
+          tulkinnan mukaan saamelaisia. </xt>
         </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>maaomaisuutta</re>
+
+        <t pos="V">rekisteröidä</t>
+
+        <xg>
+          <x>Son čálihii allasis gittiid.</x>
+
+          <xt>Hän rekisteröi itsellensä kentät.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="phrase">hakea avioliittokuulutus</t>
+
+        <t t_type="expl">kuulututtaa itsensä avioliittoon</t>
+
+        <xg>
+          <x>Soagŋofárru vujii čálihit báhpagárdimii.</x>
+
+          <xt>Kosiosaattue ajoi pappilaan hakemaan kuulutukset.</xt>
+        </xg>
+
+        <xg>
+          <x>Son manná girkus gullan dihte geat leat čálihan.</x>
+
+          <xt>Hän käy kirkossa kuullakseen, ketkä ovat kuulututtaneet itsensä
+          avioliittoon.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>tavaraa kirjoittamalla</re>
+
+        <t pos="V">tilata</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">tulostaa</t>
+
+        <xg>
+          <x>Dán gihpaža lea vejolaš čálihit dábálaš báhpárii.</x>
+
+          <xt>Tämän vihkosen voi tulostaa tavalliselle paperille.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>esim. nylkyviilto teuraan nahkaan, kala auki suolistamista
+        varten</re>
+
+        <t pos="V">piirrättää</t>
+
+        <t pos="V">viillättää</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>viillättämällä jotakin vahingossa</re>
+
+        <t t_type="expl">saada halki</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="expl">soveltua tai kelvata piirrettäväksi,
+        viillettäväksi</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>tie, umpihankeen</re>
+
+        <t pos="V">tallauttaa</t>
+
+        <t pos="V">aukaista</t>
       </tg>
     </mg>
   </e>
@@ -47030,16 +47138,27 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">kimittää</t>
+      </tg>
 
+      <tg xml:lang="fin">
         <t pos="V">kirskua</t>
 
+        <xg>
+          <x>Sahá šnjirgu nuppi geahčen garáša.</x>
+
+          <xt>Saha kirskuu toisessa päässä autotallia.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
         <t pos="V">hirnua</t>
 
         <xg>
           <x>De gullá bárdni go gusat muhkot, sávzzat mehkot ja heasttat
           šnjirgot.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Silloin poika kuulee, kun lehmät ammuvat, lampaat määkivät ja
+          hevoset hirnuvat.</xt>
         </xg>
       </tg>
     </mg>
@@ -47054,17 +47173,39 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">palvella</t>
 
-        <t pos="V">mielistellä</t>
-
-        <t pos="V">orjailla</t>
-
-        <t pos="V">palvoa</t>
-
         <xg>
           <x>Hoteallabargit ledje gárvásat bálvalit olbmuid.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Hotellin työntekijät olivat valmiita palvelemaan ihmisiä.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">palvoa</t>
+
+        <xg>
+          <x>Ádjásuolu lea sámiid bassi báiki, man sii bálvaledje ja
+          gudnejahtte viidát.</x>
+
+          <xt>Ukonsaari on saamelaisten pyhä paikka, jota he palvoivat ja
+          kunnioittivat laajalti.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">mielistellä</t>
+
+        <t pos="V">liehakoida</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="V">orjailla</t>
+
+        <t t_type="expl">tehdä jatkuvasti jonkun mielen mukaan</t>
       </tg>
     </mg>
   </e>
