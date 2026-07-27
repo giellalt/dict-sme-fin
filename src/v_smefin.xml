@@ -50147,25 +50147,34 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">tuntua</t>
+        <re>jälkien perusteella: eläimistä</re>
+
+        <t>olla havaittavissa</t>
 
         <xg>
           <x>Rievssahiid varas luottat vuhttojit šiljus.</x>
 
-          <xt>_FIN_</xt>
-        </xg>
-
-        <xg>
-          <x>Buohkat gehčče sutnje, ja vuhttui ahte son ii liikon dasa.</x>
-
-          <xt>_FIN_</xt>
+          <xt>Pihalla oli havaittavissa riekkojen tuoreita jälkiä.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
+        <t pos="V">tuntua</t>
+
+        <t t_type="expl">olla havaittavissa</t>
+
+        <t pos="V">näkyä</t>
+
         <t pos="V">ilmetä</t>
+
+        <xg>
+          <x>Buohkat gehčče sutnje, ja vuhttui ahte son ii liikon dasa.</x>
+
+          <xt>Kaikki katsoivat häntä, ja oli havaittavissa, ettei hän pitänyt
+          siitä.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -50252,16 +50261,11 @@ For the full license text, see the link above.</lic>
         <t pos="V">tuhoutua</t>
 
         <xg>
-          <x>22-jahkásaš olmmái duššai biilalihkohisvuođas.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
-
-        <xg>
           <x>Son oaivvilda ahte mearrasámevuohta boahtá duššat jus skuvla
           galgá heaittihuvvot.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Hän on sitä mieltä, että merisaamelaisuus tulee katoamaan, jos
+          koulu lakkautetaan.</xt>
         </xg>
       </tg>
     </mg>
@@ -50269,6 +50273,12 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">menehtyä</t>
+
+        <xg>
+          <x>22-jahkásaš olmmái duššai biilalihkohisvuođas.</x>
+
+          <xt>22-vuotias mies menehtyi auto-onnettomuudessa.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -50281,24 +50291,82 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">alistua</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>tekemään jotakin</re>
+
+        <t pos="V">suostua</t>
+
+        <xg>
+          <x>Sii eai lean vuollánan guođđit boazodoalu.</x>
+
+          <xt>He eivät olleet suostuneet jättämään poronhoitoa.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>ja tehdä jotakin</re>
+
+        <t t_type="phrase">antaa periksi</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="V">lannistua</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="V">talttua</t>
+
+        <t pos="V">antautua</t>
+
+        <t t_type="phrase">antaa periksi</t>
+
+        <t pos="V">alistua</t>
 
         <xg>
           <x>Moai ean vuollán goassege.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Emme anna periksi koskaan.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="V">alentua</t>
+
+        <t pos="V">suostua</t>
+
+        <xg>
+          <x>Son ii allamielaidisguin vuollán midjiide oppa searvatge.</x>
+
+          <xt>Hän ei ylimielisyyttään alennu liittymään seuraammekaan.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">luovuttaa</t>
+        <re>tekemästä jotakin</re>
+
+        <t pos="V">luopua</t>
+
+        <xg>
+          <x>Loahpas son vuollánii vuordimis.</x>
+
+          <xt>Lopulta hän luopui odottamasta.</xt>
+        </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
+        <t pos="V">viettää</t>
+
         <t pos="V">alentua</t>
+
+        <t pos="V">aleta</t>
+
+        <t pos="V">madaltua</t>
       </tg>
     </mg>
   </e>
@@ -50382,19 +50450,31 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <t t_type="phrase">tavata tai löytää (varsinkin eläimen) jäljet</t>
+
         <t pos="V">jäljittää</t>
 
         <xg>
           <x>Máŋggas ledje vuohttán gumppe bávtti lahka.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Monet olivat löytäneet suden jälkiä kallion läheltä.</xt>
         </xg>
       </tg>
-    </mg>
 
-    <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">tavata jäljet</t>
+        <t pos="V">aavistaa</t>
+
+        <t pos="V">vaistota</t>
+
+        <t t_type="expl">olla havaitsevinaan</t>
+
+        <t pos="V">tuntea</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>jotakin, jota ei sanota selvin sanoin</re>
+
+        <t pos="V">arvata</t>
       </tg>
     </mg>
   </e>
