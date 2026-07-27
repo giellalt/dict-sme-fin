@@ -114,9 +114,9 @@ rievdat ok
 ávkkástallat ok
 ávžžuhit ok
 mielddisbuktit ok
-vuhttot
-duššat
-vuollánit
+vuhttot ok
+duššat ok
+vuollánit ok
 vuohttit
 ollašuvvat
 beaggit
