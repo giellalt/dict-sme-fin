@@ -117,12 +117,12 @@ mielddisbuktit ok
 vuhttot ok
 duššat ok
 vuollánit ok
-vuohttit
-ollašuvvat
-beaggit
-ceavzit
-vássit
-jávkadit
+vuohttit ok
+ollašuvvat ok
+beaggit ok
+ceavzit ok
+vássit ok
+jávkadit ok
 jurdilit
 njoammut
 bastit
