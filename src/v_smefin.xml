@@ -50486,19 +50486,23 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <t pos="V">toteutua</t>
+
         <t pos="V">täyttyä</t>
+
+        <t t_type="phrase">käydä toteen</t>
 
         <xg>
           <x>Ruhtadili geažil dat ii leat vel ollašuvvan.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Rahatilanteen vuoksi se ei ole vielä toteutunut.</xt>
         </xg>
-      </tg>
-    </mg>
 
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">toteutua</t>
+        <xg>
+          <x>Mu niehku ollašuvai.</x>
+
+          <xt>Unelmani kävi toteen.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -50578,17 +50582,37 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">kuulua</t>
 
-        <xg>
-          <x>Sii begget leat boahtán.</x>
+        <t t_type="expl">olla puheenaiheena</t>
 
-          <xt>_FIN_</xt>
+        <xg>
+          <x>Ášši lea beaggán mediain dán čavčča.</x>
+
+          <xt>Asia on ollut puheenaiheena mediassa tänä syksynä.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla puheenaiheena</t>
+        <re>tekevän, tapahtuvan tai olevan</re>
+
+        <t>kuulua</t>
+
+        <xg>
+          <x>Sii begget leat boahtán.</x>
+
+          <xt>He kuuluvat olevan tulleet.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>maineesta, puheesta tms.</re>
+
+        <t pos="V">kantautua</t>
+
+        <t pos="V">kiiriä</t>
       </tg>
     </mg>
   </e>
@@ -50620,35 +50644,83 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">kestää</t>
 
-        <xg>
-          <x>Bohccot cevze goavvedálvvi badjel.</x>
+        <t pos="V">selviytyä</t>
 
-          <xt>_FIN_</xt>
-        </xg>
+        <t pos="V">jaksaa</t>
 
-        <xg>
-          <x>Ánte dajai mojunjálmmiid ahte son lea ceavzán eksámenis.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
+        <t pos="V">pärjätä</t>
 
         <xg>
           <x>Áne lea ceavzán váivves diliid.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Áne on selviytynyt vaikeista tilanteista.</xt>
         </xg>
 
         <xg>
           <x>Sii navdet iežaset ceavzit bures.</x>
 
-          <xt>_FIN_</xt>
+          <xt>He olettavat selvitytyvänsä hyvin.</xt>
+        </xg>
+
+        <xg>
+          <x>Bohccot cevze goavvedálvvi badjel.</x>
+
+          <xt>Porot selviytyivät katotalven yli.</xt>
+        </xg>
+
+        <xg>
+          <x>Viissis olmmoš ceavzá heakkas garrage báikkis.</x>
+
+          <xt>Viisas ihminen selviää hengissä kovassakin paikassa.</xt>
+        </xg>
+
+        <xg>
+          <x>Johtolaga mielde ceavzá vánddardangápmagiiguin.</x>
+
+          <xt>Reitillä pärjää vaelluskengillä.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">selviytyä</t>
+        <t pos="V">suorittaa</t>
+
+        <t t_type="phrase">päästä läpi</t>
+
+        <xg>
+          <x>Ánte dajai mojunjálmmiid ahte son lea ceavzán eksámenis.</x>
+
+          <xt>Ánte sanoi hymyillen, että hän on päässyt läpi kokeesta.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>jollekulle</re>
+
+        <t pos="V">pärjätä</t>
+
+        <xg>
+          <x>Ii oktage ceavzán sus ii mange áššis.</x>
+
+          <xt>Ei kukaan pärjännyt hänelle missään asiassa.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>pilaantumattomana</re>
+
+        <t pos="V">säilyä</t>
+
+        <xg>
+          <x>Mielki ceavzá varasin dihto áigodaga.</x>
+
+          <xt>Maito säilyy tuoreena tietyn ajan.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -50734,24 +50806,45 @@ For the full license text, see the link above.</lic>
           <x>Dušše vihtta minuhta vásse ovdal go bessen luosa gáddái
           roahkastit.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Kului vain viisi minuuttia, ennen kuin pääsin koukkaamaan lohen
+          rantaan.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <re>suuttumuksesta tms</re>
+        <re>suuttumuksesta tms.</re>
 
         <t t_type="phrase">mennä ohi</t>
+
+        <t t_type="expl">kulkea ohi</t>
+
+        <xg>
+          <x>Bahámus heahpat lei vássán.</x>
+
+          <xt>Pahin häpeä oli mennyt ohi.</xt>
+        </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <re>sateesta kivusta tms</re>
+        <re>sateesta, kivusta tms.</re>
 
         <t pos="V">lakata</t>
+
+        <xg>
+          <x>Arvvit leat vássán.</x>
+
+          <xt>Sateet ovat lakanneet.</xt>
+        </xg>
+
+        <xg>
+          <x>Son dovddai bákčasiid vehážiid vássimin.</x>
+
+          <xt>Hän tunsi kipujen vähitellen lakkaavan.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -50763,19 +50856,31 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <t pos="V">häivyttää</t>
+
         <t pos="V">hävittää</t>
+
+        <t pos="V">poistaa</t>
 
         <xg>
           <x>Guovllan gámaluottaide maid muohta lea jávkadeamen.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Silmään kengänjälkiä, joita lumi on häivyttämässä.</xt>
+        </xg>
+
+        <xg>
+          <x>Sii jávkadit divrriid viesuin.</x>
+
+          <xt>He hävittävät hyönteisiä taloista.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">poistaa</t>
+        <t pos="V">varastaa</t>
+
+        <t pos="V">vohkia</t>
       </tg>
     </mg>
   </e>
