@@ -47021,7 +47021,7 @@ For the full license text, see the link above.</lic>
           čilgehusa mielde sámit.</x>
 
           <xt>Kaikki, jotka ovat kirjoittautuneet äänestysluetteloon, ovat sen
-          tulkinnan mukaan saamelaisia. </xt>
+          tulkinnan mukaan saamelaisia.</xt>
         </xg>
       </tg>
 
@@ -51000,20 +51000,31 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <re>nopeasti</re>
+
         <t pos="V">ajatella</t>
 
         <xg>
           <x>Nillá jurdilii fitnat dieđiheamen áššis juoba Pente- ja
           Ánde-guoktái.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Nillá ajatteli käydä ilmoittamassa asiasta ainakin Pentelle ja
+          Ándelle.</xt>
         </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>jollekulle</re>
+
+        <t>juolahtaa mieleen</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">juolahtaa mieleen</t>
+        <re>ajatuksen voimalla joksikin</re>
+
+        <t pos="V">taikoa</t>
       </tg>
     </mg>
   </e>
@@ -51087,17 +51098,57 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">madella</t>
 
+        <t pos="V">mataa</t>
+
+        <t pos="V">luikerrella</t>
+
+        <t pos="V">mönkiä</t>
+
+        <t pos="V">ryömiä</t>
+
+        <xg>
+          <x>Gearpmaš njoamui olggos báhkkasa geažil.</x>
+
+          <xt>Käärme luikerteli ulos kuumuuden vuoksi.</xt>
+        </xg>
+
         <xg>
           <x>Nagirčalmmiid njommon seaŋggas eret.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Ryömin unisin silmin pois sängystä.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">ryömiä</t>
+        <t pos="V">laahustaa</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>sairaasta, heikosta ihmisestä</re>
+
+        <t t_type="phrase">olla jalkeilla</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>esim. taudista</re>
+
+        <t pos="V">tarttua</t>
+
+        <xg>
+          <x>Golgodávda ii njoamo olbmuide.</x>
+
+          <xt>Kulkutauti ei tartu ihmisiin.</xt>
+        </xg>
+
+        <xg>
+          <x>Rávisolbmuid mokta njoammu mánáide.</x>
+
+          <xt>Aikuisten into tarttuu lapsiin.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -51141,17 +51192,48 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">kyetä</t>
 
+        <t pos="V">pystyä</t>
+
         <xg>
           <x>Muhto buohkat eahpidedje ahte basttášiigo oktage deavdit guorusin
           báhcán saji.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Mutta kaikki epäilivät, pystyisikö kukaan täyttämään tyhjäksi
+          jäänyttä paikkaa.</xt>
+        </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="V">tepsiä</t>
+
+        <xg>
+          <x>Dálkasat eai bastte luossadihkiide.</x>
+
+          <xt>Lääkkeet eivät tepsi lohitäihin.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
+        <re>esim. laki</re>
+
+        <t t_type="phrase">olla voimassa</t>
+
+        <t pos="V">vaikuttaa</t>
+
+        <xg>
+          <x>Eai sidjiide bastte makkárge lágat ja njuolggadusat.</x>
+
+          <xt>Heihin eivät vaikuta minkäänlaiset lait ja säännöt.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>johonkin, puukosta tms.</re>
+
         <t pos="V">pystyä</t>
       </tg>
     </mg>
@@ -51196,23 +51278,20 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">jakaantua</t>
 
+        <t pos="V">jakautua</t>
+
         <xg>
           <x>Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).</x>
 
-          <xt>_FIN_</xt>
+          <xt>Korkein oikeus jakautui enemmistöön ja vähemmistöön (9–6).</xt>
         </xg>
 
         <xg>
           <x>Ná juohkásii Sámi kulturfoandda doarjja jagi 2000:s.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Näin jakautui Saamelaisen kulttuurirahaston tuki vuonna
+          2000.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">jakautua</t>
       </tg>
     </mg>
   </e>
@@ -51229,14 +51308,14 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Olmmoš sáhttá omd. golahit ruđaid dahje áiggi.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Ihminen voi kuluttaa esimerkiksi rahaa tai aikaa.</xt>
         </xg>
       </tg>
-    </mg>
 
-    <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">käyttää loppuun</t>
+        <re>vähiin tai loppuun</re>
+
+        <t pos="V">käyttää</t>
       </tg>
     </mg>
   </e>
