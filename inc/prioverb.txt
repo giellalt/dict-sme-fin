@@ -123,11 +123,11 @@ beaggit ok
 ceavzit ok
 vássit ok
 jávkadit ok
-jurdilit
-njoammut
-bastit
-juohkásit
-golahit
+jurdilit ok
+njoammut ok
+bastit ok
+juohkásit ok
+golahit ok
 bohciidit
 guorrasit
 badjelgeahččat
