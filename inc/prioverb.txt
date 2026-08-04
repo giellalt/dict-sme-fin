@@ -128,10 +128,10 @@ njoammut ok
 bastit ok
 juohkásit ok
 golahit ok
-bohciidit
-guorrasit
-badjelgeahččat
-baldit
+bohciidit ok
+guorrasit ok
+badjelgeahččat ok
+baldit ok
 botket
 fuollat
 čoahkkinastit
