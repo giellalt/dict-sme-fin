@@ -132,16 +132,16 @@ bohciidit ok
 guorrasit ok
 badjelgeahččat ok
 baldit ok
-botket
-fuollat
-čoahkkinastit
-gánnehit
-ásaiduvvat
-áibbašit
-bággehallat
-bahkkehit
-bidjalit
-bijadit
+botket ok
+fuollat ok
+čoahkkinastit ok
+gánnehit ok
+ásaiduvvat ok
+áibbašit ok
+bággehallat ok
+bahkkehit ok
+bidjalit ok
+bijadit ok
 bonjastit
 borggistit
 botnjasaddat
