@@ -51405,25 +51405,33 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <t pos="V">viritä</t>
+
+        <t pos="V">kehittyä</t>
+
+        <t pos="V">versoa</t>
+
         <t pos="V">syntyä</t>
 
-        <xg>
-          <x>Das bohciida dat ahte …</x>
-
-          <xt>_FIN_</xt>
-        </xg>
+        <t pos="V">kehkeytyä</t>
 
         <xg>
           <x>Gos nu čiekŋalasas bohciidedje ártegis jurdagat.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Jostakin syvältä versoi omituisia ajatuksia.</xt>
         </xg>
       </tg>
-    </mg>
 
-    <mg>
       <tg xml:lang="fin">
-        <t pos="V">kehittyä</t>
+        <re>jostakin</re>
+
+        <t pos="V">seurata</t>
+
+        <xg>
+          <x>Das bohciida dat ahte …</x>
+
+          <xt>Siitä seuraa se, että...</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -51437,17 +51445,31 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">mukautua</t>
 
+        <t pos="V">myöntyä</t>
+
+        <t t_type="phrase">yhtyä mielipiteeseen</t>
+
+        <t pos="V">suostua</t>
+
         <xg>
           <x>Sámediggi guorrasa lávdegotti evttohussii.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Samelaiskäräjät yhtyy lautakunnan ehdotukseen.</xt>
         </xg>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>johonkuhun, sukuunsa tms.</re>
+
+        <t pos="V">tulla</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">myöntyä</t>
+        <re>nesteestä, kaadettaessa</re>
+
+        <t t_type="expl">valua astian kylkeä pitkin</t>
       </tg>
     </mg>
   </e>
@@ -51471,20 +51493,22 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
+        <t pos="V">väheksyä</t>
+
         <t pos="V">ylenkatsoa</t>
+
+        <t pos="V">hyljeksiä</t>
+
+        <t pos="V">halveksia</t>
+
+        <t pos="V">vähätellä</t>
 
         <xg>
           <x>Mii eat divtte gávpotkultuvrra badjelgeahččat iežamet
           kultuvrra.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Emme salli kaupunkikulttuurin väheksyä omaa kulttuuriamme.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t t_type="phrase">jättää huomiotta</t>
       </tg>
     </mg>
   </e>
@@ -51692,17 +51716,16 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">pelottaa</t>
 
+        <t t_type="expl">panna pelkäämään jotakin</t>
+
+        <t pos="V">pelästyttää</t>
+
         <xg>
           <x>Olbmot ja beatnagat balde gumppiid ja ledje dorvun bohccuide.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Ihmiset ja koirat pelottivat susia ja olivat turvana
+          poroille.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">pelästyttää</t>
       </tg>
     </mg>
   </e>
@@ -51775,24 +51798,22 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">katkaista</t>
-
-        <xg>
-          <x>Searvi áigu botket oktavuođa fylkabellodagainis.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
         <t pos="V">erottaa</t>
+
+        <t pos="V">lohkaista</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">panna välit poikki</t>
+        <t pos="V">keskeyttää</t>
+
+        <t pos="V">lopettaa</t>
       </tg>
     </mg>
   </e>
