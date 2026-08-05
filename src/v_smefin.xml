@@ -54752,25 +54752,23 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">vääntää (kerran, nopeasti)</t>
+        <re>kerran, nopeasti</re>
+
+        <t pos="V">vääntää</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>äkkiä</re>
+
+        <t pos="V">kääntää</t>
 
         <xg>
           <x>Elsa bonjastii čoavdaga ja vuoddjái.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Elsa käänsi avainta ja lähti ajamaan.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">väännähyttää</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">väännältää</t>
       </tg>
     </mg>
   </e>
@@ -54946,24 +54944,30 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">tupruta</t>
 
+        <t pos="V">pöllytä</t>
+
+        <t pos="V">höyrytä</t>
+
+        <xg>
+          <x>Suovva borggistii darfegoađis.</x>
+
+          <xt>Savu tuprusi turvekodasta.</xt>
+        </xg>
+
         <xg>
           <x>Giebat ja gunat dušše borggistedje, muhto ii lean šat nu
           báhkas.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Noki ja tuhka vain pöllysivät, mutta ei ollut enää niin
+          kuuma.</xt>
         </xg>
-      </tg>
-    </mg>
 
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">pöllytä</t>
-      </tg>
-    </mg>
+        <xg>
+          <x>Ruittuin borggistedje bierggut, gumposat, norrasat ja
+          márffit.</x>
 
-    <mg>
-      <tg xml:lang="fin">
-        <t t_type="phrase">höyrytä (sakeana)</t>
+          <xt>Padoissa höyrysivät lihat, kumpukset, ydinluut ja makkarat.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -55188,9 +55192,9 @@ For the full license text, see the link above.</lic>
         <t pos="V">vääntelehtiä</t>
 
         <xg>
-          <x>Čoavji botnjasaddá baluin.</x>
+          <x>Mun botnjasattan bákčasiin.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Vääntelehdin kipujen kourissa.</xt>
         </xg>
       </tg>
     </mg>
@@ -55198,6 +55202,8 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">tuskailla</t>
+
+        <t pos="V">kiemurrella</t>
       </tg>
     </mg>
   </e>
@@ -56824,17 +56830,63 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">potkaista</t>
 
+        <t pos="V">polkaista</t>
+
         <xg>
           <x>Son čievččasta čižžedoalana nuppi geahčái viesu.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Hän potkaisee rintaliivit toiseen päähän taloa.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">vanuttaa (sarkaa, vähän)</t>
+        <re>kivääristä tms.</re>
+
+        <t pos="V">potkaista</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t t_type="expl">syöttää peliväline potkaisemalla</t>
+
+        <xg>
+          <x>Mikkel čievččastii muhtumii spáppa.</x>
+
+          <xt>Mikkel syötti pallon jollekin.</xt>
+        </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>lattian laudat</re>
+
+        <t t_type="expl">melkein päästä pontista</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>vanteesta</re>
+
+        <t pos="V">irrota</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">sännätä</t>
+
+        <t pos="V">ponkaista</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>sarkaa, vähän</re>
+
+        <t pos="V">vanuttaa</t>
       </tg>
     </mg>
   </e>
@@ -57328,23 +57380,25 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">panna</t>
 
+        <t pos="V">pistää</t>
+
+        <t pos="V">tuikata</t>
+
+        <t pos="V">pujauttaa</t>
+
+        <t pos="V">sujauttaa</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <re>nopeasti</re>
+
+        <t t_type="expl">lisätä puita</t>
+
         <xg>
           <x>Jovnna čohkkeda ommana gurrii ja coggala dollii moadde muora.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Jovnna istahtaa uunin ääreen ja lisää uuniin muutaman puun.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t t_type="phrase">pistää (nopeasti)</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">tuikata</t>
       </tg>
     </mg>
 
