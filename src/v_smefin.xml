@@ -63338,7 +63338,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Hánsa lei viššal guovlladit su luhtte.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Hánsa oli ahkera pistäytymään hänen luonaan.</xt>
         </xg>
       </tg>
     </mg>
@@ -63348,6 +63348,12 @@ For the full license text, see the link above.</lic>
         <t pos="V">pilkahtaa</t>
 
         <t pos="V">pilkistää</t>
+
+        <xg>
+          <x>Beaivváš guovlladii balvalanjas.</x>
+
+          <xt>Aurinko pilkisti pilvenraosta.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -63661,17 +63667,19 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t t_type="phrase">saada häpeämään</t>
 
+        <t pos="V">häpäistä</t>
+
         <xg>
-          <x>Reahttadeimme, dat han lei albma hersko.</x>
+          <x>Dat hehppehii eambbo go boagustahtii.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Se sai häpeämään enemmän kuin nauramaan.</xt>
         </xg>
-      </tg>
-    </mg>
 
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">hävetyttää</t>
+        <xg>
+          <x>Eat áiggo hehppehit saji go diehtit báikki historjjá.</x>
+
+          <xt>Emme aio häpäistä paikkaa, kun tiedämme paikan historian.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -63926,9 +63934,9 @@ For the full license text, see the link above.</lic>
         <t pos="V">hoputella</t>
 
         <xg>
-          <x>It dárbbaš hohpohallat.</x>
+          <x>Mikkel orui hohpohallame Máhte.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Mikkel vaikutti hoputtelevan Máhttea.</xt>
         </xg>
       </tg>
     </mg>
@@ -63936,6 +63944,14 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">hoppuilla</t>
+
+        <t t_type="phrase">pitää kiirettä</t>
+
+        <xg>
+          <x>It dárbbaš hohpohallat.</x>
+
+          <xt>Sinun ei tarvitse pitää kiirettä.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
