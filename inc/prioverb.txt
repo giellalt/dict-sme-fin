@@ -155,12 +155,12 @@ fáhtehallat ok
 geahčastallat ok
 gevrehallat ok
 gohčohaddat ok
-gohčohallat
-golahallat
-guottihit
-guovlladit
-hehppehit
-hohpohallat
+gohčohallat ok
+golahallat ok
+guottihit ok
+guovlladit ok
+hehppehit ok
+hohpohallat ok
 iđistit
 jolggadit
 jovssahallat
