@@ -146,15 +146,15 @@ bonjastit ok
 borggistit ok
 botnjasaddat ok
 čievččastit ok
-coggalit
-čukkodit
-čuoibmulit
-doalahallat
-duolmmastit
-fáhtehallat
-geahčastallat
-gevrehallat
-gohčohaddat
+coggalit ok
+čukkodit ok
+čuoibmulit ok
+doalahallat ok
+duolmmastit ok
+fáhtehallat ok
+geahčastallat ok
+gevrehallat ok
+gohčohaddat ok
 gohčohallat
 golahallat
 guottihit
