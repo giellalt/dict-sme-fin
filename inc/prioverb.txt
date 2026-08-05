@@ -142,10 +142,10 @@ bággehallat ok
 bahkkehit ok
 bidjalit ok
 bijadit ok
-bonjastit
-borggistit
-botnjasaddat
-čievččastit
+bonjastit ok
+borggistit ok
+botnjasaddat ok
+čievččastit ok
 coggalit
 čukkodit
 čuoibmulit
