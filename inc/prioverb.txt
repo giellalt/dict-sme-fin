@@ -161,15 +161,15 @@ guottihit ok
 guovlladit ok
 hehppehit ok
 hohpohallat ok
-iđistit
-jolggadit
-jovssahallat
-láhttestit
-lihkahallat
-liikostit
-livžžodit
-masttadit
-mohkkasaddat
+iđistit ok
+jolggadit ok
+jovssahallat ok
+láhttestit ok
+lihkahallat ok
+liikostit ok
+livžžodit ok
+masttadit ok
+mohkkasaddat ok
 njalppihit
 nuonddahallat
 oidnostit
