@@ -170,17 +170,17 @@ liikostit ok
 livžžodit ok
 masttadit ok
 mohkkasaddat ok
-njalppihit
-nuonddahallat
-oidnostit
-orustastit
-rábmostallat
-rohttestit
-sáhkkohallat
-sáhpodit
-sattáhallat
-šlivgasaddat
-soaiggáhallat
+njalppihit ok
+nuonddahallat ok
+oidnostit ok
+orustastit ok
+rábmostallat ok
+rohttestit ok
+sáhkkohallat ok
+sáhpodit ok
+sattáhallat ok
+šlivgasaddat ok
+soaiggáhallat ok
 válddástallat
 vealládit
 velohallat
