@@ -64085,29 +64085,17 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">ilmaantua</t>
 
+        <t pos="V">ilmestyä</t>
+
+        <t t_type="expl">näyttäytyä (nopeasti)</t>
+
+        <t t_type="phrase">tulla tupsahtaa</t>
+
         <xg>
           <x>Báifáhkka iđistii čuovga.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Valo ilmaantui yhtäkkiä.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">ilmestyä</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t t_type="phrase">näyttäytyä (nopeasti)</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t t_type="phrase">tulla tupsahtaa</t>
       </tg>
     </mg>
   </e>
@@ -64427,17 +64415,21 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">juljeta</t>
 
+        <t pos="V">kehdata</t>
+
+        <xg>
+          <x>Heahpatmeahttumat nu fasttet jolggadedje givssidit gárgos su
+          ráhkis luossaveajehiid.</x>
+
+          <xt>Häpeämättömät niin rumasti julkesivat kiusata särkällä hänen
+          rakkaita lohenpoikasiaan.</xt>
+        </xg>
+
         <xg>
           <x>In jolggat boradit earáid oaidnut.</x>
 
-          <xt>_FIN_</xt>
+          <xt>En kehtaa syödä muiden nähden.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">kehdata</t>
       </tg>
     </mg>
   </e>
@@ -64589,24 +64581,29 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t t_type="phrase">tulla saavutetuksi</t>
 
-        <xg>
-          <x>Rieban jovssahalai gumpii.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
+        <t t_type="expl">tulla tavoitetuksi</t>
 
         <xg>
           <x>Jus heajos dálkái jovssahalat, de lea dehálaš ahte dus leat
           buorit biktasat.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Jos huono sää saavuttaa sinut, on tärkeää, että sinulla on hyvät
+          vaatteet.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="V">tavoitetuksi</t>
+        <re>takaa-ajetusta</re>
+
+        <t t_type="phrase">jäädä kiinni</t>
+
+        <xg>
+          <x>Rieban jovssahalai gumpii.</x>
+
+          <xt>Susi sai ketun kiinni.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -64921,23 +64918,15 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">lausahtaa</t>
 
+        <t pos="V">virkkaa</t>
+
+        <t pos="V">tokaista</t>
+
         <xg>
           <x>Gal mun ipmirdan! láhttestii áhkku.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Kyllä minä ymmärrän! tokaisi isoäiti.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">virkkaa</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">tokaista</t>
       </tg>
     </mg>
   </e>
@@ -65309,22 +65298,22 @@ For the full license text, see the link above.</lic>
         <t pos="V">liikutella</t>
 
         <xg>
-          <x>It galgga lihkahallat maidege!</x>
-
-          <xt>_FIN_</xt>
-        </xg>
-
-        <xg>
           <x>Bussá lihkahalai beljiid.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Kissa liikutteli korviaan.</xt>
         </xg>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kajota (jhnkin)</t>
+        <t t_type="phrase">kajota (johonkin)</t>
+
+        <xg>
+          <x>It galgga lihkahallat maidege!</x>
+
+          <xt>Sinun ei pidä kajota mihinkään!</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -65422,29 +65411,21 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">mieltyä</t>
 
+        <t pos="V">ihastua</t>
+
+        <t pos="V">tykästyä</t>
+
         <xg>
           <x>Liikostin su gáktái.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Ihastuin hänen saamenpukuunsa.</xt>
         </xg>
 
         <xg>
           <x>Mun lean liikostan muhtun bárdnái.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Olen ihastunut erääseen poikaan.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">ihastua</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t t_type="phrase">tykästyä (johonkin)</t>
       </tg>
     </mg>
   </e>
@@ -65488,29 +65469,27 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">hyöriskellä</t>
 
+        <t pos="V">hääriä</t>
+
         <xg>
           <x>Oahpaheaddji livžžoda luohkkálanjas.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Opettaja häärii luokkahuoneessa.</xt>
         </xg>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>revontulista</re>
+
+        <t pos="V">liekehtiä</t>
 
         <xg>
           <x>Guovssahas livžžoda almmis.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Revontulet liekehtivät taivaalla.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">hääriä</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t t_type="phrase">liekehtiä (revontulet)</t>
       </tg>
     </mg>
   </e>
@@ -66146,25 +66125,13 @@ For the full license text, see the link above.</lic>
 
         <t pos="V">sekaantua</t>
 
-        <t t_type="phrase">sekoittua vähin erin</t>
+        <t t_type="phrase">sekoittua toisiinsa</t>
 
         <xg>
           <x>Ealut masttadit ránnjáčearuiguin.</x>
 
-          <xt>_FIN_</xt>
+          <xt>Poroelot sekoittuvat naapuripaliskuntien kanssa.</xt>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="V">mastailla</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t t_type="phrase">sekaantua, sekoittua toisiinsa</t>
       </tg>
     </mg>
   </e>
@@ -66365,12 +66332,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">kääntyillä</t>
-
-        <xg>
-          <x>Geaidnu mohkkasaddá suhkkes ruonas vuvddiid čađa.</x>
-
-          <xt>_FIN_</xt>
-        </xg>
       </tg>
     </mg>
 
@@ -66383,6 +66344,18 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">kääntyilytyttää</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">pujotella</t>
+
+        <xg>
+          <x>Geaidnu mohkkasaddá suhkkes ruonas vuvddiid čađa.</x>
+
+          <xt>Tie pujottelee tiheiden, vihreiden metsien läpi.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -66888,18 +66861,15 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">lipsahtaa</t>
 
+        <t t_type="expl">luiskahtaa (kädestä, otteesta, vyöstä tms.; myös
+        pideltävästä esineestä)</t>
+
         <xg>
           <x>Niibi sáhttá njalppihit jos ribaha čuohpadettiin šleaivalit go
           niibi lea bastteheapme.</x>
 
-          <xt>_FIN_</xt>
+          <xt/>
         </xg>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t t_type="expl">luiskahtaa (kädestä, otteesta, vyöstä tms)</t>
       </tg>
     </mg>
   </e>
