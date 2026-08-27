@@ -6809,7 +6809,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">pororikas</t>
+        <t pos="A">pororikas</t>
       </tg>
     </mg>
   </e>
@@ -34401,7 +34401,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <re>ihmistä</re>
 
-        <t pos="N">kymmenen</t>
+        <t pos="Num">kymmenen</t>
 
         <xg>
           <x>Finnmárkkus ledje logis evttohuvvon dán jagáš
@@ -64804,7 +64804,7 @@ For the full license text, see the link above.</lic>
 
         <t pos="N">mummo</t>
 
-        <t pos="N">vanha(hko) nainen</t>
+        <t t_type="phrase">vanha(hko) nainen</t>
 
         <xg>
           <x>Boares áhkku jearai unna bártnážis busses gille go sirdit eret
@@ -72381,7 +72381,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <re>ihmistä</re>
 
-        <t pos="N">kaksi</t>
+        <t pos="Num">kaksi</t>
 
         <xg>
           <x>Guovttis eaba ožžon bálkáhuvvon virgelobi.</x>
@@ -78086,7 +78086,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="N">finn</l>
+      <l pos="N">finne</l>
     </lg>
 
     <mg>
@@ -150669,23 +150669,6 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">tanskalainen</t>
 
-        <xg>
-          <x>dánskalaš biebmokultuvra</x>
-
-          <xt>tanskalainen ruokakulttuuri</xt>
-        </xg>
-
-        <xg>
-          <x>dánskalaš</x>
-
-          <xt>_FIN_</xt>
-        </xg>
-
-        <xg>
-          <x>dánskalaš</x>
-
-          <xt>_FIN_</xt>
-        </xg>
       </tg>
     </mg>
   </e>
