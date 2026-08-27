@@ -140372,4 +140372,301 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="V">bumpašuvvat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>pumppauksen seurauksena</re>
+
+        <t pos="V">täyttyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">earuhuvvat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">erottua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">gádjašuvvat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">pelastua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">jápmašuvvat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>vähitellen</re>
+
+        <t pos="V">kuoleentua</t>
+
+        <t pos="V">kuolettua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">liibmašuvvat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">liimautua</t>
+
+        <t pos="V">tarttua</t>
+      </tg>
+    </mg>
+  </e>
+
+
+  <e>
+    <lg>
+      <l pos="V">miellašuvvat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">mielistyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">sáddut</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">kiroilla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">allut</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>korkeammaksi</re>
+
+        <t pos="V">yletä</t>
+
+        <t pos="V">kohota</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">boltot</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>paleltumisen vuoksi</re>
+
+        <t pos="V">ajettua</t>
+
+        <t pos="V">pöhöttyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">cahcat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>joku</re>
+
+        <t pos="V">työntää</t>
+
+        <t pos="Adv">sivuun</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">cihcat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>verkkoa, nuottaa</re>
+
+        <t pos="V">värjätä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">dáhppat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>paksussa lumessa, porosta</re>
+
+        <t pos="V">hyppiä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">dánsat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <geo>R</geo>
+
+        <gramm>R</gramm>
+
+        <t pos="V">tanssia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">dearbmát</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>kyhmystä, paakusta</re>
+
+        <t pos="V">kalvaa</t>
+
+        <t pos="V">kaikertaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">biksat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>lintu esim. ihmisen kimppuun pesimäaikana</re>
+
+        <t pos="V">syöksyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">doassat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>tulta</re>
+
+        <t pos="V">kohentaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">gárremastit</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">juopotella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">hášet</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>heinää</re>
+
+        <t pos="V">haasioida</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">holvet</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>erit. sudesta</re>
+
+        <t pos="V">ulvaista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">šlávvat</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <re>erit. vaatteista</re>
+
+        <t pos="V">kostua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">šuđđit</l>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">puhista</t>
+      </tg>
+    </mg>
+  </e>
+
+
+
 </r>
