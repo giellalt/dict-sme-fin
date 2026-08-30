@@ -3935,20 +3935,6 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="A">dánáigge</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">nykyään</t>
-
-        <t pos="A">nykyaikana</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="A">dárbbašlaš</l>
     </lg>
 
@@ -6123,19 +6109,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="A">guovllulaš</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">alueellinen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">guovlulaš</l>
+      <l pos="A">guovllolaš</l>
     </lg>
 
     <mg>
@@ -13337,7 +13311,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="A">seammaládje</l>
+      <l pos="A">seamma ládje</l>
     </lg>
 
     <mg>
@@ -21376,18 +21350,6 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="A">modearna</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">uudenaikainen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="A">jurddašeaddji</l>
     </lg>
 
@@ -28396,7 +28358,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="A">guovlupolitihkalaš</l>
+      <l pos="A">guovllupolitihkka</l>
     </lg>
 
     <mg>
@@ -32446,7 +32408,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="A">minuhtasaš</l>
+      <l pos="A">minuhttasaš</l>
     </lg>
 
     <mg>
@@ -32554,6 +32516,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="A">moderni</t>
+        <t pos="A">uudenaikainen</t>
       </tg>
     </mg>
 
@@ -39018,7 +38981,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="A">imašhámát</l>
+      <l pos="A">imašhámat</l>
     </lg>
 
     <mg>
@@ -41131,7 +41094,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="A">ánssaškeahtes</l>
+      <l pos="A">ánssáškeahtes</l>
     </lg>
 
     <mg>
@@ -44102,7 +44065,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="A">binnalat</l>
+      <l pos="A">binnálat</l>
     </lg>
 
     <mg>
@@ -51578,24 +51541,6 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="A">eaŋgalslaš</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">englantilainen</t>
-
-        <xg>
-          <x>eaŋgalslaš biila</x>
-
-          <xt>englantilainen auto</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="A">englándalaš</l>
     </lg>
 
@@ -58714,7 +58659,7 @@ For the full license text, see the link above.</lic>
 
   <e>
     <lg>
-      <l pos="A">iešduddjojuvvon</l>
+      <l pos="A">iešduddjon</l>
     </lg>
 
     <mg>
