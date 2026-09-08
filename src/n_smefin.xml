@@ -214744,7 +214744,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">suomalaisnainen</t>
 
-        <t pos="N">"lannanriuku"</t>
+        <t pos="N" re="lotnasátni">lannanriuku</t>
       </tg>
     </mg>
   </e>
@@ -259301,8 +259301,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <re>terävä luu poron sydänrasvassa</re>
-
-        <t pos="N">"ketunnuoli"</t>
+        <t pos="N">ketunnuoli</t>
       </tg>
     </mg>
   </e>
@@ -293920,10 +293919,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <gramm>"teevee"</gramm>
-
         <t pos="N">TV</t>
-
         <t pos="N">televisio</t>
       </tg>
     </mg>
