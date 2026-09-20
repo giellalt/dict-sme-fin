@@ -10883,6 +10883,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="A">omahyväinen</t>
+        <xg>
+          <x>oamivánhurskkes áddjá</x>
+
+          <xt>omahyväinen vaari</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -38154,18 +38159,6 @@ For the full license text, see the link above.</lic>
   <e>
     <lg>
       <l pos="A">vepsalaš</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">vepsäläinen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vepselaš</l>
     </lg>
 
     <mg>
@@ -67431,24 +67424,6 @@ For the full license text, see the link above.</lic>
           <x>Mun ledjen áŋgir čohkket oapmegirjjiid.</x>
 
           <xt>Olin innokas keräämään vanhoja kirjoja.</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">oamivanhurskkis</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">omahyväinen</t>
-
-        <xg>
-          <x>oamivánhurskkes áddjá</x>
-
-          <xt>omahyväinen vaari</xt>
         </xg>
       </tg>
     </mg>
