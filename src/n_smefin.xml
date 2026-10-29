@@ -57939,7 +57939,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">sulakala</t>
+        <t pos="N">suolakala</t>
 
         <t t_type="phrase">suolattu kala</t>
       </tg>
@@ -214744,7 +214744,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="N">suomalaisnainen</t>
 
-        <t pos="N" re="lotnasátni">lannanriuku</t>
+        <t pos="N">lannanriuku</t>
       </tg>
     </mg>
   </e>
