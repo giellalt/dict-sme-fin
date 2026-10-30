@@ -23255,7 +23255,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">veripaltto</t>
+        <t pos="N">veripalttu</t>
       </tg>
     </mg>
   </e>
@@ -23493,7 +23493,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">veripaltto</t>
+        <t pos="N">veripalttu</t>
       </tg>
     </mg>
   </e>
@@ -72564,23 +72564,7 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
 
-  <e>
-    <lg>
-      <l pos="N">jođiheapmi</l>
-    </lg>
 
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">luistamaton</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">kaupaksikäymätön</t>
-      </tg>
-    </mg>
-  </e>
 
   <e>
     <lg>
@@ -75390,7 +75374,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">selvityminen</t>
+        <t pos="N">selviytyminen</t>
       </tg>
     </mg>
 
@@ -81980,7 +81964,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">leviättäytyminen</t>
+        <t pos="N">levittäytyminen</t>
       </tg>
     </mg>
 
@@ -81998,7 +81982,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">legitiimys</t>
+        <t pos="N">legitiimiys</t>
       </tg>
     </mg>
 
@@ -85136,7 +85120,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">petrooli</t>
+        <t pos="N">petroli</t>
       </tg>
     </mg>
   </e>
@@ -86288,7 +86272,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">kaivosyitys</t>
+        <t pos="N">kaivosyritys</t>
       </tg>
     </mg>
   </e>
@@ -87934,7 +87918,7 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">tendessi</t>
+        <t pos="N">tendenssi</t>
       </tg>
     </mg>
 
