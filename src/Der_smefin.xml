@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smenob.dtd">
+<r id="smefin" xml:lang="sme">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic><ref>Work by Nils Jernsletten, Giellatekno and Divvun at UiT,
+          and members of the language communities. Source code
+          available at <a>https://github.com/giellalt/dict-sme-nob/</a>.</ref><sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote></lics>
+   <e>
+      <lg>
+         <l pos="A">Der/Comp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/adjektiver.nob.html#Komparering">Les om komparativ</t>
+            <morph_expl>ordavledning for mer X</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">Der/Superl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/adjektiver.nob.html#Komparering">Les om superlativ</t>
+            <morph_expl>ordavledning for mest X</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/InchL</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-goahtit">Les om ordavledningen –goahtit</t>
+            <morph_expl>begynne å X</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">Der/laakan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">noe liknende</t>
+            <morph_expl>ordavledning for –lágan (fra substantiv)</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Der/Dimin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-š">Les om ordavledning for –š</t>
+            <morph_expl>liten X (diminutiv)</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/PassL</l> <!-- geavahuvvogoahtá -->
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+ <!--           <t t_type="expl">passivform av verbet</t>   muitaluvvot borrojuvvot -->
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-%28j%29uvvot">Les om ordavledning for –uvvot</t>
+            <morph_expl>passivform av verbet: bli X (f.eks. bli spist)</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/PassS</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-ot">Les om ordavledning for –ot</t>
+            <morph_expl>kort passivform av verbet</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">Der/A</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">nærmere eller nærmerst X</t>
+            <morph_expl>ordavledning for adjektiv av substantiv</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">Der/AAdv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">adverb</t>
+            <morph_expl>ordavledning for -t (fra adjektiv)</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">Der/Car</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">uten X</t>
+            <morph_expl>ordavledning for -heapme, -his (karitiv)</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/Caus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-hit">Les om ordavledning for -hit</t>
+            <morph_expl>få noen til å utføre verbet</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Der/NomAct</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-n%2F-eapmi">Les om ordavledning for -n eller -eapmi (handlingsnomen)</t>
+            <morph_expl>verbhandlingen</morph_expl>
+         </tg>
+      </mg>
+   </e>
+<!--   <e>
+      <lg>
+         <l pos="N">Der/NomAg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-i%2F-u%2F-eaddji">Les om ordavledning for ordavledning for -i, -u eller -eaddji (handlernomen)</t>
+            <morph_expl>den som utfører verbet</morph_expl>
+         </tg>
+      </mg>
+   </e> -->
+   <e>
+      <lg>
+         <l pos="V">Der/adda</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">X skjer flere ganger</t>
+            <morph_expl>ordavledning for -addat</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/alla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">X skjer flere ganger</t>
+            <morph_expl>ordavledning for -allat</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/d</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-dit">Les om ordavledning for -dit</t>
+            <morph_expl>over en periode, eller refleksiv</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Der/eamoš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">det å gjøre X</t>
+            <morph_expl>ordavledning for -eamoš (fra verb)</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/easti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">å X litt eller plutselig</t>
+            <morph_expl>ordavledning for -eastit (diminutiv/subitiv)</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">Der/geahtes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">uten X</t>
+            <morph_expl>ordavledning for -keahtes eller -geahtes</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/h</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-hit">Les om ordavledning for -hit</t>
+            <morph_expl>få noen til å utføre verbet</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/halla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-hallat%2F-haddat">Les om ordavledning for -hallat (passiv)</t>
+            <morph_expl>være så uheldig å bli</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Der/hat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">stedet hvor X skjer</t>
+            <morph_expl>ordavledning for -hat</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/huhtti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">å bli preget av X</t>
+            <morph_expl>ordavledning for -huhttit (fra substantiv)</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/huvva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">å bli X</t>
+            <morph_expl>ordavledning for -uvvat</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/l</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-lit">Les om ordavledning for -lit</t>
+            <morph_expl>handlingen skjer fort</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">Der/laagasj</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">liknende av</t>
+            <morph_expl>ordavledning for –lágaš (adjektiv)</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">Der/las</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">som gjør mye X</t>
+            <morph_expl>ordavledning for -las</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">Der/lasj</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">liknende av eller som tilhører X</t>
+            <morph_expl>ordavledning for -laš (adjektiv)</morph_expl>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">Der/meahttun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">motsetning til X</t>
+            <morph_expl>ordavledning for -meahttun</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Der/muš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-muš">Les om ordavledning for -muš</t>
+            <morph_expl>det å gjøre X</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">Der/sasj</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">en viss mengde</t>
+            <morph_expl>ordavledning for -saš</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/st</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-stit">Les om ordavledning for -stit</t>
+            <morph_expl>å X litt</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/stuvva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">å komme i en situasjon av, eller å ville X</t>
+            <morph_expl>ordavledning for -stuvvat</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Der/supmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">hendelsen X</t>
+            <morph_expl>ordavledning for -šupmi (handlingsnomen)</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">Der/t</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">XXXX</t>
+            <morph_expl>ordavledning for xxxx</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Der/upmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">hendelsen X</t>
+            <morph_expl>ordavledning for -upmi (handlingsnomen)</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">Der/veara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">XXXX</t>
+            <morph_expl>ordavledning for xxxx</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/viđi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">XXXX</t>
+            <morph_expl>ordavledning for xxxx</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Der/viđá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">XXXX</t>
+            <morph_expl>ordavledning for xxxx</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">Der/vuota</l> <!-- ráhkesvuohta fráhkis+A+Attr+Der/vuota+N+Sg+Nom -->
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-vvuohta">Les om ordavledning for -vuohta</t>
+            <morph_expl>-het</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Der/ár</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="expl">om en person</t>
+            <morph_expl>ordavledning for -ár</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">VAbess</l> <!-- dieđekeahttá -->
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Verbabessiv">Les om verbabessiv</t>
+            <morph_expl>uten å gjøre X</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">VGen</l> <!-- viega -->
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Verbgenitiv">Les om verbgenitiv</t>
+            <morph_expl>måten å gjøre noe på</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Ger</l> <!-- viegadettiin -->
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Gerundium">Les om gerundium</t>
+            <morph_expl>mens man X</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Actio+Ess</l> <!-- diehtimin -->
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Aktio+essiv">Les om aktio essiv</t>
+            <morph_expl>om en uavsluttet handling</morph_expl>
+         </tg>
+      </mg>
+   </e>
+<!--   <e>
+      <lg>
+         <l pos="V">Actio+Loc</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Aktio+lokativ">Les om aktio lokativ</t>
+            <morph_expl>om handlingen</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Actio+Nom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Aktio+nominativ+ja+genitiv">Les om aktio nominativ og genitiv</t>
+            <morph_expl>om en handling</morph_expl>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">Actio+Gen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Aktio+nominativ+ja+genitiv">Les om aktio nominativ og genitiv</t>
+            <morph_expl>om en handling</morph_expl>
+         </tg>
+      </mg>
+   </e> -->
+   <e>
+      <lg>
+         <l pos="V">Neg+Sup</l> <!-- amame -->
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Nektende+supinum">Les om nektende supinum</t>
+            <morph_expl>for at X ikke skal skje</morph_expl>
+         </tg>
+      </mg>
+   </e>
+</r>
