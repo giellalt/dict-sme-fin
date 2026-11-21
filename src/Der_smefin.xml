@@ -31,8 +31,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/adjektiver.nob.html#Komparering">Les om komparativ</t>
-            <morph_expl>ordavledning for mer X</morph_expl>
+            <t t_type="grammarexpl" href="https://oahpa.no/sme/gramm/adjektiver.fin.html#Vertailumuodot">Lue lisää komparatiivista</t>
+            <morph_expl>johdos, joka ilmaisee suurempaa astetta (enemmän X)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -42,8 +42,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/adjektiver.nob.html#Komparering">Les om superlativ</t>
-            <morph_expl>ordavledning for mest X</morph_expl>
+            <t t_type="grammarexpl" href="https://oahpa.no/sme/gramm/adjektiver.fin.html#Vertailumuodot">Lue lisää superlatiivista</t>
+            <morph_expl>johdos, joka ilmaisee suurinta astetta (eniten X)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -53,8 +53,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-goahtit">Les om ordavledningen –goahtit</t>
-            <morph_expl>begynne å X</morph_expl>
+            <t t_type="grammarexpl" href="https://oahpa.no/sme/gramm/suorggideapmi.fin.html#-goahtit">Lue lisää johtimesta -goahtit</t>
+            <morph_expl>alkaa tehdä X</morph_expl>
          </tg>
       </mg>
    </e>
@@ -64,8 +64,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">noe liknende</t>
-            <morph_expl>ordavledning for –lágan (fra substantiv)</morph_expl>
+            <t t_type="expl">jotakin samankaltaista</t>
+            <morph_expl>johdin -lágan (substantiivista)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -75,8 +75,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-š">Les om ordavledning for –š</t>
-            <morph_expl>liten X (diminutiv)</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-š">Lue lisää johtimesta -š</t>
+            <morph_expl>pieni X (diminutiivi)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -86,9 +86,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
- <!--           <t t_type="expl">passivform av verbet</t>   muitaluvvot borrojuvvot -->
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-%28j%29uvvot">Les om ordavledning for –uvvot</t>
-            <morph_expl>passivform av verbet: bli X (f.eks. bli spist)</morph_expl>
+ <!--           <t t_type="expl">verbin passiivimuoto</t>   muitaluvvot borrojuvvot -->
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-%28j%29uvvot">Lue lisää johtimesta -uvvot</t>
+            <morph_expl>verbin passiivimuoto: joutua toiminnan kohteeksi (esim. tulla syödyksi)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -98,8 +98,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-ot">Les om ordavledning for –ot</t>
-            <morph_expl>kort passivform av verbet</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-ot">Lue lisää johtimesta -ot</t>
+            <morph_expl>verbin lyhyt passiivimuoto</morph_expl>
          </tg>
       </mg>
    </e>
@@ -109,8 +109,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">nærmere eller nærmerst X</t>
-            <morph_expl>ordavledning for adjektiv av substantiv</morph_expl>
+            <t t_type="expl">lähempänä tai lähimpänä X:ää</t>
+            <morph_expl>substantiivista johdettu adjektiivi</morph_expl>
          </tg>
       </mg>
    </e>
@@ -120,8 +120,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">adverb</t>
-            <morph_expl>ordavledning for -t (fra adjektiv)</morph_expl>
+            <t t_type="expl">adverbi</t>
+            <morph_expl>johdin -t (adjektiivista)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -131,8 +131,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">uten X</t>
-            <morph_expl>ordavledning for -heapme, -his (karitiv)</morph_expl>
+            <t t_type="expl">ilman X:ää</t>
+            <morph_expl>johtimet -heapme ja -his (karitiivi)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -142,8 +142,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-hit">Les om ordavledning for -hit</t>
-            <morph_expl>få noen til å utføre verbet</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-hit">Lue lisää johtimesta -hit</t>
+            <morph_expl>saada joku tekemään X</morph_expl>
          </tg>
       </mg>
    </e>
@@ -153,8 +153,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-n%2F-eapmi">Les om ordavledning for -n eller -eapmi (handlingsnomen)</t>
-            <morph_expl>verbhandlingen</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-n%2F-eapmi">Lue lisää johtimista -n ja -eapmi (teonnimet)</t>
+            <morph_expl>verbin ilmaisema toiminta</morph_expl>
          </tg>
       </mg>
    </e>
@@ -164,8 +164,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-i%2F-u%2F-eaddji">Les om ordavledning for ordavledning for -i, -u eller -eaddji (handlernomen)</t>
-            <morph_expl>den som utfører verbet</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-i%2F-u%2F-eaddji">Lue lisää johtimista -i, -u ja -eaddji (tekijännimet)</t>
+            <morph_expl>se, joka tekee X</morph_expl>
          </tg>
       </mg>
    </e> -->
@@ -175,8 +175,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">X skjer flere ganger</t>
-            <morph_expl>ordavledning for -addat</morph_expl>
+            <t t_type="expl">X tapahtuu useita kertoja</t>
+            <morph_expl>johdin -addat</morph_expl>
          </tg>
       </mg>
    </e>
@@ -186,8 +186,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">X skjer flere ganger</t>
-            <morph_expl>ordavledning for -allat</morph_expl>
+            <t t_type="expl">X tapahtuu useita kertoja</t>
+            <morph_expl>johdin -allat</morph_expl>
          </tg>
       </mg>
    </e>
@@ -197,8 +197,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-dit">Les om ordavledning for -dit</t>
-            <morph_expl>over en periode, eller refleksiv</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-dit">Lue lisää johtimesta -dit</t>
+            <morph_expl>jonkin aikaa jatkuva tai refleksiivinen toiminta</morph_expl>
          </tg>
       </mg>
    </e>
@@ -208,8 +208,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">det å gjøre X</t>
-            <morph_expl>ordavledning for -eamoš (fra verb)</morph_expl>
+            <t t_type="expl">X:n tekeminen</t>
+            <morph_expl>johdin -eamoš (verbistä)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -219,8 +219,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">å X litt eller plutselig</t>
-            <morph_expl>ordavledning for -eastit (diminutiv/subitiv)</morph_expl>
+            <t t_type="expl">tehdä X vähän tai äkillisesti</t>
+            <morph_expl>johdin -eastit (diminutiivinen tai subitiivinen)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -230,8 +230,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">uten X</t>
-            <morph_expl>ordavledning for -keahtes eller -geahtes</morph_expl>
+            <t t_type="expl">ilman X:ää</t>
+            <morph_expl>johdin -keahtes tai -geahtes</morph_expl>
          </tg>
       </mg>
    </e>
@@ -241,8 +241,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-hit">Les om ordavledning for -hit</t>
-            <morph_expl>få noen til å utføre verbet</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-hit">Lue lisää johtimesta -hit</t>
+            <morph_expl>saada joku tekemään X</morph_expl>
          </tg>
       </mg>
    </e>
@@ -252,8 +252,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-hallat%2F-haddat">Les om ordavledning for -hallat (passiv)</t>
-            <morph_expl>være så uheldig å bli</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-hallat%2F-haddat">Lue lisää johtimesta -hallat (passiivi)</t>
+            <morph_expl>joutua epäonnekseen toiminnan kohteeksi</morph_expl>
          </tg>
       </mg>
    </e>
@@ -263,8 +263,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">stedet hvor X skjer</t>
-            <morph_expl>ordavledning for -hat</morph_expl>
+            <t t_type="expl">paikka, jossa X tapahtuu</t>
+            <morph_expl>johdin -hat</morph_expl>
          </tg>
       </mg>
    </e>
@@ -274,8 +274,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">å bli preget av X</t>
-            <morph_expl>ordavledning for -huhttit (fra substantiv)</morph_expl>
+            <t t_type="expl">saada X:lle ominaisia piirteitä</t>
+            <morph_expl>johdin -huhttit (substantiivista)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -285,8 +285,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">å bli X</t>
-            <morph_expl>ordavledning for -uvvat</morph_expl>
+            <t t_type="expl">tulla X:ksi</t>
+            <morph_expl>johdin -uvvat</morph_expl>
          </tg>
       </mg>
    </e>
@@ -296,8 +296,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-lit">Les om ordavledning for -lit</t>
-            <morph_expl>handlingen skjer fort</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-lit">Lue lisää johtimesta -lit</t>
+            <morph_expl>toiminta tapahtuu nopeasti</morph_expl>
          </tg>
       </mg>
    </e>
@@ -307,8 +307,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">liknende av</t>
-            <morph_expl>ordavledning for –lágaš (adjektiv)</morph_expl>
+            <t t_type="expl">X:n kaltainen</t>
+            <morph_expl>johdin -lágaš (adjektiivi)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -318,8 +318,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">som gjør mye X</t>
-            <morph_expl>ordavledning for -las</morph_expl>
+            <t t_type="expl">joka tekee paljon X:ää</t>
+            <morph_expl>johdin -las</morph_expl>
          </tg>
       </mg>
    </e>
@@ -329,8 +329,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">liknende av eller som tilhører X</t>
-            <morph_expl>ordavledning for -laš (adjektiv)</morph_expl>
+            <t t_type="expl">X:n kaltainen tai X:ään kuuluva</t>
+            <morph_expl>johdin -laš (adjektiivi)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -340,8 +340,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">motsetning til X</t>
-            <morph_expl>ordavledning for -meahttun</morph_expl>
+            <t t_type="expl">X:n vastakohta</t>
+            <morph_expl>johdin -meahttun</morph_expl>
          </tg>
       </mg>
    </e>
@@ -351,8 +351,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-muš">Les om ordavledning for -muš</t>
-            <morph_expl>det å gjøre X</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-muš">Lue lisää johtimesta -muš</t>
+            <morph_expl>X:n tekeminen</morph_expl>
          </tg>
       </mg>
    </e>
@@ -362,8 +362,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">en viss mengde</t>
-            <morph_expl>ordavledning for -saš</morph_expl>
+            <t t_type="expl">tietty määrä</t>
+            <morph_expl>johdin -saš</morph_expl>
          </tg>
       </mg>
    </e>
@@ -373,8 +373,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-stit">Les om ordavledning for -stit</t>
-            <morph_expl>å X litt</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-stit">Lue lisää johtimesta -stit</t>
+            <morph_expl>tehdä X vähän</morph_expl>
          </tg>
       </mg>
    </e>
@@ -384,8 +384,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">å komme i en situasjon av, eller å ville X</t>
-            <morph_expl>ordavledning for -stuvvat</morph_expl>
+            <t t_type="expl">päätyä tilaan X tai haluta tehdä X</t>
+            <morph_expl>johdin -stuvvat</morph_expl>
          </tg>
       </mg>
    </e>
@@ -395,8 +395,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">hendelsen X</t>
-            <morph_expl>ordavledning for -šupmi (handlingsnomen)</morph_expl>
+            <t t_type="expl">tapahtuma X</t>
+            <morph_expl>johdin -šupmi (teonnimi)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -407,7 +407,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="fin">
             <t t_type="expl">XXXX</t>
-            <morph_expl>ordavledning for xxxx</morph_expl>
+            <morph_expl>johdin xxxx</morph_expl>
          </tg>
       </mg>
    </e>
@@ -417,8 +417,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">hendelsen X</t>
-            <morph_expl>ordavledning for -upmi (handlingsnomen)</morph_expl>
+            <t t_type="expl">tapahtuma X</t>
+            <morph_expl>johdin -upmi (teonnimi)</morph_expl>
          </tg>
       </mg>
    </e>
@@ -429,7 +429,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="fin">
             <t t_type="expl">XXXX</t>
-            <morph_expl>ordavledning for xxxx</morph_expl>
+            <morph_expl>johdin xxxx</morph_expl>
          </tg>
       </mg>
    </e>
@@ -440,7 +440,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="fin">
             <t t_type="expl">XXXX</t>
-            <morph_expl>ordavledning for xxxx</morph_expl>
+            <morph_expl>johdin xxxx</morph_expl>
          </tg>
       </mg>
    </e>
@@ -451,7 +451,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="fin">
             <t t_type="expl">XXXX</t>
-            <morph_expl>ordavledning for xxxx</morph_expl>
+            <morph_expl>johdin xxxx</morph_expl>
          </tg>
       </mg>
    </e>
@@ -461,8 +461,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.nob.html#-vvuohta">Les om ordavledning for -vuohta</t>
-            <morph_expl>-het</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/suorggideapmi.fin.html#-vvuohta">Lue lisää johtimesta -vuohta</t>
+            <morph_expl>-uus tai -yys</morph_expl>
          </tg>
       </mg>
    </e>
@@ -472,8 +472,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="expl">om en person</t>
-            <morph_expl>ordavledning for -ár</morph_expl>
+            <t t_type="expl">henkilöstä</t>
+            <morph_expl>johdin -ár</morph_expl>
          </tg>
       </mg>
    </e>
@@ -483,8 +483,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Verbabessiv">Les om verbabessiv</t>
-            <morph_expl>uten å gjøre X</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.fin.html#Verbabessiv">Lue lisää verbin abessiivista</t>
+            <morph_expl>tekemättä X:ää</morph_expl>
          </tg>
       </mg>
    </e>
@@ -494,8 +494,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Verbgenitiv">Les om verbgenitiv</t>
-            <morph_expl>måten å gjøre noe på</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.fin.html#Verbgenitiv">Lue lisää verbin genetiivistä</t>
+            <morph_expl>tapa, jolla jotakin tehdään</morph_expl>
          </tg>
       </mg>
    </e>
@@ -505,8 +505,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Gerundium">Les om gerundium</t>
-            <morph_expl>mens man X</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.fin.html#Gerundium">Lue lisää gerundista</t>
+            <morph_expl>samalla kun tehdään X</morph_expl>
          </tg>
       </mg>
    </e>
@@ -516,8 +516,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Aktio+essiv">Les om aktio essiv</t>
-            <morph_expl>om en uavsluttet handling</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.fin.html#Aktio+essiv">Lue lisää aktion essiivistä</t>
+            <morph_expl>ilmaisee keskeneräistä toimintaa</morph_expl>
          </tg>
       </mg>
    </e>
@@ -527,8 +527,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Aktio+lokativ">Les om aktio lokativ</t>
-            <morph_expl>om handlingen</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.fin.html#Aktio+lokativ">Lue lisää aktion lokatiivista</t>
+            <morph_expl>ilmaisee toimintaa</morph_expl>
          </tg>
       </mg>
    </e>
@@ -538,8 +538,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Aktio+nominativ+ja+genitiv">Les om aktio nominativ og genitiv</t>
-            <morph_expl>om en handling</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.fin.html#Aktio+nominativ+ja+genitiv">Lue lisää aktion nominatiivista ja genetiivistä</t>
+            <morph_expl>ilmaisee toimintaa</morph_expl>
          </tg>
       </mg>
    </e>
@@ -549,8 +549,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Aktio+nominativ+ja+genitiv">Les om aktio nominativ og genitiv</t>
-            <morph_expl>om en handling</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.fin.html#Aktio+nominativ+ja+genitiv">Lue lisää aktion nominatiivista ja genetiivistä</t>
+            <morph_expl>ilmaisee toimintaa</morph_expl>
          </tg>
       </mg>
    </e> -->
@@ -560,8 +560,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.nob.html#Nektende+supinum">Les om nektende supinum</t>
-            <morph_expl>for at X ikke skal skje</morph_expl>
+            <t t_type="grammarexpl" href="http://oahpa.no/sme/gramm/verb.fin.html#Nektende+supinum">Lue lisää kieltosupiinista</t>
+            <morph_expl>jotta X ei tapahtuisi</morph_expl>
          </tg>
       </mg>
    </e>
