@@ -40,14 +40,14 @@
 
 <!ELEMENT geo (#PCDATA)>
 <!ELEMENT gramm (#PCDATA)>
-<!ELEMENT tg (semantics?, re?, geo?, gramm?, t+, xg* ) >
+<!ELEMENT tg (semantics?, re?, geo?, gramm?, t+, morph_expl?, xg* ) >
 <!ATTLIST tg xml:lang ( fin ) #REQUIRED >
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 
 <!ELEMENT t (#PCDATA) >
 <!ATTLIST t dial ( east | west | torne | varanger ) #IMPLIED >
-<!ATTLIST t t_type ( expl | phrase ) #IMPLIED  >
+<!ATTLIST t t_type ( expl | phrase | grammarexpl ) #IMPLIED  >
 <!ATTLIST t nr ( Sg | Pl ) #IMPLIED  >
 <!ATTLIST t pos ( A | S  | N  | V | Adp | Clt |
             Adv | P | Pr | Po | Det |
@@ -60,6 +60,7 @@
                   | Refl | Dem | Poss | Logo | Rel | Interr | TV | IV | Ord ) #IMPLIED >
 <!ATTLIST t hid CDATA #IMPLIED >
 <!ATTLIST t var ( sw | no | fi )  #IMPLIED >
+<!ATTLIST t href CDATA #IMPLIED >
 
 
 <!ELEMENT xg ((x, xt+)+)>
@@ -68,6 +69,8 @@
 <!ATTLIST x src CDATA #IMPLIED >
 <!ELEMENT xt (#PCDATA)>
 <!ATTLIST xt src CDATA #IMPLIED >
+
+<!ELEMENT morph_expl (#PCDATA) >
 
 <!ELEMENT xhtml:script EMPTY >
 <!ATTLIST xhtml:script type CDATA #FIXED "text/javascript" >
